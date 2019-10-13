@@ -30,8 +30,3 @@
 \contentsline {subsection}{\numberline {1.3.1}Sejarah}{3}{subsection.1.3.1}
 \contentsline {subsection}{\numberline {1.3.2}Link}{4}{subsection.1.3.2}
 \contentsline {subsection}{\numberline {1.3.3}Plagiarism}{4}{subsection.1.3.3}
-\contentsline {section}{\numberline {1.4}Alit fajar Kurniawan (1174057)}{4}{section.1.4}
-\contentsline {subsection}{\numberline {1.4.1}Pengertian}{4}{subsection.1.4.1}
-\contentsline {subsection}{\numberline {1.4.2}Sejarah}{5}{subsection.1.4.2}
-\contentsline {subsection}{\numberline {1.4.3}Link}{6}{subsection.1.4.3}
-\contentsline {subsection}{\numberline {1.4.4}Plagiarism}{6}{subsection.1.4.4}

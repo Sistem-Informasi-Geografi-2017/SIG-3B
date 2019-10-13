@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2019.10.11)  13 OCT 2019 16:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2019.10.11)  13 OCT 2019 17:48
 entering extended mode
 **./main.tex
 (main.tex
@@ -496,7 +496,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
  []
 
-<figures/himatif.png, id=322, 301.125pt x 251.94125pt>
+<figures/himatif.png, id=329, 301.125pt x 251.94125pt>
 File: figures/himatif.png Graphic file (type png)
 
 <use figures/himatif.png>
@@ -515,14 +515,14 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [2 <./figures/himatif.png>]
-<figures/1174039/plagiat.png, id=340, 632.3625pt x 426.84468pt>
+<figures/1174039/plagiat.png, id=347, 632.3625pt x 426.84468pt>
 File: figures/1174039/plagiat.png Graphic file (type png)
 
 <use figures/1174039/plagiat.png>
 Package pdftex.def Info: figures/1174039/plagiat.png used on input line 19.
 (pdftex.def)             Requested size: 113.81102pt x 76.8222pt.
 ) (chapters/tugas1/1174042.tex
-<figures/1174042/gis.jpg, id=341, 242.9075pt x 209.78375pt>
+<figures/1174042/gis.jpg, id=348, 242.9075pt x 209.78375pt>
 File: figures/1174042/gis.jpg Graphic file (type jpg)
 
 <use figures/1174042/gis.jpg>
@@ -537,88 +537,12 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [3 <./figures/1174039/plagiat.png>]
-<figures/1174042/plagiat.png, id=348, 648.17157pt x 453.19313pt>
+<figures/1174042/plagiat.png, id=355, 648.17157pt x 453.19313pt>
 File: figures/1174042/plagiat.png Graphic file (type png)
 
 <use figures/1174042/plagiat.png>
 Package pdftex.def Info: figures/1174042/plagiat.png used on input line 18.
 (pdftex.def)             Requested size: 113.81102pt x 79.57275pt.
-) (chapters/tugas1/1174057.tex
-Underfull \hbox (badness 10000) in paragraph at lines 4--7
-
- []
-
-
-Overfull \vbox (6.372pt too high) has occurred while \output is active []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]
- []
-
-[4 <./figures/1174042/gis.jpg> <./figures/1174042/plagiat.png>]
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ù in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ù in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ù in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ù in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ù in font ptmr7t!
-
-Overfull \hbox (9.88725pt too wide) in paragraph at lines 8--18
-\OT1/ptm/m/n/10 men-galami perkem-ban-gan dari segi keil-muan-nya. Dari yang se
-m-ula hanya mendeskrip-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 8--18
-
- []
-
-<figures/1174057/sejarah.jpg, id=354, 301.125pt x 168.63pt>
-File: figures/1174057/sejarah.jpg Graphic file (type jpg)
-
-<use figures/1174057/sejarah.jpg>
-Package pdftex.def Info: figures/1174057/sejarah.jpg used on input line 20.
-(pdftex.def)             Requested size: 113.81102pt x 63.73526pt.
-
-Overfull \vbox (6.372pt too high) has occurred while \output is active []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]
- []
-
-[5] <figures/1174057/plagiarisme.png, id=360, 639.89063pt x 391.4625pt>
-File: figures/1174057/plagiarisme.png Graphic file (type png)
-
-<use figures/1174057/plagiarisme.png>
-Package pdftex.def Info: figures/1174057/plagiarisme.png used on input line 29.
-
-(pdftex.def)             Requested size: 113.81102pt x 69.62395pt.
 )
 No file main.bbl.
 
@@ -629,13 +553,13 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[6 <./figures/1174057/sejarah.jpg> <./figures/1174057/plagiarisme.png>]
+[4 <./figures/1174042/gis.jpg> <./figures/1174042/plagiat.png>]
 No file main.ind.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 271.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 271.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 270.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 270.
 (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 271.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 271.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 270.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 270.
 
 
 Package rerunfilecheck Warning: File `main.out' has changed.
@@ -643,39 +567,60 @@ Package rerunfilecheck Warning: File `main.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 2546F7D47188089A8EE92CE343E7C3CC;2072
-(rerunfilecheck)             After:  DEE5D6513744D8C4C8E47D50E09B6C0C;2137.
+(rerunfilecheck)             Before: DEE5D6513744D8C4C8E47D50E09B6C0C;2137
+(rerunfilecheck)             After:  80386B598FD5123E228EBF6266894C23;1806.
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 7027 strings out of 493323
- 104066 string characters out of 3130014
- 387653 words of memory out of 3000000
- 10335 multiletter control sequences out of 15000+200000
+ 7012 strings out of 493323
+ 103699 string characters out of 3130014
+ 386653 words of memory out of 3000000
+ 10328 multiletter control sequences out of 15000+200000
  60118 words of font info for 111 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  31i,14n,47p,1042b,395s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/alitf/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
-}<C:/Users/alitf/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmex10.pfb><C:/Users/alitf/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
-lic/amsfonts/cm/cmmi10.pfb><C:/Users/alitf/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/alitf/AppData/Local/Programs/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/alitf/AppData/Loca
-l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/alitf
-/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:
-/Users/alitf/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.
-pfb><C:/Users/alitf/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/
-uhvbo8a.pfb><C:/Users/alitf/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/h
-elvetic/uhvr8a.pfb><C:/Users/alitf/AppData/Local/Programs/MiKTeX 2.9/fonts/type
-1/urw/times/utmb8a.pfb><C:/Users/alitf/AppData/Local/Programs/MiKTeX 2.9/fonts/
-type1/urw/times/utmbi8a.pfb><C:/Users/alitf/AppData/Local/Programs/MiKTeX 2.9/f
-onts/type1/urw/times/utmr8a.pfb><C:/Users/alitf/AppData/Local/Programs/MiKTeX 2
-.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (35 pages, 412845 bytes).
+pdfTeX warning (dest): name{figure.1.6} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{figure.1.5} has been referenced but does not exist,
+ replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.1.4.4} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.1.4.3} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.1.4.2} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.1.4.1} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.1.4} has been referenced but does not exist
+, replaced by a fixed one
+
+{C:/Users/alitf/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<
+C:/Users/alitf/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmex10.pfb><C:/Users/alitf/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmmi10.pfb><C:/Users/alitf/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/alitf/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/alitf/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/alitf/A
+ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/U
+sers/alitf/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pf
+b><C:/Users/alitf/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uh
+vbo8a.pfb><C:/Users/alitf/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/hel
+vetic/uhvr8a.pfb><C:/Users/alitf/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+urw/times/utmb8a.pfb><C:/Users/alitf/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/urw/times/utmbi8a.pfb><C:/Users/alitf/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/urw/times/utmr8a.pfb><C:/Users/alitf/AppData/Local/Programs/MiKTeX 2.9
+/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (33 pages, 363718 bytes).
 PDF statistics:
- 431 PDF objects out of 1000 (max. 8388607)
- 86 named destinations out of 1000 (max. 500000)
- 303 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 423 PDF objects out of 1000 (max. 8388607)
+ 84 named destinations out of 1000 (max. 500000)
+ 301 words of extra memory for PDF output out of 10000 (max. 10000000)
 
