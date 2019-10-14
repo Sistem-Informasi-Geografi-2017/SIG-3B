@@ -66,5 +66,9 @@
 \contentsline {subsection}{\numberline {1.11.1}Koordinat}{14}{subsection.1.11.1}
 \contentsline {subsection}{\numberline {1.11.2}Link}{15}{subsection.1.11.2}
 \contentsline {subsection}{\numberline {1.11.3}Plagiarism}{15}{subsection.1.11.3}
+\contentsline {section}{\numberline {1.12}Ichsan Hizman Hardy(1174034)}{15}{section.1.12}
+\contentsline {subsection}{\numberline {1.12.1}Koordinat}{15}{subsection.1.12.1}
+\contentsline {subsection}{\numberline {1.12.2}Link}{16}{subsection.1.12.2}
+\contentsline {subsection}{\numberline {1.12.3}Plagiarism}{16}{subsection.1.12.3}
 \contentsline {schapter}{Daftar Pustaka}{17}{chapter*.15}
 \contentsline {schapter}{Index}{19}{chapter*.15}
