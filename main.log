@@ -1,10 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2019.10.11)  13 OCT 2019 17:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.3.25)  14 OCT 2019 11:32
 entering extended mode
-**./main.tex
-(main.tex
-LaTeX2e <2017-04-15>
-Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
-(wileySix.cls
+**d:/Kuliah/GIS/main.tex
+(d:/Kuliah/GIS/main.tex
+LaTeX2e <2018-12-01>
+(d:/Kuliah\GIS\wileySix.cls
 
 
  Wiley Book Style, Design No.: SD 001C
@@ -17,96 +16,73 @@ Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
 
 \phspace=\dimen102
 \SpaceAboveChapterNumber=\dimen103
-\savefootnotenumber=\count79
-\ftnum=\count80
-\saveftnum=\count81
-\c@chapapp=\count82
-\c@part=\count83
-\c@chapter=\count84
-\c@section=\count85
-\c@subsection=\count86
-\c@subsubsection=\count87
-\c@paragraph=\count88
-\c@subparagraph=\count89
-\c@figure=\count90
-\c@table=\count91
+\savefootnotenumber=\count80
+\ftnum=\count81
+\saveftnum=\count82
+\c@chapapp=\count83
+\c@part=\count84
+\c@chapter=\count85
+\c@section=\count86
+\c@subsection=\count87
+\c@subsubsection=\count88
+\c@paragraph=\count89
+\c@subparagraph=\count90
+\c@figure=\count91
+\c@table=\count92
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \partskip=\skip43
 \tabandfigskip=\skip44
-\footnum=\count92
-\savefootnum=\count93
+\footnum=\count93
+\savefootnum=\count94
 \@indexfile=\write3
 \openout3 = `main.idx'.
 
 Writing index file main.idx
 \iletterskip=\skip45
-\timing=\count94
-\hourcount=\count95
-\oldtime=\count96
-\probcount=\count97
-\subprobcount=\count98
-\c@subproblem=\count99
+\timing=\count95
+\hourcount=\count96
+\oldtime=\count97
+\probcount=\count98
+\subprobcount=\count99
 \c@subproblem=\count100
+\c@subproblem=\count101
 \widthofcropmarks=\dimen104
 \raisetopcropmarks=\dimen105
 \raisebottomcropmarks=\dimen106
 \movecropmarksright=\dimen107
-\c@theorem=\count101
-\c@appfootnote=\count102
+\c@theorem=\count102
+\c@appfootnote=\count103
 \slugwidth=\dimen108
 \slugheight=\dimen109
 \slugdepth=\dimen110
-\c@exampnum=\count103
-\c@algo=\count104
-\c@algorithm=\count105
+\c@exampnum=\count104
+\c@algo=\count105
+\c@algorithm=\count106
 \chapskip=\dimen111
 \chapheight=\dimen112
 \authorskip=\dimen113
-)
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
-sty"
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
-
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
-y"
+) ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+ ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
-)
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
-sty"
-Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
-
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+) ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+ ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-)
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graph
-ics.cfg"
+) ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
-
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdfte
-x.def"
-File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
-
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infware
-rr.sty"
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds
-.sty"
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count106
+ ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen114
 \Gin@req@width=\dimen115
-)
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
-sty"
+) ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.sty"
 \lst@mode=\count107
-\lst@gtempboxa=\box26
+\lst@gtempboxa=\box27
 \lst@token=\toks15
 \lst@length=\count108
 \lst@currlwidth=\dimen116
@@ -117,65 +93,47 @@ sty"
 \lst@newlines=\count111
 \lst@lineno=\count112
 \lst@maxwidth=\dimen119
-
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.s
-ty"
-File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+ ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.sty"
+File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
 \c@lstnumber=\count113
 \lst@skipnumbers=\count114
-\lst@framebox=\box27
-)
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
-cfg"
-File: listings.cfg 2019/09/10 1.8c listings configuration
+\lst@framebox=\box28
+) ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.cfg"
+File: listings.cfg 2019/02/27 1.8b listings configuration
 ))
-Package: listings 2019/09/10 1.8c (Carsten Heinz)
-
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: listings 2019/02/27 1.8b (Carsten Heinz)
+ ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count115
 \float@exts=\toks16
-\float@box=\box28
+\float@box=\box29
 \@float@everytoks=\toks17
-\@floatcapt=\box29
-)
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.
-sty"
-Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
-
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-
-hyperref.sty"
+\@floatcapt=\box30
+) ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref.sty"
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+ ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsub-hyperref.sty"
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
-
-
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-
-generic.sty"
+ ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsub-generic.sty"
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
-Package hobsub Info: Skipping package `infwarerr' (already loaded).
-Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
-)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO)
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
-Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
-)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO)
 Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
 Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
 )
@@ -187,101 +145,80 @@ Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
 Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
-)
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.
-sty"
+) ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-)
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.s
-ty"
+) ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\auxhook.sty"
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 
 
 Package auxhook Warning: Cannot patch \document,
 (auxhook)                using \AtBeginDocument instead.
 
-)
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions
-.sty"
+) ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen120
 \Hy@linkcounter=\count116
 \Hy@pagecounter=\count117
-
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.de
-f"
-File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
+ ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def"
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count118
-
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.
-cfg"
+ ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 4374.
-Package hyperref Info: Hyper figures OFF on input line 4498.
-Package hyperref Info: Link nesting OFF on input line 4503.
-Package hyperref Info: Hyper index ON on input line 4506.
-Package hyperref Info: Plain pages OFF on input line 4513.
-Package hyperref Info: Backreferencing OFF on input line 4518.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4393.
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4751.
+Package hyperref Info: Bookmarks ON on input line 4772.
 \c@Hy@tempcnt=\count119
- ("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
+ ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5104.
+LaTeX Info: Redefining \url on input line 5125.
 \XeTeXLinkMargin=\dimen121
 \Fld@menulength=\count120
 \Field@Width=\dimen122
 \Fld@charsize=\dimen123
-Package hyperref Info: Hyper figures OFF on input line 6358.
-Package hyperref Info: Link nesting OFF on input line 6363.
-Package hyperref Info: Hyper index ON on input line 6366.
-Package hyperref Info: backreferencing OFF on input line 6373.
-Package hyperref Info: Link coloring ON on input line 6376.
-Package hyperref Info: Link coloring with OCG OFF on input line 6383.
-Package hyperref Info: PDF/A mode OFF on input line 6388.
-LaTeX Info: Redefining \ref on input line 6428.
-LaTeX Info: Redefining \pageref on input line 6432.
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring ON on input line 6398.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
 \Hy@abspage=\count121
 \c@Item=\count122
 \c@Hfootnote=\count123
 )
-
-Package hyperref Message: Driver (autodetected): hpdftex.
-
-
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.d
-ef"
-File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
+Package hyperref Info: Driver (autodetected): hpdftex.
+ ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex.def"
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
 \Fld@listcount=\count124
 \c@bookmark@seq@number=\count125
-
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfile
-check.sty"
+ ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\rerunfilecheck.sty"
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-82.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 282.
 )
 \Hy@SectionHShift=\skip46
-)
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.sty
-"
+) ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.sty"
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
-
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color
-.cfg"
+ ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
-)
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.
-sty"
-File: lstlang1.sty 2019/09/10 1.8c listings language file
-) (w-bookps.sty
+) ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang1.sty"
+File: lstlang1.sty 2019/02/27 1.8b listings language file
+) (d:/Kuliah\GIS\w-bookps.sty
 
 
  Using PostScript Fonts
@@ -291,12 +228,12 @@ File: lstlang1.sty 2019/09/10 1.8c listings language file
 
  
 )
-\sectsavebox=\box30
+\sectsavebox=\box31
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 124.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 124.
- (main.aux)
+ (d:/Kuliah\GIS\main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 129.
@@ -314,17 +251,13 @@ LaTeX Font Info:    ... okay on input line 129.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 129.
 LaTeX Font Info:    ... okay on input line 129.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 129.
-
-
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+ ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-)
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-p
-df.mkii"
+) ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count126
 \scratchdimen=\dimen124
-\scratchbox=\box31
+\scratchbox=\box32
 \nofMPsegments=\count127
 \nofMParguments=\count128
 \everyMPshowfont=\toks18
@@ -333,32 +266,22 @@ df.mkii"
 \MPnumerator=\count130
 \makeMPintoPDFobject=\count131
 \everyMPtoPDFconversion=\toks19
-)
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
-base.sty"
+) ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.st
-y"
+ ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-38.
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
 Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 \c@lstlisting=\count132
-\AtBeginShipoutBox=\box32
+\AtBeginShipoutBox=\box33
 Package hyperref Info: Link coloring ON on input line 129.
-
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.s
-ty"
+ ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
-
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitl
-estring.sty"
+ ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count133
@@ -366,7 +289,7 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 129.
 LaTeX Info: Redefining \pageref on input line 129.
 LaTeX Info: Redefining \nameref on input line 129.
- (main.out) (main.out)
+ (d:/Kuliah\GIS\main.out) (d:/Kuliah\GIS\main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
@@ -377,8 +300,7 @@ Overfull \hbox (29.15398pt too wide) in paragraph at lines 148--148
 \subtitlefont SIG (SIS-TEM IN-FOR-MASI GE-OGRAFIS) 
  []
 
-[1{C:/Users/alitf/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(info/copyrightpage.tex)
+[1{C:/Users/Luthfi/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (d:/Kuliah\GIS\info/copyrightpage.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 155--155
 
  []
@@ -403,11 +325,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 155--155
 ]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 161.
- (info/contributors.tex) [5] [6
+ (d:/Kuliah\GIS\info/contributors.tex) [5] [6
 
-] (main.toc) [7] [8
+] (d:/Kuliah\GIS\main.toc) [7] [8
 
-] (main.toc
+] (d:/Kuliah\GIS\main.toc
 Underfull \hbox (badness 10000) in paragraph at lines 10--10
  [] []  
  []
@@ -428,7 +350,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 Package hyperref Warning: bookmark level for unknown schapter defaults to 0.
 
-(main.lof)
+(d:/Kuliah\GIS\main.lof)
 \tf@lof=\write6
 \openout6 = `main.lof'.
 
@@ -436,51 +358,40 @@ Package hyperref Warning: bookmark level for unknown schapter defaults to 0.
 
 ] [12
 
-] (main.lot)
+] (d:/Kuliah\GIS\main.lot)
 \tf@lot=\write7
 \openout7 = `main.lot'.
 
  [13] [14
 
-] (main.lol)
+] (d:/Kuliah\GIS\main.lol)
 \tf@lol=\write8
 \openout8 = `main.lol'.
 
  [15] [16
 
-]
-(info/foreword.tex) [17] [18
+] (d:/Kuliah\GIS\info/foreword.tex) [17] [18
 
-] (info/preface.tex) [19] [20
+] (d:/Kuliah\GIS\info/preface.tex) [19] [20
 
-]
-(info/acknowledgments.tex [21]) [22
+] (d:/Kuliah\GIS\info/acknowledgments.tex [21]) [22
 
-] (info/acronyms.tex)
+] (d:/Kuliah\GIS\info/acronyms.tex)
 LaTeX Font Info:    Try loading font information for OMS+ptm on input line 187.
-
-
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
+ ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omsptm.fd"
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 187.
-[23] [24
+ [23] [24
 
-] (info/glossary.tex) [25] [26
+] (d:/Kuliah\GIS\info/glossary.tex) [25] [26
 
-] (info/symbols.tex) [27] [28
+] (d:/Kuliah\GIS\info/symbols.tex) [27] [28
 
-]
-(info/introduction.tex
+] (d:/Kuliah\GIS\info/introduction.tex
 
 Package hyperref Warning: bookmark level for unknown ichapter defaults to 0.
-
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
-
-LaTeX Warning: Citation `awangga2018sampeu' on page xxix undefined on input lin
-e 13.
 
 ) [29] [30
 
@@ -488,25 +399,25 @@ e 13.
 Bab 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 202.
-(chapters/tugas1/1174xxx.tex
+(d:/Kuliah\GIS\chapters/tugas1/1174xxx.tex
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 12.
 
 Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
  []
 
-<figures/himatif.png, id=329, 301.125pt x 251.94125pt>
+<figures/himatif.png, id=332, 301.125pt x 251.94125pt>
 File: figures/himatif.png Graphic file (type png)
-
 <use figures/himatif.png>
-Package pdftex.def Info: figures/himatif.png used on input line 16.
+Package pdftex.def Info: figures/himatif.png  used on input line 16.
 (pdftex.def)             Requested size: 113.81102pt x 95.22353pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1])
-(chapters/tugas1/1174039.tex
+ [1]) (d:/Kuliah\GIS\chapters/tugas1/1174039.tex
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
@@ -514,19 +425,17 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[2 <./figures/himatif.png>]
-<figures/1174039/plagiat.png, id=347, 632.3625pt x 426.84468pt>
+[2 <d:/Kuliah/GIS/figures/himatif.png>]
+<figures/1174039/plagiat.png, id=351, 632.3625pt x 426.84468pt>
 File: figures/1174039/plagiat.png Graphic file (type png)
-
 <use figures/1174039/plagiat.png>
-Package pdftex.def Info: figures/1174039/plagiat.png used on input line 19.
+Package pdftex.def Info: figures/1174039/plagiat.png  used on input line 19.
 (pdftex.def)             Requested size: 113.81102pt x 76.8222pt.
-) (chapters/tugas1/1174042.tex
-<figures/1174042/gis.jpg, id=348, 242.9075pt x 209.78375pt>
+) (d:/Kuliah\GIS\chapters/tugas1/1174042.tex
+<figures/1174042/gis.jpg, id=352, 242.9075pt x 209.78375pt>
 File: figures/1174042/gis.jpg Graphic file (type jpg)
-
 <use figures/1174042/gis.jpg>
-Package pdftex.def Info: figures/1174042/gis.jpg used on input line 9.
+Package pdftex.def Info: figures/1174042/gis.jpg  used on input line 9.
 (pdftex.def)             Requested size: 113.81102pt x 98.29106pt.
 
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
@@ -536,15 +445,33 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[3 <./figures/1174039/plagiat.png>]
-<figures/1174042/plagiat.png, id=355, 648.17157pt x 453.19313pt>
+[3 <d:/Kuliah/GIS/figures/1174039/plagiat.png>]
+<figures/1174042/plagiat.png, id=359, 648.17157pt x 453.19313pt>
 File: figures/1174042/plagiat.png Graphic file (type png)
-
 <use figures/1174042/plagiat.png>
-Package pdftex.def Info: figures/1174042/plagiat.png used on input line 18.
+Package pdftex.def Info: figures/1174042/plagiat.png  used on input line 18.
 (pdftex.def)             Requested size: 113.81102pt x 79.57275pt.
-)
-No file main.bbl.
+) (d:/Kuliah\GIS\chapters/tugas1/1174035.tex
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[4 <d:/Kuliah/GIS/figures/1174042/gis.jpg> <d:/Kuliah/GIS/figures/1174042/plagiat.png>]
+Overfull \hbox (4.05678pt too wide) in paragraph at lines 15--16
+[]\OT1/ptm/m/n/10 Mengetahui kon-disi dari daerah berdasarkan data geospasial re-al-time yang dibuat
+ []
+
+<figures/1174035/tugas1/plagiat.png, id=365, 632.3625pt x 557.83406pt>
+File: figures/1174035/tugas1/plagiat.png Graphic file (type png)
+<use figures/1174035/tugas1/plagiat.png>
+Package pdftex.def Info: figures/1174035/tugas1/plagiat.png  used on input line 22.
+(pdftex.def)             Requested size: 284.52756pt x 250.99747pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
@@ -553,74 +480,42 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[4 <./figures/1174042/gis.jpg> <./figures/1174042/plagiat.png>]
-No file main.ind.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 270.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 270.
-(main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 270.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 270.
+[5]) (d:/Kuliah\GIS\main.bbl
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
 
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: DEE5D6513744D8C4C8E47D50E09B6C0C;2137
-(rerunfilecheck)             After:  80386B598FD5123E228EBF6266894C23;1806.
+[6 <d:/Kuliah/GIS/figures/1174035/tugas1/plagiat.png>]) [7
 
-LaTeX Warning: There were undefined references.
+] [8
 
+] (d:/Kuliah\GIS\main.ind [9
+
+
+])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 271.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 271.
+ (d:/Kuliah\GIS\main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 271.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 271.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 670E802968E02FD14FB905D96D358972;2178.
  ) 
 Here is how much of TeX's memory you used:
- 7012 strings out of 493323
- 103699 string characters out of 3130014
- 386653 words of memory out of 3000000
- 10328 multiletter control sequences out of 15000+200000
- 60118 words of font info for 111 fonts, out of 3000000 for 9000
+ 7086 strings out of 492945
+ 104734 string characters out of 3125808
+ 389742 words of memory out of 3000000
+ 10751 multiletter control sequences out of 15000+200000
+ 60695 words of font info for 112 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 31i,14n,47p,1042b,395s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{figure.1.6} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{figure.1.5} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.1.4.4} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.1.4.3} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.1.4.2} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.1.4.1} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.1.4} has been referenced but does not exist
-, replaced by a fixed one
-
-{C:/Users/alitf/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<
-C:/Users/alitf/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmex10.pfb><C:/Users/alitf/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmmi10.pfb><C:/Users/alitf/AppData/Local/Programs/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/alitf/AppData/Local/Programs/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/alitf/AppData/Local/
-Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/alitf/A
-ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/U
-sers/alitf/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pf
-b><C:/Users/alitf/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uh
-vbo8a.pfb><C:/Users/alitf/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/hel
-vetic/uhvr8a.pfb><C:/Users/alitf/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
-urw/times/utmb8a.pfb><C:/Users/alitf/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
-pe1/urw/times/utmbi8a.pfb><C:/Users/alitf/AppData/Local/Programs/MiKTeX 2.9/fon
-ts/type1/urw/times/utmr8a.pfb><C:/Users/alitf/AppData/Local/Programs/MiKTeX 2.9
-/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (33 pages, 363718 bytes).
+ 31i,14n,47p,1054b,427s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on d:/Kuliah\GIS\main.pdf (38 pages, 413986 bytes).
 PDF statistics:
- 423 PDF objects out of 1000 (max. 8388607)
- 84 named destinations out of 1000 (max. 500000)
- 301 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 454 PDF objects out of 1000 (max. 8388607)
+ 89 named destinations out of 1000 (max. 500000)
+ 314 words of extra memory for PDF output out of 10000 (max. 10000000)
 

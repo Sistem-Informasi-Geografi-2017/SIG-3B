@@ -1,0 +1,305 @@
+PWD d:\Kuliah\GIS
+INPUT C:\Users\Luthfi\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
+INPUT d:\Kuliah\GIS\main.tex
+OUTPUT d:\Kuliah\GIS\main.log
+INPUT d:\Kuliah\GIS\wileySix.cls
+INPUT d:\Kuliah\GIS\wileySix.cls
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmssbx10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmssbx10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmss10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmssbx10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmssbx10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmssbx10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmss10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmssbx10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmss10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmss10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmssbx10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmss10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmssi10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmti10.tfm
+OUTPUT d:\Kuliah\GIS\main.idx
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmcsc10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.cfg
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.cfg
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.sty
+INPUT d:\Kuliah\GIS\w-bookps.sty
+INPUT d:\Kuliah\GIS\w-bookps.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvr.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvr.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvr.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmbi.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvr.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvr.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvbo.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvro.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmbi.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmbi.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx7.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx5.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmib10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmmib7.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmmib5.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbsy10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmbsy7.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmbsy5.tfm
+INPUT d:\Kuliah\GIS\main.aux
+INPUT d:\Kuliah\GIS\main.aux
+OUTPUT d:\Kuliah\GIS\main.aux
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
+INPUT d:\Kuliah\GIS\main.out
+INPUT d:\Kuliah\GIS\main.out
+INPUT d:\Kuliah\GIS\main.out
+INPUT d:\Kuliah\GIS\main.out
+OUTPUT d:\Kuliah\GIS\main.pdf
+INPUT d:\Kuliah\GIS\main.out
+INPUT d:\Kuliah\GIS\main.out
+OUTPUT d:\Kuliah\GIS\main.out
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\helvetic\phvb.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb8r.tfm
+INPUT C:\Users\Luthfi\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT d:\Kuliah\GIS\info\copyrightpage.tex
+INPUT d:\Kuliah\GIS\info\copyrightpage.tex
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmbi.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmbi8r.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmr7t.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmri7t.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri8r.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT d:\Kuliah\GIS\info\contributors.tex
+INPUT d:\Kuliah\GIS\info\contributors.tex
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\helvetic\phvr.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvr8r.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmr.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\symbol\psyr.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmr.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\symbol\psyr.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmr7t.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\helvetic\phvb.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb8r.tfm
+INPUT d:\Kuliah\GIS\main.toc
+INPUT d:\Kuliah\GIS\main.toc
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\helvetic\phvb.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb8r.tfm
+INPUT d:\Kuliah\GIS\main.toc
+INPUT d:\Kuliah\GIS\main.toc
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmr.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\symbol\psyr.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmri7t.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri8r.tfm
+OUTPUT d:\Kuliah\GIS\main.toc
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\helvetic\phvr.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvr8r.tfm
+INPUT d:\Kuliah\GIS\main.lof
+INPUT d:\Kuliah\GIS\main.lof
+OUTPUT d:\Kuliah\GIS\main.lof
+INPUT d:\Kuliah\GIS\main.lot
+INPUT d:\Kuliah\GIS\main.lot
+OUTPUT d:\Kuliah\GIS\main.lot
+INPUT d:\Kuliah\GIS\main.lol
+INPUT d:\Kuliah\GIS\main.lol
+OUTPUT d:\Kuliah\GIS\main.lol
+INPUT d:\Kuliah\GIS\info\foreword.tex
+INPUT d:\Kuliah\GIS\info\foreword.tex
+INPUT d:\Kuliah\GIS\info\preface.tex
+INPUT d:\Kuliah\GIS\info\preface.tex
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmrc7t.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmrc7t.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmri.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri8r.tfm
+INPUT d:\Kuliah\GIS\info\acknowledgments.tex
+INPUT d:\Kuliah\GIS\info\acknowledgments.tex
+INPUT d:\Kuliah\GIS\info\acronyms.tex
+INPUT d:\Kuliah\GIS\info\acronyms.tex
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmri7t.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmr7t.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT d:\Kuliah\GIS\info\glossary.tex
+INPUT d:\Kuliah\GIS\info\glossary.tex
+INPUT d:\Kuliah\GIS\info\symbols.tex
+INPUT d:\Kuliah\GIS\info\symbols.tex
+INPUT d:\Kuliah\GIS\info\introduction.tex
+INPUT d:\Kuliah\GIS\info\introduction.tex
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmrc7t.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmrc7t.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmr.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\symbol\psyr.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT d:\Kuliah\GIS\chapters\tugas1\1174xxx.tex
+INPUT d:\Kuliah\GIS\chapters\tugas1\1174xxx.tex
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT d:\Kuliah\GIS\figures\himatif.png
+INPUT d:\Kuliah\GIS\figures\himatif.png
+INPUT d:\Kuliah\GIS\figures\himatif.png
+INPUT d:\Kuliah\GIS\figures\himatif.png
+INPUT d:\Kuliah\GIS\figures\himatif.png
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\helvetic\phvb.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb8r.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\helvetic\phvbo.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvbo8r.tfm
+INPUT d:\Kuliah\GIS\chapters\tugas1\1174039.tex
+INPUT d:\Kuliah\GIS\chapters\tugas1\1174039.tex
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmb.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb8r.tfm
+INPUT d:\Kuliah\GIS\figures\1174039\plagiat.png
+INPUT d:\Kuliah\GIS\figures\1174039\plagiat.png
+INPUT d:\Kuliah\GIS\figures\1174039\plagiat.png
+INPUT d:\Kuliah\GIS\figures\1174039\plagiat.png
+INPUT d:\Kuliah\GIS\figures\1174039\plagiat.png
+INPUT d:\Kuliah\GIS\chapters\tugas1\1174042.tex
+INPUT d:\Kuliah\GIS\chapters\tugas1\1174042.tex
+INPUT d:\Kuliah\GIS\figures\1174042\gis.jpg
+INPUT d:\Kuliah\GIS\figures\1174042\gis.jpg
+INPUT d:\Kuliah\GIS\figures\1174042\gis.jpg
+INPUT d:\Kuliah\GIS\figures\1174042\gis.jpg
+INPUT d:\Kuliah\GIS\figures\1174042\gis.jpg
+INPUT d:\Kuliah\GIS\figures\1174042\plagiat.png
+INPUT d:\Kuliah\GIS\figures\1174042\plagiat.png
+INPUT d:\Kuliah\GIS\figures\1174042\plagiat.png
+INPUT d:\Kuliah\GIS\figures\1174042\plagiat.png
+INPUT d:\Kuliah\GIS\figures\1174042\plagiat.png
+INPUT d:\Kuliah\GIS\chapters\tugas1\1174035.tex
+INPUT d:\Kuliah\GIS\chapters\tugas1\1174035.tex
+INPUT d:\Kuliah\GIS\figures\1174035\tugas1\plagiat.png
+INPUT d:\Kuliah\GIS\figures\1174035\tugas1\plagiat.png
+INPUT d:\Kuliah\GIS\figures\1174035\tugas1\plagiat.png
+INPUT d:\Kuliah\GIS\figures\1174035\tugas1\plagiat.png
+INPUT d:\Kuliah\GIS\figures\1174035\tugas1\plagiat.png
+INPUT d:\Kuliah\GIS\main.bbl
+INPUT d:\Kuliah\GIS\main.bbl
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmr7t.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmri7t.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri8r.tfm
+INPUT d:\Kuliah\GIS\main.ind
+INPUT d:\Kuliah\GIS\main.ind
+INPUT d:\Kuliah\GIS\main.aux
+INPUT d:\Kuliah\GIS\main.out
+INPUT d:\Kuliah\GIS\main.out
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\base\8r.enc
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy8.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy8.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\urw\helvetic\uhvb8a.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\urw\helvetic\uhvb8a.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\urw\helvetic\uhvbo8a.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\urw\helvetic\uhvbo8a.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\urw\helvetic\uhvr8a.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\urw\helvetic\uhvr8a.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\urw\times\utmb8a.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\urw\times\utmb8a.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\urw\times\utmbi8a.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\urw\times\utmbi8a.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\urw\times\utmr8a.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\urw\times\utmr8a.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\urw\times\utmri8a.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\urw\times\utmri8a.pfb
