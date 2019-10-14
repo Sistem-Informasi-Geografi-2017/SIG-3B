@@ -34,5 +34,9 @@
 \contentsline {subsection}{\numberline {1.4.1}Data Geospasial}{4}{subsection.1.4.1}% 
 \contentsline {subsection}{\numberline {1.4.2}Link}{6}{subsection.1.4.2}% 
 \contentsline {subsection}{\numberline {1.4.3}Plagiarism}{6}{subsection.1.4.3}% 
-\contentsline {schapter}{Daftar Pustaka}{7}{chapter*.15}% 
-\contentsline {schapter}{Index}{9}{chapter*.15}% 
+\contentsline {section}{\numberline {1.5}Hagan Rowlenstino A. S (1174040)}{6}{section.1.5}% 
+\contentsline {subsection}{\numberline {1.5.1}Pengertian}{6}{subsection.1.5.1}% 
+\contentsline {subsection}{\numberline {1.5.2}Link}{7}{subsection.1.5.2}% 
+\contentsline {subsection}{\numberline {1.5.3}Plagiarism}{7}{subsection.1.5.3}% 
+\contentsline {schapter}{Daftar Pustaka}{9}{chapter*.15}% 
+\contentsline {schapter}{Index}{11}{chapter*.15}% 
