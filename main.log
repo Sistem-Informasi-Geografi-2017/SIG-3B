@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.3.25)  14 OCT 2019 15:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.3.25)  14 OCT 2019 17:20
 entering extended mode
 **d:/Kuliah/GIS/main.tex
 (d:/Kuliah/GIS/main.tex
@@ -452,6 +452,11 @@ File: figures/1174042/plagiat.png Graphic file (type png)
 Package pdftex.def Info: figures/1174042/plagiat.png  used on input line 18.
 (pdftex.def)             Requested size: 113.81102pt x 79.57275pt.
 ) (d:/Kuliah\GIS\chapters/tugas1/1174035.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--6
+\OT1/ptm/m/n/10 sebagainya[[]]. 
+ []
+
+
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
@@ -464,10 +469,10 @@ Overfull \hbox (4.05678pt too wide) in paragraph at lines 15--16
 []\OT1/ptm/m/n/10 Mengetahui kon-disi dari daerah berdasarkan data geospasial re-al-time yang dibuat
  []
 
-<figures/1174035/tugas1/plagiat.png, id=387, 632.3625pt x 557.83406pt>
+<figures/1174035/tugas1/plagiat.png, id=393, 632.3625pt x 557.83406pt>
 File: figures/1174035/tugas1/plagiat.png Graphic file (type png)
 <use figures/1174035/tugas1/plagiat.png>
-Package pdftex.def Info: figures/1174035/tugas1/plagiat.png  used on input line 22.
+Package pdftex.def Info: figures/1174035/tugas1/plagiat.png  used on input line 23.
 (pdftex.def)             Requested size: 284.52756pt x 250.99747pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -503,7 +508,7 @@ Overfull \hbox (2.13637pt too wide) in paragraph at lines 29--30
 []\OT1/ptm/m/n/10 Militer : penye-di-aan data spasial un-tuk rute per-jalanan lo-gis-tic, per-ala-tan perang,
  []
 
-<figures/1174040/1174040_plagiat_1.png, id=400, 1156.32pt x 650.43pt>
+<figures/1174040/1174040_plagiat_1.png, id=409, 1156.32pt x 650.43pt>
 File: figures/1174040/1174040_plagiat_1.png Graphic file (type png)
 <use figures/1174040/1174040_plagiat_1.png>
 Package pdftex.def Info: figures/1174040/1174040_plagiat_1.png  used on input line 37.
@@ -533,17 +538,17 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 236EEE36595191B49AE677EF99F090E0;2449.
  ) 
 Here is how much of TeX's memory you used:
- 7117 strings out of 492945
- 105247 string characters out of 3125808
+ 7125 strings out of 492945
+ 105417 string characters out of 3125808
  390742 words of memory out of 3000000
- 10759 multiletter control sequences out of 15000+200000
+ 10763 multiletter control sequences out of 15000+200000
  60695 words of font info for 112 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  31i,14n,47p,1054b,427s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on d:/Kuliah\GIS\main.pdf (40 pages, 570871 bytes).
+Output written on d:/Kuliah\GIS\main.pdf (40 pages, 573918 bytes).
 PDF statistics:
- 500 PDF objects out of 1000 (max. 8388607)
- 107 named destinations out of 1000 (max. 500000)
+ 511 PDF objects out of 1000 (max. 8388607)
+ 111 named destinations out of 1000 (max. 500000)
  351 words of extra memory for PDF output out of 10000 (max. 10000000)
 
