@@ -1,13 +1,13 @@
-\contentsline {schapter}{Daftar Gambar}{xi}{chapter*.4}
-\contentsline {schapter}{Daftar Tabel}{xiii}{chapter*.5}
-\contentsline {schapter}{Foreword}{xvii}{chapter*.7}
-\contentsline {schapter}{Kata Pengantar}{xix}{chapter*.8}
-\contentsline {schapter}{Acknowledgments}{xxi}{chapter*.9}
-\contentsline {schapter}{Acronyms}{xxiii}{chapter*.10}
-\contentsline {schapter}{Glossary}{xxv}{chapter*.11}
-\contentsline {schapter}{List of Symbols}{xxvii}{chapter*.12}
-\contentsline {schapter}{Introduction}{xxix}{chapter*.13}
-\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xxix}{chapter*.13}
+\contentsline {schapter}{Daftar Gambar}{xiii}{chapter*.4}
+\contentsline {schapter}{Daftar Tabel}{xv}{chapter*.5}
+\contentsline {schapter}{Foreword}{xix}{chapter*.7}
+\contentsline {schapter}{Kata Pengantar}{xxi}{chapter*.8}
+\contentsline {schapter}{Acknowledgments}{xxiii}{chapter*.9}
+\contentsline {schapter}{Acronyms}{xxv}{chapter*.10}
+\contentsline {schapter}{Glossary}{xxvii}{chapter*.11}
+\contentsline {schapter}{List of Symbols}{xxix}{chapter*.12}
+\contentsline {schapter}{Introduction}{xxxi}{chapter*.13}
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xxxi}{chapter*.13}
 \contentsline {chapter}{\numberline {1}Tugas Pertama}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}NAMA (NPM)}{1}{section.1.1}
 \contentsline {subsection}{\numberline {1.1.1}Pengertian}{1}{subsection.1.1.1}
@@ -51,5 +51,9 @@
 \contentsline {subsection}{\numberline {1.8.1}Koordinat}{11}{subsection.1.8.1}
 \contentsline {subsection}{\numberline {1.8.2}Link}{11}{subsection.1.8.2}
 \contentsline {subsection}{\numberline {1.8.3}Plagiarism}{12}{subsection.1.8.3}
-\contentsline {schapter}{Daftar Pustaka}{13}{chapter*.15}
-\contentsline {schapter}{Index}{15}{chapter*.15}
+\contentsline {section}{\numberline {1.9}MuhammadIqbalPanggabean(1174063)}{12}{section.1.9}
+\contentsline {subsection}{\numberline {1.9.1}Koordinat}{12}{subsection.1.9.1}
+\contentsline {subsection}{\numberline {1.9.2}Link}{13}{subsection.1.9.2}
+\contentsline {subsection}{\numberline {1.9.3}Plagiarism}{13}{subsection.1.9.3}
+\contentsline {schapter}{Daftar Pustaka}{15}{chapter*.15}
+\contentsline {schapter}{Index}{17}{chapter*.15}
