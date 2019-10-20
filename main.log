@@ -1,9 +1,8 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2019.10.11)  15 OCT 2019 01:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.4)  20 OCT 2019 09:50
 entering extended mode
 **./main.tex
 (main.tex
-LaTeX2e <2017-04-15>
-Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
+LaTeX2e <2018-12-01>
 (wileySix.cls
 
 
@@ -17,96 +16,79 @@ Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
 
 \phspace=\dimen102
 \SpaceAboveChapterNumber=\dimen103
-\savefootnotenumber=\count79
-\ftnum=\count80
-\saveftnum=\count81
-\c@chapapp=\count82
-\c@part=\count83
-\c@chapter=\count84
-\c@section=\count85
-\c@subsection=\count86
-\c@subsubsection=\count87
-\c@paragraph=\count88
-\c@subparagraph=\count89
-\c@figure=\count90
-\c@table=\count91
+\savefootnotenumber=\count80
+\ftnum=\count81
+\saveftnum=\count82
+\c@chapapp=\count83
+\c@part=\count84
+\c@chapter=\count85
+\c@section=\count86
+\c@subsection=\count87
+\c@subsubsection=\count88
+\c@paragraph=\count89
+\c@subparagraph=\count90
+\c@figure=\count91
+\c@table=\count92
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \partskip=\skip43
 \tabandfigskip=\skip44
-\footnum=\count92
-\savefootnum=\count93
+\footnum=\count93
+\savefootnum=\count94
 \@indexfile=\write3
 \openout3 = `main.idx'.
 
 Writing index file main.idx
 \iletterskip=\skip45
-\timing=\count94
-\hourcount=\count95
-\oldtime=\count96
-\probcount=\count97
-\subprobcount=\count98
-\c@subproblem=\count99
+\timing=\count95
+\hourcount=\count96
+\oldtime=\count97
+\probcount=\count98
+\subprobcount=\count99
 \c@subproblem=\count100
+\c@subproblem=\count101
 \widthofcropmarks=\dimen104
 \raisetopcropmarks=\dimen105
 \raisebottomcropmarks=\dimen106
 \movecropmarksright=\dimen107
-\c@theorem=\count101
-\c@appfootnote=\count102
+\c@theorem=\count102
+\c@appfootnote=\count103
 \slugwidth=\dimen108
 \slugheight=\dimen109
 \slugdepth=\dimen110
-\c@exampnum=\count103
-\c@algo=\count104
-\c@algorithm=\count105
+\c@exampnum=\count104
+\c@algo=\count105
+\c@algorithm=\count106
 \chapskip=\dimen111
 \chapheight=\dimen112
 \authorskip=\dimen113
-)
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
-sty"
-Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+) ("C:\Users\najib\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.st
-y"
+("C:\Users\najib\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
-sty"
-Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+("C:\Users\najib\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+("C:\Users\najib\MiKTeX 2.9\tex/latex/graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graph
-ics.cfg"
+("C:\Users\najib\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdfte
-x.def"
-File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
-
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\infware
-rr.sty"
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds
-.sty"
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-)
-\Gread@gobject=\count106
+("C:\Users\najib\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen114
 \Gin@req@width=\dimen115
 )
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
-sty"
+("C:\Users\najib\MiKTeX 2.9\tex/latex/listings\listings.sty"
 \lst@mode=\count107
-\lst@gtempboxa=\box26
+\lst@gtempboxa=\box27
 \lst@token=\toks15
 \lst@length=\count108
 \lst@currlwidth=\dimen116
@@ -118,56 +100,47 @@ sty"
 \lst@lineno=\count112
 \lst@maxwidth=\dimen119
 
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.s
-ty"
-File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+("C:\Users\najib\MiKTeX 2.9\tex/latex/listings\lstmisc.sty"
+File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
 \c@lstnumber=\count113
 \lst@skipnumbers=\count114
-\lst@framebox=\box27
+\lst@framebox=\box28
 )
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
-cfg"
-File: listings.cfg 2019/09/10 1.8c listings configuration
+("C:\Users\najib\MiKTeX 2.9\tex/latex/listings\listings.cfg"
+File: listings.cfg 2019/02/27 1.8b listings configuration
 ))
-Package: listings 2019/09/10 1.8c (Carsten Heinz)
+Package: listings 2019/02/27 1.8b (Carsten Heinz)
 
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
+("C:\Users\najib\MiKTeX 2.9\tex/latex/float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count115
 \float@exts=\toks16
-\float@box=\box28
+\float@box=\box29
 \@float@everytoks=\toks17
-\@floatcapt=\box29
+\@floatcapt=\box30
 )
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.
-sty"
-Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
+("C:\Users\najib\MiKTeX 2.9\tex/latex/hyperref\hyperref.sty"
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
 
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-
-hyperref.sty"
+("C:\Users\najib\MiKTeX 2.9\tex/generic/oberdiek\hobsub-hyperref.sty"
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-
-generic.sty"
+("C:\Users\najib\MiKTeX 2.9\tex/generic/oberdiek\hobsub-generic.sty"
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
-Package hobsub Info: Skipping package `infwarerr' (already loaded).
-Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
-Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -188,99 +161,89 @@ Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.
-sty"
+("C:\Users\najib\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.s
-ty"
+("C:\Users\najib\MiKTeX 2.9\tex/latex/oberdiek\auxhook.sty"
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 
 
 Package auxhook Warning: Cannot patch \document,
 (auxhook)                using \AtBeginDocument instead.
 
-)
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions
-.sty"
+) ("C:\Users\najib\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen120
 \Hy@linkcounter=\count116
 \Hy@pagecounter=\count117
 
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.de
-f"
-File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
+("C:\Users\najib\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def"
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count118
 
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.
-cfg"
+("C:\Users\najib\MiKTeX 2.9\tex/latex/00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 4374.
-Package hyperref Info: Hyper figures OFF on input line 4498.
-Package hyperref Info: Link nesting OFF on input line 4503.
-Package hyperref Info: Hyper index ON on input line 4506.
-Package hyperref Info: Plain pages OFF on input line 4513.
-Package hyperref Info: Backreferencing OFF on input line 4518.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4393.
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4751.
+Package hyperref Info: Bookmarks ON on input line 4772.
 \c@Hy@tempcnt=\count119
- ("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty"
+
+("C:\Users\najib\MiKTeX 2.9\tex/latex/url\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5104.
+LaTeX Info: Redefining \url on input line 5125.
 \XeTeXLinkMargin=\dimen121
 \Fld@menulength=\count120
 \Field@Width=\dimen122
 \Fld@charsize=\dimen123
-Package hyperref Info: Hyper figures OFF on input line 6358.
-Package hyperref Info: Link nesting OFF on input line 6363.
-Package hyperref Info: Hyper index ON on input line 6366.
-Package hyperref Info: backreferencing OFF on input line 6373.
-Package hyperref Info: Link coloring ON on input line 6376.
-Package hyperref Info: Link coloring with OCG OFF on input line 6383.
-Package hyperref Info: PDF/A mode OFF on input line 6388.
-LaTeX Info: Redefining \ref on input line 6428.
-LaTeX Info: Redefining \pageref on input line 6432.
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring ON on input line 6398.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
 \Hy@abspage=\count121
 \c@Item=\count122
 \c@Hfootnote=\count123
 )
+Package hyperref Info: Driver (autodetected): hpdftex.
 
-Package hyperref Message: Driver (autodetected): hpdftex.
-
-
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.d
-ef"
-File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
+("C:\Users\najib\MiKTeX 2.9\tex/latex/hyperref\hpdftex.def"
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
 \Fld@listcount=\count124
 \c@bookmark@seq@number=\count125
 
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfile
-check.sty"
+("C:\Users\najib\MiKTeX 2.9\tex/latex/oberdiek\rerunfilecheck.sty"
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip46
 )
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.sty
-"
+("C:\Users\najib\MiKTeX 2.9\tex/latex/graphics\color.sty"
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color
-.cfg"
+("C:\Users\najib\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.
-sty"
-File: lstlang1.sty 2019/09/10 1.8c listings language file
+("C:\Users\najib\MiKTeX 2.9\tex/latex/listings\lstlang1.sty"
+File: lstlang1.sty 2019/02/27 1.8b listings language file
 ) (w-bookps.sty
 
 
@@ -291,7 +254,7 @@ File: lstlang1.sty 2019/09/10 1.8c listings language file
 
  
 )
-\sectsavebox=\box30
+\sectsavebox=\box31
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 124.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -315,16 +278,14 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 129.
 LaTeX Font Info:    ... okay on input line 129.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 129.
 
-
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+ ("C:\Users\najib\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-p
-df.mkii"
+("C:\Users\najib\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count126
 \scratchdimen=\dimen124
-\scratchbox=\box31
+\scratchbox=\box32
 \nofMPsegments=\count127
 \nofMParguments=\count128
 \everyMPshowfont=\toks18
@@ -333,32 +294,27 @@ df.mkii"
 \MPnumerator=\count130
 \makeMPintoPDFobject=\count131
 \everyMPtoPDFconversion=\toks19
-)
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
-base.sty"
+) ("C:\Users\najib\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.st
-y"
+("C:\Users\najib\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 38.
 Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 \c@lstlisting=\count132
-\AtBeginShipoutBox=\box32
+\AtBeginShipoutBox=\box33
 Package hyperref Info: Link coloring ON on input line 129.
 
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.s
-ty"
+("C:\Users\najib\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitl
-estring.sty"
+("C:\Users\najib\MiKTeX 2.9\tex/generic/oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count133
@@ -366,7 +322,8 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 129.
 LaTeX Info: Redefining \pageref on input line 129.
 LaTeX Info: Redefining \nameref on input line 129.
- (main.out) (main.out)
+
+(main.out) (main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
@@ -377,7 +334,7 @@ Overfull \hbox (29.15398pt too wide) in paragraph at lines 148--148
 \subtitlefont SIG (SIS-TEM IN-FOR-MASI GE-OGRAFIS) 
  []
 
-[1{C:/Users/alitf/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+[1{C:/Users/najib/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 (info/copyrightpage.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 155--155
 
@@ -478,12 +435,12 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 (info/acronyms.tex)
 LaTeX Font Info:    Try loading font information for OMS+ptm on input line 187.
 
-
-("C:\Users\alitf\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
+ ("C:\Users\najib\MiKTeX 2.9\tex/latex/psnfss\omsptm.fd"
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 187.
+
 [25] [26
 
 ] (info/glossary.tex) [27] [28
@@ -511,11 +468,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
  []
 
-<figures/himatif.png, id=534, 301.125pt x 251.94125pt>
+<figures/himatif.png, id=594, 301.125pt x 251.94125pt>
 File: figures/himatif.png Graphic file (type png)
-
 <use figures/himatif.png>
-Package pdftex.def Info: figures/himatif.png used on input line 16.
+Package pdftex.def Info: figures/himatif.png  used on input line 16.
 (pdftex.def)             Requested size: 113.81102pt x 95.22353pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -530,18 +486,16 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [2 <./figures/himatif.png>]
-<figures/1174039/plagiat.png, id=552, 632.3625pt x 426.84468pt>
+<figures/1174039/plagiat.png, id=612, 632.3625pt x 426.84468pt>
 File: figures/1174039/plagiat.png Graphic file (type png)
-
 <use figures/1174039/plagiat.png>
-Package pdftex.def Info: figures/1174039/plagiat.png used on input line 19.
+Package pdftex.def Info: figures/1174039/plagiat.png  used on input line 19.
 (pdftex.def)             Requested size: 113.81102pt x 76.8222pt.
 ) (chapters/tugas1/1174042.tex
-<figures/1174042/gis.jpg, id=553, 242.9075pt x 209.78375pt>
+<figures/1174042/gis.jpg, id=613, 242.9075pt x 209.78375pt>
 File: figures/1174042/gis.jpg Graphic file (type jpg)
-
 <use figures/1174042/gis.jpg>
-Package pdftex.def Info: figures/1174042/gis.jpg used on input line 9.
+Package pdftex.def Info: figures/1174042/gis.jpg  used on input line 9.
 (pdftex.def)             Requested size: 113.81102pt x 98.29106pt.
 
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
@@ -552,11 +506,10 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [3 <./figures/1174039/plagiat.png>]
-<figures/1174042/plagiat.png, id=560, 648.17157pt x 453.19313pt>
+<figures/1174042/plagiat.png, id=620, 648.17157pt x 453.19313pt>
 File: figures/1174042/plagiat.png Graphic file (type png)
-
 <use figures/1174042/plagiat.png>
-Package pdftex.def Info: figures/1174042/plagiat.png used on input line 18.
+Package pdftex.def Info: figures/1174042/plagiat.png  used on input line 18.
 (pdftex.def)             Requested size: 113.81102pt x 79.57275pt.
 ) (chapters/tugas1/1174057.tex
 
@@ -581,40 +534,10 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 LaTeX Warning: Citation `zuhdi2018sejarah' on page 5 undefined on input line 9.
 
 
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ù in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ù in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ù in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ù in font ptmr7t!
 
 LaTeX Warning: Citation `lambert2018geography' on page 5 undefined on input lin
 e 12.
 
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ù in font ptmr7t!
 
 Overfull \hbox (9.88725pt too wide) in paragraph at lines 8--18
 \OT1/ptm/m/n/10 men-galami perkem-ban-gan dari segi keil-muan-nya. Dari yang se
@@ -626,11 +549,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--18
 
  []
 
-<figures/1174057/sejarah.jpg, id=566, 301.125pt x 168.63pt>
+<figures/1174057/sejarah.jpg, id=626, 301.125pt x 168.63pt>
 File: figures/1174057/sejarah.jpg Graphic file (type jpg)
-
 <use figures/1174057/sejarah.jpg>
-Package pdftex.def Info: figures/1174057/sejarah.jpg used on input line 20.
+Package pdftex.def Info: figures/1174057/sejarah.jpg  used on input line 20.
 (pdftex.def)             Requested size: 113.81102pt x 63.73526pt.
 
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
@@ -640,12 +562,12 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[5] <figures/1174057/plagiarisme.png, id=572, 639.89063pt x 391.4625pt>
+[5]
+<figures/1174057/plagiarisme.png, id=632, 639.89063pt x 391.4625pt>
 File: figures/1174057/plagiarisme.png Graphic file (type png)
-
 <use figures/1174057/plagiarisme.png>
-Package pdftex.def Info: figures/1174057/plagiarisme.png used on input line 29.
-
+Package pdftex.def Info: figures/1174057/plagiarisme.png  used on input line 29
+.
 (pdftex.def)             Requested size: 113.81102pt x 69.62395pt.
 ) (chapters/tugas1/1174035.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--6
@@ -666,12 +588,11 @@ Overfull \hbox (4.05678pt too wide) in paragraph at lines 15--16
 e-al-time yang dibuat
  []
 
-<figures/1174035/tugas1/plagiat.png, id=587, 632.3625pt x 557.83406pt>
+<figures/1174035/tugas1/plagiat.png, id=647, 632.3625pt x 557.83406pt>
 File: figures/1174035/tugas1/plagiat.png Graphic file (type png)
-
 <use figures/1174035/tugas1/plagiat.png>
-Package pdftex.def Info: figures/1174035/tugas1/plagiat.png used on input line 
-23.
+Package pdftex.def Info: figures/1174035/tugas1/plagiat.png  used on input line
+ 23.
 (pdftex.def)             Requested size: 284.52756pt x 250.99747pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -705,21 +626,16 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [8 <./figures/1174035/tugas1/plagiat.png>]
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ì in font ptmr7t!
-
 Overfull \hbox (2.13637pt too wide) in paragraph at lines 29--30
 []\OT1/ptm/m/n/10 Militer : penye-di-aan data spasial un-tuk rute per-jalanan l
 o-gis-tic, per-ala-tan perang,
  []
 
-<figures/1174040/1174040_plagiat_1.png, id=601, 1156.32pt x 650.43pt>
+<figures/1174040/1174040_plagiat_1.png, id=661, 1156.32pt x 650.43pt>
 File: figures/1174040/1174040_plagiat_1.png Graphic file (type png)
-
 <use figures/1174040/1174040_plagiat_1.png>
-Package pdftex.def Info: figures/1174040/1174040_plagiat_1.png used on input li
-ne 37.
+Package pdftex.def Info: figures/1174040/1174040_plagiat_1.png  used on input l
+ine 37.
 (pdftex.def)             Requested size: 113.81102pt x 64.01463pt.
 ) (chapters/tugas1/1174043.tex
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
@@ -730,12 +646,11 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [9 <./figures/1174040/1174040_plagiat_1.png>]
-<figures/1174043/Plagiarisme.png, id=615, 1927.2pt x 1084.05pt>
+<figures/1174043/Plagiarisme.png, id=675, 1927.2pt x 1084.05pt>
 File: figures/1174043/Plagiarisme.png Graphic file (type png)
-
 <use figures/1174043/Plagiarisme.png>
-Package pdftex.def Info: figures/1174043/Plagiarisme.png used on input line 18.
-
+Package pdftex.def Info: figures/1174043/Plagiarisme.png  used on input line 18
+.
 (pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
 ) (chapters/tugas1/1174050.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -754,18 +669,16 @@ Overfull \hbox (4.67682pt too wide) in paragraph at lines 5--6
 at ser-ing dip-ilih sedemikian
  []
 
-<figures/1174050/koordinat.png, id=620, 455.90324pt x 184.2885pt>
+<figures/1174050/koordinat.png, id=680, 455.90324pt x 184.2885pt>
 File: figures/1174050/koordinat.png Graphic file (type png)
-
 <use figures/1174050/koordinat.png>
-Package pdftex.def Info: figures/1174050/koordinat.png used on input line 9.
+Package pdftex.def Info: figures/1174050/koordinat.png  used on input line 9.
 (pdftex.def)             Requested size: 113.81102pt x 46.00452pt.
-
-<figures/1174050/plagiarism.png, id=622, 625.73775pt x 386.04225pt>
+<figures/1174050/plagiarism.png, id=682, 625.73775pt x 386.04225pt>
 File: figures/1174050/plagiarism.png Graphic file (type png)
-
 <use figures/1174050/plagiarism.png>
-Package pdftex.def Info: figures/1174050/plagiarism.png used on input line 18.
+Package pdftex.def Info: figures/1174050/plagiarism.png  used on input line 18.
+
 (pdftex.def)             Requested size: 113.81102pt x 70.20914pt.
 ) (chapters/tugas1/1174063.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -783,34 +696,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--6
 
  []
 
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ô in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ô in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ô in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ô in font ptmr7t!
-<figures/1174063/koordinat.jpg, id=629, 697.8572pt x 430.60875pt>
+<figures/1174063/koordinat.jpg, id=689, 697.8572pt x 430.60875pt>
 File: figures/1174063/koordinat.jpg Graphic file (type jpg)
-
 <use figures/1174063/koordinat.jpg>
-Package pdftex.def Info: figures/1174063/koordinat.jpg used on input line 13.
+Package pdftex.def Info: figures/1174063/koordinat.jpg  used on input line 13.
 (pdftex.def)             Requested size: 113.81102pt x 70.22604pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 11--16
 
  []
 
-<figures/1174063/utm.jpg, id=630, 708.39656pt x 391.4625pt>
+<figures/1174063/utm.jpg, id=690, 708.39656pt x 391.4625pt>
 File: figures/1174063/utm.jpg Graphic file (type jpg)
-
 <use figures/1174063/utm.jpg>
-Package pdftex.def Info: figures/1174063/utm.jpg used on input line 19.
+Package pdftex.def Info: figures/1174063/utm.jpg  used on input line 19.
 (pdftex.def)             Requested size: 113.81102pt x 62.89212pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 17--22
@@ -826,13 +725,13 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [12 <./figures/1174050/plagiarism.png> <./figures/1174063/koordinat.jpg>]
-<figures/1174063/plagiat.jpg, id=638, 625.58719pt x 289.83281pt>
+<figures/1174063/plagiat.jpg, id=698, 625.58719pt x 289.83281pt>
 File: figures/1174063/plagiat.jpg Graphic file (type jpg)
-
 <use figures/1174063/plagiat.jpg>
-Package pdftex.def Info: figures/1174063/plagiat.jpg used on input line 28.
+Package pdftex.def Info: figures/1174063/plagiat.jpg  used on input line 28.
 (pdftex.def)             Requested size: 113.81102pt x 52.72488pt.
-) (chapters/tugas1/1174059.tex
+)
+(chapters/tugas1/1174059.tex
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
@@ -846,12 +745,11 @@ Overfull \hbox (37.36896pt too wide) in paragraph at lines 24--25
 ris berben-tuk satu di-mensi yang menghubungkan
  []
 
-<figures/1174059/plagiarisme.png, id=647, 662.475pt x 525.46312pt>
+<figures/1174059/plagiarisme.png, id=707, 662.475pt x 525.46312pt>
 File: figures/1174059/plagiarisme.png Graphic file (type png)
-
 <use figures/1174059/plagiarisme.png>
-Package pdftex.def Info: figures/1174059/plagiarisme.png used on input line 38.
-
+Package pdftex.def Info: figures/1174059/plagiarisme.png  used on input line 38
+.
 (pdftex.def)             Requested size: 113.81102pt x 90.26564pt.
 ) (chapters/tugas1/1174038.tex
 Overfull \hbox (4.67682pt too wide) in paragraph at lines 5--7
@@ -872,19 +770,18 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 LaTeX Warning: File `figures/1174038/peta koordinat indonesia.png' not found on
  input line 10.
 
+<figures/1174038/peta koordinat indonesia.png, id=715, 324.21124pt x 156.585pt>
 
-<figures/1174038/peta koordinat indonesia.png, id=655, 324.21124pt x 156.585pt>
 File: figures/1174038/peta koordinat indonesia.png Graphic file (type png)
 <use figures/1174038/peta koordinat indonesia.png>
-Package pdftex.def Info: figures/1174038/peta koordinat indonesia.png used on i
-nput line 10.
+Package pdftex.def Info: figures/1174038/peta koordinat indonesia.png  used on 
+input line 10.
 (pdftex.def)             Requested size: 113.81102pt x 54.96803pt.
-
-<figures/1174038/plagiarism.png, id=657, 625.73775pt x 386.04225pt>
+<figures/1174038/plagiarism.png, id=717, 625.73775pt x 386.04225pt>
 File: figures/1174038/plagiarism.png Graphic file (type png)
-
 <use figures/1174038/plagiarism.png>
-Package pdftex.def Info: figures/1174038/plagiarism.png used on input line 19.
+Package pdftex.def Info: figures/1174038/plagiarism.png  used on input line 19.
+
 (pdftex.def)             Requested size: 113.81102pt x 70.20914pt.
 ) (chapters/tugas1/1174034.tex
 Overfull \hbox (4.67682pt too wide) in paragraph at lines 5--6
@@ -901,20 +798,19 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [15 <./figures/1174038/peta koordinat indonesia.png> <./figures/1174038/plagiar
-ism.png>] <figures/1174034/koordinat.png, id=664, 767.86874pt x 402.50375pt>
+ism.png>]
+<figures/1174034/koordinat.png, id=724, 767.86874pt x 402.50375pt>
 File: figures/1174034/koordinat.png Graphic file (type png)
-
 <use figures/1174034/koordinat.png>
-Package pdftex.def Info: figures/1174034/koordinat.png used on input line 9.
+Package pdftex.def Info: figures/1174034/koordinat.png  used on input line 9.
 (pdftex.def)             Requested size: 113.81102pt x 59.65437pt.
-
-<figures/1174034/plagiarism.png, id=666, 625.73775pt x 386.04225pt>
+<figures/1174034/plagiarism.png, id=726, 625.73775pt x 386.04225pt>
 File: figures/1174034/plagiarism.png Graphic file (type png)
-
 <use figures/1174034/plagiarism.png>
-Package pdftex.def Info: figures/1174034/plagiarism.png used on input line 18.
+Package pdftex.def Info: figures/1174034/plagiarism.png  used on input line 18.
+
 (pdftex.def)             Requested size: 113.81102pt x 70.20914pt.
-) (main.bbl
+)
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
@@ -922,54 +818,263 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[16 <./figures/1174034/koordinat.png> <./figures/1174034/plagiarism.png>])
-[17
+[16 <./figures/1174034/koordinat.png> <./figures/1174034/plagiarism.png>]
+Bab 2.
+(chapters/tugas2/1174042.tex (src/1/1174042/No1.py)
+<figures/1174042/No1.JPG, id=732, 265.74281pt x 206.27063pt>
+File: figures/1174042/No1.JPG Graphic file (type jpg)
+<use figures/1174042/No1.JPG>
+Package pdftex.def Info: figures/1174042/No1.JPG  used on input line 7.
+(pdftex.def)             Requested size: 341.43306pt x 265.0421pt.
 
-] [18
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 7--9
+ [][] 
+ []
 
-] (main.ind [19
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17
+
+]
+(src/1/1174042/No2.py)
+<figures/1174042/No2.JPG, id=747, 225.84375pt x 185.94469pt>
+File: figures/1174042/No2.JPG Graphic file (type jpg)
+<use figures/1174042/No2.JPG>
+Package pdftex.def Info: figures/1174042/No2.JPG  used on input line 15.
+(pdftex.def)             Requested size: 341.43306pt x 281.14926pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 15--17
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[18 <./figures/1174042/No1.JPG>] (src/1/1174042/No3.py)
+<figures/1174042/No3.JPG, id=763, 204.01219pt x 118.19156pt>
+File: figures/1174042/No3.JPG Graphic file (type jpg)
+<use figures/1174042/No3.JPG>
+Package pdftex.def Info: figures/1174042/No3.JPG  used on input line 23.
+(pdftex.def)             Requested size: 341.43306pt x 197.81563pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 23--25
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[19 <./figures/1174042/No2.JPG>] (src/1/1174042/No4.py)
+<figures/1174042/No4.JPG, id=778, 221.32687pt x 190.46156pt>
+File: figures/1174042/No4.JPG Graphic file (type jpg)
+<use figures/1174042/No4.JPG>
+Package pdftex.def Info: figures/1174042/No4.JPG  used on input line 31.
+(pdftex.def)             Requested size: 341.43306pt x 293.8348pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 31--33
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[20 <./figures/1174042/No3.JPG>] (src/1/1174042/No5.py)
+<figures/1174042/No5.JPG, id=793, 330.48468pt x 323.70938pt>
+File: figures/1174042/No5.JPG Graphic file (type jpg)
+<use figures/1174042/No5.JPG>
+Package pdftex.def Info: figures/1174042/No5.JPG  used on input line 39.
+(pdftex.def)             Requested size: 341.43306pt x 334.44684pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 39--41
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[21 <./figures/1174042/No4.JPG>] (src/1/1174042/No6.py)
+<figures/1174042/No6.JPG, id=806, 326.72063pt x 124.96687pt>
+File: figures/1174042/No6.JPG Graphic file (type jpg)
+<use figures/1174042/No6.JPG>
+Package pdftex.def Info: figures/1174042/No6.JPG  used on input line 47.
+(pdftex.def)             Requested size: 341.43306pt x 130.59364pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 47--49
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[22 <./figures/1174042/No5.JPG>] (src/1/1174042/No7.py)
+<figures/1174042/No7.JPG, id=819, 335.75438pt x 143.78719pt>
+File: figures/1174042/No7.JPG Graphic file (type jpg)
+<use figures/1174042/No7.JPG>
+Package pdftex.def Info: figures/1174042/No7.JPG  used on input line 55.
+(pdftex.def)             Requested size: 341.43306pt x 146.21999pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 55--57
+ [][] 
+ []
+
+(src/1/1174042/No8.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [23 <./figures/1174042/No6.JPG> <./figures/1174042/No7.JPG>])
+<figures/1174042/No8.JPG, id=837, 318.43968pt x 120.45pt>
+File: figures/1174042/No8.JPG Graphic file (type jpg)
+<use figures/1174042/No8.JPG>
+Package pdftex.def Info: figures/1174042/No8.JPG  used on input line 63.
+(pdftex.def)             Requested size: 341.43306pt x 129.1467pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 63--65
+ [][] 
+ []
+
+(src/1/1174042/No9.py)
+<figures/1174042/No9.JPG, id=838, 233.37187pt x 344.03531pt>
+File: figures/1174042/No9.JPG Graphic file (type jpg)
+<use figures/1174042/No9.JPG>
+Package pdftex.def Info: figures/1174042/No9.JPG  used on input line 71.
+(pdftex.def)             Requested size: 341.43306pt x 503.39503pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 71--73
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[24 <./figures/1174042/No8.JPG>] (src/1/1174042/No10.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [25 <./figures/1174042/No9.JPG>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 11.
+)
+<figures/1174042/No10.JPG, id=862, 290.58563pt x 275.52937pt>
+File: figures/1174042/No10.JPG Graphic file (type jpg)
+<use figures/1174042/No10.JPG>
+Package pdftex.def Info: figures/1174042/No10.JPG  used on input line 79.
+(pdftex.def)             Requested size: 341.43306pt x 323.76385pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 79--81
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[26]) (main.bbl
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[27 <./figures/1174042/No10.JPG>] [28
+
+]) [29] [30
+
+] (main.ind [31
 
 
 ])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 279.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 279.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 283.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 283.
  (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 279.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 279.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 283.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 283.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 352BD3B41CDFA32C4F049888A8F58D7D;4433.
+(rerunfilecheck)             Checksum: 2F16F4F67549444845E1AC989582236C;4701.
 
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 7252 strings out of 493323
- 108557 string characters out of 3130014
- 389653 words of memory out of 3000000
- 10435 multiletter control sequences out of 15000+200000
- 61802 words of font info for 113 fonts, out of 3000000 for 9000
+ 7852 strings out of 492946
+ 114301 string characters out of 3136410
+ 489742 words of memory out of 3000000
+ 11221 multiletter control sequences out of 15000+200000
+ 64954 words of font info for 120 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 31i,14n,47p,1042b,427s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/alitf/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc
-}<C:/Users/alitf/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmex10.pfb><C:/Users/alitf/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
-lic/amsfonts/cm/cmmi10.pfb><C:/Users/alitf/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/alitf/AppData/Local/Programs/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/alitf/AppData/Loca
-l/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/alitf
-/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:
-/Users/alitf/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.
-pfb><C:/Users/alitf/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/
-uhvbo8a.pfb><C:/Users/alitf/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/h
-elvetic/uhvr8a.pfb><C:/Users/alitf/AppData/Local/Programs/MiKTeX 2.9/fonts/type
-1/urw/times/utmb8a.pfb><C:/Users/alitf/AppData/Local/Programs/MiKTeX 2.9/fonts/
-type1/urw/times/utmbi8a.pfb><C:/Users/alitf/AppData/Local/Programs/MiKTeX 2.9/f
-onts/type1/urw/times/utmr8a.pfb><C:/Users/alitf/AppData/Local/Programs/MiKTeX 2
-.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (50 pages, 1964172 bytes).
+ 31i,14n,47p,1042b,1872s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/najib/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Users/najib/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/najib/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/najib/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmmi7.pfb><C:/Users/najib/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmr10.pfb><C:/Users/najib/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10
+.pfb><C:/Users/najib/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Us
+ers/najib/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/najib/MiKTeX
+ 2.9/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Users/najib/MiKTeX 2.9/fonts/type
+1/urw/helvetic/uhvr8a.pfb><C:/Users/najib/MiKTeX 2.9/fonts/type1/urw/times/utmb
+8a.pfb><C:/Users/najib/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/n
+ajib/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/najib/MiKTeX 2.9/fon
+ts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (62 pages, 2126896 bytes).
 PDF statistics:
- 767 PDF objects out of 1000 (max. 8388607)
- 168 named destinations out of 1000 (max. 500000)
- 648 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1013 PDF objects out of 1200 (max. 8388607)
+ 300 named destinations out of 1000 (max. 500000)
+ 730 words of extra memory for PDF output out of 10000 (max. 10000000)
 
