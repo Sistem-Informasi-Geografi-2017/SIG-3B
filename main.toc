@@ -74,14 +74,17 @@
 \contentsline {section}{\numberline {2.1}Liyana Majdah Rahma(1174039)}{17}{section.2.1}% 
 \contentsline {subsection}{\numberline {2.1.1}Point Polyline dan Polygon}{17}{subsection.2.1.1}% 
 \contentsline {subsection}{\numberline {2.1.2}Link}{27}{subsection.2.1.2}% 
-\contentsline {section}{\numberline {2.2}Liyana Majdah Rahma(1174039)}{27}{section.2.2}% 
+\contentsline {section}{\numberline {2.2}Hagan Rowlenstino A.S(1174040)}{27}{section.2.2}% 
 \contentsline {subsection}{\numberline {2.2.1}Point Polyline dan Polygon}{27}{subsection.2.2.1}% 
 \contentsline {subsection}{\numberline {2.2.2}Link}{36}{subsection.2.2.2}% 
-\contentsline {section}{\numberline {2.3}Irvan Rizkiansyah(1174043)}{36}{section.2.3}% 
-\contentsline {subsection}{\numberline {2.3.1}PySHP}{36}{subsection.2.3.1}% 
-\contentsline {subsection}{\numberline {2.3.2}Link video PySHP - QGIS}{46}{subsection.2.3.2}% 
-\contentsline {section}{\numberline {2.4}Luthfi Muhammad Nabil (1174035)}{47}{section.2.4}% 
-\contentsline {subsection}{\numberline {2.4.1}Point Poly}{47}{subsection.2.4.1}% 
-\contentsline {subsection}{\numberline {2.4.2}Link Youtube}{52}{subsection.2.4.2}% 
-\contentsline {schapter}{Daftar Pustaka}{53}{chapter*.15}% 
-\contentsline {schapter}{Index}{55}{chapter*.15}% 
+\contentsline {section}{\numberline {2.3}Liyana Majdah Rahma(1174039)}{36}{section.2.3}% 
+\contentsline {subsection}{\numberline {2.3.1}Point Polyline dan Polygon}{36}{subsection.2.3.1}% 
+\contentsline {subsection}{\numberline {2.3.2}Link}{45}{subsection.2.3.2}% 
+\contentsline {section}{\numberline {2.4}Irvan Rizkiansyah(1174043)}{45}{section.2.4}% 
+\contentsline {subsection}{\numberline {2.4.1}PySHP}{45}{subsection.2.4.1}% 
+\contentsline {subsection}{\numberline {2.4.2}Link video PySHP - QGIS}{55}{subsection.2.4.2}% 
+\contentsline {section}{\numberline {2.5}Luthfi Muhammad Nabil (1174035)}{56}{section.2.5}% 
+\contentsline {subsection}{\numberline {2.5.1}Point Poly}{56}{subsection.2.5.1}% 
+\contentsline {subsection}{\numberline {2.5.2}Link Youtube}{61}{subsection.2.5.2}% 
+\contentsline {schapter}{Daftar Pustaka}{63}{chapter*.15}% 
+\contentsline {schapter}{Index}{65}{chapter*.15}% 
