@@ -1,0 +1,10 @@
+import shapefile
+w=shapefile.Writer('soal_npm', shapeType=shapefile.POLYGON)
+print(w.shapeType)
+w.field("kolom1", "C")
+w.record("ngek", "satu")
+w.record("ngok", "dua")
+w.record("ngik", "tiga")
+w.poly([[[8,3], [10,3], [10,6], [8,6], [8,3]]])
+w.poly([[[8+4,3], [10+4,3], [10+4,6], [8+4,6], [8+4,3]]])
+w.poly([[[8+8,3], [10+8,3], [10+8,6], [8+8,6], [8+8,3]]])

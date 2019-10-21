@@ -38,3 +38,13 @@
 \contentsline {lstlisting}{src/1/1174043/nomor8.py}{51}{lstlisting.2.-38}% 
 \contentsline {lstlisting}{src/1/1174043/nomor9.py}{52}{lstlisting.2.-39}% 
 \contentsline {lstlisting}{src/1/1174043/nomor10.py}{54}{lstlisting.2.-40}% 
+\contentsline {lstlisting}{src/1/1174035/tugas2/praktek1\textunderscore pyshp.py}{56}{lstlisting.2.-41}% 
+\contentsline {lstlisting}{src/1/1174035/tugas2/praktek2\textunderscore pyshp.py}{56}{lstlisting.2.-42}% 
+\contentsline {lstlisting}{src/1/1174035/tugas2/praktek3\textunderscore pyshp.py}{57}{lstlisting.2.-43}% 
+\contentsline {lstlisting}{src/1/1174035/tugas2/praktek4\textunderscore pyshp.py}{58}{lstlisting.2.-44}% 
+\contentsline {lstlisting}{src/1/1174035/tugas2/praktek5\textunderscore pyshp.py}{58}{lstlisting.2.-45}% 
+\contentsline {lstlisting}{src/1/1174035/tugas2/praktek6\textunderscore pyshp.py}{59}{lstlisting.2.-46}% 
+\contentsline {lstlisting}{src/1/1174035/tugas2/praktek7\textunderscore pyshp.py}{59}{lstlisting.2.-47}% 
+\contentsline {lstlisting}{src/1/1174035/tugas2/praktek8\textunderscore pyshp.py}{60}{lstlisting.2.-48}% 
+\contentsline {lstlisting}{src/1/1174035/tugas2/praktek9\textunderscore pyshp.py}{60}{lstlisting.2.-49}% 
+\contentsline {lstlisting}{src/1/1174035/tugas2/praktek10\textunderscore pyshp.py}{61}{lstlisting.2.-50}% 
