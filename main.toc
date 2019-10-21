@@ -71,8 +71,14 @@
 \contentsline {subsection}{\numberline {1.12.2}Link}{16}{subsection.1.12.2}% 
 \contentsline {subsection}{\numberline {1.12.3}Plagiarism}{16}{subsection.1.12.3}% 
 \contentsline {chapter}{\numberline {2}Tugas Kedua}{17}{chapter.2}% 
-\contentsline {section}{\numberline {2.1}Faisal Najib Abdullah(1174042)}{17}{section.2.1}% 
+\contentsline {section}{\numberline {2.1}Liyana Majdah Rahma(1174039)}{17}{section.2.1}% 
 \contentsline {subsection}{\numberline {2.1.1}Point Polyline dan Polygon}{17}{subsection.2.1.1}% 
 \contentsline {subsection}{\numberline {2.1.2}Link}{27}{subsection.2.1.2}% 
-\contentsline {schapter}{Daftar Pustaka}{29}{chapter*.15}% 
-\contentsline {schapter}{Index}{31}{chapter*.15}% 
+\contentsline {section}{\numberline {2.2}Liyana Majdah Rahma(1174039)}{27}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.2.1}Point Polyline dan Polygon}{27}{subsection.2.2.1}% 
+\contentsline {subsection}{\numberline {2.2.2}Link}{36}{subsection.2.2.2}% 
+\contentsline {section}{\numberline {2.3}Irvan Rizkiansyah(1174043)}{36}{section.2.3}% 
+\contentsline {subsection}{\numberline {2.3.1}PySHP}{36}{subsection.2.3.1}% 
+\contentsline {subsection}{\numberline {2.3.2}Link video PySHP - QGIS}{46}{subsection.2.3.2}% 
+\contentsline {schapter}{Daftar Pustaka}{47}{chapter*.15}% 
+\contentsline {schapter}{Index}{49}{chapter*.15}% 
