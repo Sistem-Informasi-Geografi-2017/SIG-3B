@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.3.25)  21 OCT 2019 19:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.3.25)  21 OCT 2019 20:54
 entering extended mode
 **d:/Kuliah/GIS/Latex/main.tex
 (d:/Kuliah/GIS/Latex/main.tex
@@ -363,7 +363,15 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 Package hyperref Warning: bookmark level for unknown schapter defaults to 0.
 
-(d:/Kuliah\GIS\Latex\main.lof [13])
+(d:/Kuliah\GIS\Latex\main.lof [13]
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[14])
 \tf@lof=\write6
 \openout6 = `main.lof'.
 
@@ -375,18 +383,18 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[14] (d:/Kuliah\GIS\Latex\main.lot)
+[15] [16
+
+] (d:/Kuliah\GIS\Latex\main.lot)
 \tf@lot=\write7
 \openout7 = `main.lot'.
 
- [15
-
-] [16
+ [17] [18
 
 ] (d:/Kuliah\GIS\Latex\main.lol
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [17])
+ [19])
 \tf@lol=\write8
 \openout8 = `main.lol'.
 
@@ -398,13 +406,13 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[18] (d:/Kuliah\GIS\Latex\info/foreword.tex) [19
+[20] (d:/Kuliah\GIS\Latex\info/foreword.tex) [21
 
-] [20
+] [22
 
-] (d:/Kuliah\GIS\Latex\info/preface.tex) [21] [22
+] (d:/Kuliah\GIS\Latex\info/preface.tex) [23] [24
 
-] (d:/Kuliah\GIS\Latex\info/acknowledgments.tex [23]) [24
+] (d:/Kuliah\GIS\Latex\info/acknowledgments.tex [25]) [26
 
 ] (d:/Kuliah\GIS\Latex\info/acronyms.tex)
 LaTeX Font Info:    Try loading font information for OMS+ptm on input line 187.
@@ -413,17 +421,17 @@ File: omsptm.fd
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 187.
- [25] [26
+ [27] [28
 
-] (d:/Kuliah\GIS\Latex\info/glossary.tex) [27] [28
+] (d:/Kuliah\GIS\Latex\info/glossary.tex) [29] [30
 
-] (d:/Kuliah\GIS\Latex\info/symbols.tex) [29] [30
+] (d:/Kuliah\GIS\Latex\info/symbols.tex) [31] [32
 
 ] (d:/Kuliah\GIS\Latex\info/introduction.tex
 
 Package hyperref Warning: bookmark level for unknown ichapter defaults to 0.
 
-) [31] [32
+) [33] [34
 
 ]
 Bab 1.
@@ -439,7 +447,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
  []
 
-<figures/himatif.png, id=651, 301.125pt x 251.94125pt>
+<figures/himatif.png, id=770, 301.125pt x 251.94125pt>
 File: figures/himatif.png Graphic file (type png)
 <use figures/himatif.png>
 Package pdftex.def Info: figures/himatif.png  used on input line 16.
@@ -456,13 +464,13 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [2 <d:/Kuliah/GIS/Latex/figures/himatif.png>]
-<figures/1174039/plagiat.png, id=669, 632.3625pt x 426.84468pt>
+<figures/1174039/plagiat.png, id=788, 632.3625pt x 426.84468pt>
 File: figures/1174039/plagiat.png Graphic file (type png)
 <use figures/1174039/plagiat.png>
 Package pdftex.def Info: figures/1174039/plagiat.png  used on input line 19.
 (pdftex.def)             Requested size: 113.81102pt x 76.8222pt.
 ) (d:/Kuliah\GIS\Latex\chapters/tugas1/1174042.tex
-<figures/1174042/gis.jpg, id=670, 242.9075pt x 209.78375pt>
+<figures/1174042/gis.jpg, id=789, 242.9075pt x 209.78375pt>
 File: figures/1174042/gis.jpg Graphic file (type jpg)
 <use figures/1174042/gis.jpg>
 Package pdftex.def Info: figures/1174042/gis.jpg  used on input line 9.
@@ -476,7 +484,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [3 <d:/Kuliah/GIS/Latex/figures/1174039/plagiat.png>]
-<figures/1174042/plagiat.png, id=677, 648.17157pt x 453.19313pt>
+<figures/1174042/plagiat.png, id=796, 648.17157pt x 453.19313pt>
 File: figures/1174042/plagiat.png Graphic file (type png)
 <use figures/1174042/plagiat.png>
 Package pdftex.def Info: figures/1174042/plagiat.png  used on input line 18.
@@ -504,7 +512,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--18
 
  []
 
-<figures/1174057/sejarah.jpg, id=687, 301.125pt x 168.63pt>
+<figures/1174057/sejarah.jpg, id=807, 301.125pt x 168.63pt>
 File: figures/1174057/sejarah.jpg Graphic file (type jpg)
 <use figures/1174057/sejarah.jpg>
 Package pdftex.def Info: figures/1174057/sejarah.jpg  used on input line 20.
@@ -518,7 +526,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [5]
-<figures/1174057/plagiarisme.png, id=695, 639.89063pt x 391.4625pt>
+<figures/1174057/plagiarisme.png, id=815, 639.89063pt x 391.4625pt>
 File: figures/1174057/plagiarisme.png Graphic file (type png)
 <use figures/1174057/plagiarisme.png>
 Package pdftex.def Info: figures/1174057/plagiarisme.png  used on input line 29.
@@ -541,7 +549,7 @@ Overfull \hbox (4.05678pt too wide) in paragraph at lines 15--16
 []\OT1/ptm/m/n/10 Mengetahui kon-disi dari daerah berdasarkan data geospasial re-al-time yang dibuat
  []
 
-<figures/1174035/tugas1/plagiat.png, id=710, 632.3625pt x 557.83406pt>
+<figures/1174035/tugas1/plagiat.png, id=829, 632.3625pt x 557.83406pt>
 File: figures/1174035/tugas1/plagiat.png Graphic file (type png)
 <use figures/1174035/tugas1/plagiat.png>
 Package pdftex.def Info: figures/1174035/tugas1/plagiat.png  used on input line 23.
@@ -580,7 +588,7 @@ Overfull \hbox (2.13637pt too wide) in paragraph at lines 29--30
 []\OT1/ptm/m/n/10 Militer : penye-di-aan data spasial un-tuk rute per-jalanan lo-gis-tic, per-ala-tan perang,
  []
 
-<figures/1174040/1174040_plagiat_1.png, id=724, 1156.32pt x 650.43pt>
+<figures/1174040/1174040_plagiat_1.png, id=843, 1156.32pt x 650.43pt>
 File: figures/1174040/1174040_plagiat_1.png Graphic file (type png)
 <use figures/1174040/1174040_plagiat_1.png>
 Package pdftex.def Info: figures/1174040/1174040_plagiat_1.png  used on input line 37.
@@ -594,7 +602,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [9 <d:/Kuliah/GIS/Latex/figures/1174040/1174040_plagiat_1.png>]
-<figures/1174043/Plagiarisme.png, id=738, 1927.2pt x 1084.05pt>
+<figures/1174043/Plagiarisme.png, id=857, 1927.2pt x 1084.05pt>
 File: figures/1174043/Plagiarisme.png Graphic file (type png)
 <use figures/1174043/Plagiarisme.png>
 Package pdftex.def Info: figures/1174043/Plagiarisme.png  used on input line 18.
@@ -615,12 +623,12 @@ Overfull \hbox (4.67682pt too wide) in paragraph at lines 5--6
 \OT1/ptm/m/n/10 tukan oleh serangka-ian angka, hu-ruf, atau sim-bol. Ko-or-di-nat ser-ing dip-ilih sedemikian
  []
 
-<figures/1174050/koordinat.png, id=743, 455.90324pt x 184.2885pt>
+<figures/1174050/koordinat.png, id=863, 455.90324pt x 184.2885pt>
 File: figures/1174050/koordinat.png Graphic file (type png)
 <use figures/1174050/koordinat.png>
 Package pdftex.def Info: figures/1174050/koordinat.png  used on input line 9.
 (pdftex.def)             Requested size: 113.81102pt x 46.00452pt.
-<figures/1174050/plagiarism.png, id=745, 625.73775pt x 386.04225pt>
+<figures/1174050/plagiarism.png, id=865, 625.73775pt x 386.04225pt>
 File: figures/1174050/plagiarism.png Graphic file (type png)
 <use figures/1174050/plagiarism.png>
 Package pdftex.def Info: figures/1174050/plagiarism.png  used on input line 18.
@@ -641,7 +649,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--6
 
  []
 
-<figures/1174063/koordinat.jpg, id=752, 697.8572pt x 430.60875pt>
+<figures/1174063/koordinat.jpg, id=872, 697.8572pt x 430.60875pt>
 File: figures/1174063/koordinat.jpg Graphic file (type jpg)
 <use figures/1174063/koordinat.jpg>
 Package pdftex.def Info: figures/1174063/koordinat.jpg  used on input line 13.
@@ -651,7 +659,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--16
 
  []
 
-<figures/1174063/utm.jpg, id=753, 708.39656pt x 391.4625pt>
+<figures/1174063/utm.jpg, id=873, 708.39656pt x 391.4625pt>
 File: figures/1174063/utm.jpg Graphic file (type jpg)
 <use figures/1174063/utm.jpg>
 Package pdftex.def Info: figures/1174063/utm.jpg  used on input line 19.
@@ -670,7 +678,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [12 <d:/Kuliah/GIS/Latex/figures/1174050/plagiarism.png> <d:/Kuliah/GIS/Latex/figures/1174063/koordinat.jpg>]
-<figures/1174063/plagiat.jpg, id=761, 625.58719pt x 289.83281pt>
+<figures/1174063/plagiat.jpg, id=880, 625.58719pt x 289.83281pt>
 File: figures/1174063/plagiat.jpg Graphic file (type jpg)
 <use figures/1174063/plagiat.jpg>
 Package pdftex.def Info: figures/1174063/plagiat.jpg  used on input line 28.
@@ -688,7 +696,7 @@ Overfull \hbox (37.36896pt too wide) in paragraph at lines 24--25
  \subsubsectionfont 1.10.1.2 Tipe Data Line[] \OT1/ptm/m/n/10 Data Line atau garis berben-tuk satu di-mensi yang menghubungkan
  []
 
-<figures/1174059/plagiarisme.png, id=770, 662.475pt x 525.46312pt>
+<figures/1174059/plagiarisme.png, id=889, 662.475pt x 525.46312pt>
 File: figures/1174059/plagiarisme.png Graphic file (type png)
 <use figures/1174059/plagiarisme.png>
 Package pdftex.def Info: figures/1174059/plagiarisme.png  used on input line 38.
@@ -710,12 +718,12 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 LaTeX Warning: File `figures/1174038/peta koordinat indonesia.png' not found on input line 10.
 
-<figures/1174038/peta koordinat indonesia.png, id=778, 324.21124pt x 156.585pt>
+<figures/1174038/peta koordinat indonesia.png, id=897, 324.21124pt x 156.585pt>
 File: figures/1174038/peta koordinat indonesia.png Graphic file (type png)
 <use figures/1174038/peta koordinat indonesia.png>
 Package pdftex.def Info: figures/1174038/peta koordinat indonesia.png  used on input line 10.
 (pdftex.def)             Requested size: 113.81102pt x 54.96803pt.
-<figures/1174038/plagiarism.png, id=780, 625.73775pt x 386.04225pt>
+<figures/1174038/plagiarism.png, id=899, 625.73775pt x 386.04225pt>
 File: figures/1174038/plagiarism.png Graphic file (type png)
 <use figures/1174038/plagiarism.png>
 Package pdftex.def Info: figures/1174038/plagiarism.png  used on input line 19.
@@ -734,12 +742,12 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [15 <d:/Kuliah/GIS/Latex/figures/1174038/peta koordinat indonesia.png> <d:/Kuliah/GIS/Latex/figures/1174038/plagiarism.png>]
-<figures/1174034/koordinat.png, id=787, 767.86874pt x 402.50375pt>
+<figures/1174034/koordinat.png, id=906, 767.86874pt x 402.50375pt>
 File: figures/1174034/koordinat.png Graphic file (type png)
 <use figures/1174034/koordinat.png>
 Package pdftex.def Info: figures/1174034/koordinat.png  used on input line 9.
 (pdftex.def)             Requested size: 113.81102pt x 59.65437pt.
-<figures/1174034/plagiarism.png, id=789, 625.73775pt x 386.04225pt>
+<figures/1174034/plagiarism.png, id=908, 625.73775pt x 386.04225pt>
 File: figures/1174034/plagiarism.png Graphic file (type png)
 <use figures/1174034/plagiarism.png>
 Package pdftex.def Info: figures/1174034/plagiarism.png  used on input line 18.
@@ -754,8 +762,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [16 <d:/Kuliah/GIS/Latex/figures/1174034/koordinat.png> <d:/Kuliah/GIS/Latex/figures/1174034/plagiarism.png>]
 Bab 2.
-(d:/Kuliah\GIS\Latex\chapters/tugas2/1174042.tex (d:/Kuliah\GIS\Latex\src/1/1174042/No1.py)
-<figures/1174042/No1.JPG, id=795, 265.74281pt x 206.27063pt>
+(d:/Kuliah\GIS\Latex\chapters/tugas2/1174042.tex (d:/Kuliah\GIS\Latex\src/1/1174039/soal1.py)
+<figures/1174042/No1.JPG, id=915, 265.74281pt x 206.27063pt>
 File: figures/1174042/No1.JPG Graphic file (type jpg)
 <use figures/1174042/No1.JPG>
 Package pdftex.def Info: figures/1174042/No1.JPG  used on input line 7.
@@ -765,13 +773,10 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 7--9
  [][] 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [17
+[17
 
 ] (d:/Kuliah\GIS\Latex\src/1/1174042/No2.py)
-<figures/1174042/No2.JPG, id=810, 225.84375pt x 185.94469pt>
+<figures/1174042/No2.JPG, id=935, 225.84375pt x 185.94469pt>
 File: figures/1174042/No2.JPG Graphic file (type jpg)
 <use figures/1174042/No2.JPG>
 Package pdftex.def Info: figures/1174042/No2.JPG  used on input line 15.
@@ -793,7 +798,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [18 <d:/Kuliah/GIS/Latex/figures/1174042/No1.JPG>] (d:/Kuliah\GIS\Latex\src/1/1174042/No3.py)
-<figures/1174042/No3.JPG, id=826, 204.01219pt x 118.19156pt>
+<figures/1174042/No3.JPG, id=950, 204.01219pt x 118.19156pt>
 File: figures/1174042/No3.JPG Graphic file (type jpg)
 <use figures/1174042/No3.JPG>
 Package pdftex.def Info: figures/1174042/No3.JPG  used on input line 23.
@@ -815,7 +820,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [19 <d:/Kuliah/GIS/Latex/figures/1174042/No2.JPG>] (d:/Kuliah\GIS\Latex\src/1/1174042/No4.py)
-<figures/1174042/No4.JPG, id=841, 221.32687pt x 190.46156pt>
+<figures/1174042/No4.JPG, id=965, 221.32687pt x 190.46156pt>
 File: figures/1174042/No4.JPG Graphic file (type jpg)
 <use figures/1174042/No4.JPG>
 Package pdftex.def Info: figures/1174042/No4.JPG  used on input line 31.
@@ -837,7 +842,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [20 <d:/Kuliah/GIS/Latex/figures/1174042/No3.JPG>] (d:/Kuliah\GIS\Latex\src/1/1174042/No5.py)
-<figures/1174042/No5.JPG, id=856, 330.48468pt x 323.70938pt>
+<figures/1174042/No5.JPG, id=980, 330.48468pt x 323.70938pt>
 File: figures/1174042/No5.JPG Graphic file (type jpg)
 <use figures/1174042/No5.JPG>
 Package pdftex.def Info: figures/1174042/No5.JPG  used on input line 39.
@@ -859,7 +864,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [21 <d:/Kuliah/GIS/Latex/figures/1174042/No4.JPG>] (d:/Kuliah\GIS\Latex\src/1/1174042/No6.py)
-<figures/1174042/No6.JPG, id=869, 326.72063pt x 124.96687pt>
+<figures/1174042/No6.JPG, id=993, 326.72063pt x 124.96687pt>
 File: figures/1174042/No6.JPG Graphic file (type jpg)
 <use figures/1174042/No6.JPG>
 Package pdftex.def Info: figures/1174042/No6.JPG  used on input line 47.
@@ -881,7 +886,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [22 <d:/Kuliah/GIS/Latex/figures/1174042/No5.JPG>] (d:/Kuliah\GIS\Latex\src/1/1174042/No7.py)
-<figures/1174042/No7.JPG, id=882, 335.75438pt x 143.78719pt>
+<figures/1174042/No7.JPG, id=1007, 335.75438pt x 143.78719pt>
 File: figures/1174042/No7.JPG Graphic file (type jpg)
 <use figures/1174042/No7.JPG>
 Package pdftex.def Info: figures/1174042/No7.JPG  used on input line 55.
@@ -895,7 +900,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 55--57
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [23 <d:/Kuliah/GIS/Latex/figures/1174042/No6.JPG> <d:/Kuliah/GIS/Latex/figures/1174042/No7.JPG>])
-<figures/1174042/No8.JPG, id=900, 318.43968pt x 120.45pt>
+<figures/1174042/No8.JPG, id=1025, 318.43968pt x 120.45pt>
 File: figures/1174042/No8.JPG Graphic file (type jpg)
 <use figures/1174042/No8.JPG>
 Package pdftex.def Info: figures/1174042/No8.JPG  used on input line 63.
@@ -906,7 +911,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 63--65
  []
 
 (d:/Kuliah\GIS\Latex\src/1/1174042/No9.py)
-<figures/1174042/No9.JPG, id=901, 233.37187pt x 344.03531pt>
+<figures/1174042/No9.JPG, id=1026, 233.37187pt x 344.03531pt>
 File: figures/1174042/No9.JPG Graphic file (type jpg)
 <use figures/1174042/No9.JPG>
 Package pdftex.def Info: figures/1174042/No9.JPG  used on input line 71.
@@ -936,7 +941,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 11.
 )
-<figures/1174042/No10.JPG, id=925, 290.58563pt x 275.52937pt>
+<figures/1174042/No10.JPG, id=1049, 290.58563pt x 275.52937pt>
 File: figures/1174042/No10.JPG Graphic file (type jpg)
 <use figures/1174042/No10.JPG>
 Package pdftex.def Info: figures/1174042/No10.JPG  used on input line 79.
@@ -957,21 +962,50 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[26]) (d:/Kuliah\GIS\Latex\chapters/tugas2/1174035.tex (d:/Kuliah\GIS\Latex\src/1/1174035/tugas2/praktek1_pyshp.py
+[26]) (d:/Kuliah\GIS\Latex\chapters/tugas2/1174039.tex (d:/Kuliah\GIS\Latex\src/1/1174039/soal1.py
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [27 <d:/Kuliah/GIS/Latex/figures/1174042/No10.JPG>])
-<figures/1174035/tugas2/soal_1.png, id=954, 287.57437pt x 267.24844pt>
-File: figures/1174035/tugas2/soal_1.png Graphic file (type png)
-<use figures/1174035/tugas2/soal_1.png>
-Package pdftex.def Info: figures/1174035/tugas2/soal_1.png  used on input line 7.
-(pdftex.def)             Requested size: 170.71652pt x 158.6539pt.
- (d:/Kuliah\GIS\Latex\src/1/1174035/tugas2/praktek2_pyshp.py)
-<figures/1174035/tugas2/soal_2.png, id=955, 295.85532pt x 258.9675pt>
-File: figures/1174035/tugas2/soal_2.png Graphic file (type png)
-<use figures/1174035/tugas2/soal_2.png>
-Package pdftex.def Info: figures/1174035/tugas2/soal_2.png  used on input line 14.
-(pdftex.def)             Requested size: 170.71652pt x 149.43465pt.
+<figures/1174039/gambar/hasil1.PNG, id=1078, 601.4972pt x 341.77687pt>
+File: figures/1174039/gambar/hasil1.PNG Graphic file (type png)
+<use figures/1174039/gambar/hasil1.PNG>
+Package pdftex.def Info: figures/1174039/gambar/hasil1.PNG  used on input line 7.
+(pdftex.def)             Requested size: 341.43306pt x 194.0117pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 7--9
+ [][] 
+ []
+
+(d:/Kuliah\GIS\Latex\src/1/1174039/soal2.py)
+<figures/1174039/gambar/hasil2.PNG, id=1079, 605.26125pt x 346.29375pt>
+File: figures/1174039/gambar/hasil2.PNG Graphic file (type png)
+<use figures/1174039/gambar/hasil2.PNG>
+Package pdftex.def Info: figures/1174039/gambar/hasil2.PNG  used on input line 15.
+(pdftex.def)             Requested size: 341.43306pt x 195.34985pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 15--17
+ [][] 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[28 <d:/Kuliah/GIS/Latex/figures/1174039/gambar/hasil1.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174039/soal3.py)
+<figures/1174039/gambar/hasil3.PNG, id=1110, 649.67719pt x 344.03531pt>
+File: figures/1174039/gambar/hasil3.PNG Graphic file (type png)
+<use figures/1174039/gambar/hasil3.PNG>
+Package pdftex.def Info: figures/1174039/gambar/hasil3.PNG  used on input line 23.
+(pdftex.def)             Requested size: 341.43306pt x 180.81023pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 23--25
+ [][] 
+ []
+
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -983,8 +1017,345 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[28 <d:/Kuliah/GIS/Latex/figures/1174035/tugas2/soal_1.png>] (d:/Kuliah\GIS\Latex\src/1/1174035/tugas2/praktek3_pyshp.py)
-<figures/1174035/tugas2/soal_3.png, id=980, 277.78781pt x 258.9675pt>
+[29 <d:/Kuliah/GIS/Latex/figures/1174039/gambar/hasil2.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174039/soal4.py)
+<figures/1174039/gambar/hasil4.PNG, id=1133, 654.19406pt x 350.05782pt>
+File: figures/1174039/gambar/hasil4.PNG Graphic file (type png)
+<use figures/1174039/gambar/hasil4.PNG>
+Package pdftex.def Info: figures/1174039/gambar/hasil4.PNG  used on input line 31.
+(pdftex.def)             Requested size: 341.43306pt x 182.69878pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 31--33
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[30 <d:/Kuliah/GIS/Latex/figures/1174039/gambar/hasil3.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174039/soal5.py)
+<figures/1174039/gambar/hasil5.PNG, id=1154, 796.47563pt x 444.91219pt>
+File: figures/1174039/gambar/hasil5.PNG Graphic file (type png)
+<use figures/1174039/gambar/hasil5.PNG>
+Package pdftex.def Info: figures/1174039/gambar/hasil5.PNG  used on input line 39.
+(pdftex.def)             Requested size: 341.43306pt x 190.72467pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 39--41
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[31 <d:/Kuliah/GIS/Latex/figures/1174039/gambar/hasil4.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174039/soal6.py)
+<figures/1174039/gambar/hasil6.PNG, id=1172, 800.9925pt x 331.99031pt>
+File: figures/1174039/gambar/hasil6.PNG Graphic file (type png)
+<use figures/1174039/gambar/hasil6.PNG>
+Package pdftex.def Info: figures/1174039/gambar/hasil6.PNG  used on input line 47.
+(pdftex.def)             Requested size: 341.43306pt x 141.517pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 47--49
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[32 <d:/Kuliah/GIS/Latex/figures/1174039/gambar/hasil5.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174039/soal7.py)
+<figures/1174039/gambar/hasil7.PNG, id=1192, 799.48688pt x 371.13657pt>
+File: figures/1174039/gambar/hasil7.PNG Graphic file (type png)
+<use figures/1174039/gambar/hasil7.PNG>
+Package pdftex.def Info: figures/1174039/gambar/hasil7.PNG  used on input line 55.
+(pdftex.def)             Requested size: 341.43306pt x 158.49829pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 55--57
+ [][] 
+ []
+
+(d:/Kuliah\GIS\Latex\src/1/1174039/soal8.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [33 <d:/Kuliah/GIS/Latex/figures/1174039/gambar/hasil6.PNG> <d:/Kuliah/GIS/Latex/figures/1174039/gambar/hasil7.PNG>])
+File: figures/1174039/gambar/hasil1.PNG Graphic file (type png)
+<use figures/1174039/gambar/hasil1.PNG>
+Package pdftex.def Info: figures/1174039/gambar/hasil1.PNG  used on input line 63.
+(pdftex.def)             Requested size: 341.43306pt x 194.0117pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 63--65
+ [][] 
+ []
+
+(d:/Kuliah\GIS\Latex\src/1/1174039/soal9.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [34])
+<figures/1174039/gambar/hasil9.PNG, id=1239, 779.16093pt x 435.87843pt>
+File: figures/1174039/gambar/hasil9.PNG Graphic file (type png)
+<use figures/1174039/gambar/hasil9.PNG>
+Package pdftex.def Info: figures/1174039/gambar/hasil9.PNG  used on input line 71.
+(pdftex.def)             Requested size: 341.43306pt x 191.00229pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 71--73
+ [][] 
+ []
+
+(d:/Kuliah\GIS\Latex\src/1/1174039/soal10.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [35 <d:/Kuliah/GIS/Latex/figures/1174039/gambar/hasil9.PNG>])
+<figures/1174039/gambar/hasil10.PNG, id=1266, 1028.34187pt x 365.86688pt>
+File: figures/1174039/gambar/hasil10.PNG Graphic file (type png)
+<use figures/1174039/gambar/hasil10.PNG>
+Package pdftex.def Info: figures/1174039/gambar/hasil10.PNG  used on input line 79.
+(pdftex.def)             Requested size: 341.43306pt x 121.47893pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 79--81
+ [][] 
+ []
+
+) (d:/Kuliah\GIS\Latex\chapters/tugas2/1174043.tex (d:/Kuliah\GIS\Latex\src/1/1174043/nomor1.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [36 <d:/Kuliah/GIS/Latex/figures/1174039/gambar/hasil10.PNG>])
+<figures/1174043/1.jpg, id=1290, 215.6055pt x 204.16275pt>
+File: figures/1174043/1.jpg Graphic file (type jpg)
+<use figures/1174043/1.jpg>
+Package pdftex.def Info: figures/1174043/1.jpg  used on input line 7.
+(pdftex.def)             Requested size: 341.43306pt x 323.3275pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 7--9
+ [][] 
+ []
+
+(d:/Kuliah\GIS\Latex\src/1/1174043/nomor2.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [37 <d:/Kuliah/GIS/Latex/figures/1174043/1.jpg>])
+<figures/1174043/2.jpg, id=1311, 296.90926pt x 285.4665pt>
+File: figures/1174043/2.jpg Graphic file (type jpg)
+<use figures/1174043/2.jpg>
+Package pdftex.def Info: figures/1174043/2.jpg  used on input line 15.
+(pdftex.def)             Requested size: 341.43306pt x 328.27519pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 15--17
+ [][] 
+ []
+
+(d:/Kuliah\GIS\Latex\src/1/1174043/nomor3.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [38 <d:/Kuliah/GIS/Latex/figures/1174043/2.jpg>])
+<figures/1174043/3.jpg, id=1332, 509.5035pt x 262.581pt>
+File: figures/1174043/3.jpg Graphic file (type jpg)
+<use figures/1174043/3.jpg>
+Package pdftex.def Info: figures/1174043/3.jpg  used on input line 23.
+(pdftex.def)             Requested size: 341.43306pt x 175.96039pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 23--25
+ [][] 
+ []
+
+(d:/Kuliah\GIS\Latex\src/1/1174043/nomor4.py)
+<figures/1174043/4.jpg, id=1333, 258.9675pt x 258.9675pt>
+File: figures/1174043/4.jpg Graphic file (type jpg)
+<use figures/1174043/4.jpg>
+Package pdftex.def Info: figures/1174043/4.jpg  used on input line 31.
+(pdftex.def)             Requested size: 341.43306pt x 341.47063pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 31--33
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[39 <d:/Kuliah/GIS/Latex/figures/1174043/3.jpg>] (d:/Kuliah\GIS\Latex\src/1/1174043/nomor5.py)
+<figures/1174043/5.jpg, id=1356, 271.61475pt x 266.1945pt>
+File: figures/1174043/5.jpg Graphic file (type jpg)
+<use figures/1174043/5.jpg>
+Package pdftex.def Info: figures/1174043/5.jpg  used on input line 39.
+(pdftex.def)             Requested size: 341.43306pt x 334.64322pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 39--41
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[40 <d:/Kuliah/GIS/Latex/figures/1174043/4.jpg>] (d:/Kuliah\GIS\Latex\src/1/1174043/nomor6.py)
+<figures/1174043/6.jpg, id=1375, 302.3295pt x 91.542pt>
+File: figures/1174043/6.jpg Graphic file (type jpg)
+<use figures/1174043/6.jpg>
+Package pdftex.def Info: figures/1174043/6.jpg  used on input line 47.
+(pdftex.def)             Requested size: 341.43306pt x 103.38678pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 47--49
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[41 <d:/Kuliah/GIS/Latex/figures/1174043/5.jpg>] (d:/Kuliah\GIS\Latex\src/1/1174043/nomor7.py)
+<figures/1174043/7.jpg, id=1393, 272.81924pt x 98.16675pt>
+File: figures/1174043/7.jpg Graphic file (type jpg)
+<use figures/1174043/7.jpg>
+Package pdftex.def Info: figures/1174043/7.jpg  used on input line 55.
+(pdftex.def)             Requested size: 341.43306pt x 122.85791pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 55--57
+ [][] 
+ []
+
+(d:/Kuliah\GIS\Latex\src/1/1174043/nomor8.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [42 <d:/Kuliah/GIS/Latex/figures/1174043/6.jpg> <d:/Kuliah/GIS/Latex/figures/1174043/7.jpg>])
+<figures/1174043/8.jpg, id=1420, 263.7855pt x 90.3375pt>
+File: figures/1174043/8.jpg Graphic file (type jpg)
+<use figures/1174043/8.jpg>
+Package pdftex.def Info: figures/1174043/8.jpg  used on input line 63.
+(pdftex.def)             Requested size: 341.43306pt x 116.93007pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 63--65
+ [][] 
+ []
+
+(d:/Kuliah\GIS\Latex\src/1/1174043/nomor9.py)
+<figures/1174043/9.jpg, id=1421, 280.04625pt x 447.47176pt>
+File: figures/1174043/9.jpg Graphic file (type jpg)
+<use figures/1174043/9.jpg>
+Package pdftex.def Info: figures/1174043/9.jpg  used on input line 71.
+(pdftex.def)             Requested size: 341.43306pt x 545.58017pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 71--73
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[43 <d:/Kuliah/GIS/Latex/figures/1174043/8.jpg>]
+Overfull \vbox (26.76466pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[44 <d:/Kuliah/GIS/Latex/figures/1174043/9.jpg>] (d:/Kuliah\GIS\Latex\src/1/1174043/nomor10.py)
+<figures/1174043/10.jpg, id=1449, 269.808pt x 335.45325pt>
+File: figures/1174043/10.jpg Graphic file (type jpg)
+<use figures/1174043/10.jpg>
+Package pdftex.def Info: figures/1174043/10.jpg  used on input line 79.
+(pdftex.def)             Requested size: 341.43306pt x 424.5416pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 79--81
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[45]) (d:/Kuliah\GIS\Latex\chapters/tugas2/1174035.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[46 <d:/Kuliah/GIS/Latex/figures/1174043/10.jpg>] (d:/Kuliah\GIS\Latex\src/1/1174035/tugas2/praktek1_pyshp.py)
+<figures/1174035/tugas2/soal_1.png, id=1477, 287.57437pt x 267.24844pt>
+File: figures/1174035/tugas2/soal_1.png Graphic file (type png)
+<use figures/1174035/tugas2/soal_1.png>
+Package pdftex.def Info: figures/1174035/tugas2/soal_1.png  used on input line 7.
+(pdftex.def)             Requested size: 170.71652pt x 158.6539pt.
+ (d:/Kuliah\GIS\Latex\src/1/1174035/tugas2/praktek2_pyshp.py)
+<figures/1174035/tugas2/soal_2.png, id=1478, 295.85532pt x 258.9675pt>
+File: figures/1174035/tugas2/soal_2.png Graphic file (type png)
+<use figures/1174035/tugas2/soal_2.png>
+Package pdftex.def Info: figures/1174035/tugas2/soal_2.png  used on input line 14.
+(pdftex.def)             Requested size: 170.71652pt x 149.43465pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[47 <d:/Kuliah/GIS/Latex/figures/1174035/tugas2/soal_1.png>] (d:/Kuliah\GIS\Latex\src/1/1174035/tugas2/praktek3_pyshp.py)
+<figures/1174035/tugas2/soal_3.png, id=1509, 277.78781pt x 258.9675pt>
 File: figures/1174035/tugas2/soal_3.png Graphic file (type png)
 <use figures/1174035/tugas2/soal_3.png>
 Package pdftex.def Info: figures/1174035/tugas2/soal_3.png  used on input line 21.
@@ -992,14 +1363,14 @@ Package pdftex.def Info: figures/1174035/tugas2/soal_3.png  used on input line 2
  (d:/Kuliah\GIS\Latex\src/1/1174035/tugas2/praktek4_pyshp.py
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
- [29 <d:/Kuliah/GIS/Latex/figures/1174035/tugas2/soal_2.png> <d:/Kuliah/GIS/Latex/figures/1174035/tugas2/soal_3.png>])
-<figures/1174035/tugas2/soal_4.png, id=999, 298.11375pt x 260.47313pt>
+ [48 <d:/Kuliah/GIS/Latex/figures/1174035/tugas2/soal_2.png> <d:/Kuliah/GIS/Latex/figures/1174035/tugas2/soal_3.png>])
+<figures/1174035/tugas2/soal_4.png, id=1528, 298.11375pt x 260.47313pt>
 File: figures/1174035/tugas2/soal_4.png Graphic file (type png)
 <use figures/1174035/tugas2/soal_4.png>
 Package pdftex.def Info: figures/1174035/tugas2/soal_4.png  used on input line 28.
 (pdftex.def)             Requested size: 170.71652pt x 149.16278pt.
  (d:/Kuliah\GIS\Latex\src/1/1174035/tugas2/praktek5_pyshp.py)
-<figures/1174035/tugas2/soal_5.png, id=1000, 267.24844pt x 257.46187pt>
+<figures/1174035/tugas2/soal_5.png, id=1529, 267.24844pt x 257.46187pt>
 File: figures/1174035/tugas2/soal_5.png Graphic file (type png)
 <use figures/1174035/tugas2/soal_5.png>
 Package pdftex.def Info: figures/1174035/tugas2/soal_5.png  used on input line 35.
@@ -1015,14 +1386,14 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[30 <d:/Kuliah/GIS/Latex/figures/1174035/tugas2/soal_4.png>] (d:/Kuliah\GIS\Latex\src/1/1174035/tugas2/praktek6_pyshp.py)
-<figures/1174035/tugas2/soal_6.png, id=1025, 573.64313pt x 173.14688pt>
+[49 <d:/Kuliah/GIS/Latex/figures/1174035/tugas2/soal_4.png>] (d:/Kuliah\GIS\Latex\src/1/1174035/tugas2/praktek6_pyshp.py)
+<figures/1174035/tugas2/soal_6.png, id=1553, 573.64313pt x 173.14688pt>
 File: figures/1174035/tugas2/soal_6.png Graphic file (type png)
 <use figures/1174035/tugas2/soal_6.png>
 Package pdftex.def Info: figures/1174035/tugas2/soal_6.png  used on input line 42.
 (pdftex.def)             Requested size: 170.71652pt x 51.52702pt.
  (d:/Kuliah\GIS\Latex\src/1/1174035/tugas2/praktek7_pyshp.py)
-<figures/1174035/tugas2/soal_7.png, id=1026, 562.35094pt x 193.47281pt>
+<figures/1174035/tugas2/soal_7.png, id=1554, 562.35094pt x 193.47281pt>
 File: figures/1174035/tugas2/soal_7.png Graphic file (type png)
 <use figures/1174035/tugas2/soal_7.png>
 Package pdftex.def Info: figures/1174035/tugas2/soal_7.png  used on input line 49.
@@ -1035,14 +1406,14 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[31 <d:/Kuliah/GIS/Latex/figures/1174035/tugas2/soal_5.png> <d:/Kuliah/GIS/Latex/figures/1174035/tugas2/soal_6.png>] (d:/Kuliah\GIS\Latex\src/1/1174035/tugas2/praktek8_pyshp.py)
-<figures/1174035/tugas2/soal_8.png, id=1050, 567.62062pt x 197.98969pt>
+[50 <d:/Kuliah/GIS/Latex/figures/1174035/tugas2/soal_5.png> <d:/Kuliah/GIS/Latex/figures/1174035/tugas2/soal_6.png>] (d:/Kuliah\GIS\Latex\src/1/1174035/tugas2/praktek8_pyshp.py)
+<figures/1174035/tugas2/soal_8.png, id=1578, 567.62062pt x 197.98969pt>
 File: figures/1174035/tugas2/soal_8.png Graphic file (type png)
 <use figures/1174035/tugas2/soal_8.png>
 Package pdftex.def Info: figures/1174035/tugas2/soal_8.png  used on input line 56.
 (pdftex.def)             Requested size: 170.71652pt x 59.5454pt.
  (d:/Kuliah\GIS\Latex\src/1/1174035/tugas2/praktek9_pyshp.py)
-<figures/1174035/tugas2/soal_9.png, id=1051, 262.73157pt x 256.70906pt>
+<figures/1174035/tugas2/soal_9.png, id=1579, 262.73157pt x 256.70906pt>
 File: figures/1174035/tugas2/soal_9.png Graphic file (type png)
 <use figures/1174035/tugas2/soal_9.png>
 Package pdftex.def Info: figures/1174035/tugas2/soal_9.png  used on input line 63.
@@ -1058,8 +1429,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[32 <d:/Kuliah/GIS/Latex/figures/1174035/tugas2/soal_7.png> <d:/Kuliah/GIS/Latex/figures/1174035/tugas2/soal_8.png>] (d:/Kuliah\GIS\Latex\src/1/1174035/tugas2/praktek10_pyshp.py)
-<figures/1174035/tugas2/soal_10.png, id=1075, 580.41844pt x 259.7203pt>
+[51 <d:/Kuliah/GIS/Latex/figures/1174035/tugas2/soal_7.png> <d:/Kuliah/GIS/Latex/figures/1174035/tugas2/soal_8.png>] (d:/Kuliah\GIS\Latex\src/1/1174035/tugas2/praktek10_pyshp.py)
+<figures/1174035/tugas2/soal_10.png, id=1603, 580.41844pt x 259.7203pt>
 File: figures/1174035/tugas2/soal_10.png Graphic file (type png)
 <use figures/1174035/tugas2/soal_10.png>
 Package pdftex.def Info: figures/1174035/tugas2/soal_10.png  used on input line 70.
@@ -1072,9 +1443,9 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[33 <d:/Kuliah/GIS/Latex/figures/1174035/tugas2/soal_9.png> <d:/Kuliah/GIS/Latex/figures/1174035/tugas2/soal_10.png>] [34
+[52 <d:/Kuliah/GIS/Latex/figures/1174035/tugas2/soal_9.png> <d:/Kuliah/GIS/Latex/figures/1174035/tugas2/soal_10.png>] [53
 
-] [35])
+])
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
@@ -1082,31 +1453,31 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[36] (d:/Kuliah\GIS\Latex\main.ind [37
+[54] (d:/Kuliah\GIS\Latex\main.ind [55
 
 
 
 ])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 284.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 284.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 287.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 287.
  (d:/Kuliah\GIS\Latex\main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 284.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 284.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 287.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 287.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: A1ECFFE1CC7901A069E17F08A1EAD537;4914.
+(rerunfilecheck)             Checksum: 7889254CE61D7D5F6E56961071E4D214;5344.
  ) 
 Here is how much of TeX's memory you used:
- 8084 strings out of 492945
- 121600 string characters out of 3125808
- 489742 words of memory out of 3000000
- 11273 multiletter control sequences out of 15000+200000
+ 8625 strings out of 492945
+ 131616 string characters out of 3125808
+ 501742 words of memory out of 3000000
+ 11359 multiletter control sequences out of 15000+200000
  63847 words of font info for 119 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  31i,14n,47p,1060b,1872s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on d:/Kuliah\GIS\Latex\main.pdf (68 pages, 2182173 bytes).
+Output written on d:/Kuliah\GIS\Latex\main.pdf (88 pages, 2501364 bytes).
 PDF statistics:
- 1246 PDF objects out of 1440 (max. 8388607)
- 436 named destinations out of 1000 (max. 500000)
- 804 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1844 PDF objects out of 2073 (max. 8388607)
+ 802 named destinations out of 1000 (max. 500000)
+ 947 words of extra memory for PDF output out of 10000 (max. 10000000)
 

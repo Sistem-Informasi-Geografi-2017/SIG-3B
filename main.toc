@@ -1,13 +1,13 @@
 \contentsline {schapter}{Daftar Gambar}{xiii}{chapter*.4}% 
-\contentsline {schapter}{Daftar Tabel}{xv}{chapter*.5}% 
-\contentsline {schapter}{Foreword}{xix}{chapter*.7}% 
-\contentsline {schapter}{Kata Pengantar}{xxi}{chapter*.8}% 
-\contentsline {schapter}{Acknowledgments}{xxiii}{chapter*.9}% 
-\contentsline {schapter}{Acronyms}{xxv}{chapter*.10}% 
-\contentsline {schapter}{Glossary}{xxvii}{chapter*.11}% 
-\contentsline {schapter}{List of Symbols}{xxix}{chapter*.12}% 
-\contentsline {schapter}{Introduction}{xxxi}{chapter*.13}% 
-\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xxxi}{chapter*.13}% 
+\contentsline {schapter}{Daftar Tabel}{xvii}{chapter*.5}% 
+\contentsline {schapter}{Foreword}{xxi}{chapter*.7}% 
+\contentsline {schapter}{Kata Pengantar}{xxiii}{chapter*.8}% 
+\contentsline {schapter}{Acknowledgments}{xxv}{chapter*.9}% 
+\contentsline {schapter}{Acronyms}{xxvii}{chapter*.10}% 
+\contentsline {schapter}{Glossary}{xxix}{chapter*.11}% 
+\contentsline {schapter}{List of Symbols}{xxxi}{chapter*.12}% 
+\contentsline {schapter}{Introduction}{xxxiii}{chapter*.13}% 
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xxxiii}{chapter*.13}% 
 \contentsline {chapter}{\numberline {1}Tugas Pertama}{1}{chapter.1}% 
 \contentsline {section}{\numberline {1.1}NAMA (NPM)}{1}{section.1.1}% 
 \contentsline {subsection}{\numberline {1.1.1}Pengertian}{1}{subsection.1.1.1}% 
@@ -71,11 +71,17 @@
 \contentsline {subsection}{\numberline {1.12.2}Link}{16}{subsection.1.12.2}% 
 \contentsline {subsection}{\numberline {1.12.3}Plagiarism}{16}{subsection.1.12.3}% 
 \contentsline {chapter}{\numberline {2}Tugas Kedua}{17}{chapter.2}% 
-\contentsline {section}{\numberline {2.1}Faisal Najib Abdullah(1174042)}{17}{section.2.1}% 
+\contentsline {section}{\numberline {2.1}Liyana Majdah Rahma(1174039)}{17}{section.2.1}% 
 \contentsline {subsection}{\numberline {2.1.1}Point Polyline dan Polygon}{17}{subsection.2.1.1}% 
 \contentsline {subsection}{\numberline {2.1.2}Link}{27}{subsection.2.1.2}% 
-\contentsline {section}{\numberline {2.2}Luthfi Muhammad Nabil (1174035)}{27}{section.2.2}% 
-\contentsline {subsection}{\numberline {2.2.1}Point Poly}{27}{subsection.2.2.1}% 
-\contentsline {subsection}{\numberline {2.2.2}Link Youtube}{33}{subsection.2.2.2}% 
-\contentsline {schapter}{Daftar Pustaka}{35}{chapter*.15}% 
-\contentsline {schapter}{Index}{37}{chapter*.15}% 
+\contentsline {section}{\numberline {2.2}Liyana Majdah Rahma(1174039)}{27}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.2.1}Point Polyline dan Polygon}{27}{subsection.2.2.1}% 
+\contentsline {subsection}{\numberline {2.2.2}Link}{36}{subsection.2.2.2}% 
+\contentsline {section}{\numberline {2.3}Irvan Rizkiansyah(1174043)}{36}{section.2.3}% 
+\contentsline {subsection}{\numberline {2.3.1}PySHP}{36}{subsection.2.3.1}% 
+\contentsline {subsection}{\numberline {2.3.2}Link video PySHP - QGIS}{46}{subsection.2.3.2}% 
+\contentsline {section}{\numberline {2.4}Luthfi Muhammad Nabil (1174035)}{47}{section.2.4}% 
+\contentsline {subsection}{\numberline {2.4.1}Point Poly}{47}{subsection.2.4.1}% 
+\contentsline {subsection}{\numberline {2.4.2}Link Youtube}{52}{subsection.2.4.2}% 
+\contentsline {schapter}{Daftar Pustaka}{53}{chapter*.15}% 
+\contentsline {schapter}{Index}{55}{chapter*.15}% 
