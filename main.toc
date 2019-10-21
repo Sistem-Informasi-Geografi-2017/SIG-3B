@@ -74,5 +74,8 @@
 \contentsline {section}{\numberline {2.1}Faisal Najib Abdullah(1174042)}{17}{section.2.1}% 
 \contentsline {subsection}{\numberline {2.1.1}Point Polyline dan Polygon}{17}{subsection.2.1.1}% 
 \contentsline {subsection}{\numberline {2.1.2}Link}{27}{subsection.2.1.2}% 
-\contentsline {schapter}{Daftar Pustaka}{29}{chapter*.15}% 
-\contentsline {schapter}{Index}{31}{chapter*.15}% 
+\contentsline {section}{\numberline {2.2}Luthfi Muhammad Nabil (1174035)}{27}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.2.1}Point Poly}{27}{subsection.2.2.1}% 
+\contentsline {subsection}{\numberline {2.2.2}Link Youtube}{33}{subsection.2.2.2}% 
+\contentsline {schapter}{Daftar Pustaka}{35}{chapter*.15}% 
+\contentsline {schapter}{Index}{37}{chapter*.15}% 
