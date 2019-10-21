@@ -1,13 +1,13 @@
-\contentsline {schapter}{Daftar Gambar}{xiii}{chapter*.4}% 
-\contentsline {schapter}{Daftar Tabel}{xv}{chapter*.5}% 
-\contentsline {schapter}{Foreword}{xix}{chapter*.7}% 
-\contentsline {schapter}{Kata Pengantar}{xxi}{chapter*.8}% 
-\contentsline {schapter}{Acknowledgments}{xxiii}{chapter*.9}% 
-\contentsline {schapter}{Acronyms}{xxv}{chapter*.10}% 
-\contentsline {schapter}{Glossary}{xxvii}{chapter*.11}% 
-\contentsline {schapter}{List of Symbols}{xxix}{chapter*.12}% 
-\contentsline {schapter}{Introduction}{xxxi}{chapter*.13}% 
-\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xxxi}{chapter*.13}% 
+\contentsline {schapter}{Daftar Gambar}{xi}{chapter*.4}% 
+\contentsline {schapter}{Daftar Tabel}{xiii}{chapter*.5}% 
+\contentsline {schapter}{Foreword}{xvii}{chapter*.7}% 
+\contentsline {schapter}{Kata Pengantar}{xix}{chapter*.8}% 
+\contentsline {schapter}{Acknowledgments}{xxi}{chapter*.9}% 
+\contentsline {schapter}{Acronyms}{xxiii}{chapter*.10}% 
+\contentsline {schapter}{Glossary}{xxv}{chapter*.11}% 
+\contentsline {schapter}{List of Symbols}{xxvii}{chapter*.12}% 
+\contentsline {schapter}{Introduction}{xxix}{chapter*.13}% 
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xxix}{chapter*.13}% 
 \contentsline {chapter}{\numberline {1}Tugas Pertama}{1}{chapter.1}% 
 \contentsline {section}{\numberline {1.1}NAMA (NPM)}{1}{section.1.1}% 
 \contentsline {subsection}{\numberline {1.1.1}Pengertian}{1}{subsection.1.1.1}% 
@@ -74,5 +74,8 @@
 \contentsline {section}{\numberline {2.1}Faisal Najib Abdullah(1174042)}{17}{section.2.1}% 
 \contentsline {subsection}{\numberline {2.1.1}Point Polyline dan Polygon}{17}{subsection.2.1.1}% 
 \contentsline {subsection}{\numberline {2.1.2}Link}{27}{subsection.2.1.2}% 
-\contentsline {schapter}{Daftar Pustaka}{29}{chapter*.15}% 
-\contentsline {schapter}{Index}{31}{chapter*.15}% 
+\contentsline {section}{\numberline {2.2}Irvan Rizkiansyah(1174043)}{27}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.2.1}PySHP}{27}{subsection.2.2.1}% 
+\contentsline {subsection}{\numberline {2.2.2}Link video PySHP - QGIS}{37}{subsection.2.2.2}% 
+\contentsline {schapter}{Daftar Pustaka}{39}{chapter*.15}% 
+\contentsline {schapter}{Index}{41}{chapter*.15}% 
