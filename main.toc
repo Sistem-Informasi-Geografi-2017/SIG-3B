@@ -1,13 +1,13 @@
 \contentsline {schapter}{Daftar Gambar}{xiii}{chapter*.4}% 
 \contentsline {schapter}{Daftar Tabel}{xvii}{chapter*.5}% 
-\contentsline {schapter}{Foreword}{xxi}{chapter*.7}% 
-\contentsline {schapter}{Kata Pengantar}{xxiii}{chapter*.8}% 
-\contentsline {schapter}{Acknowledgments}{xxv}{chapter*.9}% 
-\contentsline {schapter}{Acronyms}{xxvii}{chapter*.10}% 
-\contentsline {schapter}{Glossary}{xxix}{chapter*.11}% 
-\contentsline {schapter}{List of Symbols}{xxxi}{chapter*.12}% 
-\contentsline {schapter}{Introduction}{xxxiii}{chapter*.13}% 
-\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xxxiii}{chapter*.13}% 
+\contentsline {schapter}{Foreword}{xxiii}{chapter*.7}% 
+\contentsline {schapter}{Kata Pengantar}{xxv}{chapter*.8}% 
+\contentsline {schapter}{Acknowledgments}{xxvii}{chapter*.9}% 
+\contentsline {schapter}{Acronyms}{xxix}{chapter*.10}% 
+\contentsline {schapter}{Glossary}{xxxi}{chapter*.11}% 
+\contentsline {schapter}{List of Symbols}{xxxiii}{chapter*.12}% 
+\contentsline {schapter}{Introduction}{xxxv}{chapter*.13}% 
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xxxv}{chapter*.13}% 
 \contentsline {chapter}{\numberline {1}Tugas Pertama}{1}{chapter.1}% 
 \contentsline {section}{\numberline {1.1}NAMA (NPM)}{1}{section.1.1}% 
 \contentsline {subsection}{\numberline {1.1.1}Pengertian}{1}{subsection.1.1.1}% 
@@ -86,5 +86,8 @@
 \contentsline {section}{\numberline {2.5}Luthfi Muhammad Nabil (1174035)}{56}{section.2.5}% 
 \contentsline {subsection}{\numberline {2.5.1}Point Poly}{56}{subsection.2.5.1}% 
 \contentsline {subsection}{\numberline {2.5.2}Link Youtube}{61}{subsection.2.5.2}% 
-\contentsline {schapter}{Daftar Pustaka}{63}{chapter*.15}% 
-\contentsline {schapter}{Index}{65}{chapter*.15}% 
+\contentsline {section}{\numberline {2.6}Dika Sukma Pradana(1174050)}{61}{section.2.6}% 
+\contentsline {subsection}{\numberline {2.6.1}Point Polyline dan Polygon}{61}{subsection.2.6.1}% 
+\contentsline {subsection}{\numberline {2.6.2}Link}{71}{subsection.2.6.2}% 
+\contentsline {schapter}{Daftar Pustaka}{73}{chapter*.15}% 
+\contentsline {schapter}{Index}{75}{chapter*.15}% 
