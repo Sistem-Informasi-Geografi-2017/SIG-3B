@@ -74,5 +74,8 @@
 \contentsline {section}{\numberline {2.1}Faisal Najib Abdullah(1174042)}{17}{section.2.1}% 
 \contentsline {subsection}{\numberline {2.1.1}Point Polyline dan Polygon}{17}{subsection.2.1.1}% 
 \contentsline {subsection}{\numberline {2.1.2}Link}{27}{subsection.2.1.2}% 
-\contentsline {schapter}{Daftar Pustaka}{29}{chapter*.15}% 
-\contentsline {schapter}{Index}{31}{chapter*.15}% 
+\contentsline {section}{\numberline {2.2}Hagan Rowlenstino A.S(1174040)}{27}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.2.1}Point Polyline dan Polygon}{27}{subsection.2.2.1}% 
+\contentsline {subsection}{\numberline {2.2.2}Link}{36}{subsection.2.2.2}% 
+\contentsline {schapter}{Daftar Pustaka}{37}{chapter*.15}% 
+\contentsline {schapter}{Index}{39}{chapter*.15}% 
