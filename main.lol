@@ -38,3 +38,83 @@
 \contentsline {lstlisting}{src/1/1174043/nomor8.py}{51}{lstlisting.2.-38}% 
 \contentsline {lstlisting}{src/1/1174043/nomor9.py}{52}{lstlisting.2.-39}% 
 \contentsline {lstlisting}{src/1/1174043/nomor10.py}{54}{lstlisting.2.-40}% 
+\contentsline {lstlisting}{src/1/1174035/tugas2/praktek1\textunderscore pyshp.py}{56}{lstlisting.2.-41}% 
+\contentsline {lstlisting}{src/1/1174035/tugas2/praktek2\textunderscore pyshp.py}{56}{lstlisting.2.-42}% 
+\contentsline {lstlisting}{src/1/1174035/tugas2/praktek3\textunderscore pyshp.py}{57}{lstlisting.2.-43}% 
+\contentsline {lstlisting}{src/1/1174035/tugas2/praktek4\textunderscore pyshp.py}{58}{lstlisting.2.-44}% 
+\contentsline {lstlisting}{src/1/1174035/tugas2/praktek5\textunderscore pyshp.py}{58}{lstlisting.2.-45}% 
+\contentsline {lstlisting}{src/1/1174035/tugas2/praktek6\textunderscore pyshp.py}{59}{lstlisting.2.-46}% 
+\contentsline {lstlisting}{src/1/1174035/tugas2/praktek7\textunderscore pyshp.py}{59}{lstlisting.2.-47}% 
+\contentsline {lstlisting}{src/1/1174035/tugas2/praktek8\textunderscore pyshp.py}{60}{lstlisting.2.-48}% 
+\contentsline {lstlisting}{src/1/1174035/tugas2/praktek9\textunderscore pyshp.py}{60}{lstlisting.2.-49}% 
+\contentsline {lstlisting}{src/1/1174035/tugas2/praktek10\textunderscore pyshp.py}{61}{lstlisting.2.-50}% 
+\contentsline {lstlisting}{src/1/1174050/1.py}{62}{lstlisting.2.-51}% 
+\contentsline {lstlisting}{src/1/1174050/2.py}{62}{lstlisting.2.-52}% 
+\contentsline {lstlisting}{src/1/1174050/3.py}{63}{lstlisting.2.-53}% 
+\contentsline {lstlisting}{src/1/1174050/4.py}{64}{lstlisting.2.-54}% 
+\contentsline {lstlisting}{src/1/1174050/5.py}{65}{lstlisting.2.-55}% 
+\contentsline {lstlisting}{src/1/1174050/6.py}{66}{lstlisting.2.-56}% 
+\contentsline {lstlisting}{src/1/1174050/7.py}{67}{lstlisting.2.-57}% 
+\contentsline {lstlisting}{src/1/1174050/8.py}{68}{lstlisting.2.-58}% 
+\contentsline {lstlisting}{src/1/1174050/9.py}{68}{lstlisting.2.-59}% 
+\contentsline {lstlisting}{src/1/1174050/10.py}{70}{lstlisting.2.-60}% 
+\contentsline {lstlisting}{src/1/1174059/pyshp1.py}{71}{lstlisting.2.-61}% 
+\contentsline {lstlisting}{src/1/1174059/pyshp2.py}{72}{lstlisting.2.-62}% 
+\contentsline {lstlisting}{src/1/1174059/pyshp3.py}{73}{lstlisting.2.-63}% 
+\contentsline {lstlisting}{src/1/1174059/pyshp4.py}{74}{lstlisting.2.-64}% 
+\contentsline {lstlisting}{src/1/1174059/pyshp5.py}{75}{lstlisting.2.-65}% 
+\contentsline {lstlisting}{src/1/1174059/pyshp6.py}{76}{lstlisting.2.-66}% 
+\contentsline {lstlisting}{src/1/1174059/pyshp7.py}{77}{lstlisting.2.-67}% 
+\contentsline {lstlisting}{src/1/1174059/pyshp8.py}{77}{lstlisting.2.-68}% 
+\contentsline {lstlisting}{src/1/1174059/pyshp9.py}{78}{lstlisting.2.-69}% 
+\contentsline {lstlisting}{src/1/1174059/pyshp10.py}{79}{lstlisting.2.-70}% 
+\contentsline {lstlisting}{src/1/1174038/1.py}{80}{lstlisting.2.-71}% 
+\contentsline {lstlisting}{src/1/1174038/2.py}{81}{lstlisting.2.-72}% 
+\contentsline {lstlisting}{src/1/1174038/3.py}{82}{lstlisting.2.-73}% 
+\contentsline {lstlisting}{src/1/1174038/4.py}{83}{lstlisting.2.-74}% 
+\contentsline {lstlisting}{src/1/1174038/5.py}{84}{lstlisting.2.-75}% 
+\contentsline {lstlisting}{src/1/1174038/6.py}{85}{lstlisting.2.-76}% 
+\contentsline {lstlisting}{src/1/1174038/7.py}{86}{lstlisting.2.-77}% 
+\contentsline {lstlisting}{src/1/1174038/8.py}{87}{lstlisting.2.-78}% 
+\contentsline {lstlisting}{src/1/1174038/9.py}{88}{lstlisting.2.-79}% 
+\contentsline {lstlisting}{src/1/1174038/10.py}{89}{lstlisting.2.-80}% 
+\contentsline {lstlisting}{src/1/1174056/py1.py}{90}{lstlisting.2.-81}% 
+\contentsline {lstlisting}{src/1/1174056/py2.py}{91}{lstlisting.2.-82}% 
+\contentsline {lstlisting}{src/1/1174056/py3.py}{92}{lstlisting.2.-83}% 
+\contentsline {lstlisting}{src/1/1174056/py4.py}{93}{lstlisting.2.-84}% 
+\contentsline {lstlisting}{src/1/1174056/py5.py}{94}{lstlisting.2.-85}% 
+\contentsline {lstlisting}{src/1/1174056/py6.py}{95}{lstlisting.2.-86}% 
+\contentsline {lstlisting}{src/1/1174056/py7.py}{96}{lstlisting.2.-87}% 
+\contentsline {lstlisting}{src/1/1174056/py8.py}{96}{lstlisting.2.-88}% 
+\contentsline {lstlisting}{src/1/1174056/py9.py}{97}{lstlisting.2.-89}% 
+\contentsline {lstlisting}{src/1/1174056/py10.py}{98}{lstlisting.2.-90}% 
+\contentsline {lstlisting}{src/1/1174057/alit1.py}{100}{lstlisting.2.-91}% 
+\contentsline {lstlisting}{src/1/1174057/alit2.py}{101}{lstlisting.2.-92}% 
+\contentsline {lstlisting}{src/1/1174057/alit3.py}{102}{lstlisting.2.-93}% 
+\contentsline {lstlisting}{src/1/1174057/alit4.py}{103}{lstlisting.2.-94}% 
+\contentsline {lstlisting}{src/1/1174057/alit5.py}{104}{lstlisting.2.-95}% 
+\contentsline {lstlisting}{src/1/1174057/alit6.py}{105}{lstlisting.2.-96}% 
+\contentsline {lstlisting}{src/1/1174057/alit7.py}{106}{lstlisting.2.-97}% 
+\contentsline {lstlisting}{src/1/1174057/alit8.py}{106}{lstlisting.2.-98}% 
+\contentsline {lstlisting}{src/1/1174057/alit9.py}{107}{lstlisting.2.-99}% 
+\contentsline {lstlisting}{src/1/1174057/soal10.py}{108}{lstlisting.2.-100}% 
+\contentsline {lstlisting}{src/1/1174034/No1.py}{110}{lstlisting.2.-101}% 
+\contentsline {lstlisting}{src/1/1174034/No2.py}{111}{lstlisting.2.-102}% 
+\contentsline {lstlisting}{src/1/1174034/No3.py}{112}{lstlisting.2.-103}% 
+\contentsline {lstlisting}{src/1/1174034/No4.py}{113}{lstlisting.2.-104}% 
+\contentsline {lstlisting}{src/1/1174034/No5.py}{114}{lstlisting.2.-105}% 
+\contentsline {lstlisting}{src/1/1174034/No6.py}{115}{lstlisting.2.-106}% 
+\contentsline {lstlisting}{src/1/1174034/No7.py}{116}{lstlisting.2.-107}% 
+\contentsline {lstlisting}{src/1/1174034/No8.py}{116}{lstlisting.2.-108}% 
+\contentsline {lstlisting}{src/1/1174034/No9.py}{117}{lstlisting.2.-109}% 
+\contentsline {lstlisting}{src/1/1174034/No10.py}{119}{lstlisting.2.-110}% 
+\contentsline {lstlisting}{src/1/1174063/pyshp1.py}{120}{lstlisting.2.-111}% 
+\contentsline {lstlisting}{src/1/1174063/pyshp2.py}{121}{lstlisting.2.-112}% 
+\contentsline {lstlisting}{src/1/1174063/pyshp3.py}{122}{lstlisting.2.-113}% 
+\contentsline {lstlisting}{src/1/1174063/pyshp4.py}{123}{lstlisting.2.-114}% 
+\contentsline {lstlisting}{src/1/1174063/pyshp5.py}{124}{lstlisting.2.-115}% 
+\contentsline {lstlisting}{src/1/1174063/pyshp6.py}{125}{lstlisting.2.-116}% 
+\contentsline {lstlisting}{src/1/1174063/pyshp7.py}{126}{lstlisting.2.-117}% 
+\contentsline {lstlisting}{src/1/1174063/pyshp8.py}{127}{lstlisting.2.-118}% 
+\contentsline {lstlisting}{src/1/1174063/pyshp9.py}{128}{lstlisting.2.-119}% 
+\contentsline {lstlisting}{src/1/1174063/pyshp10.py}{129}{lstlisting.2.-120}% 

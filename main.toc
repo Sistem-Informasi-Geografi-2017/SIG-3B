@@ -1,13 +1,13 @@
 \contentsline {schapter}{Daftar Gambar}{xiii}{chapter*.4}% 
-\contentsline {schapter}{Daftar Tabel}{xvii}{chapter*.5}% 
-\contentsline {schapter}{Foreword}{xxi}{chapter*.7}% 
-\contentsline {schapter}{Kata Pengantar}{xxiii}{chapter*.8}% 
-\contentsline {schapter}{Acknowledgments}{xxv}{chapter*.9}% 
-\contentsline {schapter}{Acronyms}{xxvii}{chapter*.10}% 
-\contentsline {schapter}{Glossary}{xxix}{chapter*.11}% 
-\contentsline {schapter}{List of Symbols}{xxxi}{chapter*.12}% 
-\contentsline {schapter}{Introduction}{xxxiii}{chapter*.13}% 
-\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xxxiii}{chapter*.13}% 
+\contentsline {schapter}{Daftar Tabel}{xix}{chapter*.5}% 
+\contentsline {schapter}{Foreword}{xxv}{chapter*.7}% 
+\contentsline {schapter}{Kata Pengantar}{xxvii}{chapter*.8}% 
+\contentsline {schapter}{Acknowledgments}{xxix}{chapter*.9}% 
+\contentsline {schapter}{Acronyms}{xxxi}{chapter*.10}% 
+\contentsline {schapter}{Glossary}{xxxiii}{chapter*.11}% 
+\contentsline {schapter}{List of Symbols}{xxxv}{chapter*.12}% 
+\contentsline {schapter}{Introduction}{xxxvii}{chapter*.13}% 
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xxxvii}{chapter*.13}% 
 \contentsline {chapter}{\numberline {1}Tugas Pertama}{1}{chapter.1}% 
 \contentsline {section}{\numberline {1.1}NAMA (NPM)}{1}{section.1.1}% 
 \contentsline {subsection}{\numberline {1.1.1}Pengertian}{1}{subsection.1.1.1}% 
@@ -71,7 +71,7 @@
 \contentsline {subsection}{\numberline {1.12.2}Link}{16}{subsection.1.12.2}% 
 \contentsline {subsection}{\numberline {1.12.3}Plagiarism}{16}{subsection.1.12.3}% 
 \contentsline {chapter}{\numberline {2}Tugas Kedua}{17}{chapter.2}% 
-\contentsline {section}{\numberline {2.1}Liyana Majdah Rahma(1174039)}{17}{section.2.1}% 
+\contentsline {section}{\numberline {2.1}Faisal Najib Abdullah(1174042)}{17}{section.2.1}% 
 \contentsline {subsection}{\numberline {2.1.1}Point Polyline dan Polygon}{17}{subsection.2.1.1}% 
 \contentsline {subsection}{\numberline {2.1.2}Link}{27}{subsection.2.1.2}% 
 \contentsline {section}{\numberline {2.2}Hagan Rowlenstino A.S(1174040)}{27}{section.2.2}% 
@@ -83,5 +83,31 @@
 \contentsline {section}{\numberline {2.4}Irvan Rizkiansyah(1174043)}{45}{section.2.4}% 
 \contentsline {subsection}{\numberline {2.4.1}PySHP}{45}{subsection.2.4.1}% 
 \contentsline {subsection}{\numberline {2.4.2}Link video PySHP - QGIS}{55}{subsection.2.4.2}% 
-\contentsline {schapter}{Daftar Pustaka}{57}{chapter*.15}% 
-\contentsline {schapter}{Index}{59}{chapter*.15}% 
+\contentsline {section}{\numberline {2.5}Luthfi Muhammad Nabil (1174035)}{56}{section.2.5}% 
+\contentsline {subsection}{\numberline {2.5.1}Point Poly}{56}{subsection.2.5.1}% 
+\contentsline {subsection}{\numberline {2.5.2}Link Youtube}{61}{subsection.2.5.2}% 
+\contentsline {section}{\numberline {2.6}Dika Sukma Pradana(1174050)}{61}{section.2.6}% 
+\contentsline {subsection}{\numberline {2.6.1}Point Polyline dan Polygon}{61}{subsection.2.6.1}% 
+\contentsline {subsection}{\numberline {2.6.2}Link}{71}{subsection.2.6.2}% 
+\contentsline {section}{\numberline {2.7}Kevin Natanel Nainggolan(117459)}{71}{section.2.7}% 
+\contentsline {subsection}{\numberline {2.7.1}Point Polyline dan Polygon}{71}{subsection.2.7.1}% 
+\contentsline {subsection}{\numberline {2.7.2}Plagiarisme}{80}{subsection.2.7.2}% 
+\contentsline {section}{\numberline {2.8}Teedy Gideon Manik(1174038)}{80}{section.2.8}% 
+\contentsline {subsection}{\numberline {2.8.1}Point Polyline dan Polygon}{80}{subsection.2.8.1}% 
+\contentsline {subsection}{\numberline {2.8.2}Link}{90}{subsection.2.8.2}% 
+\contentsline {section}{\numberline {2.9}RanggaPutraRamdhani(1174056)}{90}{section.2.9}% 
+\contentsline {subsection}{\numberline {2.9.1}Point Polyline dan Polygon}{90}{subsection.2.9.1}% 
+\contentsline {subsection}{\numberline {2.9.2}Link}{99}{subsection.2.9.2}% 
+\contentsline {section}{\numberline {2.10}Alit Fajar Kurniawan (1174057)}{99}{section.2.10}% 
+\contentsline {subsection}{\numberline {2.10.1}Penjelasan Shapefile dengan PySHP}{99}{subsection.2.10.1}% 
+\contentsline {subsection}{\numberline {2.10.2}Berikut tahapan membuat shapefile dengan pyshp}{100}{subsection.2.10.2}% 
+\contentsline {subsection}{\numberline {2.10.3}Link}{109}{subsection.2.10.3}% 
+\contentsline {subsection}{\numberline {2.10.4}Plagiarism}{110}{subsection.2.10.4}% 
+\contentsline {section}{\numberline {2.11}Ichsan Hizman Hardy(1174034)}{110}{section.2.11}% 
+\contentsline {subsection}{\numberline {2.11.1}Point Polyline dan Polygon}{110}{subsection.2.11.1}% 
+\contentsline {subsection}{\numberline {2.11.2}Link}{120}{subsection.2.11.2}% 
+\contentsline {section}{\numberline {2.12}MuhammadIqbalPanggabean(1174063)}{120}{section.2.12}% 
+\contentsline {subsection}{\numberline {2.12.1}Point Polyline dan Polygon}{120}{subsection.2.12.1}% 
+\contentsline {subsection}{\numberline {2.12.2}Link}{130}{subsection.2.12.2}% 
+\contentsline {schapter}{Daftar Pustaka}{131}{chapter*.15}% 
+\contentsline {schapter}{Index}{133}{chapter*.15}% 
