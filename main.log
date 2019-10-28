@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.3.25)  28 OCT 2019 20:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.10.20)  28 OCT 2019 21:10
 entering extended mode
-**d:/Kuliah/GIS/Latex/main.tex
-(d:/Kuliah/GIS/Latex/main.tex
+**"d:/Semester 5/GIS/Github/main.tex"
+("d:/Semester 5/GIS/Github/main.tex"
 LaTeX2e <2018-12-01>
-(d:/Kuliah\GIS\Latex\wileySix.cls
+("d:/Semester 5\GIS\Github\wileySix.cls"
 
 
  Wiley Book Style, Design No.: SD 001C
@@ -62,25 +62,25 @@ Writing index file main.idx
 \chapskip=\dimen111
 \chapheight=\dimen112
 \authorskip=\dimen113
-) ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+) ("D:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
- ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+ ("D:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
-) ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+) ("D:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
- ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+ ("D:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-) ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+) ("D:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
- ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+ ("D:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen114
 \Gin@req@width=\dimen115
-) ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.sty"
+) ("D:\Program Files\MiKTeX 2.9\tex/latex/listings\listings.sty"
 \lst@mode=\count107
 \lst@gtempboxa=\box27
 \lst@token=\toks15
@@ -93,27 +93,27 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 \lst@newlines=\count111
 \lst@lineno=\count112
 \lst@maxwidth=\dimen119
- ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.sty"
-File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
+ ("D:\Program Files\MiKTeX 2.9\tex/latex/listings\lstmisc.sty"
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
 \c@lstnumber=\count113
 \lst@skipnumbers=\count114
 \lst@framebox=\box28
-) ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.cfg"
-File: listings.cfg 2019/02/27 1.8b listings configuration
+) ("D:\Program Files\MiKTeX 2.9\tex/latex/listings\listings.cfg"
+File: listings.cfg 2019/09/10 1.8c listings configuration
 ))
-Package: listings 2019/02/27 1.8b (Carsten Heinz)
- ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+ ("D:\Program Files\MiKTeX 2.9\tex/latex/float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count115
 \float@exts=\toks16
 \float@box=\box29
 \@float@everytoks=\toks17
 \@floatcapt=\box30
-) ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref.sty"
+) ("D:\Program Files\MiKTeX 2.9\tex/latex/hyperref\hyperref.sty"
 Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
- ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsub-hyperref.sty"
+ ("D:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\hobsub-hyperref.sty"
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
- ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsub-generic.sty"
+ ("D:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\hobsub-generic.sty"
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
@@ -145,28 +145,28 @@ Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
 Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
-) ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.sty"
+) ("D:\Program Files\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-) ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\auxhook.sty"
+) ("D:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\auxhook.sty"
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 
 
 Package auxhook Warning: Cannot patch \document,
 (auxhook)                using \AtBeginDocument instead.
 
-) ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
+) ("D:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen120
 \Hy@linkcounter=\count116
 \Hy@pagecounter=\count117
- ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def"
+ ("D:\Program Files\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def"
 File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count118
- ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\hyperref.cfg"
+ ("D:\Program Files\MiKTeX 2.9\tex/latex/00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 4393.
@@ -178,7 +178,7 @@ Package hyperref Info: Backreferencing OFF on input line 4539.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4772.
 \c@Hy@tempcnt=\count119
- ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+ ("D:\Program Files\MiKTeX 2.9\tex/latex/url\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
@@ -201,24 +201,24 @@ LaTeX Info: Redefining \pageref on input line 6454.
 \c@Hfootnote=\count123
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
- ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex.def"
+ ("D:\Program Files\MiKTeX 2.9\tex/latex/hyperref\hpdftex.def"
 File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
 \Fld@listcount=\count124
 \c@bookmark@seq@number=\count125
- ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\rerunfilecheck.sty"
+ ("D:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\rerunfilecheck.sty"
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 282.
 )
 \Hy@SectionHShift=\skip46
-) ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.sty"
+) ("D:\Program Files\MiKTeX 2.9\tex/latex/graphics\color.sty"
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
- ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+ ("D:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
-) ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang1.sty"
-File: lstlang1.sty 2019/02/27 1.8b listings language file
-) (d:/Kuliah\GIS\Latex\w-bookps.sty
+) ("D:\Program Files\MiKTeX 2.9\tex/latex/listings\lstlang1.sty"
+File: lstlang1.sty 2019/09/10 1.8c listings language file
+) ("d:/Semester 5\GIS\Github\w-bookps.sty"
 
 
  Using PostScript Fonts
@@ -233,7 +233,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 124.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 124.
- (d:/Kuliah\GIS\Latex\main.aux)
+ ("d:/Semester 5\GIS\Github\main.aux")
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 129.
@@ -251,9 +251,9 @@ LaTeX Font Info:    ... okay on input line 129.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 129.
 LaTeX Font Info:    ... okay on input line 129.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 129.
- ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
+ ("D:\Program Files\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-) ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+) ("D:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count126
 \scratchdimen=\dimen124
@@ -266,9 +266,9 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 \MPnumerator=\count130
 \makeMPintoPDFobject=\count131
 \everyMPtoPDFconversion=\toks19
-) ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
+) ("D:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
- ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
+ ("D:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
@@ -279,9 +279,9 @@ Package grfext Info: Graphics extension search list:
 \c@lstlisting=\count132
 \AtBeginShipoutBox=\box33
 Package hyperref Info: Link coloring ON on input line 129.
- ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
+ ("D:\Program Files\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
- ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\gettitlestring.sty"
+ ("D:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\gettitlestring.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count133
@@ -289,7 +289,7 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 129.
 LaTeX Info: Redefining \pageref on input line 129.
 LaTeX Info: Redefining \nameref on input line 129.
- (d:/Kuliah\GIS\Latex\main.out) (d:/Kuliah\GIS\Latex\main.out)
+ ("d:/Semester 5\GIS\Github\main.out") ("d:/Semester 5\GIS\Github\main.out")
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
@@ -300,7 +300,7 @@ Overfull \hbox (29.15398pt too wide) in paragraph at lines 148--148
 \subtitlefont SIG (SIS-TEM IN-FOR-MASI GE-OGRAFIS) 
  []
 
-[1{C:/Users/Luthfi/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (d:/Kuliah\GIS\Latex\info/copyrightpage.tex)
+[1{C:/Users/User/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] ("d:/Semester 5\GIS\Github\info/copyrightpage.tex")
 Underfull \hbox (badness 10000) in paragraph at lines 155--155
 
  []
@@ -325,11 +325,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 155--155
 ]
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 161.
- (d:/Kuliah\GIS\Latex\info/contributors.tex) [5] [6
+ ("d:/Semester 5\GIS\Github\info/contributors.tex") [5] [6
 
-] (d:/Kuliah\GIS\Latex\main.toc) [7] [8
+] ("d:/Semester 5\GIS\Github\main.toc") [7] [8
 
-] (d:/Kuliah\GIS\Latex\main.toc
+] ("d:/Semester 5\GIS\Github\main.toc"
 Underfull \hbox (badness 10000) in paragraph at lines 10--10
  [] []  
  []
@@ -372,7 +372,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 Package hyperref Warning: bookmark level for unknown schapter defaults to 0.
 
-(d:/Kuliah\GIS\Latex\main.lof [13
+("d:/Semester 5\GIS\Github\main.lof" [13
 
 ]
 Overfull \vbox (4.85098pt too high) has occurred while \output is active []
@@ -414,7 +414,15 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[18])
+[18]
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[19])
 \tf@lof=\write6
 \openout6 = `main.lof'.
 
@@ -426,15 +434,15 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[19] [20
-
-] (d:/Kuliah\GIS\Latex\main.lot)
+[20] ("d:/Semester 5\GIS\Github\main.lot")
 \tf@lot=\write7
 \openout7 = `main.lot'.
 
- [21] [22
+ [21
 
-] (d:/Kuliah\GIS\Latex\main.lol
+] [22
+
+] ("d:/Semester 5\GIS\Github\main.lol"
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [23]
@@ -484,26 +492,26 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [27] [28
 
-] (d:/Kuliah\GIS\Latex\info/foreword.tex) [29] [30
+] ("d:/Semester 5\GIS\Github\info/foreword.tex") [29] [30
 
-] (d:/Kuliah\GIS\Latex\info/preface.tex) [31] [32
+] ("d:/Semester 5\GIS\Github\info/preface.tex") [31] [32
 
-] (d:/Kuliah\GIS\Latex\info/acknowledgments.tex [33]) [34
+] ("d:/Semester 5\GIS\Github\info/acknowledgments.tex" [33]) [34
 
-] (d:/Kuliah\GIS\Latex\info/acronyms.tex)
+] ("d:/Semester 5\GIS\Github\info/acronyms.tex")
 LaTeX Font Info:    Try loading font information for OMS+ptm on input line 187.
- ("C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omsptm.fd"
+ ("D:\Program Files\MiKTeX 2.9\tex/latex/psnfss\omsptm.fd"
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 187.
  [35] [36
 
-] (d:/Kuliah\GIS\Latex\info/glossary.tex) [37] [38
+] ("d:/Semester 5\GIS\Github\info/glossary.tex") [37] [38
 
-] (d:/Kuliah\GIS\Latex\info/symbols.tex) [39] [40
+] ("d:/Semester 5\GIS\Github\info/symbols.tex") [39] [40
 
-] (d:/Kuliah\GIS\Latex\info/introduction.tex
+] ("d:/Semester 5\GIS\Github\info/introduction.tex"
 
 Package hyperref Warning: bookmark level for unknown ichapter defaults to 0.
 
@@ -513,7 +521,7 @@ Package hyperref Warning: bookmark level for unknown ichapter defaults to 0.
 Bab 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 202.
-(d:/Kuliah\GIS\Latex\chapters/tugas1/1174xxx.tex
+("d:/Semester 5\GIS\Github\chapters/tugas1/1174xxx.tex"
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
@@ -523,7 +531,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
  []
 
-<figures/himatif.png, id=1431, 301.125pt x 251.94125pt>
+<figures/himatif.png, id=1490, 301.125pt x 251.94125pt>
 File: figures/himatif.png Graphic file (type png)
 <use figures/himatif.png>
 Package pdftex.def Info: figures/himatif.png  used on input line 16.
@@ -531,7 +539,7 @@ Package pdftex.def Info: figures/himatif.png  used on input line 16.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [1]) (d:/Kuliah\GIS\Latex\chapters/tugas1/1174039.tex
+ [1]) ("d:/Semester 5\GIS\Github\chapters/tugas1/1174039.tex"
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
@@ -539,14 +547,14 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[2 <d:/Kuliah/GIS/Latex/figures/himatif.png>]
-<figures/1174039/plagiat.png, id=1450, 632.3625pt x 426.84468pt>
+[2 <d:/Semester 5/GIS/Github/figures/himatif.png>]
+<figures/1174039/plagiat.png, id=1509, 632.3625pt x 426.84468pt>
 File: figures/1174039/plagiat.png Graphic file (type png)
 <use figures/1174039/plagiat.png>
 Package pdftex.def Info: figures/1174039/plagiat.png  used on input line 19.
 (pdftex.def)             Requested size: 113.81102pt x 76.8222pt.
-) (d:/Kuliah\GIS\Latex\chapters/tugas1/1174042.tex
-<figures/1174042/gis.jpg, id=1451, 242.9075pt x 209.78375pt>
+) ("d:/Semester 5\GIS\Github\chapters/tugas1/1174042.tex"
+<figures/1174042/gis.jpg, id=1510, 242.9075pt x 209.78375pt>
 File: figures/1174042/gis.jpg Graphic file (type jpg)
 <use figures/1174042/gis.jpg>
 Package pdftex.def Info: figures/1174042/gis.jpg  used on input line 9.
@@ -559,13 +567,13 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[3 <d:/Kuliah/GIS/Latex/figures/1174039/plagiat.png>]
-<figures/1174042/plagiat.png, id=1458, 648.17157pt x 453.19313pt>
+[3 <d:/Semester 5/GIS/Github/figures/1174039/plagiat.png>]
+<figures/1174042/plagiat.png, id=1517, 648.17157pt x 453.19313pt>
 File: figures/1174042/plagiat.png Graphic file (type png)
 <use figures/1174042/plagiat.png>
 Package pdftex.def Info: figures/1174042/plagiat.png  used on input line 18.
 (pdftex.def)             Requested size: 113.81102pt x 79.57275pt.
-) (d:/Kuliah\GIS\Latex\chapters/tugas1/1174057.tex
+) ("d:/Semester 5\GIS\Github\chapters/tugas1/1174057.tex"
 Underfull \hbox (badness 10000) in paragraph at lines 4--7
 
  []
@@ -578,7 +586,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[4 <d:/Kuliah/GIS/Latex/figures/1174042/gis.jpg> <d:/Kuliah/GIS/Latex/figures/1174042/plagiat.png>]
+[4 <d:/Semester 5/GIS/Github/figures/1174042/gis.jpg> <d:/Semester 5/GIS/Github/figures/1174042/plagiat.png>]
 Overfull \hbox (9.88725pt too wide) in paragraph at lines 8--18
 \OT1/ptm/m/n/10 men-galami perkem-ban-gan dari segi keil-muan-nya. Dari yang sem-ula hanya mendeskrip-
  []
@@ -588,7 +596,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--18
 
  []
 
-<figures/1174057/sejarah.jpg, id=1468, 301.125pt x 168.63pt>
+<figures/1174057/sejarah.jpg, id=1527, 301.125pt x 168.63pt>
 File: figures/1174057/sejarah.jpg Graphic file (type jpg)
 <use figures/1174057/sejarah.jpg>
 Package pdftex.def Info: figures/1174057/sejarah.jpg  used on input line 20.
@@ -602,12 +610,12 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [5]
-<figures/1174057/plagiarisme.png, id=1476, 639.89063pt x 391.4625pt>
+<figures/1174057/plagiarisme.png, id=1535, 639.89063pt x 391.4625pt>
 File: figures/1174057/plagiarisme.png Graphic file (type png)
 <use figures/1174057/plagiarisme.png>
 Package pdftex.def Info: figures/1174057/plagiarisme.png  used on input line 29.
 (pdftex.def)             Requested size: 113.81102pt x 69.62395pt.
-) (d:/Kuliah\GIS\Latex\chapters/tugas1/1174035.tex
+) ("d:/Semester 5\GIS\Github\chapters/tugas1/1174035.tex"
 Underfull \hbox (badness 10000) in paragraph at lines 3--6
 \OT1/ptm/m/n/10 sebagainya[[]]. 
  []
@@ -620,12 +628,12 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[6 <d:/Kuliah/GIS/Latex/figures/1174057/sejarah.jpg> <d:/Kuliah/GIS/Latex/figures/1174057/plagiarisme.png>]
+[6 <d:/Semester 5/GIS/Github/figures/1174057/sejarah.jpg> <d:/Semester 5/GIS/Github/figures/1174057/plagiarisme.png>]
 Overfull \hbox (4.05678pt too wide) in paragraph at lines 15--16
 []\OT1/ptm/m/n/10 Mengetahui kon-disi dari daerah berdasarkan data geospasial re-al-time yang dibuat
  []
 
-<figures/1174035/tugas1/plagiat.png, id=1490, 632.3625pt x 557.83406pt>
+<figures/1174035/tugas1/plagiat.png, id=1549, 632.3625pt x 557.83406pt>
 File: figures/1174035/tugas1/plagiat.png Graphic file (type png)
 <use figures/1174035/tugas1/plagiat.png>
 Package pdftex.def Info: figures/1174035/tugas1/plagiat.png  used on input line 23.
@@ -641,7 +649,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[7]) (d:/Kuliah\GIS\Latex\chapters/tugas1/1174040.tex
+[7]) ("d:/Semester 5\GIS\Github\chapters/tugas1/1174040.tex"
 Overfull \hbox (4.43767pt too wide) in paragraph at lines 3--5
 \OT1/ptm/m/n/10 yang di-ran-cang sedemikian rupa un-tuk bek-erja den-gan meng-gu-nakan data yang memi-
  []
@@ -659,17 +667,17 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[8 <d:/Kuliah/GIS/Latex/figures/1174035/tugas1/plagiat.png>]
+[8 <d:/Semester 5/GIS/Github/figures/1174035/tugas1/plagiat.png>]
 Overfull \hbox (2.13637pt too wide) in paragraph at lines 29--30
 []\OT1/ptm/m/n/10 Militer : penye-di-aan data spasial un-tuk rute per-jalanan lo-gis-tic, per-ala-tan perang,
  []
 
-<figures/1174040/1174040_plagiat_1.png, id=1505, 1156.32pt x 650.43pt>
+<figures/1174040/1174040_plagiat_1.png, id=1564, 1156.32pt x 650.43pt>
 File: figures/1174040/1174040_plagiat_1.png Graphic file (type png)
 <use figures/1174040/1174040_plagiat_1.png>
 Package pdftex.def Info: figures/1174040/1174040_plagiat_1.png  used on input line 37.
 (pdftex.def)             Requested size: 113.81102pt x 64.01463pt.
-) (d:/Kuliah\GIS\Latex\chapters/tugas1/1174043.tex
+) ("d:/Semester 5\GIS\Github\chapters/tugas1/1174043.tex"
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
@@ -677,13 +685,13 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[9 <d:/Kuliah/GIS/Latex/figures/1174040/1174040_plagiat_1.png>]
-<figures/1174043/Plagiarisme.png, id=1519, 1927.2pt x 1084.05pt>
+[9 <d:/Semester 5/GIS/Github/figures/1174040/1174040_plagiat_1.png>]
+<figures/1174043/Plagiarisme.png, id=1578, 1927.2pt x 1084.05pt>
 File: figures/1174043/Plagiarisme.png Graphic file (type png)
 <use figures/1174043/Plagiarisme.png>
 Package pdftex.def Info: figures/1174043/Plagiarisme.png  used on input line 18.
 (pdftex.def)             Requested size: 284.52756pt x 160.03659pt.
-) (d:/Kuliah\GIS\Latex\chapters/tugas1/1174050.tex
+) ("d:/Semester 5\GIS\Github\chapters/tugas1/1174050.tex"
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -699,17 +707,17 @@ Overfull \hbox (4.67682pt too wide) in paragraph at lines 5--6
 \OT1/ptm/m/n/10 tukan oleh serangka-ian angka, hu-ruf, atau sim-bol. Ko-or-di-nat ser-ing dip-ilih sedemikian
  []
 
-<figures/1174050/koordinat.png, id=1524, 455.90324pt x 184.2885pt>
+<figures/1174050/koordinat.png, id=1583, 455.90324pt x 184.2885pt>
 File: figures/1174050/koordinat.png Graphic file (type png)
 <use figures/1174050/koordinat.png>
 Package pdftex.def Info: figures/1174050/koordinat.png  used on input line 9.
 (pdftex.def)             Requested size: 113.81102pt x 46.00452pt.
-<figures/1174050/plagiarism.png, id=1526, 625.73775pt x 386.04225pt>
+<figures/1174050/plagiarism.png, id=1585, 625.73775pt x 386.04225pt>
 File: figures/1174050/plagiarism.png Graphic file (type png)
 <use figures/1174050/plagiarism.png>
 Package pdftex.def Info: figures/1174050/plagiarism.png  used on input line 18.
 (pdftex.def)             Requested size: 113.81102pt x 70.20914pt.
-) (d:/Kuliah\GIS\Latex\chapters/tugas1/1174063.tex
+) ("d:/Semester 5\GIS\Github\chapters/tugas1/1174063.tex"
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -720,12 +728,12 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[11 <d:/Kuliah/GIS/Latex/figures/1174043/Plagiarisme.png> <d:/Kuliah/GIS/Latex/figures/1174050/koordinat.png>]
+[11 <d:/Semester 5/GIS/Github/figures/1174043/Plagiarisme.png> <d:/Semester 5/GIS/Github/figures/1174050/koordinat.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 4--6
 
  []
 
-<figures/1174063/koordinat.jpg, id=1533, 697.8572pt x 430.60875pt>
+<figures/1174063/koordinat.jpg, id=1592, 697.8572pt x 430.60875pt>
 File: figures/1174063/koordinat.jpg Graphic file (type jpg)
 <use figures/1174063/koordinat.jpg>
 Package pdftex.def Info: figures/1174063/koordinat.jpg  used on input line 13.
@@ -735,7 +743,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--16
 
  []
 
-<figures/1174063/utm.jpg, id=1534, 708.39656pt x 391.4625pt>
+<figures/1174063/utm.jpg, id=1593, 708.39656pt x 391.4625pt>
 File: figures/1174063/utm.jpg Graphic file (type jpg)
 <use figures/1174063/utm.jpg>
 Package pdftex.def Info: figures/1174063/utm.jpg  used on input line 19.
@@ -753,13 +761,13 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[12 <d:/Kuliah/GIS/Latex/figures/1174050/plagiarism.png> <d:/Kuliah/GIS/Latex/figures/1174063/koordinat.jpg>]
-<figures/1174063/plagiat.jpg, id=1541, 625.58719pt x 289.83281pt>
+[12 <d:/Semester 5/GIS/Github/figures/1174050/plagiarism.png> <d:/Semester 5/GIS/Github/figures/1174063/koordinat.jpg>]
+<figures/1174063/plagiat.jpg, id=1600, 625.58719pt x 289.83281pt>
 File: figures/1174063/plagiat.jpg Graphic file (type jpg)
 <use figures/1174063/plagiat.jpg>
 Package pdftex.def Info: figures/1174063/plagiat.jpg  used on input line 28.
 (pdftex.def)             Requested size: 113.81102pt x 52.72488pt.
-) (d:/Kuliah\GIS\Latex\chapters/tugas1/1174059.tex
+) ("d:/Semester 5\GIS\Github\chapters/tugas1/1174059.tex"
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
@@ -767,17 +775,17 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[13 <d:/Kuliah/GIS/Latex/figures/1174063/utm.jpg> <d:/Kuliah/GIS/Latex/figures/1174063/plagiat.jpg>]
+[13 <d:/Semester 5/GIS/Github/figures/1174063/utm.jpg> <d:/Semester 5/GIS/Github/figures/1174063/plagiat.jpg>]
 Overfull \hbox (37.36896pt too wide) in paragraph at lines 24--25
  \subsubsectionfont 1.10.1.2 Tipe Data Line[] \OT1/ptm/m/n/10 Data Line atau garis berben-tuk satu di-mensi yang menghubungkan
  []
 
-<figures/1174059/plagiarisme.png, id=1550, 662.475pt x 525.46312pt>
+<figures/1174059/plagiarisme.png, id=1609, 662.475pt x 525.46312pt>
 File: figures/1174059/plagiarisme.png Graphic file (type png)
 <use figures/1174059/plagiarisme.png>
 Package pdftex.def Info: figures/1174059/plagiarisme.png  used on input line 38.
 (pdftex.def)             Requested size: 113.81102pt x 90.26564pt.
-) (d:/Kuliah\GIS\Latex\chapters/tugas1/1174038.tex
+) ("d:/Semester 5\GIS\Github\chapters/tugas1/1174038.tex"
 Overfull \hbox (4.67682pt too wide) in paragraph at lines 5--7
 \OT1/ptm/m/n/10 tukan oleh serangka-ian angka, hu-ruf, atau sim-bol. Ko-or-di-nat ser-ing dip-ilih sedemikian
  []
@@ -790,21 +798,21 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[14 <d:/Kuliah/GIS/Latex/figures/1174059/plagiarisme.png>]
+[14 <d:/Semester 5/GIS/Github/figures/1174059/plagiarisme.png>]
 
 LaTeX Warning: File `figures/1174038/peta koordinat indonesia.png' not found on input line 10.
 
-<figures/1174038/peta koordinat indonesia.png, id=1559, 324.21124pt x 156.585pt>
+<figures/1174038/peta koordinat indonesia.png, id=1618, 324.21124pt x 156.585pt>
 File: figures/1174038/peta koordinat indonesia.png Graphic file (type png)
 <use figures/1174038/peta koordinat indonesia.png>
 Package pdftex.def Info: figures/1174038/peta koordinat indonesia.png  used on input line 10.
 (pdftex.def)             Requested size: 113.81102pt x 54.96803pt.
-<figures/1174038/plagiarism.png, id=1561, 625.73775pt x 386.04225pt>
+<figures/1174038/plagiarism.png, id=1620, 625.73775pt x 386.04225pt>
 File: figures/1174038/plagiarism.png Graphic file (type png)
 <use figures/1174038/plagiarism.png>
 Package pdftex.def Info: figures/1174038/plagiarism.png  used on input line 19.
 (pdftex.def)             Requested size: 113.81102pt x 70.20914pt.
-) (d:/Kuliah\GIS\Latex\chapters/tugas1/1174034.tex
+) ("d:/Semester 5\GIS\Github\chapters/tugas1/1174034.tex"
 Overfull \hbox (4.67682pt too wide) in paragraph at lines 5--6
 \OT1/ptm/m/n/10 tukan oleh serangka-ian angka, hu-ruf, atau sim-bol. Ko-or-di-nat ser-ing dip-ilih sedemikian
  []
@@ -817,13 +825,13 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[15 <d:/Kuliah/GIS/Latex/figures/1174038/peta koordinat indonesia.png> <d:/Kuliah/GIS/Latex/figures/1174038/plagiarism.png>]
-<figures/1174034/koordinat.png, id=1568, 767.86874pt x 402.50375pt>
+[15 <d:/Semester 5/GIS/Github/figures/1174038/peta koordinat indonesia.png> <d:/Semester 5/GIS/Github/figures/1174038/plagiarism.png>]
+<figures/1174034/koordinat.png, id=1627, 767.86874pt x 402.50375pt>
 File: figures/1174034/koordinat.png Graphic file (type png)
 <use figures/1174034/koordinat.png>
 Package pdftex.def Info: figures/1174034/koordinat.png  used on input line 9.
 (pdftex.def)             Requested size: 113.81102pt x 59.65437pt.
-<figures/1174034/plagiarism.png, id=1570, 625.73775pt x 386.04225pt>
+<figures/1174034/plagiarism.png, id=1629, 625.73775pt x 386.04225pt>
 File: figures/1174034/plagiarism.png Graphic file (type png)
 <use figures/1174034/plagiarism.png>
 Package pdftex.def Info: figures/1174034/plagiarism.png  used on input line 18.
@@ -836,10 +844,10 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[16 <d:/Kuliah/GIS/Latex/figures/1174034/koordinat.png> <d:/Kuliah/GIS/Latex/figures/1174034/plagiarism.png>]
+[16 <d:/Semester 5/GIS/Github/figures/1174034/koordinat.png> <d:/Semester 5/GIS/Github/figures/1174034/plagiarism.png>]
 Bab 2.
-(d:/Kuliah\GIS\Latex\chapters/tugas2/1174042.tex (d:/Kuliah\GIS\Latex\src/1/1174039/soal1.py)
-<figures/1174042/No1.JPG, id=1576, 265.74281pt x 206.27063pt>
+("d:/Semester 5\GIS\Github\chapters/tugas2/1174042.tex" ("d:/Semester 5\GIS\Github\src/1/1174039/soal1.py")
+<figures/1174042/No1.JPG, id=1635, 265.74281pt x 206.27063pt>
 File: figures/1174042/No1.JPG Graphic file (type jpg)
 <use figures/1174042/No1.JPG>
 Package pdftex.def Info: figures/1174042/No1.JPG  used on input line 7.
@@ -851,8 +859,8 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 7--9
 
 [17
 
-] (d:/Kuliah\GIS\Latex\src/1/1174042/No2.py)
-<figures/1174042/No2.JPG, id=1596, 225.84375pt x 185.94469pt>
+] ("d:/Semester 5\GIS\Github\src/1/1174042/No2.py")
+<figures/1174042/No2.JPG, id=1655, 225.84375pt x 185.94469pt>
 File: figures/1174042/No2.JPG Graphic file (type jpg)
 <use figures/1174042/No2.JPG>
 Package pdftex.def Info: figures/1174042/No2.JPG  used on input line 15.
@@ -873,8 +881,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[18 <d:/Kuliah/GIS/Latex/figures/1174042/No1.JPG>] (d:/Kuliah\GIS\Latex\src/1/1174042/No3.py)
-<figures/1174042/No3.JPG, id=1611, 204.01219pt x 118.19156pt>
+[18 <d:/Semester 5/GIS/Github/figures/1174042/No1.JPG>] ("d:/Semester 5\GIS\Github\src/1/1174042/No3.py")
+<figures/1174042/No3.JPG, id=1670, 204.01219pt x 118.19156pt>
 File: figures/1174042/No3.JPG Graphic file (type jpg)
 <use figures/1174042/No3.JPG>
 Package pdftex.def Info: figures/1174042/No3.JPG  used on input line 23.
@@ -895,8 +903,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[19 <d:/Kuliah/GIS/Latex/figures/1174042/No2.JPG>] (d:/Kuliah\GIS\Latex\src/1/1174042/No4.py)
-<figures/1174042/No4.JPG, id=1626, 221.32687pt x 190.46156pt>
+[19 <d:/Semester 5/GIS/Github/figures/1174042/No2.JPG>] ("d:/Semester 5\GIS\Github\src/1/1174042/No4.py")
+<figures/1174042/No4.JPG, id=1685, 221.32687pt x 190.46156pt>
 File: figures/1174042/No4.JPG Graphic file (type jpg)
 <use figures/1174042/No4.JPG>
 Package pdftex.def Info: figures/1174042/No4.JPG  used on input line 31.
@@ -917,8 +925,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[20 <d:/Kuliah/GIS/Latex/figures/1174042/No3.JPG>] (d:/Kuliah\GIS\Latex\src/1/1174042/No5.py)
-<figures/1174042/No5.JPG, id=1642, 330.48468pt x 323.70938pt>
+[20 <d:/Semester 5/GIS/Github/figures/1174042/No3.JPG>] ("d:/Semester 5\GIS\Github\src/1/1174042/No5.py")
+<figures/1174042/No5.JPG, id=1701, 330.48468pt x 323.70938pt>
 File: figures/1174042/No5.JPG Graphic file (type jpg)
 <use figures/1174042/No5.JPG>
 Package pdftex.def Info: figures/1174042/No5.JPG  used on input line 39.
@@ -939,8 +947,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[21 <d:/Kuliah/GIS/Latex/figures/1174042/No4.JPG>] (d:/Kuliah\GIS\Latex\src/1/1174042/No6.py)
-<figures/1174042/No6.JPG, id=1655, 326.72063pt x 124.96687pt>
+[21 <d:/Semester 5/GIS/Github/figures/1174042/No4.JPG>] ("d:/Semester 5\GIS\Github\src/1/1174042/No6.py")
+<figures/1174042/No6.JPG, id=1714, 326.72063pt x 124.96687pt>
 File: figures/1174042/No6.JPG Graphic file (type jpg)
 <use figures/1174042/No6.JPG>
 Package pdftex.def Info: figures/1174042/No6.JPG  used on input line 47.
@@ -961,8 +969,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[22 <d:/Kuliah/GIS/Latex/figures/1174042/No5.JPG>] (d:/Kuliah\GIS\Latex\src/1/1174042/No7.py)
-<figures/1174042/No7.JPG, id=1668, 335.75438pt x 143.78719pt>
+[22 <d:/Semester 5/GIS/Github/figures/1174042/No5.JPG>] ("d:/Semester 5\GIS\Github\src/1/1174042/No7.py")
+<figures/1174042/No7.JPG, id=1727, 335.75438pt x 143.78719pt>
 File: figures/1174042/No7.JPG Graphic file (type jpg)
 <use figures/1174042/No7.JPG>
 Package pdftex.def Info: figures/1174042/No7.JPG  used on input line 55.
@@ -972,11 +980,11 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 55--57
  [][] 
  []
 
-(d:/Kuliah\GIS\Latex\src/1/1174042/No8.py
+("d:/Semester 5\GIS\Github\src/1/1174042/No8.py"
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
- [23 <d:/Kuliah/GIS/Latex/figures/1174042/No6.JPG> <d:/Kuliah/GIS/Latex/figures/1174042/No7.JPG>])
-<figures/1174042/No8.JPG, id=1686, 318.43968pt x 120.45pt>
+ [23 <d:/Semester 5/GIS/Github/figures/1174042/No6.JPG> <d:/Semester 5/GIS/Github/figures/1174042/No7.JPG>])
+<figures/1174042/No8.JPG, id=1745, 318.43968pt x 120.45pt>
 File: figures/1174042/No8.JPG Graphic file (type jpg)
 <use figures/1174042/No8.JPG>
 Package pdftex.def Info: figures/1174042/No8.JPG  used on input line 63.
@@ -986,8 +994,8 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 63--65
  [][] 
  []
 
-(d:/Kuliah\GIS\Latex\src/1/1174042/No9.py)
-<figures/1174042/No9.JPG, id=1687, 233.37187pt x 344.03531pt>
+("d:/Semester 5\GIS\Github\src/1/1174042/No9.py")
+<figures/1174042/No9.JPG, id=1746, 233.37187pt x 344.03531pt>
 File: figures/1174042/No9.JPG Graphic file (type jpg)
 <use figures/1174042/No9.JPG>
 Package pdftex.def Info: figures/1174042/No9.JPG  used on input line 71.
@@ -1008,16 +1016,16 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[24 <d:/Kuliah/GIS/Latex/figures/1174042/No8.JPG>] (d:/Kuliah\GIS\Latex\src/1/1174042/No10.py
+[24 <d:/Semester 5/GIS/Github/figures/1174042/No8.JPG>] ("d:/Semester 5\GIS\Github\src/1/1174042/No10.py"
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
- [25 <d:/Kuliah/GIS/Latex/figures/1174042/No9.JPG>]
+ [25 <d:/Semester 5/GIS/Github/figures/1174042/No9.JPG>]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 11.
 )
-<figures/1174042/No10.JPG, id=1710, 290.58563pt x 275.52937pt>
+<figures/1174042/No10.JPG, id=1769, 290.58563pt x 275.52937pt>
 File: figures/1174042/No10.JPG Graphic file (type jpg)
 <use figures/1174042/No10.JPG>
 Package pdftex.def Info: figures/1174042/No10.JPG  used on input line 79.
@@ -1038,11 +1046,11 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[26]) (d:/Kuliah\GIS\Latex\chapters/tugas2/1174040.tex (d:/Kuliah\GIS\Latex\src/1/1174040/Soal1.py
+[26]) ("d:/Semester 5\GIS\Github\chapters/tugas2/1174040.tex" ("d:/Semester 5\GIS\Github\src/1/1174040/Soal1.py"
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
- [27 <d:/Kuliah/GIS/Latex/figures/1174042/No10.JPG>])
-<figures/1174040/Python1/Soal1.PNG, id=1741, 394.47375pt x 350.5095pt>
+ [27 <d:/Semester 5/GIS/Github/figures/1174042/No10.JPG>])
+<figures/1174040/Python1/Soal1.PNG, id=1800, 394.47375pt x 350.5095pt>
 File: figures/1174040/Python1/Soal1.PNG Graphic file (type png)
 <use figures/1174040/Python1/Soal1.PNG>
 Package pdftex.def Info: figures/1174040/Python1/Soal1.PNG  used on input line 7.
@@ -1052,8 +1060,8 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 7--9
  [][] 
  []
 
-(d:/Kuliah\GIS\Latex\src/1/1174040/Soal2.py)
-<figures/1174040/Python1/Soal2.PNG, id=1742, 354.72525pt x 324.61275pt>
+("d:/Semester 5\GIS\Github\src/1/1174040/Soal2.py")
+<figures/1174040/Python1/Soal2.PNG, id=1801, 354.72525pt x 324.61275pt>
 File: figures/1174040/Python1/Soal2.PNG Graphic file (type png)
 <use figures/1174040/Python1/Soal2.PNG>
 Package pdftex.def Info: figures/1174040/Python1/Soal2.PNG  used on input line 15.
@@ -1074,8 +1082,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[28 <d:/Kuliah/GIS/Latex/figures/1174040/Python1/Soal1.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174040/Soal3.py)
-<figures/1174040/Python1/Soal3.PNG, id=1763, 257.763pt x 233.07076pt>
+[28 <d:/Semester 5/GIS/Github/figures/1174040/Python1/Soal1.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174040/Soal3.py")
+<figures/1174040/Python1/Soal3.PNG, id=1822, 257.763pt x 233.07076pt>
 File: figures/1174040/Python1/Soal3.PNG Graphic file (type png)
 <use figures/1174040/Python1/Soal3.PNG>
 Package pdftex.def Info: figures/1174040/Python1/Soal3.PNG  used on input line 23.
@@ -1096,8 +1104,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[29 <d:/Kuliah/GIS/Latex/figures/1174040/Python1/Soal2.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174040/Soal4.py)
-<figures/1174040/Python1/Soal4.PNG, id=1780, 301.125pt x 198.7425pt>
+[29 <d:/Semester 5/GIS/Github/figures/1174040/Python1/Soal2.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174040/Soal4.py")
+<figures/1174040/Python1/Soal4.PNG, id=1839, 301.125pt x 198.7425pt>
 File: figures/1174040/Python1/Soal4.PNG Graphic file (type png)
 <use figures/1174040/Python1/Soal4.PNG>
 Package pdftex.def Info: figures/1174040/Python1/Soal4.PNG  used on input line 31.
@@ -1118,8 +1126,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[30 <d:/Kuliah/GIS/Latex/figures/1174040/Python1/Soal3.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174040/Soal5.py)
-<figures/1174040/Python1/Soal5.PNG, id=1797, 343.88475pt x 305.943pt>
+[30 <d:/Semester 5/GIS/Github/figures/1174040/Python1/Soal3.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174040/Soal5.py")
+<figures/1174040/Python1/Soal5.PNG, id=1856, 343.88475pt x 305.943pt>
 File: figures/1174040/Python1/Soal5.PNG Graphic file (type png)
 <use figures/1174040/Python1/Soal5.PNG>
 Package pdftex.def Info: figures/1174040/Python1/Soal5.PNG  used on input line 39.
@@ -1140,8 +1148,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[31 <d:/Kuliah/GIS/Latex/figures/1174040/Python1/Soal4.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174040/Soal6.py)
-<figures/1174040/Python1/Soal6.PNG, id=1812, 323.40825pt x 181.27725pt>
+[31 <d:/Semester 5/GIS/Github/figures/1174040/Python1/Soal4.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174040/Soal6.py")
+<figures/1174040/Python1/Soal6.PNG, id=1871, 323.40825pt x 181.27725pt>
 File: figures/1174040/Python1/Soal6.PNG Graphic file (type png)
 <use figures/1174040/Python1/Soal6.PNG>
 Package pdftex.def Info: figures/1174040/Python1/Soal6.PNG  used on input line 47.
@@ -1162,8 +1170,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[32 <d:/Kuliah/GIS/Latex/figures/1174040/Python1/Soal5.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174040/Soal7.py)
-<figures/1174040/Python1/Soal7.PNG, id=1828, 554.67226pt x 188.50426pt>
+[32 <d:/Semester 5/GIS/Github/figures/1174040/Python1/Soal5.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174040/Soal7.py")
+<figures/1174040/Python1/Soal7.PNG, id=1887, 554.67226pt x 188.50426pt>
 File: figures/1174040/Python1/Soal7.PNG Graphic file (type png)
 <use figures/1174040/Python1/Soal7.PNG>
 Package pdftex.def Info: figures/1174040/Python1/Soal7.PNG  used on input line 55.
@@ -1173,11 +1181,11 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 55--57
  [][] 
  []
 
-(d:/Kuliah\GIS\Latex\src/1/1174040/Soal8.py
+("d:/Semester 5\GIS\Github\src/1/1174040/Soal8.py"
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
- [33 <d:/Kuliah/GIS/Latex/figures/1174040/Python1/Soal6.PNG> <d:/Kuliah/GIS/Latex/figures/1174040/Python1/Soal7.PNG>])
-<figures/1174040/Python1/Soal8.PNG, id=1847, 346.29375pt x 129.48375pt>
+ [33 <d:/Semester 5/GIS/Github/figures/1174040/Python1/Soal6.PNG> <d:/Semester 5/GIS/Github/figures/1174040/Python1/Soal7.PNG>])
+<figures/1174040/Python1/Soal8.PNG, id=1906, 346.29375pt x 129.48375pt>
 File: figures/1174040/Python1/Soal8.PNG Graphic file (type png)
 <use figures/1174040/Python1/Soal8.PNG>
 Package pdftex.def Info: figures/1174040/Python1/Soal8.PNG  used on input line 63.
@@ -1187,8 +1195,8 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 63--65
  [][] 
  []
 
-(d:/Kuliah\GIS\Latex\src/1/1174040/Soal9.py)
-<figures/1174040/Python1/Soal9.PNG, id=1848, 355.3275pt x 360.74776pt>
+("d:/Semester 5\GIS\Github\src/1/1174040/Soal9.py")
+<figures/1174040/Python1/Soal9.PNG, id=1907, 355.3275pt x 360.74776pt>
 File: figures/1174040/Python1/Soal9.PNG Graphic file (type png)
 <use figures/1174040/Python1/Soal9.PNG>
 Package pdftex.def Info: figures/1174040/Python1/Soal9.PNG  used on input line 71.
@@ -1209,11 +1217,11 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[34 <d:/Kuliah/GIS/Latex/figures/1174040/Python1/Soal8.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174040/SoalMod.py
+[34 <d:/Semester 5/GIS/Github/figures/1174040/Python1/Soal8.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174040/SoalMod.py"
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
- [35 <d:/Kuliah/GIS/Latex/figures/1174040/Python1/Soal9.PNG>])
-<figures/1174040/Python1/SoalMod.PNG, id=1889, 277.035pt x 305.34074pt>
+ [35 <d:/Semester 5/GIS/Github/figures/1174040/Python1/Soal9.PNG>])
+<figures/1174040/Python1/SoalMod.PNG, id=1948, 277.035pt x 305.34074pt>
 File: figures/1174040/Python1/SoalMod.PNG Graphic file (type png)
 <use figures/1174040/Python1/SoalMod.PNG>
 Package pdftex.def Info: figures/1174040/Python1/SoalMod.PNG  used on input line 79.
@@ -1223,7 +1231,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 79--81
  [][] 
  []
 
-) (d:/Kuliah\GIS\Latex\chapters/tugas2/1174039.tex
+) ("d:/Semester 5\GIS\Github\chapters/tugas2/1174039.tex"
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -1234,8 +1242,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[36 <d:/Kuliah/GIS/Latex/figures/1174040/Python1/SoalMod.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174039/soal1.py)
-<figures/1174039/gambar/hasil1.PNG, id=1898, 601.4972pt x 341.77687pt>
+[36 <d:/Semester 5/GIS/Github/figures/1174040/Python1/SoalMod.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174039/soal1.py")
+<figures/1174039/gambar/hasil1.PNG, id=1957, 601.4972pt x 341.77687pt>
 File: figures/1174039/gambar/hasil1.PNG Graphic file (type png)
 <use figures/1174039/gambar/hasil1.PNG>
 Package pdftex.def Info: figures/1174039/gambar/hasil1.PNG  used on input line 7.
@@ -1245,11 +1253,11 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 7--9
  [][] 
  []
 
-(d:/Kuliah\GIS\Latex\src/1/1174039/soal2.py
+("d:/Semester 5\GIS\Github\src/1/1174039/soal2.py"
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
- [37 <d:/Kuliah/GIS/Latex/figures/1174039/gambar/hasil1.PNG>])
-<figures/1174039/gambar/hasil2.PNG, id=1927, 605.26125pt x 346.29375pt>
+ [37 <d:/Semester 5/GIS/Github/figures/1174039/gambar/hasil1.PNG>])
+<figures/1174039/gambar/hasil2.PNG, id=1986, 605.26125pt x 346.29375pt>
 File: figures/1174039/gambar/hasil2.PNG Graphic file (type png)
 <use figures/1174039/gambar/hasil2.PNG>
 Package pdftex.def Info: figures/1174039/gambar/hasil2.PNG  used on input line 15.
@@ -1259,8 +1267,8 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 15--17
  [][] 
  []
 
-(d:/Kuliah\GIS\Latex\src/1/1174039/soal3.py)
-<figures/1174039/gambar/hasil3.PNG, id=1928, 649.67719pt x 344.03531pt>
+("d:/Semester 5\GIS\Github\src/1/1174039/soal3.py")
+<figures/1174039/gambar/hasil3.PNG, id=1987, 649.67719pt x 344.03531pt>
 File: figures/1174039/gambar/hasil3.PNG Graphic file (type png)
 <use figures/1174039/gambar/hasil3.PNG>
 Package pdftex.def Info: figures/1174039/gambar/hasil3.PNG  used on input line 23.
@@ -1278,8 +1286,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[38 <d:/Kuliah/GIS/Latex/figures/1174039/gambar/hasil2.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174039/soal4.py)
-<figures/1174039/gambar/hasil4.PNG, id=1959, 654.19406pt x 350.05782pt>
+[38 <d:/Semester 5/GIS/Github/figures/1174039/gambar/hasil2.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174039/soal4.py")
+<figures/1174039/gambar/hasil4.PNG, id=2018, 654.19406pt x 350.05782pt>
 File: figures/1174039/gambar/hasil4.PNG Graphic file (type png)
 <use figures/1174039/gambar/hasil4.PNG>
 Package pdftex.def Info: figures/1174039/gambar/hasil4.PNG  used on input line 31.
@@ -1300,8 +1308,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[39 <d:/Kuliah/GIS/Latex/figures/1174039/gambar/hasil3.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174039/soal5.py)
-<figures/1174039/gambar/hasil5.PNG, id=1980, 796.47563pt x 444.91219pt>
+[39 <d:/Semester 5/GIS/Github/figures/1174039/gambar/hasil3.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174039/soal5.py")
+<figures/1174039/gambar/hasil5.PNG, id=2039, 796.47563pt x 444.91219pt>
 File: figures/1174039/gambar/hasil5.PNG Graphic file (type png)
 <use figures/1174039/gambar/hasil5.PNG>
 Package pdftex.def Info: figures/1174039/gambar/hasil5.PNG  used on input line 39.
@@ -1322,8 +1330,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[40 <d:/Kuliah/GIS/Latex/figures/1174039/gambar/hasil4.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174039/soal6.py)
-<figures/1174039/gambar/hasil6.PNG, id=1998, 800.9925pt x 331.99031pt>
+[40 <d:/Semester 5/GIS/Github/figures/1174039/gambar/hasil4.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174039/soal6.py")
+<figures/1174039/gambar/hasil6.PNG, id=2057, 800.9925pt x 331.99031pt>
 File: figures/1174039/gambar/hasil6.PNG Graphic file (type png)
 <use figures/1174039/gambar/hasil6.PNG>
 Package pdftex.def Info: figures/1174039/gambar/hasil6.PNG  used on input line 47.
@@ -1344,8 +1352,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[41 <d:/Kuliah/GIS/Latex/figures/1174039/gambar/hasil5.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174039/soal7.py)
-<figures/1174039/gambar/hasil7.PNG, id=2018, 799.48688pt x 371.13657pt>
+[41 <d:/Semester 5/GIS/Github/figures/1174039/gambar/hasil5.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174039/soal7.py")
+<figures/1174039/gambar/hasil7.PNG, id=2077, 799.48688pt x 371.13657pt>
 File: figures/1174039/gambar/hasil7.PNG Graphic file (type png)
 <use figures/1174039/gambar/hasil7.PNG>
 Package pdftex.def Info: figures/1174039/gambar/hasil7.PNG  used on input line 55.
@@ -1355,10 +1363,10 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 55--57
  [][] 
  []
 
-(d:/Kuliah\GIS\Latex\src/1/1174039/soal8.py
+("d:/Semester 5\GIS\Github\src/1/1174039/soal8.py"
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
- [42 <d:/Kuliah/GIS/Latex/figures/1174039/gambar/hasil6.PNG> <d:/Kuliah/GIS/Latex/figures/1174039/gambar/hasil7.PNG>])
+ [42 <d:/Semester 5/GIS/Github/figures/1174039/gambar/hasil6.PNG> <d:/Semester 5/GIS/Github/figures/1174039/gambar/hasil7.PNG>])
 File: figures/1174039/gambar/hasil1.PNG Graphic file (type png)
 <use figures/1174039/gambar/hasil1.PNG>
 Package pdftex.def Info: figures/1174039/gambar/hasil1.PNG  used on input line 63.
@@ -1368,11 +1376,11 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 63--65
  [][] 
  []
 
-(d:/Kuliah\GIS\Latex\src/1/1174039/soal9.py
+("d:/Semester 5\GIS\Github\src/1/1174039/soal9.py"
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [43])
-<figures/1174039/gambar/hasil9.PNG, id=2064, 779.16093pt x 435.87843pt>
+<figures/1174039/gambar/hasil9.PNG, id=2123, 779.16093pt x 435.87843pt>
 File: figures/1174039/gambar/hasil9.PNG Graphic file (type png)
 <use figures/1174039/gambar/hasil9.PNG>
 Package pdftex.def Info: figures/1174039/gambar/hasil9.PNG  used on input line 71.
@@ -1382,11 +1390,11 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 71--73
  [][] 
  []
 
-(d:/Kuliah\GIS\Latex\src/1/1174039/soal10.py
+("d:/Semester 5\GIS\Github\src/1/1174039/soal10.py"
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
- [44 <d:/Kuliah/GIS/Latex/figures/1174039/gambar/hasil9.PNG>])
-<figures/1174039/gambar/hasil10.PNG, id=2092, 1028.34187pt x 365.86688pt>
+ [44 <d:/Semester 5/GIS/Github/figures/1174039/gambar/hasil9.PNG>])
+<figures/1174039/gambar/hasil10.PNG, id=2151, 1028.34187pt x 365.86688pt>
 File: figures/1174039/gambar/hasil10.PNG Graphic file (type png)
 <use figures/1174039/gambar/hasil10.PNG>
 Package pdftex.def Info: figures/1174039/gambar/hasil10.PNG  used on input line 79.
@@ -1396,8 +1404,8 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 79--81
  [][] 
  []
 
-) (d:/Kuliah\GIS\Latex\chapters/tugas2/1174043.tex (d:/Kuliah\GIS\Latex\src/1/1174043/nomor1.py)
-<figures/1174043/1.jpg, id=2094, 215.6055pt x 204.16275pt>
+) ("d:/Semester 5\GIS\Github\chapters/tugas2/1174043.tex" ("d:/Semester 5\GIS\Github\src/1/1174043/nomor1.py")
+<figures/1174043/1.jpg, id=2153, 215.6055pt x 204.16275pt>
 File: figures/1174043/1.jpg Graphic file (type jpg)
 <use figures/1174043/1.jpg>
 Package pdftex.def Info: figures/1174043/1.jpg  used on input line 7.
@@ -1415,8 +1423,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[45 <d:/Kuliah/GIS/Latex/figures/1174039/gambar/hasil10.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174043/nomor2.py)
-<figures/1174043/2.jpg, id=2122, 296.90926pt x 285.4665pt>
+[45 <d:/Semester 5/GIS/Github/figures/1174039/gambar/hasil10.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174043/nomor2.py")
+<figures/1174043/2.jpg, id=2181, 296.90926pt x 285.4665pt>
 File: figures/1174043/2.jpg Graphic file (type jpg)
 <use figures/1174043/2.jpg>
 Package pdftex.def Info: figures/1174043/2.jpg  used on input line 15.
@@ -1437,8 +1445,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[46 <d:/Kuliah/GIS/Latex/figures/1174043/1.jpg>] (d:/Kuliah\GIS\Latex\src/1/1174043/nomor3.py)
-<figures/1174043/3.jpg, id=2142, 509.5035pt x 262.581pt>
+[46 <d:/Semester 5/GIS/Github/figures/1174043/1.jpg>] ("d:/Semester 5\GIS\Github\src/1/1174043/nomor3.py")
+<figures/1174043/3.jpg, id=2201, 509.5035pt x 262.581pt>
 File: figures/1174043/3.jpg Graphic file (type jpg)
 <use figures/1174043/3.jpg>
 Package pdftex.def Info: figures/1174043/3.jpg  used on input line 23.
@@ -1459,8 +1467,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[47 <d:/Kuliah/GIS/Latex/figures/1174043/2.jpg>] (d:/Kuliah\GIS\Latex\src/1/1174043/nomor4.py)
-<figures/1174043/4.jpg, id=2162, 258.9675pt x 258.9675pt>
+[47 <d:/Semester 5/GIS/Github/figures/1174043/2.jpg>] ("d:/Semester 5\GIS\Github\src/1/1174043/nomor4.py")
+<figures/1174043/4.jpg, id=2221, 258.9675pt x 258.9675pt>
 File: figures/1174043/4.jpg Graphic file (type jpg)
 <use figures/1174043/4.jpg>
 Package pdftex.def Info: figures/1174043/4.jpg  used on input line 31.
@@ -1481,8 +1489,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[48 <d:/Kuliah/GIS/Latex/figures/1174043/3.jpg>] (d:/Kuliah\GIS\Latex\src/1/1174043/nomor5.py)
-<figures/1174043/5.jpg, id=2182, 271.61475pt x 266.1945pt>
+[48 <d:/Semester 5/GIS/Github/figures/1174043/3.jpg>] ("d:/Semester 5\GIS\Github\src/1/1174043/nomor5.py")
+<figures/1174043/5.jpg, id=2241, 271.61475pt x 266.1945pt>
 File: figures/1174043/5.jpg Graphic file (type jpg)
 <use figures/1174043/5.jpg>
 Package pdftex.def Info: figures/1174043/5.jpg  used on input line 39.
@@ -1503,8 +1511,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[49 <d:/Kuliah/GIS/Latex/figures/1174043/4.jpg>] (d:/Kuliah\GIS\Latex\src/1/1174043/nomor6.py)
-<figures/1174043/6.jpg, id=2200, 302.3295pt x 91.542pt>
+[49 <d:/Semester 5/GIS/Github/figures/1174043/4.jpg>] ("d:/Semester 5\GIS\Github\src/1/1174043/nomor6.py")
+<figures/1174043/6.jpg, id=2259, 302.3295pt x 91.542pt>
 File: figures/1174043/6.jpg Graphic file (type jpg)
 <use figures/1174043/6.jpg>
 Package pdftex.def Info: figures/1174043/6.jpg  used on input line 47.
@@ -1525,8 +1533,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[50 <d:/Kuliah/GIS/Latex/figures/1174043/5.jpg>] (d:/Kuliah\GIS\Latex\src/1/1174043/nomor7.py)
-<figures/1174043/7.jpg, id=2219, 272.81924pt x 98.16675pt>
+[50 <d:/Semester 5/GIS/Github/figures/1174043/5.jpg>] ("d:/Semester 5\GIS\Github\src/1/1174043/nomor7.py")
+<figures/1174043/7.jpg, id=2278, 272.81924pt x 98.16675pt>
 File: figures/1174043/7.jpg Graphic file (type jpg)
 <use figures/1174043/7.jpg>
 Package pdftex.def Info: figures/1174043/7.jpg  used on input line 55.
@@ -1536,11 +1544,11 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 55--57
  [][] 
  []
 
-(d:/Kuliah\GIS\Latex\src/1/1174043/nomor8.py
+("d:/Semester 5\GIS\Github\src/1/1174043/nomor8.py"
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
- [51 <d:/Kuliah/GIS/Latex/figures/1174043/6.jpg> <d:/Kuliah/GIS/Latex/figures/1174043/7.jpg>])
-<figures/1174043/8.jpg, id=2246, 263.7855pt x 90.3375pt>
+ [51 <d:/Semester 5/GIS/Github/figures/1174043/6.jpg> <d:/Semester 5/GIS/Github/figures/1174043/7.jpg>])
+<figures/1174043/8.jpg, id=2305, 263.7855pt x 90.3375pt>
 File: figures/1174043/8.jpg Graphic file (type jpg)
 <use figures/1174043/8.jpg>
 Package pdftex.def Info: figures/1174043/8.jpg  used on input line 63.
@@ -1550,8 +1558,8 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 63--65
  [][] 
  []
 
-(d:/Kuliah\GIS\Latex\src/1/1174043/nomor9.py)
-<figures/1174043/9.jpg, id=2247, 280.04625pt x 447.47176pt>
+("d:/Semester 5\GIS\Github\src/1/1174043/nomor9.py")
+<figures/1174043/9.jpg, id=2306, 280.04625pt x 447.47176pt>
 File: figures/1174043/9.jpg Graphic file (type jpg)
 <use figures/1174043/9.jpg>
 Package pdftex.def Info: figures/1174043/9.jpg  used on input line 71.
@@ -1572,7 +1580,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[52 <d:/Kuliah/GIS/Latex/figures/1174043/8.jpg>]
+[52 <d:/Semester 5/GIS/Github/figures/1174043/8.jpg>]
 Overfull \vbox (26.76466pt too high) has occurred while \output is active []
 
 
@@ -1583,8 +1591,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[53 <d:/Kuliah/GIS/Latex/figures/1174043/9.jpg>] (d:/Kuliah\GIS\Latex\src/1/1174043/nomor10.py)
-<figures/1174043/10.jpg, id=2275, 210.7875pt x 334.24875pt>
+[53 <d:/Semester 5/GIS/Github/figures/1174043/9.jpg>] ("d:/Semester 5\GIS\Github\src/1/1174043/nomor10.py")
+<figures/1174043/10.jpg, id=2334, 210.7875pt x 334.24875pt>
 File: figures/1174043/10.jpg Graphic file (type jpg)
 <use figures/1174043/10.jpg>
 Package pdftex.def Info: figures/1174043/10.jpg  used on input line 79.
@@ -1616,8 +1624,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[55 <d:/Kuliah/GIS/Latex/figures/1174043/10.jpg>]) (d:/Kuliah\GIS\Latex\chapters/tugas2/1174035.tex (d:/Kuliah\GIS\Latex\src/1/1174035/tugas2/praktek1_pyshp.py)
-<figures/1174035/tugas2/soal_1.png, id=2304, 287.57437pt x 267.24844pt>
+[55 <d:/Semester 5/GIS/Github/figures/1174043/10.jpg>]) ("d:/Semester 5\GIS\Github\chapters/tugas2/1174035.tex" ("d:/Semester 5\GIS\Github\src/1/1174035/tugas2/praktek1_pyshp.py")
+<figures/1174035/tugas2/soal_1.png, id=2363, 287.57437pt x 267.24844pt>
 File: figures/1174035/tugas2/soal_1.png Graphic file (type png)
 <use figures/1174035/tugas2/soal_1.png>
 Package pdftex.def Info: figures/1174035/tugas2/soal_1.png  used on input line 7.
@@ -1630,32 +1638,32 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[56 <d:/Kuliah/GIS/Latex/figures/1174035/tugas2/soal_1.png>] (d:/Kuliah\GIS\Latex\src/1/1174035/tugas2/praktek2_pyshp.py)
-<figures/1174035/tugas2/soal_2.png, id=2323, 295.85532pt x 258.9675pt>
+[56 <d:/Semester 5/GIS/Github/figures/1174035/tugas2/soal_1.png>] ("d:/Semester 5\GIS\Github\src/1/1174035/tugas2/praktek2_pyshp.py")
+<figures/1174035/tugas2/soal_2.png, id=2382, 295.85532pt x 258.9675pt>
 File: figures/1174035/tugas2/soal_2.png Graphic file (type png)
 <use figures/1174035/tugas2/soal_2.png>
 Package pdftex.def Info: figures/1174035/tugas2/soal_2.png  used on input line 14.
 (pdftex.def)             Requested size: 170.71652pt x 149.43465pt.
- (d:/Kuliah\GIS\Latex\src/1/1174035/tugas2/praktek3_pyshp.py
+ ("d:/Semester 5\GIS\Github\src/1/1174035/tugas2/praktek3_pyshp.py"
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
- [57 <d:/Kuliah/GIS/Latex/figures/1174035/tugas2/soal_2.png>])
-<figures/1174035/tugas2/soal_3.png, id=2344, 277.78781pt x 258.9675pt>
+ [57 <d:/Semester 5/GIS/Github/figures/1174035/tugas2/soal_2.png>])
+<figures/1174035/tugas2/soal_3.png, id=2403, 277.78781pt x 258.9675pt>
 File: figures/1174035/tugas2/soal_3.png Graphic file (type png)
 <use figures/1174035/tugas2/soal_3.png>
 Package pdftex.def Info: figures/1174035/tugas2/soal_3.png  used on input line 21.
 (pdftex.def)             Requested size: 170.71652pt x 159.15143pt.
- (d:/Kuliah\GIS\Latex\src/1/1174035/tugas2/praktek4_pyshp.py
+ ("d:/Semester 5\GIS\Github\src/1/1174035/tugas2/praktek4_pyshp.py"
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
- [58 <d:/Kuliah/GIS/Latex/figures/1174035/tugas2/soal_3.png>])
-<figures/1174035/tugas2/soal_4.png, id=2364, 298.11375pt x 260.47313pt>
+ [58 <d:/Semester 5/GIS/Github/figures/1174035/tugas2/soal_3.png>])
+<figures/1174035/tugas2/soal_4.png, id=2423, 298.11375pt x 260.47313pt>
 File: figures/1174035/tugas2/soal_4.png Graphic file (type png)
 <use figures/1174035/tugas2/soal_4.png>
 Package pdftex.def Info: figures/1174035/tugas2/soal_4.png  used on input line 28.
 (pdftex.def)             Requested size: 170.71652pt x 149.16278pt.
- (d:/Kuliah\GIS\Latex\src/1/1174035/tugas2/praktek5_pyshp.py)
-<figures/1174035/tugas2/soal_5.png, id=2365, 267.24844pt x 257.46187pt>
+ ("d:/Semester 5\GIS\Github\src/1/1174035/tugas2/praktek5_pyshp.py")
+<figures/1174035/tugas2/soal_5.png, id=2424, 267.24844pt x 257.46187pt>
 File: figures/1174035/tugas2/soal_5.png Graphic file (type png)
 <use figures/1174035/tugas2/soal_5.png>
 Package pdftex.def Info: figures/1174035/tugas2/soal_5.png  used on input line 35.
@@ -1671,23 +1679,23 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[59 <d:/Kuliah/GIS/Latex/figures/1174035/tugas2/soal_4.png>] (d:/Kuliah\GIS\Latex\src/1/1174035/tugas2/praktek6_pyshp.py)
-<figures/1174035/tugas2/soal_6.png, id=2384, 573.64313pt x 173.14688pt>
+[59 <d:/Semester 5/GIS/Github/figures/1174035/tugas2/soal_4.png>] ("d:/Semester 5\GIS\Github\src/1/1174035/tugas2/praktek6_pyshp.py")
+<figures/1174035/tugas2/soal_6.png, id=2443, 573.64313pt x 173.14688pt>
 File: figures/1174035/tugas2/soal_6.png Graphic file (type png)
 <use figures/1174035/tugas2/soal_6.png>
 Package pdftex.def Info: figures/1174035/tugas2/soal_6.png  used on input line 42.
 (pdftex.def)             Requested size: 170.71652pt x 51.52702pt.
- (d:/Kuliah\GIS\Latex\src/1/1174035/tugas2/praktek7_pyshp.py
+ ("d:/Semester 5\GIS\Github\src/1/1174035/tugas2/praktek7_pyshp.py"
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
- [60 <d:/Kuliah/GIS/Latex/figures/1174035/tugas2/soal_5.png> <d:/Kuliah/GIS/Latex/figures/1174035/tugas2/soal_6.png>])
-<figures/1174035/tugas2/soal_7.png, id=2401, 562.35094pt x 193.47281pt>
+ [60 <d:/Semester 5/GIS/Github/figures/1174035/tugas2/soal_5.png> <d:/Semester 5/GIS/Github/figures/1174035/tugas2/soal_6.png>])
+<figures/1174035/tugas2/soal_7.png, id=2460, 562.35094pt x 193.47281pt>
 File: figures/1174035/tugas2/soal_7.png Graphic file (type png)
 <use figures/1174035/tugas2/soal_7.png>
 Package pdftex.def Info: figures/1174035/tugas2/soal_7.png  used on input line 49.
 (pdftex.def)             Requested size: 170.71652pt x 58.7331pt.
- (d:/Kuliah\GIS\Latex\src/1/1174035/tugas2/praktek8_pyshp.py)
-<figures/1174035/tugas2/soal_8.png, id=2402, 567.62062pt x 197.98969pt>
+ ("d:/Semester 5\GIS\Github\src/1/1174035/tugas2/praktek8_pyshp.py")
+<figures/1174035/tugas2/soal_8.png, id=2461, 567.62062pt x 197.98969pt>
 File: figures/1174035/tugas2/soal_8.png Graphic file (type png)
 <use figures/1174035/tugas2/soal_8.png>
 Package pdftex.def Info: figures/1174035/tugas2/soal_8.png  used on input line 56.
@@ -1703,8 +1711,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[61 <d:/Kuliah/GIS/Latex/figures/1174035/tugas2/soal_7.png>] (d:/Kuliah\GIS\Latex\src/1/1174035/tugas2/praktek9_pyshp.py)
-<figures/1174035/tugas2/soal_9.png, id=2423, 262.73157pt x 256.70906pt>
+[61 <d:/Semester 5/GIS/Github/figures/1174035/tugas2/soal_7.png>] ("d:/Semester 5\GIS\Github\src/1/1174035/tugas2/praktek9_pyshp.py")
+<figures/1174035/tugas2/soal_9.png, id=2482, 262.73157pt x 256.70906pt>
 File: figures/1174035/tugas2/soal_9.png Graphic file (type png)
 <use figures/1174035/tugas2/soal_9.png>
 Package pdftex.def Info: figures/1174035/tugas2/soal_9.png  used on input line 63.
@@ -1717,17 +1725,17 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[62 <d:/Kuliah/GIS/Latex/figures/1174035/tugas2/soal_8.png> <d:/Kuliah/GIS/Latex/figures/1174035/tugas2/soal_9.png>] (d:/Kuliah\GIS\Latex\src/1/1174035/tugas2/praktek10_pyshp.py)
-<figures/1174035/tugas2/soal_10.png, id=2440, 580.41844pt x 259.7203pt>
+[62 <d:/Semester 5/GIS/Github/figures/1174035/tugas2/soal_8.png> <d:/Semester 5/GIS/Github/figures/1174035/tugas2/soal_9.png>] ("d:/Semester 5\GIS\Github\src/1/1174035/tugas2/praktek10_pyshp.py")
+<figures/1174035/tugas2/soal_10.png, id=2499, 580.41844pt x 259.7203pt>
 File: figures/1174035/tugas2/soal_10.png Graphic file (type png)
 <use figures/1174035/tugas2/soal_10.png>
 Package pdftex.def Info: figures/1174035/tugas2/soal_10.png  used on input line 70.
 (pdftex.def)             Requested size: 170.71652pt x 76.39093pt.
-) (d:/Kuliah\GIS\Latex\chapters/tugas2/1174050.tex (d:/Kuliah\GIS\Latex\src/1/1174050/1.py
+) ("d:/Semester 5\GIS\Github\chapters/tugas2/1174050.tex" ("d:/Semester 5\GIS\Github\src/1/1174050/1.py"
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
- [63 <d:/Kuliah/GIS/Latex/figures/1174035/tugas2/soal_10.png>])
-<figures/1174050/1.PNG, id=2462, 177.0615pt x 113.82526pt>
+ [63 <d:/Semester 5/GIS/Github/figures/1174035/tugas2/soal_10.png>])
+<figures/1174050/1.PNG, id=2521, 177.0615pt x 113.82526pt>
 File: figures/1174050/1.PNG Graphic file (type png)
 <use figures/1174050/1.PNG>
 Package pdftex.def Info: figures/1174050/1.PNG  used on input line 7.
@@ -1737,11 +1745,11 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 7--9
  [][] 
  []
 
-(d:/Kuliah\GIS\Latex\src/1/1174050/2.py
+("d:/Semester 5\GIS\Github\src/1/1174050/2.py"
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
- [64 <d:/Kuliah/GIS/Latex/figures/1174050/1.PNG>])
-<figures/1174050/2.PNG, id=2493, 215.00325pt x 152.36925pt>
+ [64 <d:/Semester 5/GIS/Github/figures/1174050/1.PNG>])
+<figures/1174050/2.PNG, id=2552, 215.00325pt x 152.36925pt>
 File: figures/1174050/2.PNG Graphic file (type png)
 <use figures/1174050/2.PNG>
 Package pdftex.def Info: figures/1174050/2.PNG  used on input line 15.
@@ -1751,11 +1759,11 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 15--17
  [][] 
  []
 
-(d:/Kuliah\GIS\Latex\src/1/1174050/3.py
+("d:/Semester 5\GIS\Github\src/1/1174050/3.py"
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
- [65 <d:/Kuliah/GIS/Latex/figures/1174050/2.PNG>])
-<figures/1174050/3.PNG, id=2520, 199.34476pt x 116.8365pt>
+ [65 <d:/Semester 5/GIS/Github/figures/1174050/2.PNG>])
+<figures/1174050/3.PNG, id=2579, 199.34476pt x 116.8365pt>
 File: figures/1174050/3.PNG Graphic file (type png)
 <use figures/1174050/3.PNG>
 Package pdftex.def Info: figures/1174050/3.PNG  used on input line 23.
@@ -1765,8 +1773,8 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 23--25
  [][] 
  []
 
-(d:/Kuliah\GIS\Latex\src/1/1174050/4.py)
-<figures/1174050/4.PNG, id=2521, 148.75575pt x 138.5175pt>
+("d:/Semester 5\GIS\Github\src/1/1174050/4.py")
+<figures/1174050/4.PNG, id=2580, 148.75575pt x 138.5175pt>
 File: figures/1174050/4.PNG Graphic file (type png)
 <use figures/1174050/4.PNG>
 Package pdftex.def Info: figures/1174050/4.PNG  used on input line 31.
@@ -1787,8 +1795,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[66 <d:/Kuliah/GIS/Latex/figures/1174050/3.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174050/5.py)
-<figures/1174050/5.PNG, id=2546, 299.31825pt x 261.97874pt>
+[66 <d:/Semester 5/GIS/Github/figures/1174050/3.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174050/5.py")
+<figures/1174050/5.PNG, id=2605, 299.31825pt x 261.97874pt>
 File: figures/1174050/5.PNG Graphic file (type png)
 <use figures/1174050/5.PNG>
 Package pdftex.def Info: figures/1174050/5.PNG  used on input line 39.
@@ -1806,8 +1814,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[67 <d:/Kuliah/GIS/Latex/figures/1174050/4.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174050/6.py)
-<figures/1174050/6.PNG, id=2567, 263.7855pt x 73.4745pt>
+[67 <d:/Semester 5/GIS/Github/figures/1174050/4.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174050/6.py")
+<figures/1174050/6.PNG, id=2626, 263.7855pt x 73.4745pt>
 File: figures/1174050/6.PNG Graphic file (type png)
 <use figures/1174050/6.PNG>
 Package pdftex.def Info: figures/1174050/6.PNG  used on input line 47.
@@ -1828,8 +1836,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[68 <d:/Kuliah/GIS/Latex/figures/1174050/5.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174050/7.py)
-<figures/1174050/7.PNG, id=2589, 354.123pt x 181.8795pt>
+[68 <d:/Semester 5/GIS/Github/figures/1174050/5.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174050/7.py")
+<figures/1174050/7.PNG, id=2648, 354.123pt x 181.8795pt>
 File: figures/1174050/7.PNG Graphic file (type png)
 <use figures/1174050/7.PNG>
 Package pdftex.def Info: figures/1174050/7.PNG  used on input line 55.
@@ -1839,11 +1847,11 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 55--57
  [][] 
  []
 
-(d:/Kuliah\GIS\Latex\src/1/1174050/8.py
+("d:/Semester 5\GIS\Github\src/1/1174050/8.py"
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
- [69 <d:/Kuliah/GIS/Latex/figures/1174050/6.PNG> <d:/Kuliah/GIS/Latex/figures/1174050/7.PNG>])
-<figures/1174050/8.PNG, id=2612, 291.489pt x 156.585pt>
+ [69 <d:/Semester 5/GIS/Github/figures/1174050/6.PNG> <d:/Semester 5/GIS/Github/figures/1174050/7.PNG>])
+<figures/1174050/8.PNG, id=2671, 291.489pt x 156.585pt>
 File: figures/1174050/8.PNG Graphic file (type png)
 <use figures/1174050/8.PNG>
 Package pdftex.def Info: figures/1174050/8.PNG  used on input line 63.
@@ -1853,11 +1861,11 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 63--65
  [][] 
  []
 
-(d:/Kuliah\GIS\Latex\src/1/1174050/9.py
+("d:/Semester 5\GIS\Github\src/1/1174050/9.py"
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
- [70 <d:/Kuliah/GIS/Latex/figures/1174050/8.PNG>])
-<figures/1174050/9.PNG, id=2644, 120.45pt x 133.09724pt>
+ [70 <d:/Semester 5/GIS/Github/figures/1174050/8.PNG>])
+<figures/1174050/9.PNG, id=2703, 120.45pt x 133.09724pt>
 File: figures/1174050/9.PNG Graphic file (type png)
 <use figures/1174050/9.PNG>
 Package pdftex.def Info: figures/1174050/9.PNG  used on input line 71.
@@ -1867,11 +1875,11 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 71--73
  [][] 
  []
 
-(d:/Kuliah\GIS\Latex\src/1/1174050/10.py
+("d:/Semester 5\GIS\Github\src/1/1174050/10.py"
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
- [71 <d:/Kuliah/GIS/Latex/figures/1174050/9.PNG>])
-<figures/1174050/10.PNG, id=2656, 407.72325pt x 258.9675pt>
+ [71 <d:/Semester 5/GIS/Github/figures/1174050/9.PNG>])
+<figures/1174050/10.PNG, id=2715, 407.72325pt x 258.9675pt>
 File: figures/1174050/10.PNG Graphic file (type png)
 <use figures/1174050/10.PNG>
 Package pdftex.def Info: figures/1174050/10.PNG  used on input line 79.
@@ -1892,8 +1900,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[72]) (d:/Kuliah\GIS\Latex\chapters/tugas2/1174059.tex (d:/Kuliah\GIS\Latex\src/1/1174059/pyshp1.py)
-<figures/1174059/Python1/soal1.PNG, id=2684, 469.00218pt x 490.08093pt>
+[72]) ("d:/Semester 5\GIS\Github\chapters/tugas2/1174059.tex" ("d:/Semester 5\GIS\Github\src/1/1174059/pyshp1.py")
+<figures/1174059/Python1/soal1.PNG, id=2743, 469.00218pt x 490.08093pt>
 File: figures/1174059/Python1/soal1.PNG Graphic file (type png)
 <use figures/1174059/Python1/soal1.PNG>
 Package pdftex.def Info: figures/1174059/Python1/soal1.PNG  used on input line 7.
@@ -1914,8 +1922,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[73 <d:/Kuliah/GIS/Latex/figures/1174050/10.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174059/pyshp2.py)
-<figures/1174059/Python1/soal2.PNG, id=2704, 150.5625pt x 167.12437pt>
+[73 <d:/Semester 5/GIS/Github/figures/1174050/10.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174059/pyshp2.py")
+<figures/1174059/Python1/soal2.PNG, id=2763, 150.5625pt x 167.12437pt>
 File: figures/1174059/Python1/soal2.PNG Graphic file (type png)
 <use figures/1174059/Python1/soal2.PNG>
 Package pdftex.def Info: figures/1174059/Python1/soal2.PNG  used on input line 15.
@@ -1933,11 +1941,11 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[74 <d:/Kuliah/GIS/Latex/figures/1174059/Python1/soal1.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174059/pyshp3.py
+[74 <d:/Semester 5/GIS/Github/figures/1174059/Python1/soal1.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174059/pyshp3.py"
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
- [75 <d:/Kuliah/GIS/Latex/figures/1174059/Python1/soal2.PNG>])
-<figures/1174059/Python1/soal3.PNG, id=2743, 133.24782pt x 107.65219pt>
+ [75 <d:/Semester 5/GIS/Github/figures/1174059/Python1/soal2.PNG>])
+<figures/1174059/Python1/soal3.PNG, id=2802, 133.24782pt x 107.65219pt>
 File: figures/1174059/Python1/soal3.PNG Graphic file (type png)
 <use figures/1174059/Python1/soal3.PNG>
 Package pdftex.def Info: figures/1174059/Python1/soal3.PNG  used on input line 23.
@@ -1947,8 +1955,8 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 23--25
  [][] 
  []
 
-(d:/Kuliah\GIS\Latex\src/1/1174059/pyshp4.py)
-<figures/1174059/Python1/soal4.PNG, id=2744, 143.78719pt x 144.54pt>
+("d:/Semester 5\GIS\Github\src/1/1174059/pyshp4.py")
+<figures/1174059/Python1/soal4.PNG, id=2803, 143.78719pt x 144.54pt>
 File: figures/1174059/Python1/soal4.PNG Graphic file (type png)
 <use figures/1174059/Python1/soal4.PNG>
 Package pdftex.def Info: figures/1174059/Python1/soal4.PNG  used on input line 31.
@@ -1969,8 +1977,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[76 <d:/Kuliah/GIS/Latex/figures/1174059/Python1/soal3.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174059/pyshp5.py)
-<figures/1174059/Python1/soal5.PNG, id=2767, 225.09094pt x 253.69781pt>
+[76 <d:/Semester 5/GIS/Github/figures/1174059/Python1/soal3.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174059/pyshp5.py")
+<figures/1174059/Python1/soal5.PNG, id=2826, 225.09094pt x 253.69781pt>
 File: figures/1174059/Python1/soal5.PNG Graphic file (type png)
 <use figures/1174059/Python1/soal5.PNG>
 Package pdftex.def Info: figures/1174059/Python1/soal5.PNG  used on input line 39.
@@ -1991,8 +1999,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[77 <d:/Kuliah/GIS/Latex/figures/1174059/Python1/soal4.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174059/pyshp6.py)
-<figures/1174059/Python1/soal6.PNG, id=2785, 123.46124pt x 57.21375pt>
+[77 <d:/Semester 5/GIS/Github/figures/1174059/Python1/soal4.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174059/pyshp6.py")
+<figures/1174059/Python1/soal6.PNG, id=2844, 123.46124pt x 57.21375pt>
 File: figures/1174059/Python1/soal6.PNG Graphic file (type png)
 <use figures/1174059/Python1/soal6.PNG>
 Package pdftex.def Info: figures/1174059/Python1/soal6.PNG  used on input line 47.
@@ -2010,8 +2018,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[78 <d:/Kuliah/GIS/Latex/figures/1174059/Python1/soal5.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174059/pyshp7.py)
-<figures/1174059/Python1/soal7.PNG, id=2803, 409.53pt x 154.32657pt>
+[78 <d:/Semester 5/GIS/Github/figures/1174059/Python1/soal5.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174059/pyshp7.py")
+<figures/1174059/Python1/soal7.PNG, id=2862, 409.53pt x 154.32657pt>
 File: figures/1174059/Python1/soal7.PNG Graphic file (type png)
 <use figures/1174059/Python1/soal7.PNG>
 Package pdftex.def Info: figures/1174059/Python1/soal7.PNG  used on input line 55.
@@ -2021,11 +2029,11 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 55--57
  [][] 
  []
 
-(d:/Kuliah\GIS\Latex\src/1/1174059/pyshp8.py
+("d:/Semester 5\GIS\Github\src/1/1174059/pyshp8.py"
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
- [79 <d:/Kuliah/GIS/Latex/figures/1174059/Python1/soal6.PNG> <d:/Kuliah/GIS/Latex/figures/1174059/Python1/soal7.PNG>])
-<figures/1174059/Python1/soal8.PNG, id=2826, 433.62pt x 154.32657pt>
+ [79 <d:/Semester 5/GIS/Github/figures/1174059/Python1/soal6.PNG> <d:/Semester 5/GIS/Github/figures/1174059/Python1/soal7.PNG>])
+<figures/1174059/Python1/soal8.PNG, id=2885, 433.62pt x 154.32657pt>
 File: figures/1174059/Python1/soal8.PNG Graphic file (type png)
 <use figures/1174059/Python1/soal8.PNG>
 Package pdftex.def Info: figures/1174059/Python1/soal8.PNG  used on input line 63.
@@ -2035,8 +2043,8 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 63--65
  [][] 
  []
 
-(d:/Kuliah\GIS\Latex\src/1/1174059/pyshp9.py)
-<figures/1174059/Python1/soal9.PNG, id=2827, 435.87843pt x 154.32657pt>
+("d:/Semester 5\GIS\Github\src/1/1174059/pyshp9.py")
+<figures/1174059/Python1/soal9.PNG, id=2886, 435.87843pt x 154.32657pt>
 File: figures/1174059/Python1/soal9.PNG Graphic file (type png)
 <use figures/1174059/Python1/soal9.PNG>
 Package pdftex.def Info: figures/1174059/Python1/soal9.PNG  used on input line 71.
@@ -2057,8 +2065,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[80 <d:/Kuliah/GIS/Latex/figures/1174059/Python1/soal8.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174059/pyshp10.py)
-<figures/1174059/Python1/soal10.PNG, id=2856, 665.48625pt x 342.5297pt>
+[80 <d:/Semester 5/GIS/Github/figures/1174059/Python1/soal8.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174059/pyshp10.py")
+<figures/1174059/Python1/soal10.PNG, id=2915, 665.48625pt x 342.5297pt>
 File: figures/1174059/Python1/soal10.PNG Graphic file (type png)
 <use figures/1174059/Python1/soal10.PNG>
 Package pdftex.def Info: figures/1174059/Python1/soal10.PNG  used on input line 79.
@@ -2079,8 +2087,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[81 <d:/Kuliah/GIS/Latex/figures/1174059/Python1/soal9.PNG>]
-<figures/1174059/plagiarisme2.PNG, id=2882, 854.44218pt x 440.39531pt>
+[81 <d:/Semester 5/GIS/Github/figures/1174059/Python1/soal9.PNG>]
+<figures/1174059/plagiarisme2.PNG, id=2941, 854.44218pt x 440.39531pt>
 File: figures/1174059/plagiarisme2.PNG Graphic file (type png)
 <use figures/1174059/plagiarisme2.PNG>
 Package pdftex.def Info: figures/1174059/plagiarisme2.PNG  used on input line 87.
@@ -2090,7 +2098,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 87--89
  [][] 
  []
 
-) (d:/Kuliah\GIS\Latex\chapters/tugas2/1174038.tex
+) ("d:/Semester 5\GIS\Github\chapters/tugas2/1174038.tex"
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -2101,8 +2109,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[82 <d:/Kuliah/GIS/Latex/figures/1174059/Python1/soal10.PNG> <d:/Kuliah/GIS/Latex/figures/1174059/plagiarisme2.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174038/1.py)
-<figures/1174038/1.PNG, id=2890, 1371.1225pt x 770.88pt>
+[82 <d:/Semester 5/GIS/Github/figures/1174059/Python1/soal10.PNG> <d:/Semester 5/GIS/Github/figures/1174059/plagiarisme2.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174038/1.py")
+<figures/1174038/1.PNG, id=2949, 1371.1225pt x 770.88pt>
 File: figures/1174038/1.PNG Graphic file (type png)
 <use figures/1174038/1.PNG>
 Package pdftex.def Info: figures/1174038/1.PNG  used on input line 7.
@@ -2112,11 +2120,11 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 7--9
  [][] 
  []
 
-(d:/Kuliah\GIS\Latex\src/1/1174038/2.py)
+("d:/Semester 5\GIS\Github\src/1/1174038/2.py")
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
- [83 <d:/Kuliah/GIS/Latex/figures/1174038/1.PNG>]
-<figures/1174038/2.PNG, id=2922, 1371.1225pt x 770.88pt>
+ [83 <d:/Semester 5/GIS/Github/figures/1174038/1.PNG>]
+<figures/1174038/2.PNG, id=2981, 1371.1225pt x 770.88pt>
 File: figures/1174038/2.PNG Graphic file (type png)
 <use figures/1174038/2.PNG>
 Package pdftex.def Info: figures/1174038/2.PNG  used on input line 15.
@@ -2126,8 +2134,8 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 15--17
  [][] 
  []
 
-(d:/Kuliah\GIS\Latex\src/1/1174038/3.py)
-<figures/1174038/3.PNG, id=2923, 1371.1225pt x 770.88pt>
+("d:/Semester 5\GIS\Github\src/1/1174038/3.py")
+<figures/1174038/3.PNG, id=2982, 1371.1225pt x 770.88pt>
 File: figures/1174038/3.PNG Graphic file (type png)
 <use figures/1174038/3.PNG>
 Package pdftex.def Info: figures/1174038/3.PNG  used on input line 23.
@@ -2148,8 +2156,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[84 <d:/Kuliah/GIS/Latex/figures/1174038/2.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174038/4.py)
-<figures/1174038/4.PNG, id=2946, 1371.1225pt x 770.88pt>
+[84 <d:/Semester 5/GIS/Github/figures/1174038/2.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174038/4.py")
+<figures/1174038/4.PNG, id=3005, 1371.1225pt x 770.88pt>
 File: figures/1174038/4.PNG Graphic file (type png)
 <use figures/1174038/4.PNG>
 Package pdftex.def Info: figures/1174038/4.PNG  used on input line 31.
@@ -2170,8 +2178,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[85 <d:/Kuliah/GIS/Latex/figures/1174038/3.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174038/5.py)
-<figures/1174038/5.PNG, id=2967, 1371.1225pt x 770.88pt>
+[85 <d:/Semester 5/GIS/Github/figures/1174038/3.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174038/5.py")
+<figures/1174038/5.PNG, id=3026, 1371.1225pt x 770.88pt>
 File: figures/1174038/5.PNG Graphic file (type png)
 <use figures/1174038/5.PNG>
 Package pdftex.def Info: figures/1174038/5.PNG  used on input line 39.
@@ -2192,8 +2200,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[86 <d:/Kuliah/GIS/Latex/figures/1174038/4.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174038/6.py)
-<figures/1174038/6.PNG, id=2986, 1371.1225pt x 770.88pt>
+[86 <d:/Semester 5/GIS/Github/figures/1174038/4.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174038/6.py")
+<figures/1174038/6.PNG, id=3045, 1371.1225pt x 770.88pt>
 File: figures/1174038/6.PNG Graphic file (type png)
 <use figures/1174038/6.PNG>
 Package pdftex.def Info: figures/1174038/6.PNG  used on input line 47.
@@ -2214,8 +2222,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[87 <d:/Kuliah/GIS/Latex/figures/1174038/5.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174038/7.py)
-<figures/1174038/7.PNG, id=3004, 1371.1225pt x 770.88pt>
+[87 <d:/Semester 5/GIS/Github/figures/1174038/5.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174038/7.py")
+<figures/1174038/7.PNG, id=3063, 1371.1225pt x 770.88pt>
 File: figures/1174038/7.PNG Graphic file (type png)
 <use figures/1174038/7.PNG>
 Package pdftex.def Info: figures/1174038/7.PNG  used on input line 55.
@@ -2236,8 +2244,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[88 <d:/Kuliah/GIS/Latex/figures/1174038/6.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174038/8.py)
-<figures/1174038/8.PNG, id=3022, 1371.1225pt x 770.88pt>
+[88 <d:/Semester 5/GIS/Github/figures/1174038/6.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174038/8.py")
+<figures/1174038/8.PNG, id=3081, 1371.1225pt x 770.88pt>
 File: figures/1174038/8.PNG Graphic file (type png)
 <use figures/1174038/8.PNG>
 Package pdftex.def Info: figures/1174038/8.PNG  used on input line 63.
@@ -2258,8 +2266,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[89 <d:/Kuliah/GIS/Latex/figures/1174038/7.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174038/9.py)
-<figures/1174038/9.PNG, id=3040, 1371.1225pt x 770.88pt>
+[89 <d:/Semester 5/GIS/Github/figures/1174038/7.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174038/9.py")
+<figures/1174038/9.PNG, id=3099, 1371.1225pt x 770.88pt>
 File: figures/1174038/9.PNG Graphic file (type png)
 <use figures/1174038/9.PNG>
 Package pdftex.def Info: figures/1174038/9.PNG  used on input line 71.
@@ -2280,8 +2288,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[90 <d:/Kuliah/GIS/Latex/figures/1174038/8.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174038/10.py)
-<figures/1174038/10.PNG, id=3060, 587.796pt x 370.38374pt>
+[90 <d:/Semester 5/GIS/Github/figures/1174038/8.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174038/10.py")
+<figures/1174038/10.PNG, id=3119, 587.796pt x 370.38374pt>
 File: figures/1174038/10.PNG Graphic file (type png)
 <use figures/1174038/10.PNG>
 Package pdftex.def Info: figures/1174038/10.PNG  used on input line 79.
@@ -2302,8 +2310,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[91 <d:/Kuliah/GIS/Latex/figures/1174038/9.PNG>]) (d:/Kuliah\GIS\Latex\chapters/tugas2/1174056.tex (d:/Kuliah\GIS\Latex\src/1/1174056/py1.py)
-<figures/1174056/1.PNG, id=3084, 438.8897pt x 328.97906pt>
+[91 <d:/Semester 5/GIS/Github/figures/1174038/9.PNG>]) ("d:/Semester 5\GIS\Github\chapters/tugas2/1174056.tex" ("d:/Semester 5\GIS\Github\src/1/1174056/py1.py")
+<figures/1174056/1.PNG, id=3143, 438.8897pt x 328.97906pt>
 File: figures/1174056/1.PNG Graphic file (type png)
 <use figures/1174056/1.PNG>
 Package pdftex.def Info: figures/1174056/1.PNG  used on input line 7.
@@ -2324,8 +2332,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[92 <d:/Kuliah/GIS/Latex/figures/1174038/10.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174056/py2.py)
-<figures/1174056/2.PNG, id=3105, 582.67688pt x 292.84406pt>
+[92 <d:/Semester 5/GIS/Github/figures/1174038/10.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174056/py2.py")
+<figures/1174056/2.PNG, id=3164, 582.67688pt x 292.84406pt>
 File: figures/1174056/2.PNG Graphic file (type png)
 <use figures/1174056/2.PNG>
 Package pdftex.def Info: figures/1174056/2.PNG  used on input line 15.
@@ -2346,8 +2354,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[93 <d:/Kuliah/GIS/Latex/figures/1174056/1.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174056/py3.py)
-<figures/1174056/3.PNG, id=3125, 373.395pt x 199.49532pt>
+[93 <d:/Semester 5/GIS/Github/figures/1174056/1.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174056/py3.py")
+<figures/1174056/3.PNG, id=3184, 373.395pt x 199.49532pt>
 File: figures/1174056/3.PNG Graphic file (type png)
 <use figures/1174056/3.PNG>
 Package pdftex.def Info: figures/1174056/3.PNG  used on input line 23.
@@ -2368,8 +2376,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[94 <d:/Kuliah/GIS/Latex/figures/1174056/2.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174056/py4.py)
-<figures/1174056/4.PNG, id=3146, 608.2725pt x 362.10281pt>
+[94 <d:/Semester 5/GIS/Github/figures/1174056/2.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174056/py4.py")
+<figures/1174056/4.PNG, id=3205, 608.2725pt x 362.10281pt>
 File: figures/1174056/4.PNG Graphic file (type png)
 <use figures/1174056/4.PNG>
 Package pdftex.def Info: figures/1174056/4.PNG  used on input line 31.
@@ -2390,8 +2398,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[95 <d:/Kuliah/GIS/Latex/figures/1174056/3.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174056/py5.py)
-<figures/1174056/5.PNG, id=3167, 660.21657pt x 331.2375pt>
+[95 <d:/Semester 5/GIS/Github/figures/1174056/3.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174056/py5.py")
+<figures/1174056/5.PNG, id=3226, 660.21657pt x 331.2375pt>
 File: figures/1174056/5.PNG Graphic file (type png)
 <use figures/1174056/5.PNG>
 Package pdftex.def Info: figures/1174056/5.PNG  used on input line 39.
@@ -2412,8 +2420,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[96 <d:/Kuliah/GIS/Latex/figures/1174056/4.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174056/py6.py)
-<figures/1174056/6.PNG, id=3185, 665.48625pt x 355.3275pt>
+[96 <d:/Semester 5/GIS/Github/figures/1174056/4.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174056/py6.py")
+<figures/1174056/6.PNG, id=3244, 665.48625pt x 355.3275pt>
 File: figures/1174056/6.PNG Graphic file (type png)
 <use figures/1174056/6.PNG>
 Package pdftex.def Info: figures/1174056/6.PNG  used on input line 47.
@@ -2434,8 +2442,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[97 <d:/Kuliah/GIS/Latex/figures/1174056/5.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174056/py7.py)
-<figures/1174056/7.PNG, id=3203, 724.95844pt x 292.09125pt>
+[97 <d:/Semester 5/GIS/Github/figures/1174056/5.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174056/py7.py")
+<figures/1174056/7.PNG, id=3262, 724.95844pt x 292.09125pt>
 File: figures/1174056/7.PNG Graphic file (type png)
 <use figures/1174056/7.PNG>
 Package pdftex.def Info: figures/1174056/7.PNG  used on input line 55.
@@ -2445,11 +2453,11 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 55--57
  [][] 
  []
 
-(d:/Kuliah\GIS\Latex\src/1/1174056/py8.py
+("d:/Semester 5\GIS\Github\src/1/1174056/py8.py"
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
- [98 <d:/Kuliah/GIS/Latex/figures/1174056/6.PNG> <d:/Kuliah/GIS/Latex/figures/1174056/7.PNG>])
-<figures/1174056/8.PNG, id=3224, 666.99188pt x 283.81032pt>
+ [98 <d:/Semester 5/GIS/Github/figures/1174056/6.PNG> <d:/Semester 5/GIS/Github/figures/1174056/7.PNG>])
+<figures/1174056/8.PNG, id=3283, 666.99188pt x 283.81032pt>
 File: figures/1174056/8.PNG Graphic file (type png)
 <use figures/1174056/8.PNG>
 Package pdftex.def Info: figures/1174056/8.PNG  used on input line 63.
@@ -2459,8 +2467,8 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 63--65
  [][] 
  []
 
-(d:/Kuliah\GIS\Latex\src/1/1174056/py9.py)
-<figures/1174056/9.PNG, id=3225, 703.87968pt x 298.86656pt>
+("d:/Semester 5\GIS\Github\src/1/1174056/py9.py")
+<figures/1174056/9.PNG, id=3284, 703.87968pt x 298.86656pt>
 File: figures/1174056/9.PNG Graphic file (type png)
 <use figures/1174056/9.PNG>
 Package pdftex.def Info: figures/1174056/9.PNG  used on input line 71.
@@ -2481,8 +2489,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[99 <d:/Kuliah/GIS/Latex/figures/1174056/8.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174056/py10.py)
-<figures/1174056/10.PNG, id=3256, 277.035pt x 305.34074pt>
+[99 <d:/Semester 5/GIS/Github/figures/1174056/8.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174056/py10.py")
+<figures/1174056/10.PNG, id=3315, 277.035pt x 305.34074pt>
 File: figures/1174056/10.PNG Graphic file (type png)
 <use figures/1174056/10.PNG>
 Package pdftex.def Info: figures/1174056/10.PNG  used on input line 79.
@@ -2503,7 +2511,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[100 <d:/Kuliah/GIS/Latex/figures/1174056/9.PNG>]) (d:/Kuliah\GIS\Latex\chapters/tugas2/1174057.tex
+[100 <d:/Semester 5/GIS/Github/figures/1174056/9.PNG>]) ("d:/Semester 5\GIS\Github\chapters/tugas2/1174057.tex"
 Underfull \hbox (badness 10000) in paragraph at lines 3--5
 
  []
@@ -2516,8 +2524,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[101 <d:/Kuliah/GIS/Latex/figures/1174056/10.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174057/alit1.py)
-<figures/1174057/alit1.PNG, id=3278, 137.7647pt x 163.3603pt>
+[101 <d:/Semester 5/GIS/Github/figures/1174056/10.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174057/alit1.py")
+<figures/1174057/alit1.PNG, id=3337, 137.7647pt x 163.3603pt>
 File: figures/1174057/alit1.PNG Graphic file (type png)
 <use figures/1174057/alit1.PNG>
 Package pdftex.def Info: figures/1174057/alit1.PNG  used on input line 11.
@@ -2533,8 +2541,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[102] (d:/Kuliah\GIS\Latex\src/1/1174057/alit2.py)
-<figures/1174057/alit2.PNG, id=3310, 88.83188pt x 98.61844pt>
+[102] ("d:/Semester 5\GIS\Github\src/1/1174057/alit2.py")
+<figures/1174057/alit2.PNG, id=3369, 88.83188pt x 98.61844pt>
 File: figures/1174057/alit2.PNG Graphic file (type png)
 <use figures/1174057/alit2.PNG>
 Package pdftex.def Info: figures/1174057/alit2.PNG  used on input line 18.
@@ -2547,8 +2555,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[103 <d:/Kuliah/GIS/Latex/figures/1174057/alit1.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174057/alit3.py)
-<figures/1174057/alit3.PNG, id=3343, 144.54pt x 105.39375pt>
+[103 <d:/Semester 5/GIS/Github/figures/1174057/alit1.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174057/alit3.py")
+<figures/1174057/alit3.PNG, id=3402, 144.54pt x 105.39375pt>
 File: figures/1174057/alit3.PNG Graphic file (type png)
 <use figures/1174057/alit3.PNG>
 Package pdftex.def Info: figures/1174057/alit3.PNG  used on input line 25.
@@ -2564,8 +2572,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[104 <d:/Kuliah/GIS/Latex/figures/1174057/alit2.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174057/alit4.py)
-<figures/1174057/alit4.PNG, id=3376, 211.54031pt x 130.23656pt>
+[104 <d:/Semester 5/GIS/Github/figures/1174057/alit2.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174057/alit4.py")
+<figures/1174057/alit4.PNG, id=3435, 211.54031pt x 130.23656pt>
 File: figures/1174057/alit4.PNG Graphic file (type png)
 <use figures/1174057/alit4.PNG>
 Package pdftex.def Info: figures/1174057/alit4.PNG  used on input line 32.
@@ -2581,8 +2589,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[105 <d:/Kuliah/GIS/Latex/figures/1174057/alit3.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174057/alit5.py)
-<figures/1174057/alit5.PNG, id=3408, 140.02313pt x 142.28156pt>
+[105 <d:/Semester 5/GIS/Github/figures/1174057/alit3.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174057/alit5.py")
+<figures/1174057/alit5.PNG, id=3467, 140.02313pt x 142.28156pt>
 File: figures/1174057/alit5.PNG Graphic file (type png)
 <use figures/1174057/alit5.PNG>
 Package pdftex.def Info: figures/1174057/alit5.PNG  used on input line 39.
@@ -2598,8 +2606,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[106 <d:/Kuliah/GIS/Latex/figures/1174057/alit4.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174057/alit6.py)
-<figures/1174057/alit6.PNG, id=3438, 284.56313pt x 106.89937pt>
+[106 <d:/Semester 5/GIS/Github/figures/1174057/alit4.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174057/alit6.py")
+<figures/1174057/alit6.PNG, id=3497, 284.56313pt x 106.89937pt>
 File: figures/1174057/alit6.PNG Graphic file (type png)
 <use figures/1174057/alit6.PNG>
 Package pdftex.def Info: figures/1174057/alit6.PNG  used on input line 46.
@@ -2615,45 +2623,45 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[107 <d:/Kuliah/GIS/Latex/figures/1174057/alit5.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174057/alit7.py)
-<figures/1174057/alit7.PNG, id=3469, 428.35031pt x 147.55125pt>
+[107 <d:/Semester 5/GIS/Github/figures/1174057/alit5.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174057/alit7.py")
+<figures/1174057/alit7.PNG, id=3528, 428.35031pt x 147.55125pt>
 File: figures/1174057/alit7.PNG Graphic file (type png)
 <use figures/1174057/alit7.PNG>
 Package pdftex.def Info: figures/1174057/alit7.PNG  used on input line 53.
 (pdftex.def)             Requested size: 170.71652pt x 58.80556pt.
- (d:/Kuliah\GIS\Latex\src/1/1174057/alit8.py
+ ("d:/Semester 5\GIS\Github\src/1/1174057/alit8.py"
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
- [108 <d:/Kuliah/GIS/Latex/figures/1174057/alit6.PNG> <d:/Kuliah/GIS/Latex/figures/1174057/alit7.PNG>])
-<figures/1174057/alit8.PNG, id=3506, 428.35031pt x 147.55125pt>
+ [108 <d:/Semester 5/GIS/Github/figures/1174057/alit6.PNG> <d:/Semester 5/GIS/Github/figures/1174057/alit7.PNG>])
+<figures/1174057/alit8.PNG, id=3565, 428.35031pt x 147.55125pt>
 File: figures/1174057/alit8.PNG Graphic file (type png)
 <use figures/1174057/alit8.PNG>
 Package pdftex.def Info: figures/1174057/alit8.PNG  used on input line 60.
 (pdftex.def)             Requested size: 170.71652pt x 58.80556pt.
- (d:/Kuliah\GIS\Latex\src/1/1174057/alit9.py
+ ("d:/Semester 5\GIS\Github\src/1/1174057/alit9.py"
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
- [109 <d:/Kuliah/GIS/Latex/figures/1174057/alit8.PNG>])
-<figures/1174057/alit9.PNG, id=3552, 139.27031pt x 205.5178pt>
+ [109 <d:/Semester 5/GIS/Github/figures/1174057/alit8.PNG>])
+<figures/1174057/alit9.PNG, id=3611, 139.27031pt x 205.5178pt>
 File: figures/1174057/alit9.PNG Graphic file (type png)
 <use figures/1174057/alit9.PNG>
 Package pdftex.def Info: figures/1174057/alit9.PNG  used on input line 67.
 (pdftex.def)             Requested size: 170.71652pt x 251.92929pt.
- (d:/Kuliah\GIS\Latex\src/1/1174057/soal10.py
+ ("d:/Semester 5\GIS\Github\src/1/1174057/soal10.py"
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
- [110 <d:/Kuliah/GIS/Latex/figures/1174057/alit9.PNG>])
-<figures/1174057/soal10.PNG, id=3580, 241.65282pt x 206.27063pt>
+ [110 <d:/Semester 5/GIS/Github/figures/1174057/alit9.PNG>])
+<figures/1174057/soal10.PNG, id=3639, 241.65282pt x 206.27063pt>
 File: figures/1174057/soal10.PNG Graphic file (type png)
 <use figures/1174057/soal10.PNG>
 Package pdftex.def Info: figures/1174057/soal10.PNG  used on input line 74.
 (pdftex.def)             Requested size: 170.71652pt x 145.7261pt.
-<figures/1174057/plagiat.png, id=3582, 639.89063pt x 211.54031pt>
+<figures/1174057/plagiat.png, id=3641, 639.89063pt x 211.54031pt>
 File: figures/1174057/plagiat.png Graphic file (type png)
 <use figures/1174057/plagiat.png>
 Package pdftex.def Info: figures/1174057/plagiat.png  used on input line 83.
 (pdftex.def)             Requested size: 113.81102pt x 37.6237pt.
-) (d:/Kuliah\GIS\Latex\chapters/tugas2/1174034.tex
+) ("d:/Semester 5\GIS\Github\chapters/tugas2/1174034.tex"
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -2664,8 +2672,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[111 <d:/Kuliah/GIS/Latex/figures/1174057/soal10.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174034/No1.py)
-<figures/1174034/No1.JPG, id=3607, 265.74281pt x 206.27063pt>
+[111 <d:/Semester 5/GIS/Github/figures/1174057/soal10.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174034/No1.py")
+<figures/1174034/No1.JPG, id=3666, 265.74281pt x 206.27063pt>
 File: figures/1174034/No1.JPG Graphic file (type jpg)
 <use figures/1174034/No1.JPG>
 Package pdftex.def Info: figures/1174034/No1.JPG  used on input line 7.
@@ -2686,8 +2694,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[112 <d:/Kuliah/GIS/Latex/figures/1174057/plagiat.png>] (d:/Kuliah\GIS\Latex\src/1/1174034/No2.py)
-<figures/1174034/No2.JPG, id=3623, 225.84375pt x 185.94469pt>
+[112 <d:/Semester 5/GIS/Github/figures/1174057/plagiat.png>] ("d:/Semester 5\GIS\Github\src/1/1174034/No2.py")
+<figures/1174034/No2.JPG, id=3682, 225.84375pt x 185.94469pt>
 File: figures/1174034/No2.JPG Graphic file (type jpg)
 <use figures/1174034/No2.JPG>
 Package pdftex.def Info: figures/1174034/No2.JPG  used on input line 15.
@@ -2708,8 +2716,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[113 <d:/Kuliah/GIS/Latex/figures/1174034/No1.JPG>] (d:/Kuliah\GIS\Latex\src/1/1174034/No3.py)
-<figures/1174034/No3.JPG, id=3638, 204.01219pt x 118.19156pt>
+[113 <d:/Semester 5/GIS/Github/figures/1174034/No1.JPG>] ("d:/Semester 5\GIS\Github\src/1/1174034/No3.py")
+<figures/1174034/No3.JPG, id=3697, 204.01219pt x 118.19156pt>
 File: figures/1174034/No3.JPG Graphic file (type jpg)
 <use figures/1174034/No3.JPG>
 Package pdftex.def Info: figures/1174034/No3.JPG  used on input line 23.
@@ -2730,7 +2738,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[114 <d:/Kuliah/GIS/Latex/figures/1174034/No2.JPG>] (d:/Kuliah\GIS\Latex\src/1/1174034/No4.py)
+[114 <d:/Semester 5/GIS/Github/figures/1174034/No2.JPG>] ("d:/Semester 5\GIS\Github\src/1/1174034/No4.py")
 File: figures/1174042/No4.JPG Graphic file (type jpg)
 <use figures/1174042/No4.JPG>
 Package pdftex.def Info: figures/1174042/No4.JPG  used on input line 31.
@@ -2751,8 +2759,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[115 <d:/Kuliah/GIS/Latex/figures/1174034/No3.JPG>] (d:/Kuliah\GIS\Latex\src/1/1174034/No5.py)
-<figures/1174034/No5.JPG, id=3667, 330.48468pt x 323.70938pt>
+[115 <d:/Semester 5/GIS/Github/figures/1174034/No3.JPG>] ("d:/Semester 5\GIS\Github\src/1/1174034/No5.py")
+<figures/1174034/No5.JPG, id=3726, 330.48468pt x 323.70938pt>
 File: figures/1174034/No5.JPG Graphic file (type jpg)
 <use figures/1174034/No5.JPG>
 Package pdftex.def Info: figures/1174034/No5.JPG  used on input line 39.
@@ -2773,8 +2781,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[116] (d:/Kuliah\GIS\Latex\src/1/1174034/No6.py)
-<figures/1174034/No6.JPG, id=3681, 326.72063pt x 124.96687pt>
+[116] ("d:/Semester 5\GIS\Github\src/1/1174034/No6.py")
+<figures/1174034/No6.JPG, id=3740, 326.72063pt x 124.96687pt>
 File: figures/1174034/No6.JPG Graphic file (type jpg)
 <use figures/1174034/No6.JPG>
 Package pdftex.def Info: figures/1174034/No6.JPG  used on input line 47.
@@ -2795,8 +2803,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[117 <d:/Kuliah/GIS/Latex/figures/1174034/No5.JPG>] (d:/Kuliah\GIS\Latex\src/1/1174034/No7.py)
-<figures/1174034/No7.JPG, id=3694, 335.75438pt x 143.78719pt>
+[117 <d:/Semester 5/GIS/Github/figures/1174034/No5.JPG>] ("d:/Semester 5\GIS\Github\src/1/1174034/No7.py")
+<figures/1174034/No7.JPG, id=3753, 335.75438pt x 143.78719pt>
 File: figures/1174034/No7.JPG Graphic file (type jpg)
 <use figures/1174034/No7.JPG>
 Package pdftex.def Info: figures/1174034/No7.JPG  used on input line 55.
@@ -2806,11 +2814,11 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 55--57
  [][] 
  []
 
-(d:/Kuliah\GIS\Latex\src/1/1174034/No8.py
+("d:/Semester 5\GIS\Github\src/1/1174034/No8.py"
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
- [118 <d:/Kuliah/GIS/Latex/figures/1174034/No6.JPG> <d:/Kuliah/GIS/Latex/figures/1174034/No7.JPG>])
-<figures/1174034/No8.JPG, id=3712, 318.43968pt x 120.45pt>
+ [118 <d:/Semester 5/GIS/Github/figures/1174034/No6.JPG> <d:/Semester 5/GIS/Github/figures/1174034/No7.JPG>])
+<figures/1174034/No8.JPG, id=3771, 318.43968pt x 120.45pt>
 File: figures/1174034/No8.JPG Graphic file (type jpg)
 <use figures/1174034/No8.JPG>
 Package pdftex.def Info: figures/1174034/No8.JPG  used on input line 63.
@@ -2820,8 +2828,8 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 63--65
  [][] 
  []
 
-(d:/Kuliah\GIS\Latex\src/1/1174034/No9.py)
-<figures/1174034/No9.JPG, id=3713, 233.37187pt x 344.03531pt>
+("d:/Semester 5\GIS\Github\src/1/1174034/No9.py")
+<figures/1174034/No9.JPG, id=3772, 233.37187pt x 344.03531pt>
 File: figures/1174034/No9.JPG Graphic file (type jpg)
 <use figures/1174034/No9.JPG>
 Package pdftex.def Info: figures/1174034/No9.JPG  used on input line 71.
@@ -2842,11 +2850,11 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[119 <d:/Kuliah/GIS/Latex/figures/1174034/No8.JPG>] (d:/Kuliah\GIS\Latex\src/1/1174034/No10.py
+[119 <d:/Semester 5/GIS/Github/figures/1174034/No8.JPG>] ("d:/Semester 5\GIS\Github\src/1/1174034/No10.py"
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
- [120 <d:/Kuliah/GIS/Latex/figures/1174034/No9.JPG>])
-<figures/1174034/No10.JPG, id=3736, 545.03625pt x 242.1045pt>
+ [120 <d:/Semester 5/GIS/Github/figures/1174034/No9.JPG>])
+<figures/1174034/No10.JPG, id=3795, 545.03625pt x 242.1045pt>
 File: figures/1174034/No10.JPG Graphic file (type jpg)
 <use figures/1174034/No10.JPG>
 Package pdftex.def Info: figures/1174034/No10.JPG  used on input line 79.
@@ -2856,11 +2864,11 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 79--81
  [][] 
  []
 
-) (d:/Kuliah\GIS\Latex\chapters/tugas2/1174063.tex (d:/Kuliah\GIS\Latex\src/1/1174063/pyshp1.py
+) ("d:/Semester 5\GIS\Github\chapters/tugas2/1174063.tex" ("d:/Semester 5\GIS\Github\src/1/1174063/pyshp1.py"
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
- [121 <d:/Kuliah/GIS/Latex/figures/1174034/No10.JPG>])
-<figures/1174063/1.PNG, id=3755, 1371.1225pt x 770.88pt>
+ [121 <d:/Semester 5/GIS/Github/figures/1174034/No10.JPG>])
+<figures/1174063/1.PNG, id=3814, 1371.1225pt x 770.88pt>
 File: figures/1174063/1.PNG Graphic file (type png)
 <use figures/1174063/1.PNG>
 Package pdftex.def Info: figures/1174063/1.PNG  used on input line 7.
@@ -2870,8 +2878,8 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 7--9
  [][] 
  []
 
-(d:/Kuliah\GIS\Latex\src/1/1174063/pyshp2.py)
-<figures/1174063/2.PNG, id=3756, 1371.1225pt x 770.88pt>
+("d:/Semester 5\GIS\Github\src/1/1174063/pyshp2.py")
+<figures/1174063/2.PNG, id=3815, 1371.1225pt x 770.88pt>
 File: figures/1174063/2.PNG Graphic file (type png)
 <use figures/1174063/2.PNG>
 Package pdftex.def Info: figures/1174063/2.PNG  used on input line 15.
@@ -2892,8 +2900,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[122 <d:/Kuliah/GIS/Latex/figures/1174063/1.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174063/pyshp3.py)
-<figures/1174063/3.PNG, id=3789, 1371.1225pt x 770.88pt>
+[122 <d:/Semester 5/GIS/Github/figures/1174063/1.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174063/pyshp3.py")
+<figures/1174063/3.PNG, id=3848, 1371.1225pt x 770.88pt>
 File: figures/1174063/3.PNG Graphic file (type png)
 <use figures/1174063/3.PNG>
 Package pdftex.def Info: figures/1174063/3.PNG  used on input line 23.
@@ -2914,8 +2922,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[123 <d:/Kuliah/GIS/Latex/figures/1174063/2.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174063/pyshp4.py)
-<figures/1174063/4.PNG, id=3810, 1371.1225pt x 770.88pt>
+[123 <d:/Semester 5/GIS/Github/figures/1174063/2.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174063/pyshp4.py")
+<figures/1174063/4.PNG, id=3869, 1371.1225pt x 770.88pt>
 File: figures/1174063/4.PNG Graphic file (type png)
 <use figures/1174063/4.PNG>
 Package pdftex.def Info: figures/1174063/4.PNG  used on input line 31.
@@ -2936,8 +2944,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[124 <d:/Kuliah/GIS/Latex/figures/1174063/3.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174063/pyshp5.py)
-<figures/1174063/5.PNG, id=3831, 1371.1225pt x 770.88pt>
+[124 <d:/Semester 5/GIS/Github/figures/1174063/3.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174063/pyshp5.py")
+<figures/1174063/5.PNG, id=3890, 1371.1225pt x 770.88pt>
 File: figures/1174063/5.PNG Graphic file (type png)
 <use figures/1174063/5.PNG>
 Package pdftex.def Info: figures/1174063/5.PNG  used on input line 39.
@@ -2958,8 +2966,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[125 <d:/Kuliah/GIS/Latex/figures/1174063/4.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174063/pyshp6.py)
-<figures/1174063/6.PNG, id=3849, 1371.1225pt x 770.88pt>
+[125 <d:/Semester 5/GIS/Github/figures/1174063/4.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174063/pyshp6.py")
+<figures/1174063/6.PNG, id=3908, 1371.1225pt x 770.88pt>
 File: figures/1174063/6.PNG Graphic file (type png)
 <use figures/1174063/6.PNG>
 Package pdftex.def Info: figures/1174063/6.PNG  used on input line 47.
@@ -2980,8 +2988,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[126 <d:/Kuliah/GIS/Latex/figures/1174063/5.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174063/pyshp7.py)
-<figures/1174063/7.PNG, id=3867, 1371.1225pt x 770.88pt>
+[126 <d:/Semester 5/GIS/Github/figures/1174063/5.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174063/pyshp7.py")
+<figures/1174063/7.PNG, id=3926, 1371.1225pt x 770.88pt>
 File: figures/1174063/7.PNG Graphic file (type png)
 <use figures/1174063/7.PNG>
 Package pdftex.def Info: figures/1174063/7.PNG  used on input line 55.
@@ -3002,8 +3010,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[127 <d:/Kuliah/GIS/Latex/figures/1174063/6.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174063/pyshp8.py)
-<figures/1174063/8.PNG, id=3885, 1371.1225pt x 770.88pt>
+[127 <d:/Semester 5/GIS/Github/figures/1174063/6.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174063/pyshp8.py")
+<figures/1174063/8.PNG, id=3944, 1371.1225pt x 770.88pt>
 File: figures/1174063/8.PNG Graphic file (type png)
 <use figures/1174063/8.PNG>
 Package pdftex.def Info: figures/1174063/8.PNG  used on input line 63.
@@ -3024,8 +3032,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[128 <d:/Kuliah/GIS/Latex/figures/1174063/7.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174063/pyshp9.py)
-<figures/1174063/9.PNG, id=3904, 1371.1225pt x 770.88pt>
+[128 <d:/Semester 5/GIS/Github/figures/1174063/7.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174063/pyshp9.py")
+<figures/1174063/9.PNG, id=3963, 1371.1225pt x 770.88pt>
 File: figures/1174063/9.PNG Graphic file (type png)
 <use figures/1174063/9.PNG>
 Package pdftex.def Info: figures/1174063/9.PNG  used on input line 71.
@@ -3046,14 +3054,14 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[129 <d:/Kuliah/GIS/Latex/figures/1174063/8.PNG>] (d:/Kuliah\GIS\Latex\src/1/1174063/pyshp10.py
+[129 <d:/Semester 5/GIS/Github/figures/1174063/8.PNG>] ("d:/Semester 5\GIS\Github\src/1/1174063/pyshp10.py"
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
- [130 <d:/Kuliah/GIS/Latex/figures/1174063/9.PNG>])
-<figures/1174063/10.PNG, id=3948, 1371.1225pt x 770.88pt>
+ [130 <d:/Semester 5/GIS/Github/figures/1174063/9.PNG>])
+<figures/1174063/10.PNG, id=4007, 1371.1225pt x 770.88pt>
 File: figures/1174063/10.PNG Graphic file (type png)
 <use figures/1174063/10.PNG>
 Package pdftex.def Info: figures/1174063/10.PNG  used on input line 79.
@@ -3071,15 +3079,15 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[131 <d:/Kuliah/GIS/Latex/figures/1174063/10.PNG>] [132
+[131 <d:/Semester 5/GIS/Github/figures/1174063/10.PNG>] [132
 
 ]
 Bab 3.
-(d:/Kuliah\GIS\Latex\chapters/tugas3/1174039.tex
+("d:/Semester 5\GIS\Github\chapters/tugas3/1174039.tex"
 
 LaTeX Warning: File `figures/1174039/tugas 3/hasilno1.PNG' not found on input line 6.
 
-<figures/1174039/tugas 3/hasilno1.PNG, id=3967, 727.96968pt x 383.93437pt>
+<figures/1174039/tugas 3/hasilno1.PNG, id=4026, 727.96968pt x 383.93437pt>
 File: figures/1174039/tugas 3/hasilno1.PNG Graphic file (type png)
 <use figures/1174039/tugas 3/hasilno1.PNG>
 Package pdftex.def Info: figures/1174039/tugas 3/hasilno1.PNG  used on input line 6.
@@ -3103,11 +3111,11 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[134 <d:/Kuliah/GIS/Latex/figures/1174039/tugas 3/hasilno1.PNG>]
+[134 <d:/Semester 5/GIS/Github/figures/1174039/tugas 3/hasilno1.PNG>]
 
 LaTeX Warning: File `figures/1174039/tugas 3/hasilno2.PNG' not found on input line 13.
 
-<figures/1174039/tugas 3/hasilno2.PNG, id=3978, 716.6775pt x 103.88812pt>
+<figures/1174039/tugas 3/hasilno2.PNG, id=4037, 716.6775pt x 103.88812pt>
 File: figures/1174039/tugas 3/hasilno2.PNG Graphic file (type png)
 <use figures/1174039/tugas 3/hasilno2.PNG>
 Package pdftex.def Info: figures/1174039/tugas 3/hasilno2.PNG  used on input line 13.
@@ -3120,7 +3128,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 13--15
 
 LaTeX Warning: File `figures/1174039/tugas 3/hasilno3.PNG' not found on input line 20.
 
-<figures/1174039/tugas 3/hasilno3.PNG, id=3979, 733.99219pt x 102.3825pt>
+<figures/1174039/tugas 3/hasilno3.PNG, id=4038, 733.99219pt x 102.3825pt>
 File: figures/1174039/tugas 3/hasilno3.PNG Graphic file (type png)
 <use figures/1174039/tugas 3/hasilno3.PNG>
 Package pdftex.def Info: figures/1174039/tugas 3/hasilno3.PNG  used on input line 20.
@@ -3133,7 +3141,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 20--22
 
 LaTeX Warning: File `figures/1174039/tugas 3/hasilno4.PNG' not found on input line 27.
 
-<figures/1174039/tugas 3/hasilno4.PNG, id=3980, 730.98094pt x 384.6872pt>
+<figures/1174039/tugas 3/hasilno4.PNG, id=4039, 730.98094pt x 384.6872pt>
 File: figures/1174039/tugas 3/hasilno4.PNG Graphic file (type png)
 <use figures/1174039/tugas 3/hasilno4.PNG>
 Package pdftex.def Info: figures/1174039/tugas 3/hasilno4.PNG  used on input line 27.
@@ -3146,7 +3154,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 27--29
 
 LaTeX Warning: File `figures/1174039/tugas 3/hasilno5.PNG' not found on input line 34.
 
-<figures/1174039/tugas 3/hasilno5.PNG, id=3981, 725.71124pt x 232.61906pt>
+<figures/1174039/tugas 3/hasilno5.PNG, id=4040, 725.71124pt x 232.61906pt>
 File: figures/1174039/tugas 3/hasilno5.PNG Graphic file (type png)
 <use figures/1174039/tugas 3/hasilno5.PNG>
 Package pdftex.def Info: figures/1174039/tugas 3/hasilno5.PNG  used on input line 34.
@@ -3164,11 +3172,11 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[135 <d:/Kuliah/GIS/Latex/figures/1174039/tugas 3/hasilno2.PNG> <d:/Kuliah/GIS/Latex/figures/1174039/tugas 3/hasilno3.PNG> <d:/Kuliah/GIS/Latex/figures/1174039/tugas 3/hasilno4.PNG>]
+[135 <d:/Semester 5/GIS/Github/figures/1174039/tugas 3/hasilno2.PNG> <d:/Semester 5/GIS/Github/figures/1174039/tugas 3/hasilno3.PNG> <d:/Semester 5/GIS/Github/figures/1174039/tugas 3/hasilno4.PNG>]
 
 LaTeX Warning: File `figures/1174039/tugas 3/hasilno6.PNG' not found on input line 41.
 
-<figures/1174039/tugas 3/hasilno6.PNG, id=3989, 774.64406pt x 121.20282pt>
+<figures/1174039/tugas 3/hasilno6.PNG, id=4048, 774.64406pt x 121.20282pt>
 File: figures/1174039/tugas 3/hasilno6.PNG Graphic file (type png)
 <use figures/1174039/tugas 3/hasilno6.PNG>
 Package pdftex.def Info: figures/1174039/tugas 3/hasilno6.PNG  used on input line 41.
@@ -3181,7 +3189,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 41--43
 
 LaTeX Warning: File `figures/1174039/tugas 3/hasilno7.PNG' not found on input line 48.
 
-<figures/1174039/tugas 3/hasilno7.PNG, id=3990, 1019.30812pt x 111.41624pt>
+<figures/1174039/tugas 3/hasilno7.PNG, id=4049, 1019.30812pt x 111.41624pt>
 File: figures/1174039/tugas 3/hasilno7.PNG Graphic file (type png)
 <use figures/1174039/tugas 3/hasilno7.PNG>
 Package pdftex.def Info: figures/1174039/tugas 3/hasilno7.PNG  used on input line 48.
@@ -3194,7 +3202,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 48--50
 
 LaTeX Warning: File `figures/1174039/tugas 3/hasilno8.PNG' not found on input line 55.
 
-<figures/1174039/tugas 3/hasilno8.PNG, id=3991, 733.99219pt x 383.93437pt>
+<figures/1174039/tugas 3/hasilno8.PNG, id=4050, 733.99219pt x 383.93437pt>
 File: figures/1174039/tugas 3/hasilno8.PNG Graphic file (type png)
 <use figures/1174039/tugas 3/hasilno8.PNG>
 Package pdftex.def Info: figures/1174039/tugas 3/hasilno8.PNG  used on input line 55.
@@ -3215,11 +3223,11 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[136 <d:/Kuliah/GIS/Latex/figures/1174039/tugas 3/hasilno5.PNG> <d:/Kuliah/GIS/Latex/figures/1174039/tugas 3/hasilno6.PNG> <d:/Kuliah/GIS/Latex/figures/1174039/tugas 3/hasilno7.PNG>]
+[136 <d:/Semester 5/GIS/Github/figures/1174039/tugas 3/hasilno5.PNG> <d:/Semester 5/GIS/Github/figures/1174039/tugas 3/hasilno6.PNG> <d:/Semester 5/GIS/Github/figures/1174039/tugas 3/hasilno7.PNG>]
 
 LaTeX Warning: File `figures/1174039/tugas 3/hasilno9.PNG' not found on input line 62.
 
-<figures/1174039/tugas 3/hasilno9.PNG, id=3999, 730.22812pt x 115.93312pt>
+<figures/1174039/tugas 3/hasilno9.PNG, id=4058, 730.22812pt x 115.93312pt>
 File: figures/1174039/tugas 3/hasilno9.PNG Graphic file (type png)
 <use figures/1174039/tugas 3/hasilno9.PNG>
 Package pdftex.def Info: figures/1174039/tugas 3/hasilno9.PNG  used on input line 62.
@@ -3232,7 +3240,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 62--64
 
 LaTeX Warning: File `figures/1174039/tugas 3/hasilno10.PNG' not found on input line 69.
 
-<figures/1174039/tugas 3/hasilno10.PNG, id=4000, 727.96968pt x 112.92188pt>
+<figures/1174039/tugas 3/hasilno10.PNG, id=4059, 727.96968pt x 112.92188pt>
 File: figures/1174039/tugas 3/hasilno10.PNG Graphic file (type png)
 <use figures/1174039/tugas 3/hasilno10.PNG>
 Package pdftex.def Info: figures/1174039/tugas 3/hasilno10.PNG  used on input line 69.
@@ -3245,7 +3253,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 69--71
 
 LaTeX Warning: File `figures/1174039/tugas 3/hasilno11.PNG' not found on input line 76.
 
-<figures/1174039/tugas 3/hasilno11.PNG, id=4001, 729.47531pt x 140.02313pt>
+<figures/1174039/tugas 3/hasilno11.PNG, id=4060, 729.47531pt x 140.02313pt>
 File: figures/1174039/tugas 3/hasilno11.PNG Graphic file (type png)
 <use figures/1174039/tugas 3/hasilno11.PNG>
 Package pdftex.def Info: figures/1174039/tugas 3/hasilno11.PNG  used on input line 76.
@@ -3266,8 +3274,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[137 <d:/Kuliah/GIS/Latex/figures/1174039/tugas 3/hasilno8.PNG> <d:/Kuliah/GIS/Latex/figures/1174039/tugas 3/hasilno9.PNG> <d:/Kuliah/GIS/Latex/figures/1174039/tugas 3/hasilno10.PNG>]) (d:/Kuliah\GIS\Latex\chapters/tugas3/1174043.tex (d:/Kuliah\GIS\Latex\src/2/1174043/nomor1.py)
-<figures/1174043/TUGAS3/1.jpg, id=4010, 177.66376pt x 38.544pt>
+[137 <d:/Semester 5/GIS/Github/figures/1174039/tugas 3/hasilno8.PNG> <d:/Semester 5/GIS/Github/figures/1174039/tugas 3/hasilno9.PNG> <d:/Semester 5/GIS/Github/figures/1174039/tugas 3/hasilno10.PNG>]) ("d:/Semester 5\GIS\Github\chapters/tugas3/1174043.tex" ("d:/Semester 5\GIS\Github\src/2/1174043/nomor1.py")
+<figures/1174043/TUGAS3/1.jpg, id=4069, 177.66376pt x 38.544pt>
 File: figures/1174043/TUGAS3/1.jpg Graphic file (type jpg)
 <use figures/1174043/TUGAS3/1.jpg>
 Package pdftex.def Info: figures/1174043/TUGAS3/1.jpg  used on input line 7.
@@ -3277,8 +3285,8 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 7--9
  [][] 
  []
 
-(d:/Kuliah\GIS\Latex\src/2/1174043/nomor2.py)
-<figures/1174043/TUGAS3/2.jpg, id=4011, 80.7015pt x 20.4765pt>
+("d:/Semester 5\GIS\Github\src/2/1174043/nomor2.py")
+<figures/1174043/TUGAS3/2.jpg, id=4070, 80.7015pt x 20.4765pt>
 File: figures/1174043/TUGAS3/2.jpg Graphic file (type jpg)
 <use figures/1174043/TUGAS3/2.jpg>
 Package pdftex.def Info: figures/1174043/TUGAS3/2.jpg  used on input line 15.
@@ -3299,8 +3307,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[138 <d:/Kuliah/GIS/Latex/figures/1174039/tugas 3/hasilno11.PNG> <d:/Kuliah/GIS/Latex/figures/1174043/TUGAS3/1.jpg>] (d:/Kuliah\GIS\Latex\src/2/1174043/nomor3.py)
-<figures/1174043/TUGAS3/3.jpg, id=4026, 130.086pt x 25.2945pt>
+[138 <d:/Semester 5/GIS/Github/figures/1174039/tugas 3/hasilno11.PNG> <d:/Semester 5/GIS/Github/figures/1174043/TUGAS3/1.jpg>] ("d:/Semester 5\GIS\Github\src/2/1174043/nomor3.py")
+<figures/1174043/TUGAS3/3.jpg, id=4085, 130.086pt x 25.2945pt>
 File: figures/1174043/TUGAS3/3.jpg Graphic file (type jpg)
 <use figures/1174043/TUGAS3/3.jpg>
 Package pdftex.def Info: figures/1174043/TUGAS3/3.jpg  used on input line 23.
@@ -3310,8 +3318,8 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 23--25
  [][] 
  []
 
-(d:/Kuliah\GIS\Latex\src/2/1174043/nomor4.py)
-<figures/1174043/TUGAS3/4.jpg, id=4027, 123.46124pt x 21.07875pt>
+("d:/Semester 5\GIS\Github\src/2/1174043/nomor4.py")
+<figures/1174043/TUGAS3/4.jpg, id=4086, 123.46124pt x 21.07875pt>
 File: figures/1174043/TUGAS3/4.jpg Graphic file (type jpg)
 <use figures/1174043/TUGAS3/4.jpg>
 Package pdftex.def Info: figures/1174043/TUGAS3/4.jpg  used on input line 31.
@@ -3321,8 +3329,8 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 31--33
  [][] 
  []
 
-(d:/Kuliah\GIS\Latex\src/2/1174043/nomor5.py)
-<figures/1174043/TUGAS3/5.jpg, id=4028, 867.84225pt x 48.18pt>
+("d:/Semester 5\GIS\Github\src/2/1174043/nomor5.py")
+<figures/1174043/TUGAS3/5.jpg, id=4087, 867.84225pt x 48.18pt>
 File: figures/1174043/TUGAS3/5.jpg Graphic file (type jpg)
 <use figures/1174043/TUGAS3/5.jpg>
 Package pdftex.def Info: figures/1174043/TUGAS3/5.jpg  used on input line 39.
@@ -3340,8 +3348,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[139 <d:/Kuliah/GIS/Latex/figures/1174043/TUGAS3/2.jpg> <d:/Kuliah/GIS/Latex/figures/1174043/TUGAS3/3.jpg> <d:/Kuliah/GIS/Latex/figures/1174043/TUGAS3/4.jpg>] (d:/Kuliah\GIS\Latex\src/2/1174043/nomor6.py)
-<figures/1174043/TUGAS3/6.jpg, id=4049, 66.84975pt x 22.8855pt>
+[139 <d:/Semester 5/GIS/Github/figures/1174043/TUGAS3/2.jpg> <d:/Semester 5/GIS/Github/figures/1174043/TUGAS3/3.jpg> <d:/Semester 5/GIS/Github/figures/1174043/TUGAS3/4.jpg>] ("d:/Semester 5\GIS\Github\src/2/1174043/nomor6.py")
+<figures/1174043/TUGAS3/6.jpg, id=4108, 66.84975pt x 22.8855pt>
 File: figures/1174043/TUGAS3/6.jpg Graphic file (type jpg)
 <use figures/1174043/TUGAS3/6.jpg>
 Package pdftex.def Info: figures/1174043/TUGAS3/6.jpg  used on input line 47.
@@ -3351,8 +3359,8 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 47--49
  [][] 
  []
 
-(d:/Kuliah\GIS\Latex\src/2/1174043/nomor7.py)
-<figures/1174043/TUGAS3/7.jpg, id=4050, 83.1105pt x 18.66975pt>
+("d:/Semester 5\GIS\Github\src/2/1174043/nomor7.py")
+<figures/1174043/TUGAS3/7.jpg, id=4109, 83.1105pt x 18.66975pt>
 File: figures/1174043/TUGAS3/7.jpg Graphic file (type jpg)
 <use figures/1174043/TUGAS3/7.jpg>
 Package pdftex.def Info: figures/1174043/TUGAS3/7.jpg  used on input line 55.
@@ -3362,8 +3370,8 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 55--57
  [][] 
  []
 
-(d:/Kuliah\GIS\Latex\src/2/1174043/nomor8.py)
-<figures/1174043/TUGAS3/8.jpg, id=4051, 160.1985pt x 19.87425pt>
+("d:/Semester 5\GIS\Github\src/2/1174043/nomor8.py")
+<figures/1174043/TUGAS3/8.jpg, id=4110, 160.1985pt x 19.87425pt>
 File: figures/1174043/TUGAS3/8.jpg Graphic file (type jpg)
 <use figures/1174043/TUGAS3/8.jpg>
 Package pdftex.def Info: figures/1174043/TUGAS3/8.jpg  used on input line 63.
@@ -3381,8 +3389,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[140 <d:/Kuliah/GIS/Latex/figures/1174043/TUGAS3/5.jpg> <d:/Kuliah/GIS/Latex/figures/1174043/TUGAS3/6.jpg> <d:/Kuliah/GIS/Latex/figures/1174043/TUGAS3/7.jpg>] (d:/Kuliah\GIS\Latex\src/2/1174043/nomor9.py)
-<figures/1174043/TUGAS3/9.jpg, id=4075, 556.479pt x 19.87425pt>
+[140 <d:/Semester 5/GIS/Github/figures/1174043/TUGAS3/5.jpg> <d:/Semester 5/GIS/Github/figures/1174043/TUGAS3/6.jpg> <d:/Semester 5/GIS/Github/figures/1174043/TUGAS3/7.jpg>] ("d:/Semester 5\GIS\Github\src/2/1174043/nomor9.py")
+<figures/1174043/TUGAS3/9.jpg, id=4134, 556.479pt x 19.87425pt>
 File: figures/1174043/TUGAS3/9.jpg Graphic file (type jpg)
 <use figures/1174043/TUGAS3/9.jpg>
 Package pdftex.def Info: figures/1174043/TUGAS3/9.jpg  used on input line 71.
@@ -3392,8 +3400,8 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 71--73
  [][] 
  []
 
-(d:/Kuliah\GIS\Latex\src/2/1174043/nomor10.py)
-<figures/1174043/TUGAS3/10.jpg, id=4076, 357.7365pt x 19.272pt>
+("d:/Semester 5\GIS\Github\src/2/1174043/nomor10.py")
+<figures/1174043/TUGAS3/10.jpg, id=4135, 357.7365pt x 19.272pt>
 File: figures/1174043/TUGAS3/10.jpg Graphic file (type jpg)
 <use figures/1174043/TUGAS3/10.jpg>
 Package pdftex.def Info: figures/1174043/TUGAS3/10.jpg  used on input line 79.
@@ -3403,8 +3411,8 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 79--81
  [][] 
  []
 
-(d:/Kuliah\GIS\Latex\src/2/1174043/nomor11.py)
-<figures/1174043/TUGAS3/11.jpg, id=4077, 180.07275pt x 28.30576pt>
+("d:/Semester 5\GIS\Github\src/2/1174043/nomor11.py")
+<figures/1174043/TUGAS3/11.jpg, id=4136, 180.07275pt x 28.30576pt>
 File: figures/1174043/TUGAS3/11.jpg Graphic file (type jpg)
 <use figures/1174043/TUGAS3/11.jpg>
 Package pdftex.def Info: figures/1174043/TUGAS3/11.jpg  used on input line 87.
@@ -3414,7 +3422,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 87--89
  [][] 
  []
 
-) (d:/Kuliah\GIS\Latex\chapters/tugas3/1174035.tex
+) ("d:/Semester 5\GIS\Github\chapters/tugas3/1174035.tex"
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
@@ -3422,82 +3430,93 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[141 <d:/Kuliah/GIS/Latex/figures/1174043/TUGAS3/8.jpg> <d:/Kuliah/GIS/Latex/figures/1174043/TUGAS3/9.jpg> <d:/Kuliah/GIS/Latex/figures/1174043/TUGAS3/10.jpg> <d:/Kuliah/GIS/Latex/figures/1174043/TUGAS3/11.jpg>] (d:/Kuliah\GIS\Latex\src/1/1174035/tugas3/soal1_1174035.py)
-<figures/1174035/tugas3/soal1_result.png, id=4099, 529.98pt x 50.43843pt>
+[141 <d:/Semester 5/GIS/Github/figures/1174043/TUGAS3/8.jpg> <d:/Semester 5/GIS/Github/figures/1174043/TUGAS3/9.jpg> <d:/Semester 5/GIS/Github/figures/1174043/TUGAS3/10.jpg> <d:/Semester 5/GIS/Github/figures/1174043/TUGAS3/11.jpg>] ("d:/Semester 5\GIS\Github\src/1/1174035/tugas3/soal1_1174035.py")
+<figures/1174035/tugas3/soal1_result.png, id=4158, 529.98pt x 50.43843pt>
 File: figures/1174035/tugas3/soal1_result.png Graphic file (type png)
 <use figures/1174035/tugas3/soal1_result.png>
 Package pdftex.def Info: figures/1174035/tugas3/soal1_result.png  used on input line 7.
 (pdftex.def)             Requested size: 170.71652pt x 16.24683pt.
- (d:/Kuliah\GIS\Latex\src/1/1174035/tugas3/soal2_1174035.py)
-<figures/1174035/tugas3/soal2_result.png, id=4100, 526.96875pt x 36.88782pt>
+ ("d:/Semester 5\GIS\Github\src/1/1174035/tugas3/soal2_1174035.py")
+<figures/1174035/tugas3/soal2_result.png, id=4159, 526.96875pt x 36.88782pt>
 File: figures/1174035/tugas3/soal2_result.png Graphic file (type png)
 <use figures/1174035/tugas3/soal2_result.png>
 Package pdftex.def Info: figures/1174035/tugas3/soal2_result.png  used on input line 14.
 (pdftex.def)             Requested size: 170.71652pt x 11.9501pt.
- (d:/Kuliah\GIS\Latex\src/1/1174035/tugas3/soal3_1174035.py)
-<figures/1174035/tugas3/soal3_result.png, id=4101, 304.13625pt x 50.43843pt>
+ ("d:/Semester 5\GIS\Github\src/1/1174035/tugas3/soal3_1174035.py")
+<figures/1174035/tugas3/soal3_result.png, id=4160, 304.13625pt x 50.43843pt>
 File: figures/1174035/tugas3/soal3_result.png Graphic file (type png)
 <use figures/1174035/tugas3/soal3_result.png>
 Package pdftex.def Info: figures/1174035/tugas3/soal3_result.png  used on input line 21.
 (pdftex.def)             Requested size: 170.71652pt x 28.31227pt.
- (d:/Kuliah\GIS\Latex\src/1/1174035/tugas3/soal4_1174035.py)
+ ("d:/Semester 5\GIS\Github\src/1/1174035/tugas3/soal4_1174035.py")
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
- [142 <d:/Kuliah/GIS/Latex/figures/1174035/tugas3/soal1_result.png> <d:/Kuliah/GIS/Latex/figures/1174035/tugas3/soal2_result.png> <d:/Kuliah/GIS/Latex/figures/1174035/tugas3/soal3_result.png>]
-<figures/1174035/tugas3/soal4_result.png, id=4126, 241.65282pt x 49.68562pt>
+ [142 <d:/Semester 5/GIS/Github/figures/1174035/tugas3/soal1_result.png> <d:/Semester 5/GIS/Github/figures/1174035/tugas3/soal2_result.png> <d:/Semester 5/GIS/Github/figures/1174035/tugas3/soal3_result.png>]
+<figures/1174035/tugas3/soal4_result.png, id=4185, 241.65282pt x 49.68562pt>
 File: figures/1174035/tugas3/soal4_result.png Graphic file (type png)
 <use figures/1174035/tugas3/soal4_result.png>
 Package pdftex.def Info: figures/1174035/tugas3/soal4_result.png  used on input line 28.
 (pdftex.def)             Requested size: 170.71652pt x 35.1019pt.
- (d:/Kuliah\GIS\Latex\src/1/1174035/tugas3/soal5_1174035.py)
-<figures/1174035/tugas3/soal5_result.png, id=4127, 843.90282pt x 109.91063pt>
+ ("d:/Semester 5\GIS\Github\src/1/1174035/tugas3/soal5_1174035.py")
+<figures/1174035/tugas3/soal5_result.png, id=4186, 843.90282pt x 109.91063pt>
 File: figures/1174035/tugas3/soal5_result.png Graphic file (type png)
 <use figures/1174035/tugas3/soal5_result.png>
 Package pdftex.def Info: figures/1174035/tugas3/soal5_result.png  used on input line 35.
 (pdftex.def)             Requested size: 170.71652pt x 22.23329pt.
- (d:/Kuliah\GIS\Latex\src/1/1174035/tugas3/soal6_1174035.py)
-<figures/1174035/tugas3/soal6_result.png, id=4128, 288.3272pt x 45.16875pt>
+ ("d:/Semester 5\GIS\Github\src/1/1174035/tugas3/soal6_1174035.py")
+<figures/1174035/tugas3/soal6_result.png, id=4187, 288.3272pt x 45.16875pt>
 File: figures/1174035/tugas3/soal6_result.png Graphic file (type png)
 <use figures/1174035/tugas3/soal6_result.png>
 Package pdftex.def Info: figures/1174035/tugas3/soal6_result.png  used on input line 42.
 (pdftex.def)             Requested size: 170.71652pt x 26.74512pt.
- (d:/Kuliah\GIS\Latex\src/1/1174035/tugas3/soal7_1174035.py
+ ("d:/Semester 5\GIS\Github\src/1/1174035/tugas3/soal7_1174035.py"
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
- [143 <d:/Kuliah/GIS/Latex/figures/1174035/tugas3/soal4_result.png> <d:/Kuliah/GIS/Latex/figures/1174035/tugas3/soal5_result.png> <d:/Kuliah/GIS/Latex/figures/1174035/tugas3/soal6_result.png>])
-<figures/1174035/tugas3/soal7_result.png, id=4153, 287.57437pt x 51.19125pt>
+ [143 <d:/Semester 5/GIS/Github/figures/1174035/tugas3/soal4_result.png> <d:/Semester 5/GIS/Github/figures/1174035/tugas3/soal5_result.png> <d:/Semester 5/GIS/Github/figures/1174035/tugas3/soal6_result.png>])
+<figures/1174035/tugas3/soal7_result.png, id=4212, 287.57437pt x 51.19125pt>
 File: figures/1174035/tugas3/soal7_result.png Graphic file (type png)
 <use figures/1174035/tugas3/soal7_result.png>
 Package pdftex.def Info: figures/1174035/tugas3/soal7_result.png  used on input line 49.
 (pdftex.def)             Requested size: 170.71652pt x 30.39003pt.
- (d:/Kuliah\GIS\Latex\src/1/1174035/tugas3/soal8_1174035.py)
-<figures/1174035/tugas3/soal8_result.png, id=4154, 362.10281pt x 45.16875pt>
+ ("d:/Semester 5\GIS\Github\src/1/1174035/tugas3/soal8_1174035.py")
+<figures/1174035/tugas3/soal8_result.png, id=4213, 362.10281pt x 45.16875pt>
 File: figures/1174035/tugas3/soal8_result.png Graphic file (type png)
 <use figures/1174035/tugas3/soal8_result.png>
 Package pdftex.def Info: figures/1174035/tugas3/soal8_result.png  used on input line 56.
 (pdftex.def)             Requested size: 170.71652pt x 21.29547pt.
- (d:/Kuliah\GIS\Latex\src/1/1174035/tugas3/soal9_1174035.py)
-<figures/1174035/tugas3/soal9_result.png, id=4155, 435.12563pt x 45.16875pt>
+ ("d:/Semester 5\GIS\Github\src/1/1174035/tugas3/soal9_1174035.py")
+<figures/1174035/tugas3/soal9_result.png, id=4214, 435.12563pt x 45.16875pt>
 File: figures/1174035/tugas3/soal9_result.png Graphic file (type png)
 <use figures/1174035/tugas3/soal9_result.png>
 Package pdftex.def Info: figures/1174035/tugas3/soal9_result.png  used on input line 63.
 (pdftex.def)             Requested size: 170.71652pt x 17.72186pt.
- (d:/Kuliah\GIS\Latex\src/1/1174035/tugas3/soal10_1174035.py
+ ("d:/Semester 5\GIS\Github\src/1/1174035/tugas3/soal10_1174035.py"
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
- [144 <d:/Kuliah/GIS/Latex/figures/1174035/tugas3/soal7_result.png> <d:/Kuliah/GIS/Latex/figures/1174035/tugas3/soal8_result.png> <d:/Kuliah/GIS/Latex/figures/1174035/tugas3/soal9_result.png>])
-<figures/1174035/tugas3/soal10_result.png, id=4181, 338.01282pt x 36.88782pt>
+ [144 <d:/Semester 5/GIS/Github/figures/1174035/tugas3/soal7_result.png> <d:/Semester 5/GIS/Github/figures/1174035/tugas3/soal8_result.png> <d:/Semester 5/GIS/Github/figures/1174035/tugas3/soal9_result.png>])
+<figures/1174035/tugas3/soal10_result.png, id=4240, 338.01282pt x 36.88782pt>
 File: figures/1174035/tugas3/soal10_result.png Graphic file (type png)
 <use figures/1174035/tugas3/soal10_result.png>
 Package pdftex.def Info: figures/1174035/tugas3/soal10_result.png  used on input line 70.
 (pdftex.def)             Requested size: 170.71652pt x 18.63072pt.
- (d:/Kuliah\GIS\Latex\src/1/1174035/tugas3/soal11_1174035.py)
-<figures/1174035/tugas3/soal11_result.png, id=4182, 171.64125pt x 61.73062pt>
+ ("d:/Semester 5\GIS\Github\src/1/1174035/tugas3/soal11_1174035.py")
+<figures/1174035/tugas3/soal11_result.png, id=4241, 171.64125pt x 61.73062pt>
 File: figures/1174035/tugas3/soal11_result.png Graphic file (type png)
 <use figures/1174035/tugas3/soal11_result.png>
 Package pdftex.def Info: figures/1174035/tugas3/soal11_result.png  used on input line 77.
 (pdftex.def)             Requested size: 170.71652pt x 61.39795pt.
-) (d:/Kuliah\GIS\Latex\main.bbl
+) ("d:/Semester 5\GIS\Github\chapters/tugas3/1174040.tex" ("d:/Semester 5\GIS\Github\src/2/1174040/1.py")
+<figures/1174040/Python2/tampilan1.PNG, id=4243, 175.25475pt x 46.9755pt>
+File: figures/1174040/Python2/tampilan1.PNG Graphic file (type png)
+<use figures/1174040/Python2/tampilan1.PNG>
+Package pdftex.def Info: figures/1174040/Python2/tampilan1.PNG  used on input line 7.
+(pdftex.def)             Requested size: 341.43306pt x 91.52011pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 7--9
+ [][] 
+ []
+
+
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
@@ -3505,9 +3524,123 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[145 <d:/Kuliah/GIS/Latex/figures/1174035/tugas3/soal10_result.png> <d:/Kuliah/GIS/Latex/figures/1174035/tugas3/soal11_result.png>] [146
+[145 <d:/Semester 5/GIS/Github/figures/1174035/tugas3/soal10_result.png> <d:/Semester 5/GIS/Github/figures/1174035/tugas3/soal11_result.png>] ("d:/Semester 5\GIS\Github\src/2/1174040/2.py")
+<figures/1174040/Python2/tampilan2.PNG, id=4266, 578.16pt x 27.7035pt>
+File: figures/1174040/Python2/tampilan2.PNG Graphic file (type png)
+<use figures/1174040/Python2/tampilan2.PNG>
+Package pdftex.def Info: figures/1174040/Python2/tampilan2.PNG  used on input line 15.
+(pdftex.def)             Requested size: 341.43306pt x 16.36012pt.
 
-] [147])
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 15--17
+ [][] 
+ []
+
+("d:/Semester 5\GIS\Github\src/2/1174040/3.py")
+<figures/1174040/Python2/tampilan3.PNG, id=4267, 581.17125pt x 27.7035pt>
+File: figures/1174040/Python2/tampilan3.PNG Graphic file (type png)
+<use figures/1174040/Python2/tampilan3.PNG>
+Package pdftex.def Info: figures/1174040/Python2/tampilan3.PNG  used on input line 23.
+(pdftex.def)             Requested size: 341.43306pt x 16.27557pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 23--25
+ [][] 
+ []
+
+("d:/Semester 5\GIS\Github\src/2/1174040/4.py")
+<figures/1174040/Python2/tampilan4.PNG, id=4268, 593.8185pt x 26.499pt>
+File: figures/1174040/Python2/tampilan4.PNG Graphic file (type png)
+<use figures/1174040/Python2/tampilan4.PNG>
+Package pdftex.def Info: figures/1174040/Python2/tampilan4.PNG  used on input line 31.
+(pdftex.def)             Requested size: 341.43306pt x 15.23639pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 31--33
+ [][] 
+ []
+
+("d:/Semester 5\GIS\Github\src/2/1174040/5.py"
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [146 <d:/Semester 5/GIS/Github/figures/1174040/Python2/tampilan1.PNG> <d:/Semester 5/GIS/Github/figures/1174040/Python2/tampilan2.PNG> <d:/Semester 5/GIS/Github/figures/1174040/Python2/tampilan3.PNG> <d:/Semester 5/GIS/Github/figures/1174040/Python2/tampilan4.PNG>])
+<figures/1174040/Python2/tampilan5.PNG, id=4296, 908.79526pt x 101.178pt>
+File: figures/1174040/Python2/tampilan5.PNG Graphic file (type png)
+<use figures/1174040/Python2/tampilan5.PNG>
+Package pdftex.def Info: figures/1174040/Python2/tampilan5.PNG  used on input line 39.
+(pdftex.def)             Requested size: 341.43306pt x 38.01266pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 39--41
+ [][] 
+ []
+
+("d:/Semester 5\GIS\Github\src/2/1174040/6.py")
+<figures/1174040/Python2/tampilan6.PNG, id=4297, 573.342pt x 28.908pt>
+File: figures/1174040/Python2/tampilan6.PNG Graphic file (type png)
+<use figures/1174040/Python2/tampilan6.PNG>
+Package pdftex.def Info: figures/1174040/Python2/tampilan6.PNG  used on input line 47.
+(pdftex.def)             Requested size: 341.43306pt x 17.21567pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 47--49
+ [][] 
+ []
+
+("d:/Semester 5\GIS\Github\src/2/1174040/7.py")
+<figures/1174040/Python2/tampilan7.PNG, id=4298, 585.98924pt x 25.2945pt>
+File: figures/1174040/Python2/tampilan7.PNG Graphic file (type png)
+<use figures/1174040/Python2/tampilan7.PNG>
+Package pdftex.def Info: figures/1174040/Python2/tampilan7.PNG  used on input line 55.
+(pdftex.def)             Requested size: 341.43306pt x 14.73834pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 55--57
+ [][] 
+ []
+
+("d:/Semester 5\GIS\Github\src/2/1174040/8.py")
+<figures/1174040/Python2/tampilan8.PNG, id=4299, 574.5465pt x 27.7035pt>
+File: figures/1174040/Python2/tampilan8.PNG Graphic file (type png)
+<use figures/1174040/Python2/tampilan8.PNG>
+Package pdftex.def Info: figures/1174040/Python2/tampilan8.PNG  used on input line 63.
+(pdftex.def)             Requested size: 341.43306pt x 16.46327pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 63--65
+ [][] 
+ []
+
+("d:/Semester 5\GIS\Github\src/2/1174040/9.py"
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [147 <d:/Semester 5/GIS/Github/figures/1174040/Python2/tampilan5.PNG> <d:/Semester 5/GIS/Github/figures/1174040/Python2/tampilan6.PNG> <d:/Semester 5/GIS/Github/figures/1174040/Python2/tampilan7.PNG> <d:/Semester 5/GIS/Github/figures/1174040/Python2/tampilan8.PNG>])
+<figures/1174040/Python2/tampilan9.PNG, id=4330, 573.342pt x 31.317pt>
+File: figures/1174040/Python2/tampilan9.PNG Graphic file (type png)
+<use figures/1174040/Python2/tampilan9.PNG>
+Package pdftex.def Info: figures/1174040/Python2/tampilan9.PNG  used on input line 71.
+(pdftex.def)             Requested size: 341.43306pt x 18.65031pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 71--73
+ [][] 
+ []
+
+("d:/Semester 5\GIS\Github\src/2/1174040/10.py")
+<figures/1174040/Python2/tampilan10.PNG, id=4331, 590.205pt x 28.30576pt>
+File: figures/1174040/Python2/tampilan10.PNG Graphic file (type png)
+<use figures/1174040/Python2/tampilan10.PNG>
+Package pdftex.def Info: figures/1174040/Python2/tampilan10.PNG  used on input line 79.
+(pdftex.def)             Requested size: 341.43306pt x 16.37502pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 79--81
+ [][] 
+ []
+
+("d:/Semester 5\GIS\Github\src/2/1174040/11.py")
+<figures/1174040/Python2/tampilan11.PNG, id=4332, 581.17125pt x 37.94176pt>
+File: figures/1174040/Python2/tampilan11.PNG Graphic file (type png)
+<use figures/1174040/Python2/tampilan11.PNG>
+Package pdftex.def Info: figures/1174040/Python2/tampilan11.PNG  used on input line 87.
+(pdftex.def)             Requested size: 341.43306pt x 22.29048pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 87--89
+ [][] 
+ []
+
+) ("d:/Semester 5\GIS\Github\main.bbl"
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
@@ -3515,31 +3648,41 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[148] (d:/Kuliah\GIS\Latex\main.ind [149
+[148 <d:/Semester 5/GIS/Github/figures/1174040/Python2/tampilan9.PNG> <d:/Semester 5/GIS/Github/figures/1174040/Python2/tampilan10.PNG> <d:/Semester 5/GIS/Github/figures/1174040/Python2/tampilan11.PNG>] [149
+
+])
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[150] ("d:/Semester 5\GIS\Github\main.ind" [151
 
 
 
 ])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 300.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 300.
- (d:/Kuliah\GIS\Latex\main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 300.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 300.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 301.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 301.
+ ("d:/Semester 5\GIS\Github\main.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 301.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 301.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 02B44E27CC8791BDF4C1DA0A82CE4458;8080.
+(rerunfilecheck)             Checksum: BE57D43EF8667A71FDBE6BF199EB7408;8303.
  ) 
 Here is how much of TeX's memory you used:
- 11123 strings out of 492945
- 182613 string characters out of 3125808
- 541742 words of memory out of 3000000
- 11869 multiletter control sequences out of 15000+200000
+ 11298 strings out of 492946
+ 187468 string characters out of 3135529
+ 541747 words of memory out of 3000000
+ 11919 multiletter control sequences out of 15000+200000
  63847 words of font info for 119 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 31i,15n,47p,1060b,1900s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Luthfi/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on d:/Kuliah\GIS\Latex\main.pdf (190 pages, 5186156 bytes).
+ 31i,15n,47p,1067b,1900s stack positions out of 5000i,500n,10000p,200000b,50000s
+{D:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvbo8a.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><D:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on "d:/Semester 5\GIS\Github\main.pdf" (192 pages, 5265994 bytes).
 PDF statistics:
- 4767 PDF objects out of 5155 (max. 8388607)
- 2471 named destinations out of 2487 (max. 500000)
- 1813 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 4934 PDF objects out of 5155 (max. 8388607)
+ 2557 named destinations out of 2984 (max. 500000)
+ 1892 words of extra memory for PDF output out of 10000 (max. 10000000)
 
