@@ -123,5 +123,8 @@
 \contentsline {section}{\numberline {3.4}Hagan Rowlenstino A.S(1174040)}{145}{section.3.4}% 
 \contentsline {subsection}{\numberline {3.4.1}Point Polyline dan Polygon}{145}{subsection.3.4.1}% 
 \contentsline {subsection}{\numberline {3.4.2}Link}{148}{subsection.3.4.2}% 
-\contentsline {schapter}{Daftar Pustaka}{149}{chapter*.15}% 
-\contentsline {schapter}{Index}{151}{chapter*.15}% 
+\contentsline {section}{\numberline {3.5}Dika Sukma Pradana 1174050)}{148}{section.3.5}% 
+\contentsline {subsection}{\numberline {3.5.1}Membaca File PYSHP}{148}{subsection.3.5.1}% 
+\contentsline {subsection}{\numberline {3.5.2}Link Youtube}{153}{subsection.3.5.2}% 
+\contentsline {schapter}{Daftar Pustaka}{155}{chapter*.15}% 
+\contentsline {schapter}{Index}{157}{chapter*.15}% 
