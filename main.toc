@@ -1,13 +1,13 @@
 \contentsline {schapter}{Daftar Gambar}{xiii}{chapter*.4}% 
-\contentsline {schapter}{Daftar Tabel}{xix}{chapter*.5}% 
-\contentsline {schapter}{Foreword}{xxv}{chapter*.7}% 
-\contentsline {schapter}{Kata Pengantar}{xxvii}{chapter*.8}% 
-\contentsline {schapter}{Acknowledgments}{xxix}{chapter*.9}% 
-\contentsline {schapter}{Acronyms}{xxxi}{chapter*.10}% 
-\contentsline {schapter}{Glossary}{xxxiii}{chapter*.11}% 
-\contentsline {schapter}{List of Symbols}{xxxv}{chapter*.12}% 
-\contentsline {schapter}{Introduction}{xxxvii}{chapter*.13}% 
-\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xxxvii}{chapter*.13}% 
+\contentsline {schapter}{Daftar Tabel}{xxi}{chapter*.5}% 
+\contentsline {schapter}{Foreword}{xxvii}{chapter*.7}% 
+\contentsline {schapter}{Kata Pengantar}{xxix}{chapter*.8}% 
+\contentsline {schapter}{Acknowledgments}{xxxi}{chapter*.9}% 
+\contentsline {schapter}{Acronyms}{xxxiii}{chapter*.10}% 
+\contentsline {schapter}{Glossary}{xxxv}{chapter*.11}% 
+\contentsline {schapter}{List of Symbols}{xxxvii}{chapter*.12}% 
+\contentsline {schapter}{Introduction}{xxxix}{chapter*.13}% 
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xxxix}{chapter*.13}% 
 \contentsline {chapter}{\numberline {1}Tugas Pertama}{1}{chapter.1}% 
 \contentsline {section}{\numberline {1.1}NAMA (NPM)}{1}{section.1.1}% 
 \contentsline {subsection}{\numberline {1.1.1}Pengertian}{1}{subsection.1.1.1}% 
