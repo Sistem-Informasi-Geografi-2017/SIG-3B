@@ -1,128 +1,1612 @@
-PWD d:\Semester 5\GIS\Github
-INPUT C:\Users\User\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
-INPUT d:\Semester 5\GIS\Github\main.tex
-OUTPUT d:\Semester 5\GIS\Github\main.log
-INPUT d:\Semester 5\GIS\Github\wileySix.cls
-INPUT d:\Semester 5\GIS\Github\wileySix.cls
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmssbx10.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmssbx10.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmss10.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmssbx10.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmssbx10.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmssbx10.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmss10.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmssbx10.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmss10.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx10.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmss10.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmssbx10.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmss10.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx10.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmssi10.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx10.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx10.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmti10.tfm
-OUTPUT d:\Semester 5\GIS\Github\main.idx
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmcsc10.tfm
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty
-INPUT d:\Semester 5\GIS\Github\w-bookps.sty
-INPUT d:\Semester 5\GIS\Github\w-bookps.sty
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvr.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvr.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvr.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmbi.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvr.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvr.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvbo.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvro.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmbi.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmbi.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx7.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbx5.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmib10.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmmib7.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmmib5.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmbsy10.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmbsy7.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmbsy5.tfm
-INPUT d:\Semester 5\GIS\Github\main.aux
-INPUT d:\Semester 5\GIS\Github\main.aux
-OUTPUT d:\Semester 5\GIS\Github\main.aux
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr7t.tfm
-INPUT D:\Program Files\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
-INPUT D:\Program Files\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
-INPUT D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
-OUTPUT d:\Semester 5\GIS\Github\main.out
+PWD d:\Kuliah\GIS\Latex
+INPUT C:\Users\Luthfi\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
+INPUT d:\Kuliah\GIS\Latex\main.tex
+OUTPUT d:\Kuliah\GIS\Latex\main.log
+INPUT d:\Kuliah\GIS\Latex\wileySix.cls
+INPUT d:\Kuliah\GIS\Latex\wileySix.cls
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmssbx10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmssbx10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmss10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmssbx10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmssbx10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmssbx10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmss10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmssbx10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmss10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmss10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmssbx10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmss10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmssi10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmti10.tfm
+OUTPUT d:\Kuliah\GIS\Latex\main.idx
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmcsc10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.cfg
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.cfg
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.sty
+INPUT d:\Kuliah\GIS\Latex\w-bookps.sty
+INPUT d:\Kuliah\GIS\Latex\w-bookps.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvr.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvr.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvr.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmbi.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvr.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvr.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvbo.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvro.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmbi.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmbi.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx7.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx5.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmib10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmmib7.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmmib5.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbsy10.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmbsy7.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmbsy5.tfm
+INPUT d:\Kuliah\GIS\Latex\main.aux
+INPUT d:\Kuliah\GIS\Latex\main.aux
+OUTPUT d:\Kuliah\GIS\Latex\main.aux
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
+INPUT d:\Kuliah\GIS\Latex\main.out
+INPUT d:\Kuliah\GIS\Latex\main.out
+INPUT d:\Kuliah\GIS\Latex\main.out
+INPUT d:\Kuliah\GIS\Latex\main.out
+OUTPUT d:\Kuliah\GIS\Latex\main.pdf
+INPUT d:\Kuliah\GIS\Latex\main.out
+INPUT d:\Kuliah\GIS\Latex\main.out
+OUTPUT d:\Kuliah\GIS\Latex\main.out
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\helvetic\phvb.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb8r.tfm
+INPUT C:\Users\Luthfi\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT d:\Kuliah\GIS\Latex\info\copyrightpage.tex
+INPUT d:\Kuliah\GIS\Latex\info\copyrightpage.tex
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmbi.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmbi8r.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmr7t.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmri7t.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri8r.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT d:\Kuliah\GIS\Latex\info\contributors.tex
+INPUT d:\Kuliah\GIS\Latex\info\contributors.tex
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\helvetic\phvr.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvr8r.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmr.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\symbol\psyr.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmr.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\symbol\psyr.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmr7t.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\helvetic\phvb.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb8r.tfm
+INPUT d:\Kuliah\GIS\Latex\main.toc
+INPUT d:\Kuliah\GIS\Latex\main.toc
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\helvetic\phvb.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb8r.tfm
+INPUT d:\Kuliah\GIS\Latex\main.toc
+INPUT d:\Kuliah\GIS\Latex\main.toc
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmr.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\symbol\psyr.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmri7t.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri8r.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\helvetic\phvr.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvr8r.tfm
+OUTPUT d:\Kuliah\GIS\Latex\main.toc
+INPUT d:\Kuliah\GIS\Latex\main.lof
+INPUT d:\Kuliah\GIS\Latex\main.lof
+OUTPUT d:\Kuliah\GIS\Latex\main.lof
+INPUT d:\Kuliah\GIS\Latex\main.lot
+INPUT d:\Kuliah\GIS\Latex\main.lot
+OUTPUT d:\Kuliah\GIS\Latex\main.lot
+INPUT d:\Kuliah\GIS\Latex\main.lol
+INPUT d:\Kuliah\GIS\Latex\main.lol
+OUTPUT d:\Kuliah\GIS\Latex\main.lol
+INPUT d:\Kuliah\GIS\Latex\info\foreword.tex
+INPUT d:\Kuliah\GIS\Latex\info\foreword.tex
+INPUT d:\Kuliah\GIS\Latex\info\preface.tex
+INPUT d:\Kuliah\GIS\Latex\info\preface.tex
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmrc7t.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmrc7t.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmri.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri8r.tfm
+INPUT d:\Kuliah\GIS\Latex\info\acknowledgments.tex
+INPUT d:\Kuliah\GIS\Latex\info\acknowledgments.tex
+INPUT d:\Kuliah\GIS\Latex\info\acronyms.tex
+INPUT d:\Kuliah\GIS\Latex\info\acronyms.tex
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmri7t.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmr7t.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT d:\Kuliah\GIS\Latex\info\glossary.tex
+INPUT d:\Kuliah\GIS\Latex\info\glossary.tex
+INPUT d:\Kuliah\GIS\Latex\info\symbols.tex
+INPUT d:\Kuliah\GIS\Latex\info\symbols.tex
+INPUT d:\Kuliah\GIS\Latex\info\introduction.tex
+INPUT d:\Kuliah\GIS\Latex\info\introduction.tex
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmrc7t.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmrc7t.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmr.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\symbol\psyr.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas1\1174xxx.tex
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas1\1174xxx.tex
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb7t.tfm
+INPUT d:\Kuliah\GIS\Latex\figures\himatif.png
+INPUT d:\Kuliah\GIS\Latex\figures\himatif.png
+INPUT d:\Kuliah\GIS\Latex\figures\himatif.png
+INPUT d:\Kuliah\GIS\Latex\figures\himatif.png
+INPUT d:\Kuliah\GIS\Latex\figures\himatif.png
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\helvetic\phvb.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb8r.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\helvetic\phvbo.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvbo8r.tfm
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas1\1174039.tex
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas1\1174039.tex
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmb.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb8r.tfm
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\plagiat.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\plagiat.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\plagiat.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\plagiat.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\plagiat.png
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas1\1174042.tex
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas1\1174042.tex
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\gis.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\gis.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\gis.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\gis.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\gis.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\plagiat.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\plagiat.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\plagiat.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\plagiat.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\plagiat.png
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas1\1174057.tex
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas1\1174057.tex
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\sejarah.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\sejarah.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\sejarah.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\sejarah.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\sejarah.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\plagiarisme.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\plagiarisme.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\plagiarisme.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\plagiarisme.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\plagiarisme.png
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas1\1174035.tex
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas1\1174035.tex
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas1\plagiat.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas1\plagiat.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas1\plagiat.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas1\plagiat.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas1\plagiat.png
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas1\1174040.tex
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas1\1174040.tex
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\1174040_plagiat_1.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\1174040_plagiat_1.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\1174040_plagiat_1.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\1174040_plagiat_1.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\1174040_plagiat_1.png
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas1\1174043.tex
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas1\1174043.tex
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\Plagiarisme.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\Plagiarisme.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\Plagiarisme.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\Plagiarisme.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\Plagiarisme.png
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas1\1174050.tex
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas1\1174050.tex
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\koordinat.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\koordinat.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\koordinat.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\koordinat.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\koordinat.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\plagiarism.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\plagiarism.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\plagiarism.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\plagiarism.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\plagiarism.png
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas1\1174063.tex
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas1\1174063.tex
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\koordinat.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\koordinat.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\koordinat.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\koordinat.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\koordinat.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\utm.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\utm.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\utm.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\utm.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\utm.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\plagiat.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\plagiat.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\plagiat.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\plagiat.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\plagiat.jpg
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas1\1174059.tex
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas1\1174059.tex
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\plagiarisme.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\plagiarisme.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\plagiarisme.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\plagiarisme.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\plagiarisme.png
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas1\1174038.tex
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas1\1174038.tex
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\peta koordinat indonesia.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\peta koordinat indonesia.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\peta koordinat indonesia.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\peta koordinat indonesia.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\plagiarism.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\plagiarism.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\plagiarism.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\plagiarism.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\plagiarism.png
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas1\1174034.tex
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas1\1174034.tex
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\koordinat.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\koordinat.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\koordinat.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\koordinat.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\koordinat.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\plagiarism.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\plagiarism.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\plagiarism.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\plagiarism.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\plagiarism.png
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas2\1174042.tex
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas2\1174042.tex
+INPUT d:\Kuliah\GIS\Latex\src\1\1174039\soal1.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174039\soal1.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174039\soal1.py
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr7t.tfm
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No1.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No1.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No1.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No1.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No1.JPG
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmr7t.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8r.tfm
+INPUT d:\Kuliah\GIS\Latex\src\1\1174042\No2.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174042\No2.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174042\No2.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No2.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No2.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No2.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No2.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No2.JPG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174042\No3.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174042\No3.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174042\No3.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No3.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No3.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No3.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No3.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No3.JPG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174042\No4.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174042\No4.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174042\No4.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No4.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No4.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No4.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No4.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No4.JPG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174042\No5.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174042\No5.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174042\No5.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No5.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No5.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No5.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No5.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No5.JPG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174042\No6.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174042\No6.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174042\No6.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No6.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No6.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No6.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No6.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No6.JPG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174042\No7.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174042\No7.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174042\No7.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No7.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No7.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No7.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No7.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No7.JPG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174042\No8.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174042\No8.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174042\No8.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No8.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No8.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No8.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No8.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No8.JPG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174042\No9.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174042\No9.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174042\No9.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No9.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No9.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No9.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No9.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No9.JPG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174042\No10.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174042\No10.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174042\No10.py
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy6.tfm
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No10.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No10.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No10.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No10.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No10.JPG
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas2\1174040.tex
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas2\1174040.tex
+INPUT d:\Kuliah\GIS\Latex\src\1\1174040\Soal1.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174040\Soal1.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174040\Soal1.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal1.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal1.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal1.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal1.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal1.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174040\Soal2.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174040\Soal2.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174040\Soal2.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal2.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174040\Soal3.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174040\Soal3.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174040\Soal3.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal3.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal3.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal3.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal3.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal3.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174040\Soal4.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174040\Soal4.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174040\Soal4.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal4.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal4.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal4.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal4.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal4.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174040\Soal5.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174040\Soal5.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174040\Soal5.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal5.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal5.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal5.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal5.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal5.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174040\Soal6.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174040\Soal6.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174040\Soal6.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal6.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal6.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal6.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal6.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal6.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174040\Soal7.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174040\Soal7.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174040\Soal7.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal7.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal7.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal7.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal7.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal7.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174040\Soal8.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174040\Soal8.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174040\Soal8.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal8.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal8.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal8.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal8.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal8.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174040\Soal9.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174040\Soal9.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174040\Soal9.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal9.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal9.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal9.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal9.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\Soal9.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174040\SoalMod.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174040\SoalMod.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174040\SoalMod.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\SoalMod.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\SoalMod.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\SoalMod.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\SoalMod.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174040\Python1\SoalMod.PNG
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas2\1174039.tex
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas2\1174039.tex
+INPUT d:\Kuliah\GIS\Latex\src\1\1174039\soal1.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174039\soal1.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174039\soal1.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil1.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil1.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil1.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil1.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil1.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174039\soal2.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174039\soal2.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174039\soal2.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil2.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174039\soal3.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174039\soal3.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174039\soal3.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil3.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil3.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil3.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil3.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil3.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174039\soal4.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174039\soal4.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174039\soal4.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil4.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil4.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil4.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil4.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil4.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174039\soal5.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174039\soal5.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174039\soal5.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil5.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil5.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil5.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil5.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil5.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174039\soal6.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174039\soal6.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174039\soal6.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil6.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil6.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil6.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil6.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil6.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174039\soal7.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174039\soal7.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174039\soal7.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil7.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil7.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil7.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil7.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil7.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174039\soal8.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174039\soal8.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174039\soal8.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil1.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil1.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174039\soal9.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174039\soal9.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174039\soal9.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil9.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil9.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil9.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil9.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil9.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174039\soal10.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174039\soal10.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174039\soal10.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil10.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil10.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil10.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil10.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\gambar\hasil10.PNG
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas2\1174043.tex
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas2\1174043.tex
+INPUT d:\Kuliah\GIS\Latex\src\1\1174043\nomor1.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174043\nomor1.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174043\nomor1.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\1.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\1.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\1.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\1.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\1.jpg
+INPUT d:\Kuliah\GIS\Latex\src\1\1174043\nomor2.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174043\nomor2.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174043\nomor2.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\2.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\2.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\2.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\2.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\2.jpg
+INPUT d:\Kuliah\GIS\Latex\src\1\1174043\nomor3.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174043\nomor3.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174043\nomor3.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\3.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\3.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\3.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\3.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\3.jpg
+INPUT d:\Kuliah\GIS\Latex\src\1\1174043\nomor4.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174043\nomor4.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174043\nomor4.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\4.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\4.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\4.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\4.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\4.jpg
+INPUT d:\Kuliah\GIS\Latex\src\1\1174043\nomor5.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174043\nomor5.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174043\nomor5.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\5.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\5.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\5.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\5.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\5.jpg
+INPUT d:\Kuliah\GIS\Latex\src\1\1174043\nomor6.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174043\nomor6.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174043\nomor6.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\6.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\6.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\6.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\6.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\6.jpg
+INPUT d:\Kuliah\GIS\Latex\src\1\1174043\nomor7.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174043\nomor7.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174043\nomor7.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\7.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\7.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\7.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\7.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\7.jpg
+INPUT d:\Kuliah\GIS\Latex\src\1\1174043\nomor8.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174043\nomor8.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174043\nomor8.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\8.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\8.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\8.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\8.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\8.jpg
+INPUT d:\Kuliah\GIS\Latex\src\1\1174043\nomor9.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174043\nomor9.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174043\nomor9.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\9.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\9.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\9.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\9.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\9.jpg
+INPUT d:\Kuliah\GIS\Latex\src\1\1174043\nomor10.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174043\nomor10.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174043\nomor10.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\10.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\10.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\10.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\10.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\10.jpg
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas2\1174035.tex
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas2\1174035.tex
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas2\praktek1_pyshp.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas2\praktek1_pyshp.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas2\praktek1_pyshp.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_1.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_1.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_1.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_1.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_1.png
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas2\praktek2_pyshp.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas2\praktek2_pyshp.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas2\praktek2_pyshp.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_2.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_2.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_2.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_2.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_2.png
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas2\praktek3_pyshp.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas2\praktek3_pyshp.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas2\praktek3_pyshp.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_3.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_3.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_3.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_3.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_3.png
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas2\praktek4_pyshp.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas2\praktek4_pyshp.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas2\praktek4_pyshp.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_4.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_4.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_4.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_4.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_4.png
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas2\praktek5_pyshp.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas2\praktek5_pyshp.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas2\praktek5_pyshp.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_5.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_5.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_5.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_5.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_5.png
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas2\praktek6_pyshp.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas2\praktek6_pyshp.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas2\praktek6_pyshp.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_6.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_6.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_6.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_6.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_6.png
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas2\praktek7_pyshp.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas2\praktek7_pyshp.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas2\praktek7_pyshp.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_7.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_7.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_7.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_7.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_7.png
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas2\praktek8_pyshp.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas2\praktek8_pyshp.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas2\praktek8_pyshp.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_8.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_8.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_8.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_8.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_8.png
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas2\praktek9_pyshp.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas2\praktek9_pyshp.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas2\praktek9_pyshp.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_9.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_9.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_9.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_9.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_9.png
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas2\praktek10_pyshp.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas2\praktek10_pyshp.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas2\praktek10_pyshp.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_10.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_10.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_10.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_10.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas2\soal_10.png
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas2\1174050.tex
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas2\1174050.tex
+INPUT d:\Kuliah\GIS\Latex\src\1\1174050\1.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174050\1.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174050\1.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\1.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\1.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\1.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\1.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\1.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174050\2.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174050\2.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174050\2.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\2.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174050\3.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174050\3.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174050\3.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\3.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\3.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\3.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\3.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\3.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174050\4.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174050\4.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174050\4.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\4.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\4.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\4.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\4.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\4.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174050\5.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174050\5.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174050\5.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\5.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\5.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\5.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\5.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\5.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174050\6.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174050\6.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174050\6.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\6.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\6.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\6.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\6.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\6.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174050\7.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174050\7.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174050\7.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\7.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\7.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\7.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\7.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\7.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174050\8.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174050\8.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174050\8.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\8.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\8.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\8.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\8.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\8.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174050\9.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174050\9.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174050\9.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\9.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\9.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\9.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\9.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\9.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174050\10.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174050\10.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174050\10.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\10.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\10.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\10.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\10.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174050\10.PNG
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas2\1174059.tex
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas2\1174059.tex
+INPUT d:\Kuliah\GIS\Latex\src\1\1174059\pyshp1.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174059\pyshp1.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174059\pyshp1.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal1.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal1.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal1.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal1.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal1.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174059\pyshp2.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174059\pyshp2.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174059\pyshp2.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal2.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174059\pyshp3.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174059\pyshp3.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174059\pyshp3.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal3.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal3.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal3.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal3.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal3.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174059\pyshp4.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174059\pyshp4.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174059\pyshp4.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal4.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal4.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal4.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal4.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal4.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174059\pyshp5.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174059\pyshp5.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174059\pyshp5.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal5.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal5.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal5.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal5.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal5.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174059\pyshp6.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174059\pyshp6.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174059\pyshp6.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal6.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal6.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal6.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal6.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal6.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174059\pyshp7.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174059\pyshp7.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174059\pyshp7.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal7.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal7.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal7.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal7.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal7.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174059\pyshp8.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174059\pyshp8.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174059\pyshp8.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal8.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal8.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal8.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal8.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal8.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174059\pyshp9.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174059\pyshp9.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174059\pyshp9.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal9.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal9.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal9.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal9.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal9.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174059\pyshp10.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174059\pyshp10.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174059\pyshp10.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal10.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal10.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal10.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal10.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\Python1\soal10.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\plagiarisme2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\plagiarisme2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\plagiarisme2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\plagiarisme2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174059\plagiarisme2.PNG
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas2\1174038.tex
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas2\1174038.tex
+INPUT d:\Kuliah\GIS\Latex\src\1\1174038\1.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174038\1.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174038\1.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\1.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\1.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\1.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\1.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\1.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174038\2.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174038\2.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174038\2.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\2.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174038\3.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174038\3.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174038\3.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\3.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\3.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\3.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\3.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\3.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174038\4.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174038\4.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174038\4.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\4.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\4.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\4.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\4.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\4.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174038\5.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174038\5.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174038\5.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\5.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\5.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\5.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\5.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\5.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174038\6.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174038\6.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174038\6.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\6.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\6.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\6.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\6.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\6.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174038\7.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174038\7.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174038\7.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\7.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\7.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\7.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\7.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\7.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174038\8.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174038\8.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174038\8.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\8.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\8.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\8.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\8.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\8.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174038\9.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174038\9.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174038\9.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\9.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\9.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\9.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\9.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\9.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174038\10.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174038\10.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174038\10.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\10.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\10.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\10.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\10.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174038\10.PNG
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas2\1174056.tex
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas2\1174056.tex
+INPUT d:\Kuliah\GIS\Latex\src\1\1174056\py1.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174056\py1.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174056\py1.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\1.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\1.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\1.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\1.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\1.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174056\py2.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174056\py2.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174056\py2.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\2.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174056\py3.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174056\py3.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174056\py3.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\3.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\3.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\3.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\3.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\3.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174056\py4.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174056\py4.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174056\py4.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\4.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\4.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\4.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\4.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\4.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174056\py5.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174056\py5.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174056\py5.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\5.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\5.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\5.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\5.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\5.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174056\py6.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174056\py6.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174056\py6.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\6.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\6.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\6.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\6.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\6.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174056\py7.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174056\py7.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174056\py7.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\7.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\7.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\7.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\7.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\7.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174056\py8.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174056\py8.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174056\py8.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\8.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\8.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\8.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\8.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\8.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174056\py9.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174056\py9.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174056\py9.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\9.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\9.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\9.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\9.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\9.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174056\py10.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174056\py10.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174056\py10.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\10.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\10.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\10.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\10.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174056\10.PNG
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas2\1174057.tex
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas2\1174057.tex
+INPUT d:\Kuliah\GIS\Latex\src\1\1174057\alit1.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174057\alit1.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174057\alit1.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit1.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit1.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit1.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit1.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit1.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174057\alit2.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174057\alit2.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174057\alit2.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit2.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174057\alit3.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174057\alit3.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174057\alit3.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit3.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit3.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit3.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit3.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit3.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174057\alit4.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174057\alit4.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174057\alit4.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit4.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit4.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit4.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit4.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit4.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174057\alit5.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174057\alit5.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174057\alit5.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit5.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit5.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit5.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit5.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit5.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174057\alit6.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174057\alit6.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174057\alit6.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit6.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit6.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit6.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit6.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit6.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174057\alit7.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174057\alit7.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174057\alit7.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit7.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit7.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit7.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit7.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit7.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174057\alit8.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174057\alit8.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174057\alit8.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit8.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit8.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit8.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit8.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit8.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174057\alit9.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174057\alit9.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174057\alit9.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit9.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit9.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit9.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit9.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\alit9.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174057\soal10.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174057\soal10.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174057\soal10.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\soal10.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\soal10.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\soal10.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\soal10.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\soal10.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\plagiat.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\plagiat.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\plagiat.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\plagiat.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174057\plagiat.png
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas2\1174034.tex
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas2\1174034.tex
+INPUT d:\Kuliah\GIS\Latex\src\1\1174034\No1.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174034\No1.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174034\No1.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No1.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No1.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No1.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No1.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No1.JPG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174034\No2.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174034\No2.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174034\No2.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No2.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No2.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No2.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No2.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No2.JPG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174034\No3.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174034\No3.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174034\No3.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No3.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No3.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No3.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No3.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No3.JPG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174034\No4.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174034\No4.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174034\No4.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No4.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174042\No4.JPG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174034\No5.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174034\No5.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174034\No5.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No5.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No5.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No5.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No5.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No5.JPG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174034\No6.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174034\No6.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174034\No6.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No6.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No6.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No6.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No6.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No6.JPG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174034\No7.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174034\No7.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174034\No7.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No7.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No7.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No7.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No7.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No7.JPG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174034\No8.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174034\No8.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174034\No8.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No8.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No8.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No8.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No8.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No8.JPG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174034\No9.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174034\No9.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174034\No9.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No9.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No9.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No9.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No9.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No9.JPG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174034\No10.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174034\No10.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174034\No10.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No10.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No10.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No10.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No10.JPG
+INPUT d:\Kuliah\GIS\Latex\figures\1174034\No10.JPG
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas2\1174063.tex
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas2\1174063.tex
+INPUT d:\Kuliah\GIS\Latex\src\1\1174063\pyshp1.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174063\pyshp1.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174063\pyshp1.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\1.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\1.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\1.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\1.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\1.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174063\pyshp2.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174063\pyshp2.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174063\pyshp2.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\2.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174063\pyshp3.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174063\pyshp3.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174063\pyshp3.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\3.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\3.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\3.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\3.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\3.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174063\pyshp4.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174063\pyshp4.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174063\pyshp4.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\4.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\4.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\4.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\4.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\4.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174063\pyshp5.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174063\pyshp5.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174063\pyshp5.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\5.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\5.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\5.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\5.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\5.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174063\pyshp6.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174063\pyshp6.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174063\pyshp6.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\6.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\6.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\6.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\6.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\6.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174063\pyshp7.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174063\pyshp7.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174063\pyshp7.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\7.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\7.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\7.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\7.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\7.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174063\pyshp8.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174063\pyshp8.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174063\pyshp8.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\8.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\8.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\8.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\8.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\8.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174063\pyshp9.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174063\pyshp9.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174063\pyshp9.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\9.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\9.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\9.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\9.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\9.PNG
+INPUT d:\Kuliah\GIS\Latex\src\1\1174063\pyshp10.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174063\pyshp10.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174063\pyshp10.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\10.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\10.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\10.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\10.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174063\10.PNG
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas3\1174039.tex
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas3\1174039.tex
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno1.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno1.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno1.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno1.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno2.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno3.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno3.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno3.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno3.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno4.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno4.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno4.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno4.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno5.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno5.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno5.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno5.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno6.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno6.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno6.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno6.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno7.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno7.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno7.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno7.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno8.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno8.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno8.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno8.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno9.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno9.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno9.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno9.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno10.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno10.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno10.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno10.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno11.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno11.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno11.PNG
+INPUT d:\Kuliah\GIS\Latex\figures\1174039\tugas 3\hasilno11.PNG
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas3\1174043.tex
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas3\1174043.tex
+INPUT d:\Kuliah\GIS\Latex\src\2\1174043\nomor1.py
+INPUT d:\Kuliah\GIS\Latex\src\2\1174043\nomor1.py
+INPUT d:\Kuliah\GIS\Latex\src\2\1174043\nomor1.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\1.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\1.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\1.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\1.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\1.jpg
+INPUT d:\Kuliah\GIS\Latex\src\2\1174043\nomor2.py
+INPUT d:\Kuliah\GIS\Latex\src\2\1174043\nomor2.py
+INPUT d:\Kuliah\GIS\Latex\src\2\1174043\nomor2.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\2.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\2.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\2.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\2.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\2.jpg
+INPUT d:\Kuliah\GIS\Latex\src\2\1174043\nomor3.py
+INPUT d:\Kuliah\GIS\Latex\src\2\1174043\nomor3.py
+INPUT d:\Kuliah\GIS\Latex\src\2\1174043\nomor3.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\3.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\3.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\3.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\3.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\3.jpg
+INPUT d:\Kuliah\GIS\Latex\src\2\1174043\nomor4.py
+INPUT d:\Kuliah\GIS\Latex\src\2\1174043\nomor4.py
+INPUT d:\Kuliah\GIS\Latex\src\2\1174043\nomor4.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\4.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\4.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\4.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\4.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\4.jpg
+INPUT d:\Kuliah\GIS\Latex\src\2\1174043\nomor5.py
+INPUT d:\Kuliah\GIS\Latex\src\2\1174043\nomor5.py
+INPUT d:\Kuliah\GIS\Latex\src\2\1174043\nomor5.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\5.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\5.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\5.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\5.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\5.jpg
+INPUT d:\Kuliah\GIS\Latex\src\2\1174043\nomor6.py
+INPUT d:\Kuliah\GIS\Latex\src\2\1174043\nomor6.py
+INPUT d:\Kuliah\GIS\Latex\src\2\1174043\nomor6.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\6.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\6.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\6.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\6.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\6.jpg
+INPUT d:\Kuliah\GIS\Latex\src\2\1174043\nomor7.py
+INPUT d:\Kuliah\GIS\Latex\src\2\1174043\nomor7.py
+INPUT d:\Kuliah\GIS\Latex\src\2\1174043\nomor7.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\7.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\7.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\7.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\7.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\7.jpg
+INPUT d:\Kuliah\GIS\Latex\src\2\1174043\nomor8.py
+INPUT d:\Kuliah\GIS\Latex\src\2\1174043\nomor8.py
+INPUT d:\Kuliah\GIS\Latex\src\2\1174043\nomor8.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\8.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\8.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\8.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\8.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\8.jpg
+INPUT d:\Kuliah\GIS\Latex\src\2\1174043\nomor9.py
+INPUT d:\Kuliah\GIS\Latex\src\2\1174043\nomor9.py
+INPUT d:\Kuliah\GIS\Latex\src\2\1174043\nomor9.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\9.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\9.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\9.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\9.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\9.jpg
+INPUT d:\Kuliah\GIS\Latex\src\2\1174043\nomor10.py
+INPUT d:\Kuliah\GIS\Latex\src\2\1174043\nomor10.py
+INPUT d:\Kuliah\GIS\Latex\src\2\1174043\nomor10.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\10.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\10.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\10.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\10.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\10.jpg
+INPUT d:\Kuliah\GIS\Latex\src\2\1174043\nomor11.py
+INPUT d:\Kuliah\GIS\Latex\src\2\1174043\nomor11.py
+INPUT d:\Kuliah\GIS\Latex\src\2\1174043\nomor11.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\11.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\11.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\11.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\11.jpg
+INPUT d:\Kuliah\GIS\Latex\figures\1174043\TUGAS3\11.jpg
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas3\1174035.tex
+INPUT d:\Kuliah\GIS\Latex\chapters\tugas3\1174035.tex
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas3\soal1_1174035.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas3\soal1_1174035.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas3\soal1_1174035.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal1_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal1_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal1_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal1_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal1_result.png
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas3\soal2_1174035.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas3\soal2_1174035.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas3\soal2_1174035.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal2_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal2_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal2_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal2_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal2_result.png
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas3\soal3_1174035.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas3\soal3_1174035.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas3\soal3_1174035.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal3_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal3_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal3_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal3_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal3_result.png
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas3\soal4_1174035.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas3\soal4_1174035.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas3\soal4_1174035.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal4_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal4_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal4_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal4_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal4_result.png
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas3\soal5_1174035.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas3\soal5_1174035.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas3\soal5_1174035.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal5_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal5_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal5_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal5_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal5_result.png
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas3\soal6_1174035.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas3\soal6_1174035.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas3\soal6_1174035.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal6_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal6_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal6_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal6_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal6_result.png
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas3\soal7_1174035.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas3\soal7_1174035.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas3\soal7_1174035.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal7_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal7_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal7_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal7_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal7_result.png
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas3\soal8_1174035.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas3\soal8_1174035.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas3\soal8_1174035.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal8_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal8_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal8_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal8_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal8_result.png
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas3\soal9_1174035.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas3\soal9_1174035.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas3\soal9_1174035.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal9_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal9_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal9_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal9_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal9_result.png
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas3\soal10_1174035.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas3\soal10_1174035.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas3\soal10_1174035.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal10_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal10_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal10_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal10_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal10_result.png
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas3\soal11_1174035.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas3\soal11_1174035.py
+INPUT d:\Kuliah\GIS\Latex\src\1\1174035\tugas3\soal11_1174035.py
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal11_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal11_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal11_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal11_result.png
+INPUT d:\Kuliah\GIS\Latex\figures\1174035\tugas3\soal11_result.png
+INPUT d:\Kuliah\GIS\Latex\main.bbl
+INPUT d:\Kuliah\GIS\Latex\main.bbl
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri7t.tfm
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmr7t.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\vf\adobe\times\ptmri7t.vf
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri8r.tfm
+INPUT d:\Kuliah\GIS\Latex\main.ind
+INPUT d:\Kuliah\GIS\Latex\main.ind
+INPUT d:\Kuliah\GIS\Latex\main.aux
+INPUT d:\Kuliah\GIS\Latex\main.out
+INPUT d:\Kuliah\GIS\Latex\main.out
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\base\8r.enc
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy8.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy8.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\urw\helvetic\uhvb8a.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\urw\helvetic\uhvb8a.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\urw\helvetic\uhvbo8a.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\urw\helvetic\uhvbo8a.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\urw\helvetic\uhvr8a.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\urw\helvetic\uhvr8a.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\urw\times\utmb8a.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\urw\times\utmb8a.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\urw\times\utmbi8a.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\urw\times\utmbi8a.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\urw\times\utmr8a.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\urw\times\utmr8a.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\urw\times\utmri8a.pfb
+INPUT C:\Users\Luthfi\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\urw\times\utmri8a.pfb

@@ -1,13 +1,13 @@
 \contentsline {schapter}{Daftar Gambar}{xiii}{chapter*.4}% 
-\contentsline {schapter}{Daftar Tabel}{xix}{chapter*.5}% 
-\contentsline {schapter}{Foreword}{xxv}{chapter*.7}% 
-\contentsline {schapter}{Kata Pengantar}{xxvii}{chapter*.8}% 
-\contentsline {schapter}{Acknowledgments}{xxix}{chapter*.9}% 
-\contentsline {schapter}{Acronyms}{xxxi}{chapter*.10}% 
-\contentsline {schapter}{Glossary}{xxxiii}{chapter*.11}% 
-\contentsline {schapter}{List of Symbols}{xxxv}{chapter*.12}% 
-\contentsline {schapter}{Introduction}{xxxvii}{chapter*.13}% 
-\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xxxvii}{chapter*.13}% 
+\contentsline {schapter}{Daftar Tabel}{xxi}{chapter*.5}% 
+\contentsline {schapter}{Foreword}{xxix}{chapter*.7}% 
+\contentsline {schapter}{Kata Pengantar}{xxxi}{chapter*.8}% 
+\contentsline {schapter}{Acknowledgments}{xxxiii}{chapter*.9}% 
+\contentsline {schapter}{Acronyms}{xxxv}{chapter*.10}% 
+\contentsline {schapter}{Glossary}{xxxvii}{chapter*.11}% 
+\contentsline {schapter}{List of Symbols}{xxxix}{chapter*.12}% 
+\contentsline {schapter}{Introduction}{xli}{chapter*.13}% 
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xli}{chapter*.13}% 
 \contentsline {chapter}{\numberline {1}Tugas Pertama}{1}{chapter.1}% 
 \contentsline {section}{\numberline {1.1}NAMA (NPM)}{1}{section.1.1}% 
 \contentsline {subsection}{\numberline {1.1.1}Pengertian}{1}{subsection.1.1.1}% 
@@ -117,5 +117,8 @@
 \contentsline {section}{\numberline {3.2}Irvan Rizkiansyah(1174043)}{138}{section.3.2}% 
 \contentsline {subsection}{\numberline {3.2.1}PySHP}{138}{subsection.3.2.1}% 
 \contentsline {subsection}{\numberline {3.2.2}Link video PySHP - Reader}{141}{subsection.3.2.2}% 
-\contentsline {schapter}{Daftar Pustaka}{143}{chapter*.15}% 
-\contentsline {schapter}{Index}{145}{chapter*.15}% 
+\contentsline {section}{\numberline {3.3}Luthfi Muhammad Nabil (1174035)}{142}{section.3.3}% 
+\contentsline {subsection}{\numberline {3.3.1}Membaca File PYSHP}{142}{subsection.3.3.1}% 
+\contentsline {subsection}{\numberline {3.3.2}Link Youtube}{145}{subsection.3.3.2}% 
+\contentsline {schapter}{Daftar Pustaka}{147}{chapter*.15}% 
+\contentsline {schapter}{Index}{149}{chapter*.15}% 
