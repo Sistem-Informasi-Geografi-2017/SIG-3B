@@ -13,6 +13,6 @@ tes.record("crot","empat") #isi tabel crot
 tes.poly([[[1,3],[5,3], [5,2],[1,2],[1,3]]]) #buat garis
 tes.poly([[[1,5],[5,5], [5,4],[1,4],[1,5]]]) #buat garis
 tes.poly([[[1,7],[5,7], [5,6],[1,6],[1,7]]]) #buat garis
-tes.poly([[[1,9],[5,9], [5,8],[1,8],[1,9]]]) #buat garis
+tes.poly([[[1,9],[5,9], [5,8],[1,8],[1,9]]]) #buat gariss
 
 tes.close() #tutup
