@@ -217,16 +217,18 @@ INPUT d:\Semester 5\GIS\Github\info\symbols.tex
 INPUT d:\Semester 5\GIS\Github\info\introduction.tex
 INPUT d:\Semester 5\GIS\Github\info\introduction.tex
 INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmrc7t.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb7t.tfm
 INPUT D:\Program Files\MiKTeX 2.9\fonts\vf\adobe\times\ptmrc7t.vf
 INPUT D:\Program Files\MiKTeX 2.9\fonts\vf\adobe\times\ptmr.vf
 INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\symbol\psyr.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\vf\adobe\times\ptmb7t.vf
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb8r.tfm
 INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
 INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
 INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
 INPUT d:\Semester 5\GIS\Github\chapters\tugas1\1174xxx.tex
 INPUT d:\Semester 5\GIS\Github\chapters\tugas1\1174xxx.tex
 INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr7t.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb7t.tfm
 INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb7t.tfm
 INPUT d:\Semester 5\GIS\Github\figures\himatif.png
 INPUT d:\Semester 5\GIS\Github\figures\himatif.png
@@ -2022,6 +2024,83 @@ INPUT d:\Semester 5\GIS\Github\figures\1174034\tugas3\11.PNG
 INPUT d:\Semester 5\GIS\Github\figures\1174034\tugas3\11.PNG
 INPUT d:\Semester 5\GIS\Github\figures\1174034\tugas3\11.PNG
 INPUT d:\Semester 5\GIS\Github\figures\1174034\tugas3\11.PNG
+INPUT d:\Semester 5\GIS\Github\chapters\tugas4\1174035.tex
+INPUT d:\Semester 5\GIS\Github\chapters\tugas4\1174035.tex
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\mapserver_1.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\mapserver_1.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\mapserver_1.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\mapserver_1.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\mapserver_1.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\mapserver_2.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\mapserver_2.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\mapserver_2.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\mapserver_2.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\mapserver_2.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\mapserver_3.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\mapserver_3.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\mapserver_3.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\mapserver_3.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\mapserver_3.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\mapserver_4.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\mapserver_4.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\mapserver_4.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\mapserver_4.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\mapserver_4.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\mapserver_5.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\mapserver_5.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\mapserver_5.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\mapserver_5.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\mapserver_5.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\mapproxy_1.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\mapproxy_1.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\mapproxy_1.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\mapproxy_1.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\mapproxy_1.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\mapproxy_2.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\mapproxy_2.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\mapproxy_2.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\mapproxy_2.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\mapproxy_2.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\yaml_1.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\yaml_1.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\yaml_1.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\yaml_1.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\yaml_1.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\yaml_2.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\yaml_2.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\yaml_2.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\yaml_2.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\yaml_2.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\yaml_3.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\yaml_3.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\yaml_3.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\yaml_3.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\yaml_3.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\yaml_4.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\yaml_4.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\yaml_4.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\yaml_4.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\yaml_4.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\yaml_5.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\yaml_5.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\yaml_5.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\yaml_5.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\yaml_5.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\yaml_6.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\yaml_6.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\yaml_6.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\yaml_6.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\yaml_6.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\yaml_7.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\yaml_7.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\yaml_7.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\yaml_7.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\yaml_7.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\Plagiat.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\Plagiat.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\Plagiat.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\Plagiat.png
+INPUT d:\Semester 5\GIS\Github\figures\1174035\tugas4\Plagiat.png
 INPUT d:\Semester 5\GIS\Github\chapters\tugas4\1174039.tex
 INPUT d:\Semester 5\GIS\Github\chapters\tugas4\1174039.tex
 INPUT d:\Semester 5\GIS\Github\figures\1174039\tugas4\1.png
