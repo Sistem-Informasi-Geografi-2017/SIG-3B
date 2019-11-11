@@ -1,13 +1,13 @@
-\contentsline {schapter}{Daftar Gambar}{xv}{chapter*.4}% 
-\contentsline {schapter}{Daftar Tabel}{xxvii}{chapter*.5}% 
-\contentsline {schapter}{Foreword}{xxxv}{chapter*.7}% 
-\contentsline {schapter}{Kata Pengantar}{xxxvii}{chapter*.8}% 
-\contentsline {schapter}{Acknowledgments}{xxxix}{chapter*.9}% 
-\contentsline {schapter}{Acronyms}{xli}{chapter*.10}% 
-\contentsline {schapter}{Glossary}{xliii}{chapter*.11}% 
-\contentsline {schapter}{List of Symbols}{xlv}{chapter*.12}% 
-\contentsline {schapter}{Introduction}{xlvii}{chapter*.13}% 
-\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xlvii}{chapter*.13}% 
+\contentsline {schapter}{Daftar Gambar}{xi}{chapter*.4}% 
+\contentsline {schapter}{Daftar Tabel}{xiii}{chapter*.5}% 
+\contentsline {schapter}{Foreword}{xvii}{chapter*.7}% 
+\contentsline {schapter}{Kata Pengantar}{xix}{chapter*.8}% 
+\contentsline {schapter}{Acknowledgments}{xxi}{chapter*.9}% 
+\contentsline {schapter}{Acronyms}{xxiii}{chapter*.10}% 
+\contentsline {schapter}{Glossary}{xxv}{chapter*.11}% 
+\contentsline {schapter}{List of Symbols}{xxvii}{chapter*.12}% 
+\contentsline {schapter}{Introduction}{xxix}{chapter*.13}% 
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xxix}{chapter*.13}% 
 \contentsline {chapter}{\numberline {1}Tugas Pertama}{1}{chapter.1}% 
 \contentsline {section}{\numberline {1.1}NAMA (NPM)}{1}{section.1.1}% 
 \contentsline {subsection}{\numberline {1.1.1}Pengertian}{1}{subsection.1.1.1}% 
@@ -147,8 +147,10 @@
 \contentsline {subsection}{\numberline {4.2.2}Konfigurasi Map Server}{175}{subsection.4.2.2}% 
 \contentsline {subsection}{\numberline {4.2.3}Pengujian}{177}{subsection.4.2.3}% 
 \contentsline {subsection}{\numberline {4.2.4}Link Youtube}{180}{subsection.4.2.4}% 
-\contentsline {section}{\numberline {4.3}Kevin Natanael Nainggolan(1174059)}{180}{section.4.3}% 
+\contentsline {section}{\numberline {4.3}Hagan Rowlenstino A. S(1174040)}{180}{section.4.3}% 
 \contentsline {subsection}{\numberline {4.3.1}Instalasi Map Server}{180}{subsection.4.3.1}% 
-\contentsline {subsection}{\numberline {4.3.2}Link Youtube}{182}{subsection.4.3.2}% 
-\contentsline {schapter}{Daftar Pustaka}{183}{chapter*.15}% 
-\contentsline {schapter}{Index}{185}{chapter*.15}% 
+\contentsline {subsection}{\numberline {4.3.2}Instalasi Map Proxy}{184}{subsection.4.3.2}% 
+\contentsline {subsection}{\numberline {4.3.3}Link Youtube}{186}{subsection.4.3.3}% 
+\contentsline {section}{\numberline {4.4}Kevin Natanael Nainggolan(1174059)}{187}{section.4.4}% 
+\contentsline {subsection}{\numberline {4.4.1}Instalasi Map Server}{187}{subsection.4.4.1}% 
+\contentsline {subsection}{\numberline {4.4.2}Link Youtube}{188}{subsection.4.4.2}% 

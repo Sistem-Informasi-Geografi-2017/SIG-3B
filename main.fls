@@ -125,14 +125,8 @@ INPUT D:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
 INPUT D:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
 INPUT D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
 INPUT D:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
-INPUT d:\Semester 5\GIS\Github\main.out
-INPUT d:\Semester 5\GIS\Github\main.out
-INPUT d:\Semester 5\GIS\Github\main.out
-INPUT d:\Semester 5\GIS\Github\main.out
-OUTPUT d:\Semester 5\GIS\Github\main.pdf
-INPUT d:\Semester 5\GIS\Github\main.out
-INPUT d:\Semester 5\GIS\Github\main.out
 OUTPUT d:\Semester 5\GIS\Github\main.out
+OUTPUT d:\Semester 5\GIS\Github\main.pdf
 INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr7t.tfm
 INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb7t.tfm
 INPUT D:\Program Files\MiKTeX 2.9\fonts\vf\adobe\helvetic\phvb.vf
@@ -164,28 +158,9 @@ INPUT D:\Program Files\MiKTeX 2.9\fonts\vf\adobe\times\ptmr7t.vf
 INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT D:\Program Files\MiKTeX 2.9\fonts\vf\adobe\helvetic\phvb.vf
 INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb8r.tfm
-INPUT d:\Semester 5\GIS\Github\main.toc
-INPUT d:\Semester 5\GIS\Github\main.toc
-INPUT D:\Program Files\MiKTeX 2.9\fonts\vf\adobe\helvetic\phvb.vf
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb8r.tfm
-INPUT d:\Semester 5\GIS\Github\main.toc
-INPUT d:\Semester 5\GIS\Github\main.toc
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri7t.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\vf\adobe\times\ptmr.vf
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\symbol\psyr.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\vf\adobe\times\ptmri7t.vf
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri8r.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr7t.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\vf\adobe\helvetic\phvr.vf
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvr8r.tfm
 OUTPUT d:\Semester 5\GIS\Github\main.toc
-INPUT d:\Semester 5\GIS\Github\main.lof
-INPUT d:\Semester 5\GIS\Github\main.lof
 OUTPUT d:\Semester 5\GIS\Github\main.lof
-INPUT d:\Semester 5\GIS\Github\main.lot
-INPUT d:\Semester 5\GIS\Github\main.lot
 OUTPUT d:\Semester 5\GIS\Github\main.lot
-INPUT d:\Semester 5\GIS\Github\main.lol
 INPUT d:\Semester 5\GIS\Github\main.lol
 OUTPUT d:\Semester 5\GIS\Github\main.lol
 INPUT d:\Semester 5\GIS\Github\info\foreword.tex
@@ -203,6 +178,7 @@ INPUT d:\Semester 5\GIS\Github\info\acknowledgments.tex
 INPUT d:\Semester 5\GIS\Github\info\acknowledgments.tex
 INPUT d:\Semester 5\GIS\Github\info\acronyms.tex
 INPUT d:\Semester 5\GIS\Github\info\acronyms.tex
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr7t.tfm
 INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri7t.tfm
 INPUT D:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd
 INPUT D:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd
@@ -217,16 +193,18 @@ INPUT d:\Semester 5\GIS\Github\info\symbols.tex
 INPUT d:\Semester 5\GIS\Github\info\introduction.tex
 INPUT d:\Semester 5\GIS\Github\info\introduction.tex
 INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmrc7t.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb7t.tfm
 INPUT D:\Program Files\MiKTeX 2.9\fonts\vf\adobe\times\ptmrc7t.vf
 INPUT D:\Program Files\MiKTeX 2.9\fonts\vf\adobe\times\ptmr.vf
 INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\symbol\psyr.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\vf\adobe\times\ptmb7t.vf
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb8r.tfm
 INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
 INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
 INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
 INPUT d:\Semester 5\GIS\Github\chapters\tugas1\1174xxx.tex
 INPUT d:\Semester 5\GIS\Github\chapters\tugas1\1174xxx.tex
 INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr7t.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb7t.tfm
 INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb7t.tfm
 INPUT d:\Semester 5\GIS\Github\figures\himatif.png
 INPUT d:\Semester 5\GIS\Github\figures\himatif.png
@@ -235,10 +213,14 @@ INPUT d:\Semester 5\GIS\Github\figures\himatif.png
 INPUT d:\Semester 5\GIS\Github\figures\himatif.png
 INPUT D:\Program Files\MiKTeX 2.9\fonts\vf\adobe\helvetic\phvb.vf
 INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb8r.tfm
+INPUT D:\Program Files\MiKTeX 2.9\fonts\vf\adobe\helvetic\phvb.vf
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb8r.tfm
 INPUT D:\Program Files\MiKTeX 2.9\fonts\vf\adobe\helvetic\phvbo.vf
 INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvbo8r.tfm
 INPUT d:\Semester 5\GIS\Github\chapters\tugas1\1174039.tex
 INPUT d:\Semester 5\GIS\Github\chapters\tugas1\1174039.tex
+INPUT D:\Program Files\MiKTeX 2.9\fonts\vf\adobe\helvetic\phvr.vf
+INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvr8r.tfm
 INPUT D:\Program Files\MiKTeX 2.9\fonts\vf\adobe\times\ptmb.vf
 INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb8r.tfm
 INPUT d:\Semester 5\GIS\Github\figures\1174039\plagiat.png
@@ -2201,6 +2183,68 @@ INPUT d:\Semester 5\GIS\Github\figures\1174039\tugas4\20.png
 INPUT d:\Semester 5\GIS\Github\figures\1174039\tugas4\20.png
 INPUT d:\Semester 5\GIS\Github\figures\1174039\tugas4\20.png
 INPUT d:\Semester 5\GIS\Github\figures\1174039\tugas4\20.png
+INPUT d:\Semester 5\GIS\Github\chapters\tugas4\1174040.tex
+INPUT d:\Semester 5\GIS\Github\chapters\tugas4\1174040.tex
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\exe.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\exe.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\exe.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\exe.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\exe.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\1.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\1.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\1.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\1.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\1.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\2.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\2.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\2.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\2.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\2.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\3.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\3.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\3.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\3.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\3.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\4.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\4.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\4.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\4.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\4.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\5.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\5.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\5.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\5.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\5.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\6.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\6.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\6.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\6.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\6.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\7.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\7.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\7.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\7.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\7.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\8.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\8.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\8.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\8.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\8.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\9.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\9.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\9.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\9.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\9.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\10.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\10.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\10.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\10.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\10.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\browser.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\browser.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\browser.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\browser.PNG
+INPUT d:\Semester 5\GIS\Github\figures\1174040\Python3\browser.PNG
 INPUT d:\Semester 5\GIS\Github\chapters\tugas4\1174059.tex
 INPUT d:\Semester 5\GIS\Github\chapters\tugas4\1174059.tex
 INPUT d:\Semester 5\GIS\Github\figures\1174059\tugas4\1.jpg
@@ -2213,14 +2257,6 @@ INPUT d:\Semester 5\GIS\Github\figures\1174059\tugas4\mapproxy.jpg
 INPUT d:\Semester 5\GIS\Github\figures\1174059\tugas4\mapproxy.jpg
 INPUT d:\Semester 5\GIS\Github\figures\1174059\tugas4\mapproxy.jpg
 INPUT d:\Semester 5\GIS\Github\figures\1174059\tugas4\mapproxy.jpg
-INPUT d:\Semester 5\GIS\Github\main.bbl
-INPUT d:\Semester 5\GIS\Github\main.bbl
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri7t.tfm
-INPUT D:\Program Files\MiKTeX 2.9\fonts\vf\adobe\times\ptmr7t.vf
-INPUT D:\Program Files\MiKTeX 2.9\fonts\vf\adobe\times\ptmri7t.vf
-INPUT D:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri8r.tfm
-INPUT d:\Semester 5\GIS\Github\main.ind
-INPUT d:\Semester 5\GIS\Github\main.ind
 INPUT d:\Semester 5\GIS\Github\main.aux
 INPUT d:\Semester 5\GIS\Github\main.out
 INPUT d:\Semester 5\GIS\Github\main.out
