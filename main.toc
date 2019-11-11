@@ -1,13 +1,13 @@
 \contentsline {schapter}{Daftar Gambar}{xv}{chapter*.4}% 
-\contentsline {schapter}{Daftar Tabel}{xxv}{chapter*.5}% 
-\contentsline {schapter}{Foreword}{xxxiii}{chapter*.7}% 
-\contentsline {schapter}{Kata Pengantar}{xxxv}{chapter*.8}% 
-\contentsline {schapter}{Acknowledgments}{xxxvii}{chapter*.9}% 
-\contentsline {schapter}{Acronyms}{xxxix}{chapter*.10}% 
-\contentsline {schapter}{Glossary}{xli}{chapter*.11}% 
-\contentsline {schapter}{List of Symbols}{xliii}{chapter*.12}% 
-\contentsline {schapter}{Introduction}{xlv}{chapter*.13}% 
-\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xlv}{chapter*.13}% 
+\contentsline {schapter}{Daftar Tabel}{xxvii}{chapter*.5}% 
+\contentsline {schapter}{Foreword}{xxxv}{chapter*.7}% 
+\contentsline {schapter}{Kata Pengantar}{xxxvii}{chapter*.8}% 
+\contentsline {schapter}{Acknowledgments}{xxxix}{chapter*.9}% 
+\contentsline {schapter}{Acronyms}{xli}{chapter*.10}% 
+\contentsline {schapter}{Glossary}{xliii}{chapter*.11}% 
+\contentsline {schapter}{List of Symbols}{xlv}{chapter*.12}% 
+\contentsline {schapter}{Introduction}{xlvii}{chapter*.13}% 
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xlvii}{chapter*.13}% 
 \contentsline {chapter}{\numberline {1}Tugas Pertama}{1}{chapter.1}% 
 \contentsline {section}{\numberline {1.1}NAMA (NPM)}{1}{section.1.1}% 
 \contentsline {subsection}{\numberline {1.1.1}Pengertian}{1}{subsection.1.1.1}% 
@@ -126,11 +126,29 @@
 \contentsline {section}{\numberline {3.5}Hagan Rowlenstino A.S(1174040)}{148}{section.3.5}% 
 \contentsline {subsection}{\numberline {3.5.1}Point Polyline dan Polygon}{148}{subsection.3.5.1}% 
 \contentsline {subsection}{\numberline {3.5.2}Link}{151}{subsection.3.5.2}% 
-\contentsline {section}{\numberline {3.6}Dika Sukma Pradana 1174050)}{151}{section.3.6}% 
-\contentsline {subsection}{\numberline {3.6.1}Membaca File PYSHP}{151}{subsection.3.6.1}% 
-\contentsline {subsection}{\numberline {3.6.2}Link Youtube}{156}{subsection.3.6.2}% 
-\contentsline {section}{\numberline {3.7}Ichsan Hizman Hardy(1174034)}{156}{section.3.7}% 
-\contentsline {subsection}{\numberline {3.7.1}Membaca File PYSHP}{156}{subsection.3.7.1}% 
-\contentsline {subsection}{\numberline {3.7.2}Link}{160}{subsection.3.7.2}% 
-\contentsline {schapter}{Daftar Pustaka}{161}{chapter*.15}% 
-\contentsline {schapter}{Index}{163}{chapter*.15}% 
+\contentsline {section}{\numberline {3.6}Alit Fajar Kurniawan (1174057)}{151}{section.3.6}% 
+\contentsline {subsection}{\numberline {3.6.1}Membaca file shp dengan pyshp}{151}{subsection.3.6.1}% 
+\contentsline {subsection}{\numberline {3.6.2}Link}{157}{subsection.3.6.2}% 
+\contentsline {section}{\numberline {3.7}Dika Sukma Pradana 1174050)}{157}{section.3.7}% 
+\contentsline {subsection}{\numberline {3.7.1}Membaca File PYSHP}{157}{subsection.3.7.1}% 
+\contentsline {subsection}{\numberline {3.7.2}Link Youtube}{161}{subsection.3.7.2}% 
+\contentsline {section}{\numberline {3.8}Ichsan Hizman Hardy(1174034)}{162}{section.3.8}% 
+\contentsline {subsection}{\numberline {3.8.1}Membaca File PYSHP}{162}{subsection.3.8.1}% 
+\contentsline {subsection}{\numberline {3.8.2}Link}{165}{subsection.3.8.2}% 
+\contentsline {chapter}{\numberline {4}Tugas Keempat}{167}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Luthfi Muhammad Nabil(1174035)}{167}{section.4.1}% 
+\contentsline {subsection}{\numberline {4.1.1}Menginstalasi File Map Server}{167}{subsection.4.1.1}% 
+\contentsline {subsection}{\numberline {4.1.2}Mengkonfigurasi MapProxy}{170}{subsection.4.1.2}% 
+\contentsline {subsection}{\numberline {4.1.3}Mencoba Memakai File yaml}{171}{subsection.4.1.3}% 
+\contentsline {subsection}{\numberline {4.1.4}Video Tutorial}{174}{subsection.4.1.4}% 
+\contentsline {subsection}{\numberline {4.1.5}Plagiarism Check}{174}{subsection.4.1.5}% 
+\contentsline {section}{\numberline {4.2}Liyana Majdah Rahma(1174039)}{175}{section.4.2}% 
+\contentsline {subsection}{\numberline {4.2.1}Instalasi Map Server}{175}{subsection.4.2.1}% 
+\contentsline {subsection}{\numberline {4.2.2}Konfigurasi Map Server}{175}{subsection.4.2.2}% 
+\contentsline {subsection}{\numberline {4.2.3}Pengujian}{177}{subsection.4.2.3}% 
+\contentsline {subsection}{\numberline {4.2.4}Link Youtube}{180}{subsection.4.2.4}% 
+\contentsline {section}{\numberline {4.3}Kevin Natanael Nainggolan(1174059)}{180}{section.4.3}% 
+\contentsline {subsection}{\numberline {4.3.1}Instalasi Map Server}{180}{subsection.4.3.1}% 
+\contentsline {subsection}{\numberline {4.3.2}Link Youtube}{182}{subsection.4.3.2}% 
+\contentsline {schapter}{Daftar Pustaka}{183}{chapter*.15}% 
+\contentsline {schapter}{Index}{185}{chapter*.15}% 
