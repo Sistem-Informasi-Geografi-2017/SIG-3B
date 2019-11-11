@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.14)  12 NOV 2019 00:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2019.3.27)  12 NOV 2019 03:36
 entering extended mode
 **./main.tex
 (main.tex
-LaTeX2e <2019-10-01>
+LaTeX2e <2018-04-01> patch level 5
 (wileySix.cls
 
 
@@ -63,39 +63,37 @@ Writing index file main.idx
 \chapheight=\dimen112
 \authorskip=\dimen113
 )
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.s
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.s
 ty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
 "
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.s
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.s
 ty"
-Package: graphics 2019/07/20 v1.3b Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphi
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphi
 cs.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 105.
+Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex
 .def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen114
 \Gin@req@width=\dimen115
-)
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.s
-ty"
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
 \lst@mode=\count107
-\lst@gtempboxa=\box27
+\lst@gtempboxa=\box26
 \lst@token=\toks15
 \lst@length=\count108
 \lst@currlwidth=\dimen116
@@ -107,37 +105,35 @@ ty"
 \lst@lineno=\count112
 \lst@maxwidth=\dimen119
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.st
-y"
-File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
 \c@lstnumber=\count113
 \lst@skipnumbers=\count114
-\lst@framebox=\box28
+\lst@framebox=\box27
 )
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.c
-fg"
-File: listings.cfg 2019/09/10 1.8c listings configuration
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2019/02/27 1.8b listings configuration
 ))
-Package: listings 2019/09/10 1.8c (Carsten Heinz)
+Package: listings 2019/02/27 1.8b (Carsten Heinz)
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count115
 \float@exts=\toks16
-\float@box=\box29
+\float@box=\box28
 \@float@everytoks=\toks17
-\@floatcapt=\box30
+\@floatcapt=\box29
 )
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref.s
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.s
 ty"
-Package: hyperref 2019/09/28 v7.00a Hypertext links for LaTeX
+Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsub-h
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-h
 yperref.sty"
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsub-g
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-g
 eneric.sty"
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
@@ -148,11 +144,15 @@ Package ifluatex Info: LuaTeX not detected.
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
-Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
@@ -173,11 +173,11 @@ Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 )
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.s
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.s
 ty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\auxhook.st
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.st
 y"
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 
@@ -186,7 +186,7 @@ Package auxhook Warning: Cannot patch \document,
 (auxhook)                using \AtBeginDocument instead.
 
 )
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.
 sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
@@ -194,58 +194,58 @@ Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 \Hy@linkcounter=\count116
 \Hy@pagecounter=\count117
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
 "
-File: pd1enc.def 2019/09/28 v7.00a Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count118
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\hyperref.c
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.c
 fg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 4414.
-Package hyperref Info: Hyper figures OFF on input line 4540.
-Package hyperref Info: Link nesting OFF on input line 4545.
-Package hyperref Info: Hyper index ON on input line 4548.
-Package hyperref Info: Plain pages OFF on input line 4555.
-Package hyperref Info: Backreferencing OFF on input line 4560.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4383.
+Package hyperref Info: Hyper figures OFF on input line 4509.
+Package hyperref Info: Link nesting OFF on input line 4514.
+Package hyperref Info: Hyper index ON on input line 4517.
+Package hyperref Info: Plain pages OFF on input line 4524.
+Package hyperref Info: Backreferencing OFF on input line 4529.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4793.
+Package hyperref Info: Bookmarks ON on input line 4762.
 \c@Hy@tempcnt=\count119
- ("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5152.
+LaTeX Info: Redefining \url on input line 5115.
 \XeTeXLinkMargin=\dimen121
 \Fld@menulength=\count120
 \Field@Width=\dimen122
 \Fld@charsize=\dimen123
-Package hyperref Info: Hyper figures OFF on input line 6423.
-Package hyperref Info: Link nesting OFF on input line 6428.
-Package hyperref Info: Hyper index ON on input line 6431.
-Package hyperref Info: backreferencing OFF on input line 6438.
-Package hyperref Info: Link coloring ON on input line 6441.
-Package hyperref Info: Link coloring with OCG OFF on input line 6448.
-Package hyperref Info: PDF/A mode OFF on input line 6453.
-LaTeX Info: Redefining \ref on input line 6493.
-LaTeX Info: Redefining \pageref on input line 6497.
+Package hyperref Info: Hyper figures OFF on input line 6369.
+Package hyperref Info: Link nesting OFF on input line 6374.
+Package hyperref Info: Hyper index ON on input line 6377.
+Package hyperref Info: backreferencing OFF on input line 6384.
+Package hyperref Info: Link coloring ON on input line 6387.
+Package hyperref Info: Link coloring with OCG OFF on input line 6394.
+Package hyperref Info: PDF/A mode OFF on input line 6399.
+LaTeX Info: Redefining \ref on input line 6439.
+LaTeX Info: Redefining \pageref on input line 6443.
 \Hy@abspage=\count121
 \c@Item=\count122
 \c@Hfootnote=\count123
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex.de
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.de
 f"
-File: hpdftex.def 2019/09/28 v7.00a Hyperref driver for pdfTeX
+File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
 \Fld@listcount=\count124
 \c@bookmark@seq@number=\count125
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\rerunfilec
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfilec
 heck.sty"
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
@@ -253,19 +253,18 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip46
 )
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.sty"
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.sty"
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color.
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.
 cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2019/02/27 1.8b listings language file
 )
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang1.s
-ty"
-File: lstlang1.sty 2019/09/10 1.8c listings language file
-) (w-bookps.sty
+(w-bookps.sty
 
 
  Using PostScript Fonts
@@ -275,7 +274,7 @@ File: lstlang1.sty 2019/09/10 1.8c listings language file
 
  
 )
-\sectsavebox=\box31
+\sectsavebox=\box30
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 124.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -297,18 +296,17 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 129.
 LaTeX Font Info:    ... okay on input line 129.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 129.
 LaTeX Font Info:    ... okay on input line 129.
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
-29.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 129.
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
+
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pd
-f.mkii"
+("C:\Program Files\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count126
 \scratchdimen=\dimen124
-\scratchbox=\box32
+\scratchbox=\box31
 \nofMPsegments=\count127
 \nofMParguments=\count128
 \everyMPshowfont=\toks18
@@ -318,11 +316,11 @@ f.mkii"
 \makeMPintoPDFobject=\count131
 \everyMPtoPDFconversion=\toks19
 )
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-b
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-b
 ase.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
 "
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
@@ -334,14 +332,14 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 \c@lstlisting=\count132
-\AtBeginShipoutBox=\box33
+\AtBeginShipoutBox=\box32
 Package hyperref Info: Link coloring ON on input line 129.
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.st
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.st
 y"
-Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\gettitle
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitle
 string.sty"
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
@@ -361,8 +359,8 @@ Overfull \hbox (29.15398pt too wide) in paragraph at lines 148--148
 \subtitlefont SIG (SIS-TEM IN-FOR-MASI GE-OGRAFIS) 
  []
 
-[1{C:/Users/User/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(info/copyrightpage.tex)
+[1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}] (info/copyrightpage.tex
+)
 Underfull \hbox (badness 10000) in paragraph at lines 155--155
 
  []
@@ -429,7 +427,18 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[12])
+[12]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[13])
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
@@ -441,13 +450,13 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[13] [14
-
-]
+[14]
 
 Package hyperref Warning: bookmark level for unknown schapter defaults to 0.
 
-(main.lof [15]
+(main.lof [15
+
+]
 Overfull \vbox (4.85098pt too high) has occurred while \output is active []
 
 
@@ -527,7 +536,15 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[25])
+[25]
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[26])
 \tf@lof=\write6
 \openout6 = `main.lof'.
 
@@ -539,40 +556,18 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[26] (main.lot)
+[27] [28
+
+] (main.lot)
 \tf@lot=\write7
 \openout7 = `main.lot'.
 
- [27
-
-] [28
+ [29] [30
 
 ] (main.lol
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [29]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (4.85098pt too high) has occurred while \output is active []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]
- []
-
-[30]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (4.85098pt too high) has occurred while \output is active []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]
- []
-
-[31]
+ [31]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -594,7 +589,29 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[33])
+[33]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[34]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[35])
 \tf@lol=\write8
 \openout8 = `main.lol'.
 
@@ -606,30 +623,30 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[34] (info/foreword.tex) [35
+[36] (info/foreword.tex) [37
 
-] [36
+] [38
 
-] (info/preface.tex) [37] [38
+] (info/preface.tex) [39] [40
 
 ]
-(info/acknowledgments.tex [39]) [40
+(info/acknowledgments.tex [41]) [42
 
 ] (info/acronyms.tex)
-LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 1
-87.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 187.
 
-("C:\Users\User\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omsptm.fd"
+
+("C:\Users\Asus\AppData\Local\Programs\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 187.
 
-[41] [42
+[43] [44
 
-] (info/glossary.tex) [43] [44
+] (info/glossary.tex) [45] [46
 
-] (info/symbols.tex) [45] [46
+] (info/symbols.tex) [47] [48
 
 ]
 (info/introduction.tex
@@ -639,10 +656,10 @@ Package hyperref Warning: bookmark level for unknown ichapter defaults to 0.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
 
-LaTeX Warning: Citation `awangga2018sampeu' on page xlvii undefined on input li
-ne 13.
+LaTeX Warning: Citation `awangga2018sampeu' on page xlix undefined on input lin
+e 13.
 
-) [47] [48
+) [49] [50
 
 ]
 Bab 1.
@@ -656,7 +673,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
  []
 
-<figures/himatif.png, id=2018, 301.125pt x 251.94125pt>
+<figures/himatif.png, id=2120, 301.125pt x 251.94125pt>
 File: figures/himatif.png Graphic file (type png)
 <use figures/himatif.png>
 Package pdftex.def Info: figures/himatif.png  used on input line 16.
@@ -674,13 +691,13 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [2 <./figures/himatif.png>]
-<figures/1174039/plagiat.png, id=2036, 632.3625pt x 426.84468pt>
+<figures/1174039/plagiat.png, id=2137, 632.3625pt x 426.84468pt>
 File: figures/1174039/plagiat.png Graphic file (type png)
 <use figures/1174039/plagiat.png>
 Package pdftex.def Info: figures/1174039/plagiat.png  used on input line 19.
 (pdftex.def)             Requested size: 113.81102pt x 76.8222pt.
 ) (chapters/tugas1/1174042.tex
-<figures/1174042/gis.jpg, id=2037, 242.9075pt x 209.78375pt>
+<figures/1174042/gis.jpg, id=2138, 242.9075pt x 209.78375pt>
 File: figures/1174042/gis.jpg Graphic file (type jpg)
 <use figures/1174042/gis.jpg>
 Package pdftex.def Info: figures/1174042/gis.jpg  used on input line 9.
@@ -694,7 +711,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [3 <./figures/1174039/plagiat.png>]
-<figures/1174042/plagiat.png, id=2044, 648.17157pt x 453.19313pt>
+<figures/1174042/plagiat.png, id=2145, 648.17157pt x 453.19313pt>
 File: figures/1174042/plagiat.png Graphic file (type png)
 <use figures/1174042/plagiat.png>
 Package pdftex.def Info: figures/1174042/plagiat.png  used on input line 18.
@@ -737,7 +754,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 8--18
 
  []
 
-<figures/1174057/sejarah.jpg, id=2050, 301.125pt x 168.63pt>
+<figures/1174057/sejarah.jpg, id=2151, 301.125pt x 168.63pt>
 File: figures/1174057/sejarah.jpg Graphic file (type jpg)
 <use figures/1174057/sejarah.jpg>
 Package pdftex.def Info: figures/1174057/sejarah.jpg  used on input line 20.
@@ -751,7 +768,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [5]
-<figures/1174057/plagiarisme.png, id=2056, 639.89063pt x 391.4625pt>
+<figures/1174057/plagiarisme.png, id=2157, 639.89063pt x 391.4625pt>
 File: figures/1174057/plagiarisme.png Graphic file (type png)
 <use figures/1174057/plagiarisme.png>
 Package pdftex.def Info: figures/1174057/plagiarisme.png  used on input line 29
@@ -793,7 +810,7 @@ Overfull \hbox (4.05678pt too wide) in paragraph at lines 15--16
 e-al-time yang dibuat
  []
 
-<figures/1174035/tugas1/plagiat.png, id=2063, 632.3625pt x 557.83406pt>
+<figures/1174035/tugas1/plagiat.png, id=2165, 632.3625pt x 557.83406pt>
 File: figures/1174035/tugas1/plagiat.png Graphic file (type png)
 <use figures/1174035/tugas1/plagiat.png>
 Package pdftex.def Info: figures/1174035/tugas1/plagiat.png  used on input line
@@ -836,7 +853,7 @@ Overfull \hbox (2.13637pt too wide) in paragraph at lines 29--30
 o-gis-tic, per-ala-tan perang,
  []
 
-<figures/1174040/1174040_plagiat_1.png, id=2077, 1156.32pt x 650.43pt>
+<figures/1174040/1174040_plagiat_1.png, id=2178, 1156.32pt x 650.43pt>
 File: figures/1174040/1174040_plagiat_1.png Graphic file (type png)
 <use figures/1174040/1174040_plagiat_1.png>
 Package pdftex.def Info: figures/1174040/1174040_plagiat_1.png  used on input l
@@ -851,7 +868,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [9 <./figures/1174040/1174040_plagiat_1.png>]
-<figures/1174043/Plagiarisme.png, id=2091, 1927.2pt x 1084.05pt>
+<figures/1174043/Plagiarisme.png, id=2192, 1927.2pt x 1084.05pt>
 File: figures/1174043/Plagiarisme.png Graphic file (type png)
 <use figures/1174043/Plagiarisme.png>
 Package pdftex.def Info: figures/1174043/Plagiarisme.png  used on input line 18
@@ -874,12 +891,12 @@ Overfull \hbox (4.67682pt too wide) in paragraph at lines 5--6
 at ser-ing dip-ilih sedemikian
  []
 
-<figures/1174050/koordinat.png, id=2096, 455.90324pt x 184.2885pt>
+<figures/1174050/koordinat.png, id=2197, 455.90324pt x 184.2885pt>
 File: figures/1174050/koordinat.png Graphic file (type png)
 <use figures/1174050/koordinat.png>
 Package pdftex.def Info: figures/1174050/koordinat.png  used on input line 9.
 (pdftex.def)             Requested size: 113.81102pt x 46.00452pt.
-<figures/1174050/plagiarism.png, id=2098, 625.73775pt x 386.04225pt>
+<figures/1174050/plagiarism.png, id=2199, 625.73775pt x 386.04225pt>
 File: figures/1174050/plagiarism.png Graphic file (type png)
 <use figures/1174050/plagiarism.png>
 Package pdftex.def Info: figures/1174050/plagiarism.png  used on input line 18.
@@ -901,7 +918,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--6
 
  []
 
-<figures/1174063/koordinat.jpg, id=2105, 697.8572pt x 430.60875pt>
+<figures/1174063/koordinat.jpg, id=2206, 697.8572pt x 430.60875pt>
 File: figures/1174063/koordinat.jpg Graphic file (type jpg)
 <use figures/1174063/koordinat.jpg>
 Package pdftex.def Info: figures/1174063/koordinat.jpg  used on input line 13.
@@ -911,7 +928,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--16
 
  []
 
-<figures/1174063/utm.jpg, id=2106, 708.39656pt x 391.4625pt>
+<figures/1174063/utm.jpg, id=2207, 708.39656pt x 391.4625pt>
 File: figures/1174063/utm.jpg Graphic file (type jpg)
 <use figures/1174063/utm.jpg>
 Package pdftex.def Info: figures/1174063/utm.jpg  used on input line 19.
@@ -930,7 +947,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [12 <./figures/1174050/plagiarism.png> <./figures/1174063/koordinat.jpg>]
-<figures/1174063/plagiat.jpg, id=2113, 625.58719pt x 289.83281pt>
+<figures/1174063/plagiat.jpg, id=2215, 625.58719pt x 289.83281pt>
 File: figures/1174063/plagiat.jpg Graphic file (type jpg)
 <use figures/1174063/plagiat.jpg>
 Package pdftex.def Info: figures/1174063/plagiat.jpg  used on input line 28.
@@ -950,7 +967,7 @@ Overfull \hbox (37.36896pt too wide) in paragraph at lines 24--25
 ris berben-tuk satu di-mensi yang menghubungkan
  []
 
-<figures/1174059/plagiarisme.png, id=2122, 662.475pt x 525.46312pt>
+<figures/1174059/plagiarisme.png, id=2224, 662.475pt x 525.46312pt>
 File: figures/1174059/plagiarisme.png Graphic file (type png)
 <use figures/1174059/plagiarisme.png>
 Package pdftex.def Info: figures/1174059/plagiarisme.png  used on input line 38
@@ -971,14 +988,18 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [14 <./figures/1174059/plagiarisme.png>]
-<figures/1174038/peta koordinat indonesia.png, id=2131, 324.21124pt x 156.585pt
+
+LaTeX Warning: File `figures/1174038/peta koordinat indonesia.png' not found on
+ input line 10.
+
+<figures/1174038/peta koordinat indonesia.png, id=2232, 324.21124pt x 156.585pt
 >
 File: figures/1174038/peta koordinat indonesia.png Graphic file (type png)
 <use figures/1174038/peta koordinat indonesia.png>
 Package pdftex.def Info: figures/1174038/peta koordinat indonesia.png  used on 
 input line 10.
 (pdftex.def)             Requested size: 113.81102pt x 54.96803pt.
-<figures/1174038/plagiarism.png, id=2133, 625.73775pt x 386.04225pt>
+<figures/1174038/plagiarism.png, id=2234, 625.73775pt x 386.04225pt>
 File: figures/1174038/plagiarism.png Graphic file (type png)
 <use figures/1174038/plagiarism.png>
 Package pdftex.def Info: figures/1174038/plagiarism.png  used on input line 19.
@@ -1000,12 +1021,12 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [15 <./figures/1174038/peta koordinat indonesia.png> <./figures/1174038/plagiar
 ism.png>]
-<figures/1174034/koordinat.png, id=2140, 767.86874pt x 402.50375pt>
+<figures/1174034/koordinat.png, id=2241, 767.86874pt x 402.50375pt>
 File: figures/1174034/koordinat.png Graphic file (type png)
 <use figures/1174034/koordinat.png>
 Package pdftex.def Info: figures/1174034/koordinat.png  used on input line 9.
 (pdftex.def)             Requested size: 113.81102pt x 59.65437pt.
-<figures/1174034/plagiarism.png, id=2142, 625.73775pt x 386.04225pt>
+<figures/1174034/plagiarism.png, id=2243, 625.73775pt x 386.04225pt>
 File: figures/1174034/plagiarism.png Graphic file (type png)
 <use figures/1174034/plagiarism.png>
 Package pdftex.def Info: figures/1174034/plagiarism.png  used on input line 18.
@@ -1022,7 +1043,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [16 <./figures/1174034/koordinat.png> <./figures/1174034/plagiarism.png>]
 Bab 2.
 (chapters/tugas2/1174042.tex (src/1/1174039/soal1.py)
-<figures/1174042/No1.JPG, id=2148, 265.74281pt x 206.27063pt>
+<figures/1174042/No1.JPG, id=2249, 265.74281pt x 206.27063pt>
 File: figures/1174042/No1.JPG Graphic file (type jpg)
 <use figures/1174042/No1.JPG>
 Package pdftex.def Info: figures/1174042/No1.JPG  used on input line 7.
@@ -1035,7 +1056,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 7--9
 [17
 
 ] (src/1/1174042/No2.py)
-<figures/1174042/No2.JPG, id=2168, 225.84375pt x 185.94469pt>
+<figures/1174042/No2.JPG, id=2269, 225.84375pt x 185.94469pt>
 File: figures/1174042/No2.JPG Graphic file (type jpg)
 <use figures/1174042/No2.JPG>
 Package pdftex.def Info: figures/1174042/No2.JPG  used on input line 15.
@@ -1057,7 +1078,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [18 <./figures/1174042/No1.JPG>] (src/1/1174042/No3.py)
-<figures/1174042/No3.JPG, id=2183, 204.01219pt x 118.19156pt>
+<figures/1174042/No3.JPG, id=2285, 204.01219pt x 118.19156pt>
 File: figures/1174042/No3.JPG Graphic file (type jpg)
 <use figures/1174042/No3.JPG>
 Package pdftex.def Info: figures/1174042/No3.JPG  used on input line 23.
@@ -1079,7 +1100,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [19 <./figures/1174042/No2.JPG>] (src/1/1174042/No4.py)
-<figures/1174042/No4.JPG, id=2198, 221.32687pt x 190.46156pt>
+<figures/1174042/No4.JPG, id=2300, 221.32687pt x 190.46156pt>
 File: figures/1174042/No4.JPG Graphic file (type jpg)
 <use figures/1174042/No4.JPG>
 Package pdftex.def Info: figures/1174042/No4.JPG  used on input line 31.
@@ -1101,7 +1122,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [20 <./figures/1174042/No3.JPG>] (src/1/1174042/No5.py)
-<figures/1174042/No5.JPG, id=2214, 330.48468pt x 323.70938pt>
+<figures/1174042/No5.JPG, id=2315, 330.48468pt x 323.70938pt>
 File: figures/1174042/No5.JPG Graphic file (type jpg)
 <use figures/1174042/No5.JPG>
 Package pdftex.def Info: figures/1174042/No5.JPG  used on input line 39.
@@ -1123,7 +1144,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [21 <./figures/1174042/No4.JPG>] (src/1/1174042/No6.py)
-<figures/1174042/No6.JPG, id=2227, 326.72063pt x 124.96687pt>
+<figures/1174042/No6.JPG, id=2328, 326.72063pt x 124.96687pt>
 File: figures/1174042/No6.JPG Graphic file (type jpg)
 <use figures/1174042/No6.JPG>
 Package pdftex.def Info: figures/1174042/No6.JPG  used on input line 47.
@@ -1145,7 +1166,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [22 <./figures/1174042/No5.JPG>] (src/1/1174042/No7.py)
-<figures/1174042/No7.JPG, id=2240, 335.75438pt x 143.78719pt>
+<figures/1174042/No7.JPG, id=2341, 335.75438pt x 143.78719pt>
 File: figures/1174042/No7.JPG Graphic file (type jpg)
 <use figures/1174042/No7.JPG>
 Package pdftex.def Info: figures/1174042/No7.JPG  used on input line 55.
@@ -1159,7 +1180,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 55--57
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [23 <./figures/1174042/No6.JPG> <./figures/1174042/No7.JPG>])
-<figures/1174042/No8.JPG, id=2258, 318.43968pt x 120.45pt>
+<figures/1174042/No8.JPG, id=2359, 318.43968pt x 120.45pt>
 File: figures/1174042/No8.JPG Graphic file (type jpg)
 <use figures/1174042/No8.JPG>
 Package pdftex.def Info: figures/1174042/No8.JPG  used on input line 63.
@@ -1170,7 +1191,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 63--65
  []
 
 (src/1/1174042/No9.py)
-<figures/1174042/No9.JPG, id=2259, 233.37187pt x 344.03531pt>
+<figures/1174042/No9.JPG, id=2360, 233.37187pt x 344.03531pt>
 File: figures/1174042/No9.JPG Graphic file (type jpg)
 <use figures/1174042/No9.JPG>
 Package pdftex.def Info: figures/1174042/No9.JPG  used on input line 71.
@@ -1200,7 +1221,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 11.
 )
-<figures/1174042/No10.JPG, id=2282, 290.58563pt x 275.52937pt>
+<figures/1174042/No10.JPG, id=2384, 290.58563pt x 275.52937pt>
 File: figures/1174042/No10.JPG Graphic file (type jpg)
 <use figures/1174042/No10.JPG>
 Package pdftex.def Info: figures/1174042/No10.JPG  used on input line 79.
@@ -1225,7 +1246,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [27 <./figures/1174042/No10.JPG>])
-<figures/1174040/Python1/Soal1.PNG, id=2313, 394.47375pt x 350.5095pt>
+<figures/1174040/Python1/Soal1.PNG, id=2414, 394.47375pt x 350.5095pt>
 File: figures/1174040/Python1/Soal1.PNG Graphic file (type png)
 <use figures/1174040/Python1/Soal1.PNG>
 Package pdftex.def Info: figures/1174040/Python1/Soal1.PNG  used on input line 
@@ -1237,7 +1258,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 7--9
  []
 
 (src/1/1174040/Soal2.py)
-<figures/1174040/Python1/Soal2.PNG, id=2314, 354.72525pt x 324.61275pt>
+<figures/1174040/Python1/Soal2.PNG, id=2415, 354.72525pt x 324.61275pt>
 File: figures/1174040/Python1/Soal2.PNG Graphic file (type png)
 <use figures/1174040/Python1/Soal2.PNG>
 Package pdftex.def Info: figures/1174040/Python1/Soal2.PNG  used on input line 
@@ -1260,7 +1281,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [28 <./figures/1174040/Python1/Soal1.PNG>] (src/1/1174040/Soal3.py)
-<figures/1174040/Python1/Soal3.PNG, id=2335, 257.763pt x 233.07076pt>
+<figures/1174040/Python1/Soal3.PNG, id=2436, 257.763pt x 233.07076pt>
 File: figures/1174040/Python1/Soal3.PNG Graphic file (type png)
 <use figures/1174040/Python1/Soal3.PNG>
 Package pdftex.def Info: figures/1174040/Python1/Soal3.PNG  used on input line 
@@ -1283,7 +1304,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [29 <./figures/1174040/Python1/Soal2.PNG>] (src/1/1174040/Soal4.py)
-<figures/1174040/Python1/Soal4.PNG, id=2352, 301.125pt x 198.7425pt>
+<figures/1174040/Python1/Soal4.PNG, id=2453, 301.125pt x 198.7425pt>
 File: figures/1174040/Python1/Soal4.PNG Graphic file (type png)
 <use figures/1174040/Python1/Soal4.PNG>
 Package pdftex.def Info: figures/1174040/Python1/Soal4.PNG  used on input line 
@@ -1306,7 +1327,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [30 <./figures/1174040/Python1/Soal3.PNG>] (src/1/1174040/Soal5.py)
-<figures/1174040/Python1/Soal5.PNG, id=2369, 343.88475pt x 305.943pt>
+<figures/1174040/Python1/Soal5.PNG, id=2471, 343.88475pt x 305.943pt>
 File: figures/1174040/Python1/Soal5.PNG Graphic file (type png)
 <use figures/1174040/Python1/Soal5.PNG>
 Package pdftex.def Info: figures/1174040/Python1/Soal5.PNG  used on input line 
@@ -1329,7 +1350,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [31 <./figures/1174040/Python1/Soal4.PNG>] (src/1/1174040/Soal6.py)
-<figures/1174040/Python1/Soal6.PNG, id=2384, 323.40825pt x 181.27725pt>
+<figures/1174040/Python1/Soal6.PNG, id=2486, 323.40825pt x 181.27725pt>
 File: figures/1174040/Python1/Soal6.PNG Graphic file (type png)
 <use figures/1174040/Python1/Soal6.PNG>
 Package pdftex.def Info: figures/1174040/Python1/Soal6.PNG  used on input line 
@@ -1352,7 +1373,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [32 <./figures/1174040/Python1/Soal5.PNG>] (src/1/1174040/Soal7.py)
-<figures/1174040/Python1/Soal7.PNG, id=2400, 554.67226pt x 188.50426pt>
+<figures/1174040/Python1/Soal7.PNG, id=2501, 554.67226pt x 188.50426pt>
 File: figures/1174040/Python1/Soal7.PNG Graphic file (type png)
 <use figures/1174040/Python1/Soal7.PNG>
 Package pdftex.def Info: figures/1174040/Python1/Soal7.PNG  used on input line 
@@ -1368,7 +1389,7 @@ Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [33 <./figures/1174040/Python1/Soal6.PNG> <./figures/1174040/Python1/Soal7.PNG
 >])
-<figures/1174040/Python1/Soal8.PNG, id=2419, 346.29375pt x 129.48375pt>
+<figures/1174040/Python1/Soal8.PNG, id=2520, 346.29375pt x 129.48375pt>
 File: figures/1174040/Python1/Soal8.PNG Graphic file (type png)
 <use figures/1174040/Python1/Soal8.PNG>
 Package pdftex.def Info: figures/1174040/Python1/Soal8.PNG  used on input line 
@@ -1380,7 +1401,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 63--65
  []
 
 (src/1/1174040/Soal9.py)
-<figures/1174040/Python1/Soal9.PNG, id=2420, 355.3275pt x 360.74776pt>
+<figures/1174040/Python1/Soal9.PNG, id=2521, 355.3275pt x 360.74776pt>
 File: figures/1174040/Python1/Soal9.PNG Graphic file (type png)
 <use figures/1174040/Python1/Soal9.PNG>
 Package pdftex.def Info: figures/1174040/Python1/Soal9.PNG  used on input line 
@@ -1406,7 +1427,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [35 <./figures/1174040/Python1/Soal9.PNG>])
-<figures/1174040/Python1/SoalMod.PNG, id=2461, 277.035pt x 305.34074pt>
+<figures/1174040/Python1/SoalMod.PNG, id=2562, 277.035pt x 305.34074pt>
 File: figures/1174040/Python1/SoalMod.PNG Graphic file (type png)
 <use figures/1174040/Python1/SoalMod.PNG>
 Package pdftex.def Info: figures/1174040/Python1/SoalMod.PNG  used on input lin
@@ -1429,7 +1450,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [36 <./figures/1174040/Python1/SoalMod.PNG>] (src/1/1174039/soal1.py)
-<figures/1174039/gambar/hasil1.PNG, id=2470, 601.4972pt x 341.77687pt>
+<figures/1174039/gambar/hasil1.PNG, id=2572, 601.4972pt x 341.77687pt>
 File: figures/1174039/gambar/hasil1.PNG Graphic file (type png)
 <use figures/1174039/gambar/hasil1.PNG>
 Package pdftex.def Info: figures/1174039/gambar/hasil1.PNG  used on input line 
@@ -1444,7 +1465,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 7--9
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [37 <./figures/1174039/gambar/hasil1.PNG>])
-<figures/1174039/gambar/hasil2.PNG, id=2499, 605.26125pt x 346.29375pt>
+<figures/1174039/gambar/hasil2.PNG, id=2601, 605.26125pt x 346.29375pt>
 File: figures/1174039/gambar/hasil2.PNG Graphic file (type png)
 <use figures/1174039/gambar/hasil2.PNG>
 Package pdftex.def Info: figures/1174039/gambar/hasil2.PNG  used on input line 
@@ -1456,7 +1477,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 15--17
  []
 
 (src/1/1174039/soal3.py)
-<figures/1174039/gambar/hasil3.PNG, id=2500, 649.67719pt x 344.03531pt>
+<figures/1174039/gambar/hasil3.PNG, id=2602, 649.67719pt x 344.03531pt>
 File: figures/1174039/gambar/hasil3.PNG Graphic file (type png)
 <use figures/1174039/gambar/hasil3.PNG>
 Package pdftex.def Info: figures/1174039/gambar/hasil3.PNG  used on input line 
@@ -1476,7 +1497,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [38 <./figures/1174039/gambar/hasil2.PNG>] (src/1/1174039/soal4.py)
-<figures/1174039/gambar/hasil4.PNG, id=2531, 654.19406pt x 350.05782pt>
+<figures/1174039/gambar/hasil4.PNG, id=2632, 654.19406pt x 350.05782pt>
 File: figures/1174039/gambar/hasil4.PNG Graphic file (type png)
 <use figures/1174039/gambar/hasil4.PNG>
 Package pdftex.def Info: figures/1174039/gambar/hasil4.PNG  used on input line 
@@ -1499,7 +1520,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [39 <./figures/1174039/gambar/hasil3.PNG>] (src/1/1174039/soal5.py)
-<figures/1174039/gambar/hasil5.PNG, id=2552, 796.47563pt x 444.91219pt>
+<figures/1174039/gambar/hasil5.PNG, id=2653, 796.47563pt x 444.91219pt>
 File: figures/1174039/gambar/hasil5.PNG Graphic file (type png)
 <use figures/1174039/gambar/hasil5.PNG>
 Package pdftex.def Info: figures/1174039/gambar/hasil5.PNG  used on input line 
@@ -1522,7 +1543,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [40 <./figures/1174039/gambar/hasil4.PNG>] (src/1/1174039/soal6.py)
-<figures/1174039/gambar/hasil6.PNG, id=2570, 800.9925pt x 331.99031pt>
+<figures/1174039/gambar/hasil6.PNG, id=2671, 800.9925pt x 331.99031pt>
 File: figures/1174039/gambar/hasil6.PNG Graphic file (type png)
 <use figures/1174039/gambar/hasil6.PNG>
 Package pdftex.def Info: figures/1174039/gambar/hasil6.PNG  used on input line 
@@ -1545,7 +1566,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [41 <./figures/1174039/gambar/hasil5.PNG>] (src/1/1174039/soal7.py)
-<figures/1174039/gambar/hasil7.PNG, id=2590, 799.48688pt x 371.13657pt>
+<figures/1174039/gambar/hasil7.PNG, id=2691, 799.48688pt x 371.13657pt>
 File: figures/1174039/gambar/hasil7.PNG Graphic file (type png)
 <use figures/1174039/gambar/hasil7.PNG>
 Package pdftex.def Info: figures/1174039/gambar/hasil7.PNG  used on input line 
@@ -1575,7 +1596,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 63--65
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [43])
-<figures/1174039/gambar/hasil9.PNG, id=2636, 779.16093pt x 435.87843pt>
+<figures/1174039/gambar/hasil9.PNG, id=2738, 779.16093pt x 435.87843pt>
 File: figures/1174039/gambar/hasil9.PNG Graphic file (type png)
 <use figures/1174039/gambar/hasil9.PNG>
 Package pdftex.def Info: figures/1174039/gambar/hasil9.PNG  used on input line 
@@ -1590,7 +1611,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 71--73
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [44 <./figures/1174039/gambar/hasil9.PNG>])
-<figures/1174039/gambar/hasil10.PNG, id=2664, 1028.34187pt x 365.86688pt>
+<figures/1174039/gambar/hasil10.PNG, id=2765, 1028.34187pt x 365.86688pt>
 File: figures/1174039/gambar/hasil10.PNG Graphic file (type png)
 <use figures/1174039/gambar/hasil10.PNG>
 Package pdftex.def Info: figures/1174039/gambar/hasil10.PNG  used on input line
@@ -1602,7 +1623,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 79--81
  []
 
 ) (chapters/tugas2/1174043.tex (src/1/1174043/nomor1.py)
-<figures/1174043/1.jpg, id=2666, 215.6055pt x 204.16275pt>
+<figures/1174043/1.jpg, id=2767, 215.6055pt x 204.16275pt>
 File: figures/1174043/1.jpg Graphic file (type jpg)
 <use figures/1174043/1.jpg>
 Package pdftex.def Info: figures/1174043/1.jpg  used on input line 7.
@@ -1621,7 +1642,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [45 <./figures/1174039/gambar/hasil10.PNG>] (src/1/1174043/nomor2.py)
-<figures/1174043/2.jpg, id=2694, 296.90926pt x 285.4665pt>
+<figures/1174043/2.jpg, id=2795, 296.90926pt x 285.4665pt>
 File: figures/1174043/2.jpg Graphic file (type jpg)
 <use figures/1174043/2.jpg>
 Package pdftex.def Info: figures/1174043/2.jpg  used on input line 15.
@@ -1643,7 +1664,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [46 <./figures/1174043/1.jpg>] (src/1/1174043/nomor3.py)
-<figures/1174043/3.jpg, id=2714, 509.5035pt x 262.581pt>
+<figures/1174043/3.jpg, id=2815, 509.5035pt x 262.581pt>
 File: figures/1174043/3.jpg Graphic file (type jpg)
 <use figures/1174043/3.jpg>
 Package pdftex.def Info: figures/1174043/3.jpg  used on input line 23.
@@ -1665,7 +1686,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [47 <./figures/1174043/2.jpg>] (src/1/1174043/nomor4.py)
-<figures/1174043/4.jpg, id=2734, 258.9675pt x 258.9675pt>
+<figures/1174043/4.jpg, id=2835, 258.9675pt x 258.9675pt>
 File: figures/1174043/4.jpg Graphic file (type jpg)
 <use figures/1174043/4.jpg>
 Package pdftex.def Info: figures/1174043/4.jpg  used on input line 31.
@@ -1687,7 +1708,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [48 <./figures/1174043/3.jpg>] (src/1/1174043/nomor5.py)
-<figures/1174043/5.jpg, id=2754, 271.61475pt x 266.1945pt>
+<figures/1174043/5.jpg, id=2856, 271.61475pt x 266.1945pt>
 File: figures/1174043/5.jpg Graphic file (type jpg)
 <use figures/1174043/5.jpg>
 Package pdftex.def Info: figures/1174043/5.jpg  used on input line 39.
@@ -1709,7 +1730,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [49 <./figures/1174043/4.jpg>] (src/1/1174043/nomor6.py)
-<figures/1174043/6.jpg, id=2772, 302.3295pt x 91.542pt>
+<figures/1174043/6.jpg, id=2874, 302.3295pt x 91.542pt>
 File: figures/1174043/6.jpg Graphic file (type jpg)
 <use figures/1174043/6.jpg>
 Package pdftex.def Info: figures/1174043/6.jpg  used on input line 47.
@@ -1731,7 +1752,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [50 <./figures/1174043/5.jpg>] (src/1/1174043/nomor7.py)
-<figures/1174043/7.jpg, id=2791, 272.81924pt x 98.16675pt>
+<figures/1174043/7.jpg, id=2892, 272.81924pt x 98.16675pt>
 File: figures/1174043/7.jpg Graphic file (type jpg)
 <use figures/1174043/7.jpg>
 Package pdftex.def Info: figures/1174043/7.jpg  used on input line 55.
@@ -1745,7 +1766,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 55--57
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [51 <./figures/1174043/6.jpg> <./figures/1174043/7.jpg>])
-<figures/1174043/8.jpg, id=2818, 263.7855pt x 90.3375pt>
+<figures/1174043/8.jpg, id=2919, 263.7855pt x 90.3375pt>
 File: figures/1174043/8.jpg Graphic file (type jpg)
 <use figures/1174043/8.jpg>
 Package pdftex.def Info: figures/1174043/8.jpg  used on input line 63.
@@ -1756,7 +1777,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 63--65
  []
 
 (src/1/1174043/nomor9.py)
-<figures/1174043/9.jpg, id=2819, 280.04625pt x 447.47176pt>
+<figures/1174043/9.jpg, id=2920, 280.04625pt x 447.47176pt>
 File: figures/1174043/9.jpg Graphic file (type jpg)
 <use figures/1174043/9.jpg>
 Package pdftex.def Info: figures/1174043/9.jpg  used on input line 71.
@@ -1789,7 +1810,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [53 <./figures/1174043/9.jpg>] (src/1/1174043/nomor10.py)
-<figures/1174043/10.jpg, id=2847, 210.7875pt x 334.24875pt>
+<figures/1174043/10.jpg, id=2948, 210.7875pt x 334.24875pt>
 File: figures/1174043/10.jpg Graphic file (type jpg)
 <use figures/1174043/10.jpg>
 Package pdftex.def Info: figures/1174043/10.jpg  used on input line 79.
@@ -1823,7 +1844,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [55 <./figures/1174043/10.jpg>]) (chapters/tugas2/1174035.tex
 (src/1/1174035/tugas2/praktek1_pyshp.py)
-<figures/1174035/tugas2/soal_1.png, id=2876, 287.57437pt x 267.24844pt>
+<figures/1174035/tugas2/soal_1.png, id=2978, 287.57437pt x 267.24844pt>
 File: figures/1174035/tugas2/soal_1.png Graphic file (type png)
 <use figures/1174035/tugas2/soal_1.png>
 Package pdftex.def Info: figures/1174035/tugas2/soal_1.png  used on input line 
@@ -1839,7 +1860,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [56 <./figures/1174035/tugas2/soal_1.png>]
 (src/1/1174035/tugas2/praktek2_pyshp.py)
-<figures/1174035/tugas2/soal_2.png, id=2895, 295.85532pt x 258.9675pt>
+<figures/1174035/tugas2/soal_2.png, id=2996, 295.85532pt x 258.9675pt>
 File: figures/1174035/tugas2/soal_2.png Graphic file (type png)
 <use figures/1174035/tugas2/soal_2.png>
 Package pdftex.def Info: figures/1174035/tugas2/soal_2.png  used on input line 
@@ -1850,7 +1871,7 @@ Package pdftex.def Info: figures/1174035/tugas2/soal_2.png  used on input line
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [57 <./figures/1174035/tugas2/soal_2.png>])
-<figures/1174035/tugas2/soal_3.png, id=2916, 277.78781pt x 258.9675pt>
+<figures/1174035/tugas2/soal_3.png, id=3017, 277.78781pt x 258.9675pt>
 File: figures/1174035/tugas2/soal_3.png Graphic file (type png)
 <use figures/1174035/tugas2/soal_3.png>
 Package pdftex.def Info: figures/1174035/tugas2/soal_3.png  used on input line 
@@ -1860,14 +1881,14 @@ Package pdftex.def Info: figures/1174035/tugas2/soal_3.png  used on input line
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [58 <./figures/1174035/tugas2/soal_3.png>])
-<figures/1174035/tugas2/soal_4.png, id=2936, 298.11375pt x 260.47313pt>
+<figures/1174035/tugas2/soal_4.png, id=3037, 298.11375pt x 260.47313pt>
 File: figures/1174035/tugas2/soal_4.png Graphic file (type png)
 <use figures/1174035/tugas2/soal_4.png>
 Package pdftex.def Info: figures/1174035/tugas2/soal_4.png  used on input line 
 28.
 (pdftex.def)             Requested size: 170.71652pt x 149.16278pt.
  (src/1/1174035/tugas2/praktek5_pyshp.py)
-<figures/1174035/tugas2/soal_5.png, id=2937, 267.24844pt x 257.46187pt>
+<figures/1174035/tugas2/soal_5.png, id=3038, 267.24844pt x 257.46187pt>
 File: figures/1174035/tugas2/soal_5.png Graphic file (type png)
 <use figures/1174035/tugas2/soal_5.png>
 Package pdftex.def Info: figures/1174035/tugas2/soal_5.png  used on input line 
@@ -1886,7 +1907,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [59 <./figures/1174035/tugas2/soal_4.png>]
 (src/1/1174035/tugas2/praktek6_pyshp.py)
-<figures/1174035/tugas2/soal_6.png, id=2956, 573.64313pt x 173.14688pt>
+<figures/1174035/tugas2/soal_6.png, id=3057, 573.64313pt x 173.14688pt>
 File: figures/1174035/tugas2/soal_6.png Graphic file (type png)
 <use figures/1174035/tugas2/soal_6.png>
 Package pdftex.def Info: figures/1174035/tugas2/soal_6.png  used on input line 
@@ -1898,7 +1919,7 @@ Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [60 <./figures/1174035/tugas2/soal_5.png> <./figures/1174035/tugas2/soal_6.png
 >])
-<figures/1174035/tugas2/soal_7.png, id=2973, 562.35094pt x 193.47281pt>
+<figures/1174035/tugas2/soal_7.png, id=3075, 562.35094pt x 193.47281pt>
 File: figures/1174035/tugas2/soal_7.png Graphic file (type png)
 <use figures/1174035/tugas2/soal_7.png>
 Package pdftex.def Info: figures/1174035/tugas2/soal_7.png  used on input line 
@@ -1906,7 +1927,7 @@ Package pdftex.def Info: figures/1174035/tugas2/soal_7.png  used on input line
 (pdftex.def)             Requested size: 170.71652pt x 58.7331pt.
 
 (src/1/1174035/tugas2/praktek8_pyshp.py)
-<figures/1174035/tugas2/soal_8.png, id=2974, 567.62062pt x 197.98969pt>
+<figures/1174035/tugas2/soal_8.png, id=3076, 567.62062pt x 197.98969pt>
 File: figures/1174035/tugas2/soal_8.png Graphic file (type png)
 <use figures/1174035/tugas2/soal_8.png>
 Package pdftex.def Info: figures/1174035/tugas2/soal_8.png  used on input line 
@@ -1925,7 +1946,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [61 <./figures/1174035/tugas2/soal_7.png>]
 (src/1/1174035/tugas2/praktek9_pyshp.py)
-<figures/1174035/tugas2/soal_9.png, id=2995, 262.73157pt x 256.70906pt>
+<figures/1174035/tugas2/soal_9.png, id=3097, 262.73157pt x 256.70906pt>
 File: figures/1174035/tugas2/soal_9.png Graphic file (type png)
 <use figures/1174035/tugas2/soal_9.png>
 Package pdftex.def Info: figures/1174035/tugas2/soal_9.png  used on input line 
@@ -1941,7 +1962,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [62 <./figures/1174035/tugas2/soal_8.png> <./figures/1174035/tugas2/soal_9.png>
 ] (src/1/1174035/tugas2/praktek10_pyshp.py)
-<figures/1174035/tugas2/soal_10.png, id=3012, 580.41844pt x 259.7203pt>
+<figures/1174035/tugas2/soal_10.png, id=3113, 580.41844pt x 259.7203pt>
 File: figures/1174035/tugas2/soal_10.png Graphic file (type png)
 <use figures/1174035/tugas2/soal_10.png>
 Package pdftex.def Info: figures/1174035/tugas2/soal_10.png  used on input line
@@ -1952,7 +1973,7 @@ Package pdftex.def Info: figures/1174035/tugas2/soal_10.png  used on input line
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [63 <./figures/1174035/tugas2/soal_10.png>])
-<figures/1174050/1.PNG, id=3034, 177.0615pt x 113.82526pt>
+<figures/1174050/1.PNG, id=3135, 177.0615pt x 113.82526pt>
 File: figures/1174050/1.PNG Graphic file (type png)
 <use figures/1174050/1.PNG>
 Package pdftex.def Info: figures/1174050/1.PNG  used on input line 7.
@@ -1966,7 +1987,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 7--9
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [64 <./figures/1174050/1.PNG>])
-<figures/1174050/2.PNG, id=3065, 215.00325pt x 152.36925pt>
+<figures/1174050/2.PNG, id=3166, 215.00325pt x 152.36925pt>
 File: figures/1174050/2.PNG Graphic file (type png)
 <use figures/1174050/2.PNG>
 Package pdftex.def Info: figures/1174050/2.PNG  used on input line 15.
@@ -1980,7 +2001,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 15--17
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [65 <./figures/1174050/2.PNG>])
-<figures/1174050/3.PNG, id=3092, 199.34476pt x 116.8365pt>
+<figures/1174050/3.PNG, id=3193, 199.34476pt x 116.8365pt>
 File: figures/1174050/3.PNG Graphic file (type png)
 <use figures/1174050/3.PNG>
 Package pdftex.def Info: figures/1174050/3.PNG  used on input line 23.
@@ -1991,7 +2012,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 23--25
  []
 
 (src/1/1174050/4.py)
-<figures/1174050/4.PNG, id=3093, 148.75575pt x 138.5175pt>
+<figures/1174050/4.PNG, id=3194, 148.75575pt x 138.5175pt>
 File: figures/1174050/4.PNG Graphic file (type png)
 <use figures/1174050/4.PNG>
 Package pdftex.def Info: figures/1174050/4.PNG  used on input line 31.
@@ -2013,7 +2034,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [66 <./figures/1174050/3.PNG>] (src/1/1174050/5.py)
-<figures/1174050/5.PNG, id=3118, 299.31825pt x 261.97874pt>
+<figures/1174050/5.PNG, id=3220, 299.31825pt x 261.97874pt>
 File: figures/1174050/5.PNG Graphic file (type png)
 <use figures/1174050/5.PNG>
 Package pdftex.def Info: figures/1174050/5.PNG  used on input line 39.
@@ -2032,7 +2053,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [67 <./figures/1174050/4.PNG>] (src/1/1174050/6.py)
-<figures/1174050/6.PNG, id=3139, 263.7855pt x 73.4745pt>
+<figures/1174050/6.PNG, id=3241, 263.7855pt x 73.4745pt>
 File: figures/1174050/6.PNG Graphic file (type png)
 <use figures/1174050/6.PNG>
 Package pdftex.def Info: figures/1174050/6.PNG  used on input line 47.
@@ -2054,7 +2075,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [68 <./figures/1174050/5.PNG>] (src/1/1174050/7.py)
-<figures/1174050/7.PNG, id=3161, 354.123pt x 181.8795pt>
+<figures/1174050/7.PNG, id=3262, 354.123pt x 181.8795pt>
 File: figures/1174050/7.PNG Graphic file (type png)
 <use figures/1174050/7.PNG>
 Package pdftex.def Info: figures/1174050/7.PNG  used on input line 55.
@@ -2068,7 +2089,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 55--57
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [69 <./figures/1174050/6.PNG> <./figures/1174050/7.PNG>])
-<figures/1174050/8.PNG, id=3184, 291.489pt x 156.585pt>
+<figures/1174050/8.PNG, id=3285, 291.489pt x 156.585pt>
 File: figures/1174050/8.PNG Graphic file (type png)
 <use figures/1174050/8.PNG>
 Package pdftex.def Info: figures/1174050/8.PNG  used on input line 63.
@@ -2082,7 +2103,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 63--65
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [70 <./figures/1174050/8.PNG>])
-<figures/1174050/9.PNG, id=3216, 120.45pt x 133.09724pt>
+<figures/1174050/9.PNG, id=3317, 120.45pt x 133.09724pt>
 File: figures/1174050/9.PNG Graphic file (type png)
 <use figures/1174050/9.PNG>
 Package pdftex.def Info: figures/1174050/9.PNG  used on input line 71.
@@ -2096,7 +2117,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 71--73
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [71 <./figures/1174050/9.PNG>])
-<figures/1174050/10.PNG, id=3228, 407.72325pt x 258.9675pt>
+<figures/1174050/10.PNG, id=3329, 407.72325pt x 258.9675pt>
 File: figures/1174050/10.PNG Graphic file (type png)
 <use figures/1174050/10.PNG>
 Package pdftex.def Info: figures/1174050/10.PNG  used on input line 79.
@@ -2118,7 +2139,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [72]) (chapters/tugas2/1174059.tex (src/1/1174059/pyshp1.py)
-<figures/1174059/Python1/soal1.PNG, id=3256, 469.00218pt x 490.08093pt>
+<figures/1174059/Python1/soal1.PNG, id=3358, 469.00218pt x 490.08093pt>
 File: figures/1174059/Python1/soal1.PNG Graphic file (type png)
 <use figures/1174059/Python1/soal1.PNG>
 Package pdftex.def Info: figures/1174059/Python1/soal1.PNG  used on input line 
@@ -2141,7 +2162,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [73 <./figures/1174050/10.PNG>] (src/1/1174059/pyshp2.py)
-<figures/1174059/Python1/soal2.PNG, id=3276, 150.5625pt x 167.12437pt>
+<figures/1174059/Python1/soal2.PNG, id=3378, 150.5625pt x 167.12437pt>
 File: figures/1174059/Python1/soal2.PNG Graphic file (type png)
 <use figures/1174059/Python1/soal2.PNG>
 Package pdftex.def Info: figures/1174059/Python1/soal2.PNG  used on input line 
@@ -2164,7 +2185,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [75 <./figures/1174059/Python1/soal2.PNG>])
-<figures/1174059/Python1/soal3.PNG, id=3315, 133.24782pt x 107.65219pt>
+<figures/1174059/Python1/soal3.PNG, id=3416, 133.24782pt x 107.65219pt>
 File: figures/1174059/Python1/soal3.PNG Graphic file (type png)
 <use figures/1174059/Python1/soal3.PNG>
 Package pdftex.def Info: figures/1174059/Python1/soal3.PNG  used on input line 
@@ -2176,7 +2197,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 23--25
  []
 
 (src/1/1174059/pyshp4.py)
-<figures/1174059/Python1/soal4.PNG, id=3316, 143.78719pt x 144.54pt>
+<figures/1174059/Python1/soal4.PNG, id=3417, 143.78719pt x 144.54pt>
 File: figures/1174059/Python1/soal4.PNG Graphic file (type png)
 <use figures/1174059/Python1/soal4.PNG>
 Package pdftex.def Info: figures/1174059/Python1/soal4.PNG  used on input line 
@@ -2199,7 +2220,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [76 <./figures/1174059/Python1/soal3.PNG>] (src/1/1174059/pyshp5.py)
-<figures/1174059/Python1/soal5.PNG, id=3339, 225.09094pt x 253.69781pt>
+<figures/1174059/Python1/soal5.PNG, id=3440, 225.09094pt x 253.69781pt>
 File: figures/1174059/Python1/soal5.PNG Graphic file (type png)
 <use figures/1174059/Python1/soal5.PNG>
 Package pdftex.def Info: figures/1174059/Python1/soal5.PNG  used on input line 
@@ -2222,7 +2243,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [77 <./figures/1174059/Python1/soal4.PNG>] (src/1/1174059/pyshp6.py)
-<figures/1174059/Python1/soal6.PNG, id=3357, 123.46124pt x 57.21375pt>
+<figures/1174059/Python1/soal6.PNG, id=3458, 123.46124pt x 57.21375pt>
 File: figures/1174059/Python1/soal6.PNG Graphic file (type png)
 <use figures/1174059/Python1/soal6.PNG>
 Package pdftex.def Info: figures/1174059/Python1/soal6.PNG  used on input line 
@@ -2242,7 +2263,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [78 <./figures/1174059/Python1/soal5.PNG>] (src/1/1174059/pyshp7.py)
-<figures/1174059/Python1/soal7.PNG, id=3375, 409.53pt x 154.32657pt>
+<figures/1174059/Python1/soal7.PNG, id=3477, 409.53pt x 154.32657pt>
 File: figures/1174059/Python1/soal7.PNG Graphic file (type png)
 <use figures/1174059/Python1/soal7.PNG>
 Package pdftex.def Info: figures/1174059/Python1/soal7.PNG  used on input line 
@@ -2258,7 +2279,7 @@ Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [79 <./figures/1174059/Python1/soal6.PNG> <./figures/1174059/Python1/soal7.PNG
 >])
-<figures/1174059/Python1/soal8.PNG, id=3398, 433.62pt x 154.32657pt>
+<figures/1174059/Python1/soal8.PNG, id=3500, 433.62pt x 154.32657pt>
 File: figures/1174059/Python1/soal8.PNG Graphic file (type png)
 <use figures/1174059/Python1/soal8.PNG>
 Package pdftex.def Info: figures/1174059/Python1/soal8.PNG  used on input line 
@@ -2270,7 +2291,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 63--65
  []
 
 (src/1/1174059/pyshp9.py)
-<figures/1174059/Python1/soal9.PNG, id=3399, 435.87843pt x 154.32657pt>
+<figures/1174059/Python1/soal9.PNG, id=3501, 435.87843pt x 154.32657pt>
 File: figures/1174059/Python1/soal9.PNG Graphic file (type png)
 <use figures/1174059/Python1/soal9.PNG>
 Package pdftex.def Info: figures/1174059/Python1/soal9.PNG  used on input line 
@@ -2293,7 +2314,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [80 <./figures/1174059/Python1/soal8.PNG>] (src/1/1174059/pyshp10.py)
-<figures/1174059/Python1/soal10.PNG, id=3428, 665.48625pt x 342.5297pt>
+<figures/1174059/Python1/soal10.PNG, id=3529, 665.48625pt x 342.5297pt>
 File: figures/1174059/Python1/soal10.PNG Graphic file (type png)
 <use figures/1174059/Python1/soal10.PNG>
 Package pdftex.def Info: figures/1174059/Python1/soal10.PNG  used on input line
@@ -2316,7 +2337,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [81 <./figures/1174059/Python1/soal9.PNG>]
-<figures/1174059/plagiarisme2.PNG, id=3454, 854.44218pt x 440.39531pt>
+<figures/1174059/plagiarisme2.PNG, id=3555, 854.44218pt x 440.39531pt>
 File: figures/1174059/plagiarisme2.PNG Graphic file (type png)
 <use figures/1174059/plagiarisme2.PNG>
 Package pdftex.def Info: figures/1174059/plagiarisme2.PNG  used on input line 8
@@ -2340,7 +2361,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [82 <./figures/1174059/Python1/soal10.PNG> <./figures/1174059/plagiarisme2.PNG>
 ] (src/1/1174038/1.py)
-<figures/1174038/1.PNG, id=3462, 1371.1225pt x 770.88pt>
+<figures/1174038/1.PNG, id=3563, 1371.1225pt x 770.88pt>
 File: figures/1174038/1.PNG Graphic file (type png)
 <use figures/1174038/1.PNG>
 Package pdftex.def Info: figures/1174038/1.PNG  used on input line 7.
@@ -2354,7 +2375,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 7--9
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [83 <./figures/1174038/1.PNG>]
-<figures/1174038/2.PNG, id=3494, 1371.1225pt x 770.88pt>
+<figures/1174038/2.PNG, id=3595, 1371.1225pt x 770.88pt>
 File: figures/1174038/2.PNG Graphic file (type png)
 <use figures/1174038/2.PNG>
 Package pdftex.def Info: figures/1174038/2.PNG  used on input line 15.
@@ -2365,7 +2386,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 15--17
  []
 
 (src/1/1174038/3.py)
-<figures/1174038/3.PNG, id=3495, 1371.1225pt x 770.88pt>
+<figures/1174038/3.PNG, id=3596, 1371.1225pt x 770.88pt>
 File: figures/1174038/3.PNG Graphic file (type png)
 <use figures/1174038/3.PNG>
 Package pdftex.def Info: figures/1174038/3.PNG  used on input line 23.
@@ -2387,7 +2408,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [84 <./figures/1174038/2.PNG>] (src/1/1174038/4.py)
-<figures/1174038/4.PNG, id=3518, 1371.1225pt x 770.88pt>
+<figures/1174038/4.PNG, id=3620, 1371.1225pt x 770.88pt>
 File: figures/1174038/4.PNG Graphic file (type png)
 <use figures/1174038/4.PNG>
 Package pdftex.def Info: figures/1174038/4.PNG  used on input line 31.
@@ -2409,7 +2430,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [85 <./figures/1174038/3.PNG>] (src/1/1174038/5.py)
-<figures/1174038/5.PNG, id=3539, 1371.1225pt x 770.88pt>
+<figures/1174038/5.PNG, id=3641, 1371.1225pt x 770.88pt>
 File: figures/1174038/5.PNG Graphic file (type png)
 <use figures/1174038/5.PNG>
 Package pdftex.def Info: figures/1174038/5.PNG  used on input line 39.
@@ -2431,7 +2452,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [86 <./figures/1174038/4.PNG>] (src/1/1174038/6.py)
-<figures/1174038/6.PNG, id=3558, 1371.1225pt x 770.88pt>
+<figures/1174038/6.PNG, id=3659, 1371.1225pt x 770.88pt>
 File: figures/1174038/6.PNG Graphic file (type png)
 <use figures/1174038/6.PNG>
 Package pdftex.def Info: figures/1174038/6.PNG  used on input line 47.
@@ -2453,7 +2474,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [87 <./figures/1174038/5.PNG>] (src/1/1174038/7.py)
-<figures/1174038/7.PNG, id=3576, 1371.1225pt x 770.88pt>
+<figures/1174038/7.PNG, id=3677, 1371.1225pt x 770.88pt>
 File: figures/1174038/7.PNG Graphic file (type png)
 <use figures/1174038/7.PNG>
 Package pdftex.def Info: figures/1174038/7.PNG  used on input line 55.
@@ -2475,7 +2496,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [88 <./figures/1174038/6.PNG>] (src/1/1174038/8.py)
-<figures/1174038/8.PNG, id=3594, 1371.1225pt x 770.88pt>
+<figures/1174038/8.PNG, id=3695, 1371.1225pt x 770.88pt>
 File: figures/1174038/8.PNG Graphic file (type png)
 <use figures/1174038/8.PNG>
 Package pdftex.def Info: figures/1174038/8.PNG  used on input line 63.
@@ -2497,7 +2518,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [89 <./figures/1174038/7.PNG>] (src/1/1174038/9.py)
-<figures/1174038/9.PNG, id=3612, 1371.1225pt x 770.88pt>
+<figures/1174038/9.PNG, id=3713, 1371.1225pt x 770.88pt>
 File: figures/1174038/9.PNG Graphic file (type png)
 <use figures/1174038/9.PNG>
 Package pdftex.def Info: figures/1174038/9.PNG  used on input line 71.
@@ -2519,7 +2540,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [90 <./figures/1174038/8.PNG>] (src/1/1174038/10.py)
-<figures/1174038/10.PNG, id=3632, 587.796pt x 370.38374pt>
+<figures/1174038/10.PNG, id=3734, 587.796pt x 370.38374pt>
 File: figures/1174038/10.PNG Graphic file (type png)
 <use figures/1174038/10.PNG>
 Package pdftex.def Info: figures/1174038/10.PNG  used on input line 79.
@@ -2542,7 +2563,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [91 <./figures/1174038/9.PNG>]) (chapters/tugas2/1174056.tex
 (src/1/1174056/py1.py)
-<figures/1174056/1.PNG, id=3656, 438.8897pt x 328.97906pt>
+<figures/1174056/1.PNG, id=3758, 438.8897pt x 328.97906pt>
 File: figures/1174056/1.PNG Graphic file (type png)
 <use figures/1174056/1.PNG>
 Package pdftex.def Info: figures/1174056/1.PNG  used on input line 7.
@@ -2564,7 +2585,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [92 <./figures/1174038/10.PNG>] (src/1/1174056/py2.py)
-<figures/1174056/2.PNG, id=3677, 582.67688pt x 292.84406pt>
+<figures/1174056/2.PNG, id=3778, 582.67688pt x 292.84406pt>
 File: figures/1174056/2.PNG Graphic file (type png)
 <use figures/1174056/2.PNG>
 Package pdftex.def Info: figures/1174056/2.PNG  used on input line 15.
@@ -2586,7 +2607,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [93 <./figures/1174056/1.PNG>] (src/1/1174056/py3.py)
-<figures/1174056/3.PNG, id=3697, 373.395pt x 199.49532pt>
+<figures/1174056/3.PNG, id=3798, 373.395pt x 199.49532pt>
 File: figures/1174056/3.PNG Graphic file (type png)
 <use figures/1174056/3.PNG>
 Package pdftex.def Info: figures/1174056/3.PNG  used on input line 23.
@@ -2608,7 +2629,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [94 <./figures/1174056/2.PNG>] (src/1/1174056/py4.py)
-<figures/1174056/4.PNG, id=3718, 608.2725pt x 362.10281pt>
+<figures/1174056/4.PNG, id=3819, 608.2725pt x 362.10281pt>
 File: figures/1174056/4.PNG Graphic file (type png)
 <use figures/1174056/4.PNG>
 Package pdftex.def Info: figures/1174056/4.PNG  used on input line 31.
@@ -2630,7 +2651,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [95 <./figures/1174056/3.PNG>] (src/1/1174056/py5.py)
-<figures/1174056/5.PNG, id=3739, 660.21657pt x 331.2375pt>
+<figures/1174056/5.PNG, id=3840, 660.21657pt x 331.2375pt>
 File: figures/1174056/5.PNG Graphic file (type png)
 <use figures/1174056/5.PNG>
 Package pdftex.def Info: figures/1174056/5.PNG  used on input line 39.
@@ -2652,7 +2673,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [96 <./figures/1174056/4.PNG>] (src/1/1174056/py6.py)
-<figures/1174056/6.PNG, id=3757, 665.48625pt x 355.3275pt>
+<figures/1174056/6.PNG, id=3859, 665.48625pt x 355.3275pt>
 File: figures/1174056/6.PNG Graphic file (type png)
 <use figures/1174056/6.PNG>
 Package pdftex.def Info: figures/1174056/6.PNG  used on input line 47.
@@ -2674,7 +2695,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [97 <./figures/1174056/5.PNG>] (src/1/1174056/py7.py)
-<figures/1174056/7.PNG, id=3775, 724.95844pt x 292.09125pt>
+<figures/1174056/7.PNG, id=3877, 724.95844pt x 292.09125pt>
 File: figures/1174056/7.PNG Graphic file (type png)
 <use figures/1174056/7.PNG>
 Package pdftex.def Info: figures/1174056/7.PNG  used on input line 55.
@@ -2688,7 +2709,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 55--57
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [98 <./figures/1174056/6.PNG> <./figures/1174056/7.PNG>])
-<figures/1174056/8.PNG, id=3796, 666.99188pt x 283.81032pt>
+<figures/1174056/8.PNG, id=3897, 666.99188pt x 283.81032pt>
 File: figures/1174056/8.PNG Graphic file (type png)
 <use figures/1174056/8.PNG>
 Package pdftex.def Info: figures/1174056/8.PNG  used on input line 63.
@@ -2699,7 +2720,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 63--65
  []
 
 (src/1/1174056/py9.py)
-<figures/1174056/9.PNG, id=3797, 703.87968pt x 298.86656pt>
+<figures/1174056/9.PNG, id=3898, 703.87968pt x 298.86656pt>
 File: figures/1174056/9.PNG Graphic file (type png)
 <use figures/1174056/9.PNG>
 Package pdftex.def Info: figures/1174056/9.PNG  used on input line 71.
@@ -2721,7 +2742,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [99 <./figures/1174056/8.PNG>] (src/1/1174056/py10.py)
-<figures/1174056/10.PNG, id=3828, 277.035pt x 305.34074pt>
+<figures/1174056/10.PNG, id=3929, 277.035pt x 305.34074pt>
 File: figures/1174056/10.PNG Graphic file (type png)
 <use figures/1174056/10.PNG>
 Package pdftex.def Info: figures/1174056/10.PNG  used on input line 79.
@@ -2761,7 +2782,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [101 <./figures/1174056/10.PNG>] (src/1/1174057/alit1.py)
-<figures/1174057/alit1.PNG, id=3849, 137.7647pt x 163.3603pt>
+<figures/1174057/alit1.PNG, id=3950, 137.7647pt x 163.3603pt>
 File: figures/1174057/alit1.PNG Graphic file (type png)
 <use figures/1174057/alit1.PNG>
 Package pdftex.def Info: figures/1174057/alit1.PNG  used on input line 11.
@@ -2778,7 +2799,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [102] (src/1/1174057/alit2.py)
-<figures/1174057/alit2.PNG, id=3880, 88.83188pt x 98.61844pt>
+<figures/1174057/alit2.PNG, id=3982, 88.83188pt x 98.61844pt>
 File: figures/1174057/alit2.PNG Graphic file (type png)
 <use figures/1174057/alit2.PNG>
 Package pdftex.def Info: figures/1174057/alit2.PNG  used on input line 18.
@@ -2792,7 +2813,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [103 <./figures/1174057/alit1.PNG>] (src/1/1174057/alit3.py)
-<figures/1174057/alit3.PNG, id=3913, 144.54pt x 105.39375pt>
+<figures/1174057/alit3.PNG, id=4015, 144.54pt x 105.39375pt>
 File: figures/1174057/alit3.PNG Graphic file (type png)
 <use figures/1174057/alit3.PNG>
 Package pdftex.def Info: figures/1174057/alit3.PNG  used on input line 25.
@@ -2809,7 +2830,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [104 <./figures/1174057/alit2.PNG>] (src/1/1174057/alit4.py)
-<figures/1174057/alit4.PNG, id=3946, 211.54031pt x 130.23656pt>
+<figures/1174057/alit4.PNG, id=4047, 211.54031pt x 130.23656pt>
 File: figures/1174057/alit4.PNG Graphic file (type png)
 <use figures/1174057/alit4.PNG>
 Package pdftex.def Info: figures/1174057/alit4.PNG  used on input line 32.
@@ -2826,7 +2847,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [105 <./figures/1174057/alit3.PNG>] (src/1/1174057/alit5.py)
-<figures/1174057/alit5.PNG, id=3978, 140.02313pt x 142.28156pt>
+<figures/1174057/alit5.PNG, id=4079, 140.02313pt x 142.28156pt>
 File: figures/1174057/alit5.PNG Graphic file (type png)
 <use figures/1174057/alit5.PNG>
 Package pdftex.def Info: figures/1174057/alit5.PNG  used on input line 39.
@@ -2843,7 +2864,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [106 <./figures/1174057/alit4.PNG>] (src/1/1174057/alit6.py)
-<figures/1174057/alit6.PNG, id=4008, 284.56313pt x 106.89937pt>
+<figures/1174057/alit6.PNG, id=4109, 284.56313pt x 106.89937pt>
 File: figures/1174057/alit6.PNG Graphic file (type png)
 <use figures/1174057/alit6.PNG>
 Package pdftex.def Info: figures/1174057/alit6.PNG  used on input line 46.
@@ -2860,7 +2881,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [107 <./figures/1174057/alit5.PNG>] (src/1/1174057/alit7.py)
-<figures/1174057/alit7.PNG, id=4039, 428.35031pt x 147.55125pt>
+<figures/1174057/alit7.PNG, id=4140, 428.35031pt x 147.55125pt>
 File: figures/1174057/alit7.PNG Graphic file (type png)
 <use figures/1174057/alit7.PNG>
 Package pdftex.def Info: figures/1174057/alit7.PNG  used on input line 53.
@@ -2870,7 +2891,7 @@ Package pdftex.def Info: figures/1174057/alit7.PNG  used on input line 53.
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [108 <./figures/1174057/alit6.PNG> <./figures/1174057/alit7.PNG>])
-<figures/1174057/alit8.PNG, id=4076, 428.35031pt x 147.55125pt>
+<figures/1174057/alit8.PNG, id=4178, 428.35031pt x 147.55125pt>
 File: figures/1174057/alit8.PNG Graphic file (type png)
 <use figures/1174057/alit8.PNG>
 Package pdftex.def Info: figures/1174057/alit8.PNG  used on input line 60.
@@ -2880,7 +2901,7 @@ Package pdftex.def Info: figures/1174057/alit8.PNG  used on input line 60.
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [109 <./figures/1174057/alit8.PNG>])
-<figures/1174057/alit9.PNG, id=4122, 139.27031pt x 205.5178pt>
+<figures/1174057/alit9.PNG, id=4224, 139.27031pt x 205.5178pt>
 File: figures/1174057/alit9.PNG Graphic file (type png)
 <use figures/1174057/alit9.PNG>
 Package pdftex.def Info: figures/1174057/alit9.PNG  used on input line 67.
@@ -2889,12 +2910,12 @@ Package pdftex.def Info: figures/1174057/alit9.PNG  used on input line 67.
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [110 <./figures/1174057/alit9.PNG>])
-<figures/1174057/soal10.PNG, id=4150, 241.65282pt x 206.27063pt>
+<figures/1174057/soal10.PNG, id=4251, 241.65282pt x 206.27063pt>
 File: figures/1174057/soal10.PNG Graphic file (type png)
 <use figures/1174057/soal10.PNG>
 Package pdftex.def Info: figures/1174057/soal10.PNG  used on input line 74.
 (pdftex.def)             Requested size: 170.71652pt x 145.7261pt.
-<figures/1174057/plagiat.png, id=4152, 639.89063pt x 211.54031pt>
+<figures/1174057/plagiat.png, id=4253, 639.89063pt x 211.54031pt>
 File: figures/1174057/plagiat.png Graphic file (type png)
 <use figures/1174057/plagiat.png>
 Package pdftex.def Info: figures/1174057/plagiat.png  used on input line 83.
@@ -2911,7 +2932,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [111 <./figures/1174057/soal10.PNG>] (src/1/1174034/No1.py)
-<figures/1174034/No1.JPG, id=4177, 265.74281pt x 206.27063pt>
+<figures/1174034/No1.JPG, id=4278, 265.74281pt x 206.27063pt>
 File: figures/1174034/No1.JPG Graphic file (type jpg)
 <use figures/1174034/No1.JPG>
 Package pdftex.def Info: figures/1174034/No1.JPG  used on input line 7.
@@ -2933,7 +2954,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [112 <./figures/1174057/plagiat.png>] (src/1/1174034/No2.py)
-<figures/1174034/No2.JPG, id=4193, 225.84375pt x 185.94469pt>
+<figures/1174034/No2.JPG, id=4294, 225.84375pt x 185.94469pt>
 File: figures/1174034/No2.JPG Graphic file (type jpg)
 <use figures/1174034/No2.JPG>
 Package pdftex.def Info: figures/1174034/No2.JPG  used on input line 15.
@@ -2955,7 +2976,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [113 <./figures/1174034/No1.JPG>] (src/1/1174034/No3.py)
-<figures/1174034/No3.JPG, id=4208, 204.01219pt x 118.19156pt>
+<figures/1174034/No3.JPG, id=4309, 204.01219pt x 118.19156pt>
 File: figures/1174034/No3.JPG Graphic file (type jpg)
 <use figures/1174034/No3.JPG>
 Package pdftex.def Info: figures/1174034/No3.JPG  used on input line 23.
@@ -2998,7 +3019,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [115 <./figures/1174034/No3.JPG>] (src/1/1174034/No5.py)
-<figures/1174034/No5.JPG, id=4237, 330.48468pt x 323.70938pt>
+<figures/1174034/No5.JPG, id=4339, 330.48468pt x 323.70938pt>
 File: figures/1174034/No5.JPG Graphic file (type jpg)
 <use figures/1174034/No5.JPG>
 Package pdftex.def Info: figures/1174034/No5.JPG  used on input line 39.
@@ -3020,7 +3041,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [116] (src/1/1174034/No6.py)
-<figures/1174034/No6.JPG, id=4251, 326.72063pt x 124.96687pt>
+<figures/1174034/No6.JPG, id=4352, 326.72063pt x 124.96687pt>
 File: figures/1174034/No6.JPG Graphic file (type jpg)
 <use figures/1174034/No6.JPG>
 Package pdftex.def Info: figures/1174034/No6.JPG  used on input line 47.
@@ -3042,7 +3063,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [117 <./figures/1174034/No5.JPG>] (src/1/1174034/No7.py)
-<figures/1174034/No7.JPG, id=4264, 335.75438pt x 143.78719pt>
+<figures/1174034/No7.JPG, id=4365, 335.75438pt x 143.78719pt>
 File: figures/1174034/No7.JPG Graphic file (type jpg)
 <use figures/1174034/No7.JPG>
 Package pdftex.def Info: figures/1174034/No7.JPG  used on input line 55.
@@ -3056,7 +3077,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 55--57
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [118 <./figures/1174034/No6.JPG> <./figures/1174034/No7.JPG>])
-<figures/1174034/No8.JPG, id=4282, 318.43968pt x 120.45pt>
+<figures/1174034/No8.JPG, id=4383, 318.43968pt x 120.45pt>
 File: figures/1174034/No8.JPG Graphic file (type jpg)
 <use figures/1174034/No8.JPG>
 Package pdftex.def Info: figures/1174034/No8.JPG  used on input line 63.
@@ -3067,7 +3088,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 63--65
  []
 
 (src/1/1174034/No9.py)
-<figures/1174034/No9.JPG, id=4283, 233.37187pt x 344.03531pt>
+<figures/1174034/No9.JPG, id=4384, 233.37187pt x 344.03531pt>
 File: figures/1174034/No9.JPG Graphic file (type jpg)
 <use figures/1174034/No9.JPG>
 Package pdftex.def Info: figures/1174034/No9.JPG  used on input line 71.
@@ -3092,7 +3113,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [120 <./figures/1174034/No9.JPG>])
-<figures/1174034/No10.JPG, id=4306, 545.03625pt x 242.1045pt>
+<figures/1174034/No10.JPG, id=4408, 545.03625pt x 242.1045pt>
 File: figures/1174034/No10.JPG Graphic file (type jpg)
 <use figures/1174034/No10.JPG>
 Package pdftex.def Info: figures/1174034/No10.JPG  used on input line 79.
@@ -3106,7 +3127,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 79--81
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [121 <./figures/1174034/No10.JPG>])
-<figures/1174063/1.PNG, id=4325, 1371.1225pt x 770.88pt>
+<figures/1174063/1.PNG, id=4427, 1371.1225pt x 770.88pt>
 File: figures/1174063/1.PNG Graphic file (type png)
 <use figures/1174063/1.PNG>
 Package pdftex.def Info: figures/1174063/1.PNG  used on input line 7.
@@ -3117,7 +3138,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 7--9
  []
 
 (src/1/1174063/pyshp2.py)
-<figures/1174063/2.PNG, id=4326, 1371.1225pt x 770.88pt>
+<figures/1174063/2.PNG, id=4428, 1371.1225pt x 770.88pt>
 File: figures/1174063/2.PNG Graphic file (type png)
 <use figures/1174063/2.PNG>
 Package pdftex.def Info: figures/1174063/2.PNG  used on input line 15.
@@ -3139,7 +3160,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [122 <./figures/1174063/1.PNG>] (src/1/1174063/pyshp3.py)
-<figures/1174063/3.PNG, id=4359, 1371.1225pt x 770.88pt>
+<figures/1174063/3.PNG, id=4460, 1371.1225pt x 770.88pt>
 File: figures/1174063/3.PNG Graphic file (type png)
 <use figures/1174063/3.PNG>
 Package pdftex.def Info: figures/1174063/3.PNG  used on input line 23.
@@ -3161,7 +3182,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [123 <./figures/1174063/2.PNG>] (src/1/1174063/pyshp4.py)
-<figures/1174063/4.PNG, id=4380, 1371.1225pt x 770.88pt>
+<figures/1174063/4.PNG, id=4481, 1371.1225pt x 770.88pt>
 File: figures/1174063/4.PNG Graphic file (type png)
 <use figures/1174063/4.PNG>
 Package pdftex.def Info: figures/1174063/4.PNG  used on input line 31.
@@ -3183,7 +3204,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [124 <./figures/1174063/3.PNG>] (src/1/1174063/pyshp5.py)
-<figures/1174063/5.PNG, id=4401, 1371.1225pt x 770.88pt>
+<figures/1174063/5.PNG, id=4502, 1371.1225pt x 770.88pt>
 File: figures/1174063/5.PNG Graphic file (type png)
 <use figures/1174063/5.PNG>
 Package pdftex.def Info: figures/1174063/5.PNG  used on input line 39.
@@ -3205,7 +3226,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [125 <./figures/1174063/4.PNG>] (src/1/1174063/pyshp6.py)
-<figures/1174063/6.PNG, id=4419, 1371.1225pt x 770.88pt>
+<figures/1174063/6.PNG, id=4520, 1371.1225pt x 770.88pt>
 File: figures/1174063/6.PNG Graphic file (type png)
 <use figures/1174063/6.PNG>
 Package pdftex.def Info: figures/1174063/6.PNG  used on input line 47.
@@ -3227,7 +3248,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [126 <./figures/1174063/5.PNG>] (src/1/1174063/pyshp7.py)
-<figures/1174063/7.PNG, id=4437, 1371.1225pt x 770.88pt>
+<figures/1174063/7.PNG, id=4539, 1371.1225pt x 770.88pt>
 File: figures/1174063/7.PNG Graphic file (type png)
 <use figures/1174063/7.PNG>
 Package pdftex.def Info: figures/1174063/7.PNG  used on input line 55.
@@ -3249,7 +3270,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [127 <./figures/1174063/6.PNG>] (src/1/1174063/pyshp8.py)
-<figures/1174063/8.PNG, id=4455, 1371.1225pt x 770.88pt>
+<figures/1174063/8.PNG, id=4557, 1371.1225pt x 770.88pt>
 File: figures/1174063/8.PNG Graphic file (type png)
 <use figures/1174063/8.PNG>
 Package pdftex.def Info: figures/1174063/8.PNG  used on input line 63.
@@ -3271,7 +3292,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [128 <./figures/1174063/7.PNG>] (src/1/1174063/pyshp9.py)
-<figures/1174063/9.PNG, id=4474, 1371.1225pt x 770.88pt>
+<figures/1174063/9.PNG, id=4575, 1371.1225pt x 770.88pt>
 File: figures/1174063/9.PNG Graphic file (type png)
 <use figures/1174063/9.PNG>
 Package pdftex.def Info: figures/1174063/9.PNG  used on input line 71.
@@ -3299,7 +3320,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [130 <./figures/1174063/9.PNG>])
-<figures/1174063/10.PNG, id=4518, 1371.1225pt x 770.88pt>
+<figures/1174063/10.PNG, id=4619, 1371.1225pt x 770.88pt>
 File: figures/1174063/10.PNG Graphic file (type png)
 <use figures/1174063/10.PNG>
 Package pdftex.def Info: figures/1174063/10.PNG  used on input line 79.
@@ -3322,7 +3343,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 ]
 Bab 3.
 (chapters/tugas3/1174042.tex (src/2/1174042/T2No1.py)
-<figures/1174042/T2No1.JPG, id=4537, 264.99pt x 74.52844pt>
+<figures/1174042/T2No1.JPG, id=4639, 264.99pt x 74.52844pt>
 File: figures/1174042/T2No1.JPG Graphic file (type jpg)
 <use figures/1174042/T2No1.JPG>
 Package pdftex.def Info: figures/1174042/T2No1.JPG  used on input line 7.
@@ -3333,7 +3354,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 7--9
  []
 
 (src/2/1174042/T2No2.py [133 <./figures/1174042/T2No1.JPG>])
-<figures/1174042/T2No2.JPG, id=4546, 246.1697pt x 75.28125pt>
+<figures/1174042/T2No2.JPG, id=4648, 246.1697pt x 75.28125pt>
 File: figures/1174042/T2No2.JPG Graphic file (type jpg)
 <use figures/1174042/T2No2.JPG>
 Package pdftex.def Info: figures/1174042/T2No2.JPG  used on input line 15.
@@ -3344,7 +3365,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 15--17
  []
 
 (src/2/1174042/T2No3.py)
-<figures/1174042/T2No3.JPG, id=4547, 256.70906pt x 80.55093pt>
+<figures/1174042/T2No3.JPG, id=4649, 256.70906pt x 80.55093pt>
 File: figures/1174042/T2No3.JPG Graphic file (type jpg)
 <use figures/1174042/T2No3.JPG>
 Package pdftex.def Info: figures/1174042/T2No3.JPG  used on input line 23.
@@ -3355,7 +3376,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 23--25
  []
 
 (src/2/1174042/T2No4.py)
-<figures/1174042/T2No4.JPG, id=4548, 259.7203pt x 79.04532pt>
+<figures/1174042/T2No4.JPG, id=4650, 259.7203pt x 79.04532pt>
 File: figures/1174042/T2No4.JPG Graphic file (type jpg)
 <use figures/1174042/T2No4.JPG>
 Package pdftex.def Info: figures/1174042/T2No4.JPG  used on input line 31.
@@ -3378,7 +3399,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [134 <./figures/1174042/T2No2.JPG> <./figures/1174042/T2No3.JPG>]
 (src/2/1174042/T2No5.py)
-<figures/1174042/T2No5.JPG, id=4566, 514.17094pt x 97.86563pt>
+<figures/1174042/T2No5.JPG, id=4667, 514.17094pt x 97.86563pt>
 File: figures/1174042/T2No5.JPG Graphic file (type jpg)
 <use figures/1174042/T2No5.JPG>
 Package pdftex.def Info: figures/1174042/T2No5.JPG  used on input line 39.
@@ -3389,7 +3410,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 39--41
  []
 
 (src/2/1174042/T2No6.py)
-<figures/1174042/T2No6.JPG, id=4567, 260.47313pt x 86.57344pt>
+<figures/1174042/T2No6.JPG, id=4668, 260.47313pt x 86.57344pt>
 File: figures/1174042/T2No6.JPG Graphic file (type jpg)
 <use figures/1174042/T2No6.JPG>
 Package pdftex.def Info: figures/1174042/T2No6.JPG  used on input line 47.
@@ -3404,7 +3425,7 @@ Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [135 <./figures/1174042/T2No4.JPG> <./figures/1174042/T2No5.JPG> <./figures/11
 74042/T2No6.JPG>])
-<figures/1174042/T2No7.JPG, id=4584, 255.95625pt x 80.55093pt>
+<figures/1174042/T2No7.JPG, id=4685, 255.95625pt x 80.55093pt>
 File: figures/1174042/T2No7.JPG Graphic file (type jpg)
 <use figures/1174042/T2No7.JPG>
 Package pdftex.def Info: figures/1174042/T2No7.JPG  used on input line 55.
@@ -3415,7 +3436,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 55--57
  []
 
 (src/2/1174042/T2No8.py)
-<figures/1174042/T2No8.JPG, id=4585, 389.95688pt x 77.53969pt>
+<figures/1174042/T2No8.JPG, id=4686, 389.95688pt x 77.53969pt>
 File: figures/1174042/T2No8.JPG Graphic file (type jpg)
 <use figures/1174042/T2No8.JPG>
 Package pdftex.def Info: figures/1174042/T2No8.JPG  used on input line 63.
@@ -3426,7 +3447,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 63--65
  []
 
 (src/2/1174042/T2No9.py)
-<figures/1174042/T2No9.JPG, id=4586, 473.51906pt x 74.52844pt>
+<figures/1174042/T2No9.JPG, id=4687, 473.51906pt x 74.52844pt>
 File: figures/1174042/T2No9.JPG Graphic file (type jpg)
 <use figures/1174042/T2No9.JPG>
 Package pdftex.def Info: figures/1174042/T2No9.JPG  used on input line 71.
@@ -3449,7 +3470,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [136 <./figures/1174042/T2No7.JPG> <./figures/1174042/T2No8.JPG>]
 (src/2/1174042/T2No10.py)
-<figures/1174042/T2No10.JPG, id=4605, 371.13657pt x 82.05656pt>
+<figures/1174042/T2No10.JPG, id=4706, 371.13657pt x 82.05656pt>
 File: figures/1174042/T2No10.JPG Graphic file (type jpg)
 <use figures/1174042/T2No10.JPG>
 Package pdftex.def Info: figures/1174042/T2No10.JPG  used on input line 79.
@@ -3460,7 +3481,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 79--81
  []
 
 (src/2/1174042/T2No11.py)
-<figures/1174042/T2No11.JPG, id=4606, 258.21469pt x 85.06781pt>
+<figures/1174042/T2No11.JPG, id=4707, 258.21469pt x 85.06781pt>
 File: figures/1174042/T2No11.JPG Graphic file (type jpg)
 <use figures/1174042/T2No11.JPG>
 Package pdftex.def Info: figures/1174042/T2No11.JPG  used on input line 87.
@@ -3471,7 +3492,11 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 87--89
  []
 
 ) (chapters/tugas3/1174039.tex
-<figures/1174039/tugas 3/hasilno1.PNG, id=4608, 727.96968pt x 383.93437pt>
+
+LaTeX Warning: File `figures/1174039/tugas 3/hasilno1.PNG' not found on input l
+ine 6.
+
+<figures/1174039/tugas 3/hasilno1.PNG, id=4709, 727.96968pt x 383.93437pt>
 File: figures/1174039/tugas 3/hasilno1.PNG Graphic file (type png)
 <use figures/1174039/tugas 3/hasilno1.PNG>
 Package pdftex.def Info: figures/1174039/tugas 3/hasilno1.PNG  used on input li
@@ -3479,7 +3504,7 @@ ne 6.
 (pdftex.def)             Requested size: 341.43306pt x 180.0801pt.
 
 Overfull \hbox (5.43306pt too wide) in paragraph at lines 6--8
- [][] 
+ [] 
  []
 
 
@@ -3492,7 +3517,11 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [137 <./figures/1174042/T2No9.JPG> <./figures/1174042/T2No10.JPG> <./figures/11
 74042/T2No11.JPG>]
-<figures/1174039/tugas 3/hasilno2.PNG, id=4624, 716.6775pt x 103.88812pt>
+
+LaTeX Warning: File `figures/1174039/tugas 3/hasilno2.PNG' not found on input l
+ine 13.
+
+<figures/1174039/tugas 3/hasilno2.PNG, id=4725, 716.6775pt x 103.88812pt>
 File: figures/1174039/tugas 3/hasilno2.PNG Graphic file (type png)
 <use figures/1174039/tugas 3/hasilno2.PNG>
 Package pdftex.def Info: figures/1174039/tugas 3/hasilno2.PNG  used on input li
@@ -3500,10 +3529,14 @@ ne 13.
 (pdftex.def)             Requested size: 341.43306pt x 49.4932pt.
 
 Overfull \hbox (5.43306pt too wide) in paragraph at lines 13--15
- [][] 
+ [] 
  []
 
-<figures/1174039/tugas 3/hasilno3.PNG, id=4625, 733.99219pt x 102.3825pt>
+
+LaTeX Warning: File `figures/1174039/tugas 3/hasilno3.PNG' not found on input l
+ine 20.
+
+<figures/1174039/tugas 3/hasilno3.PNG, id=4726, 733.99219pt x 102.3825pt>
 File: figures/1174039/tugas 3/hasilno3.PNG Graphic file (type png)
 <use figures/1174039/tugas 3/hasilno3.PNG>
 Package pdftex.def Info: figures/1174039/tugas 3/hasilno3.PNG  used on input li
@@ -3511,10 +3544,14 @@ ne 20.
 (pdftex.def)             Requested size: 341.43306pt x 47.62611pt.
 
 Overfull \hbox (5.43306pt too wide) in paragraph at lines 20--22
- [][] 
+ [] 
  []
 
-<figures/1174039/tugas 3/hasilno4.PNG, id=4626, 730.98094pt x 384.6872pt>
+
+LaTeX Warning: File `figures/1174039/tugas 3/hasilno4.PNG' not found on input l
+ine 27.
+
+<figures/1174039/tugas 3/hasilno4.PNG, id=4727, 730.98094pt x 384.6872pt>
 File: figures/1174039/tugas 3/hasilno4.PNG Graphic file (type png)
 <use figures/1174039/tugas 3/hasilno4.PNG>
 Package pdftex.def Info: figures/1174039/tugas 3/hasilno4.PNG  used on input li
@@ -3522,7 +3559,7 @@ ne 27.
 (pdftex.def)             Requested size: 341.43306pt x 179.68185pt.
 
 Overfull \hbox (5.43306pt too wide) in paragraph at lines 27--29
- [][] 
+ [] 
  []
 
 
@@ -3535,7 +3572,11 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [138 <./figures/1174039/tugas 3/hasilno1.PNG> <./figures/1174039/tugas 3/hasiln
 o2.PNG> <./figures/1174039/tugas 3/hasilno3.PNG>]
-<figures/1174039/tugas 3/hasilno5.PNG, id=4634, 725.71124pt x 232.61906pt>
+
+LaTeX Warning: File `figures/1174039/tugas 3/hasilno5.PNG' not found on input l
+ine 34.
+
+<figures/1174039/tugas 3/hasilno5.PNG, id=4736, 725.71124pt x 232.61906pt>
 File: figures/1174039/tugas 3/hasilno5.PNG Graphic file (type png)
 <use figures/1174039/tugas 3/hasilno5.PNG>
 Package pdftex.def Info: figures/1174039/tugas 3/hasilno5.PNG  used on input li
@@ -3543,10 +3584,14 @@ ne 34.
 (pdftex.def)             Requested size: 341.43306pt x 109.44455pt.
 
 Overfull \hbox (5.43306pt too wide) in paragraph at lines 34--36
- [][] 
+ [] 
  []
 
-<figures/1174039/tugas 3/hasilno6.PNG, id=4635, 774.64406pt x 121.20282pt>
+
+LaTeX Warning: File `figures/1174039/tugas 3/hasilno6.PNG' not found on input l
+ine 41.
+
+<figures/1174039/tugas 3/hasilno6.PNG, id=4737, 774.64406pt x 121.20282pt>
 File: figures/1174039/tugas 3/hasilno6.PNG Graphic file (type png)
 <use figures/1174039/tugas 3/hasilno6.PNG>
 Package pdftex.def Info: figures/1174039/tugas 3/hasilno6.PNG  used on input li
@@ -3554,10 +3599,14 @@ ne 41.
 (pdftex.def)             Requested size: 341.43306pt x 53.42186pt.
 
 Overfull \hbox (5.43306pt too wide) in paragraph at lines 41--43
- [][] 
+ [] 
  []
 
-<figures/1174039/tugas 3/hasilno7.PNG, id=4636, 1019.30812pt x 111.41624pt>
+
+LaTeX Warning: File `figures/1174039/tugas 3/hasilno7.PNG' not found on input l
+ine 48.
+
+<figures/1174039/tugas 3/hasilno7.PNG, id=4738, 1019.30812pt x 111.41624pt>
 File: figures/1174039/tugas 3/hasilno7.PNG Graphic file (type png)
 <use figures/1174039/tugas 3/hasilno7.PNG>
 Package pdftex.def Info: figures/1174039/tugas 3/hasilno7.PNG  used on input li
@@ -3565,7 +3614,7 @@ ne 48.
 (pdftex.def)             Requested size: 341.43306pt x 37.31999pt.
 
 Overfull \hbox (5.43306pt too wide) in paragraph at lines 48--50
- [][] 
+ [] 
  []
 
 
@@ -3578,7 +3627,11 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [139 <./figures/1174039/tugas 3/hasilno4.PNG> <./figures/1174039/tugas 3/hasiln
 o5.PNG> <./figures/1174039/tugas 3/hasilno6.PNG>]
-<figures/1174039/tugas 3/hasilno8.PNG, id=4644, 733.99219pt x 383.93437pt>
+
+LaTeX Warning: File `figures/1174039/tugas 3/hasilno8.PNG' not found on input l
+ine 55.
+
+<figures/1174039/tugas 3/hasilno8.PNG, id=4746, 733.99219pt x 383.93437pt>
 File: figures/1174039/tugas 3/hasilno8.PNG Graphic file (type png)
 <use figures/1174039/tugas 3/hasilno8.PNG>
 Package pdftex.def Info: figures/1174039/tugas 3/hasilno8.PNG  used on input li
@@ -3586,10 +3639,14 @@ ne 55.
 (pdftex.def)             Requested size: 341.43306pt x 178.59793pt.
 
 Overfull \hbox (5.43306pt too wide) in paragraph at lines 55--57
- [][] 
+ [] 
  []
 
-<figures/1174039/tugas 3/hasilno9.PNG, id=4645, 730.22812pt x 115.93312pt>
+
+LaTeX Warning: File `figures/1174039/tugas 3/hasilno9.PNG' not found on input l
+ine 62.
+
+<figures/1174039/tugas 3/hasilno9.PNG, id=4747, 730.22812pt x 115.93312pt>
 File: figures/1174039/tugas 3/hasilno9.PNG Graphic file (type png)
 <use figures/1174039/tugas 3/hasilno9.PNG>
 Package pdftex.def Info: figures/1174039/tugas 3/hasilno9.PNG  used on input li
@@ -3597,10 +3654,14 @@ ne 62.
 (pdftex.def)             Requested size: 341.43306pt x 54.20729pt.
 
 Overfull \hbox (5.43306pt too wide) in paragraph at lines 62--64
- [][] 
+ [] 
  []
 
-<figures/1174039/tugas 3/hasilno10.PNG, id=4646, 727.96968pt x 112.92188pt>
+
+LaTeX Warning: File `figures/1174039/tugas 3/hasilno10.PNG' not found on input 
+line 69.
+
+<figures/1174039/tugas 3/hasilno10.PNG, id=4748, 727.96968pt x 112.92188pt>
 File: figures/1174039/tugas 3/hasilno10.PNG Graphic file (type png)
 <use figures/1174039/tugas 3/hasilno10.PNG>
 Package pdftex.def Info: figures/1174039/tugas 3/hasilno10.PNG  used on input l
@@ -3608,8 +3669,11 @@ ine 69.
 (pdftex.def)             Requested size: 341.43306pt x 52.96472pt.
 
 Overfull \hbox (5.43306pt too wide) in paragraph at lines 69--71
- [][] 
+ [] 
  []
+
+
+Underfull \vbox (badness 2573) has occurred while \output is active []
 
 
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
@@ -3620,9 +3684,12 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [140 <./figures/1174039/tugas 3/hasilno7.PNG> <./figures/1174039/tugas 3/hasiln
-o8.PNG> <./figures/1174039/tugas 3/hasilno9.PNG> <./figures/1174039/tugas 3/has
-ilno10.PNG>]
-<figures/1174039/tugas 3/hasilno11.PNG, id=4656, 729.47531pt x 140.02313pt>
+o8.PNG> <./figures/1174039/tugas 3/hasilno9.PNG>]
+
+LaTeX Warning: File `figures/1174039/tugas 3/hasilno11.PNG' not found on input 
+line 76.
+
+<figures/1174039/tugas 3/hasilno11.PNG, id=4756, 729.47531pt x 140.02313pt>
 File: figures/1174039/tugas 3/hasilno11.PNG Graphic file (type png)
 <use figures/1174039/tugas 3/hasilno11.PNG>
 Package pdftex.def Info: figures/1174039/tugas 3/hasilno11.PNG  used on input l
@@ -3630,11 +3697,11 @@ ine 76.
 (pdftex.def)             Requested size: 341.43306pt x 65.53738pt.
 
 Overfull \hbox (5.43306pt too wide) in paragraph at lines 76--78
- [][] 
+ [] 
  []
 
 ) (chapters/tugas3/1174043.tex (src/2/1174043/nomor1.py)
-<figures/1174043/TUGAS3/1.jpg, id=4658, 177.66376pt x 38.544pt>
+<figures/1174043/TUGAS3/1.jpg, id=4758, 177.66376pt x 38.544pt>
 File: figures/1174043/TUGAS3/1.jpg Graphic file (type jpg)
 <use figures/1174043/TUGAS3/1.jpg>
 Package pdftex.def Info: figures/1174043/TUGAS3/1.jpg  used on input line 7.
@@ -3644,8 +3711,12 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 7--9
  [][] 
  []
 
-(src/2/1174043/nomor2.py)
-<figures/1174043/TUGAS3/2.jpg, id=4659, 80.7015pt x 20.4765pt>
+(src/2/1174043/nomor2.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [141 <./figures/1174039/tugas 3/hasilno10.PNG> <./figures/1174039/tugas 3/hasi
+lno11.PNG> <./figures/1174043/TUGAS3/1.jpg>])
+<figures/1174043/TUGAS3/2.jpg, id=4770, 80.7015pt x 20.4765pt>
 File: figures/1174043/TUGAS3/2.jpg Graphic file (type jpg)
 <use figures/1174043/TUGAS3/2.jpg>
 Package pdftex.def Info: figures/1174043/TUGAS3/2.jpg  used on input line 15.
@@ -3655,20 +3726,8 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 15--17
  [][] 
  []
 
-
-Underfull \vbox (badness 1067) has occurred while \output is active []
-
-
-Overfull \vbox (6.372pt too high) has occurred while \output is active []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]
- []
-
-[141 <./figures/1174039/tugas 3/hasilno11.PNG> <./figures/1174043/TUGAS3/1.jpg>
-] (src/2/1174043/nomor3.py)
-<figures/1174043/TUGAS3/3.jpg, id=4674, 130.086pt x 25.2945pt>
+(src/2/1174043/nomor3.py)
+<figures/1174043/TUGAS3/3.jpg, id=4771, 130.086pt x 25.2945pt>
 File: figures/1174043/TUGAS3/3.jpg Graphic file (type jpg)
 <use figures/1174043/TUGAS3/3.jpg>
 Package pdftex.def Info: figures/1174043/TUGAS3/3.jpg  used on input line 23.
@@ -3679,7 +3738,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 23--25
  []
 
 (src/2/1174043/nomor4.py)
-<figures/1174043/TUGAS3/4.jpg, id=4675, 123.46124pt x 21.07875pt>
+<figures/1174043/TUGAS3/4.jpg, id=4772, 123.46124pt x 21.07875pt>
 File: figures/1174043/TUGAS3/4.jpg Graphic file (type jpg)
 <use figures/1174043/TUGAS3/4.jpg>
 Package pdftex.def Info: figures/1174043/TUGAS3/4.jpg  used on input line 31.
@@ -3689,8 +3748,12 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 31--33
  [][] 
  []
 
-(src/2/1174043/nomor5.py)
-<figures/1174043/TUGAS3/5.jpg, id=4676, 867.84225pt x 48.18pt>
+(src/2/1174043/nomor5.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [142 <./figures/1174043/TUGAS3/2.jpg> <./figures/1174043/TUGAS3/3.jpg> <./figu
+res/1174043/TUGAS3/4.jpg>])
+<figures/1174043/TUGAS3/5.jpg, id=4792, 867.84225pt x 48.18pt>
 File: figures/1174043/TUGAS3/5.jpg Graphic file (type jpg)
 <use figures/1174043/TUGAS3/5.jpg>
 Package pdftex.def Info: figures/1174043/TUGAS3/5.jpg  used on input line 39.
@@ -3700,17 +3763,8 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 39--41
  [][] 
  []
 
-
-Overfull \vbox (6.372pt too high) has occurred while \output is active []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]
- []
-
-[142 <./figures/1174043/TUGAS3/2.jpg> <./figures/1174043/TUGAS3/3.jpg> <./figur
-es/1174043/TUGAS3/4.jpg>] (src/2/1174043/nomor6.py)
-<figures/1174043/TUGAS3/6.jpg, id=4697, 66.84975pt x 22.8855pt>
+(src/2/1174043/nomor6.py)
+<figures/1174043/TUGAS3/6.jpg, id=4793, 66.84975pt x 22.8855pt>
 File: figures/1174043/TUGAS3/6.jpg Graphic file (type jpg)
 <use figures/1174043/TUGAS3/6.jpg>
 Package pdftex.def Info: figures/1174043/TUGAS3/6.jpg  used on input line 47.
@@ -3721,24 +3775,13 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 47--49
  []
 
 (src/2/1174043/nomor7.py)
-<figures/1174043/TUGAS3/7.jpg, id=4698, 83.1105pt x 18.66975pt>
+<figures/1174043/TUGAS3/7.jpg, id=4794, 83.1105pt x 18.66975pt>
 File: figures/1174043/TUGAS3/7.jpg Graphic file (type jpg)
 <use figures/1174043/TUGAS3/7.jpg>
 Package pdftex.def Info: figures/1174043/TUGAS3/7.jpg  used on input line 55.
 (pdftex.def)             Requested size: 341.43306pt x 76.71393pt.
 
 Overfull \hbox (5.43306pt too wide) in paragraph at lines 55--57
- [][] 
- []
-
-(src/2/1174043/nomor8.py)
-<figures/1174043/TUGAS3/8.jpg, id=4699, 160.1985pt x 19.87425pt>
-File: figures/1174043/TUGAS3/8.jpg Graphic file (type jpg)
-<use figures/1174043/TUGAS3/8.jpg>
-Package pdftex.def Info: figures/1174043/TUGAS3/8.jpg  used on input line 63.
-(pdftex.def)             Requested size: 341.43306pt x 42.36093pt.
-
-Overfull \hbox (5.43306pt too wide) in paragraph at lines 63--65
  [][] 
  []
 
@@ -3751,8 +3794,19 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [143 <./figures/1174043/TUGAS3/5.jpg> <./figures/1174043/TUGAS3/6.jpg> <./figur
-es/1174043/TUGAS3/7.jpg>] (src/2/1174043/nomor9.py)
-<figures/1174043/TUGAS3/9.jpg, id=4722, 556.479pt x 19.87425pt>
+es/1174043/TUGAS3/7.jpg>] (src/2/1174043/nomor8.py)
+<figures/1174043/TUGAS3/8.jpg, id=4816, 160.1985pt x 19.87425pt>
+File: figures/1174043/TUGAS3/8.jpg Graphic file (type jpg)
+<use figures/1174043/TUGAS3/8.jpg>
+Package pdftex.def Info: figures/1174043/TUGAS3/8.jpg  used on input line 63.
+(pdftex.def)             Requested size: 341.43306pt x 42.36093pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 63--65
+ [][] 
+ []
+
+(src/2/1174043/nomor9.py)
+<figures/1174043/TUGAS3/9.jpg, id=4817, 556.479pt x 19.87425pt>
 File: figures/1174043/TUGAS3/9.jpg Graphic file (type jpg)
 <use figures/1174043/TUGAS3/9.jpg>
 Package pdftex.def Info: figures/1174043/TUGAS3/9.jpg  used on input line 71.
@@ -3763,7 +3817,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 71--73
  []
 
 (src/2/1174043/nomor10.py)
-<figures/1174043/TUGAS3/10.jpg, id=4723, 357.7365pt x 19.272pt>
+<figures/1174043/TUGAS3/10.jpg, id=4818, 357.7365pt x 19.272pt>
 File: figures/1174043/TUGAS3/10.jpg Graphic file (type jpg)
 <use figures/1174043/TUGAS3/10.jpg>
 Package pdftex.def Info: figures/1174043/TUGAS3/10.jpg  used on input line 79.
@@ -3774,7 +3828,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 79--81
  []
 
 (src/2/1174043/nomor11.py)
-<figures/1174043/TUGAS3/11.jpg, id=4724, 180.07275pt x 28.30576pt>
+<figures/1174043/TUGAS3/11.jpg, id=4819, 180.07275pt x 28.30576pt>
 File: figures/1174043/TUGAS3/11.jpg Graphic file (type jpg)
 <use figures/1174043/TUGAS3/11.jpg>
 Package pdftex.def Info: figures/1174043/TUGAS3/11.jpg  used on input line 87.
@@ -3795,32 +3849,32 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [144 <./figures/1174043/TUGAS3/8.jpg> <./figures/1174043/TUGAS3/9.jpg> <./figur
 es/1174043/TUGAS3/10.jpg> <./figures/1174043/TUGAS3/11.jpg>]
 (src/2/1174035/tugas3/soal1_1174035.py)
-<figures/1174035/tugas3/soal1_result.png, id=4746, 529.98pt x 50.43843pt>
+<figures/1174035/tugas3/soal1_result.png, id=4848, 529.98pt x 50.43843pt>
 File: figures/1174035/tugas3/soal1_result.png Graphic file (type png)
 <use figures/1174035/tugas3/soal1_result.png>
 Package pdftex.def Info: figures/1174035/tugas3/soal1_result.png  used on input
  line 7.
 (pdftex.def)             Requested size: 170.71652pt x 16.24683pt.
  (src/2/1174035/tugas3/soal2_1174035.py)
-<figures/1174035/tugas3/soal2_result.png, id=4747, 526.96875pt x 36.88782pt>
+<figures/1174035/tugas3/soal2_result.png, id=4849, 526.96875pt x 36.88782pt>
 File: figures/1174035/tugas3/soal2_result.png Graphic file (type png)
 <use figures/1174035/tugas3/soal2_result.png>
 Package pdftex.def Info: figures/1174035/tugas3/soal2_result.png  used on input
  line 14.
 (pdftex.def)             Requested size: 170.71652pt x 11.9501pt.
 (src/2/1174035/tugas3/soal3_1174035.py)
-<figures/1174035/tugas3/soal3_result.png, id=4748, 304.13625pt x 50.43843pt>
+<figures/1174035/tugas3/soal3_result.png, id=4850, 304.13625pt x 50.43843pt>
 File: figures/1174035/tugas3/soal3_result.png Graphic file (type png)
 <use figures/1174035/tugas3/soal3_result.png>
 Package pdftex.def Info: figures/1174035/tugas3/soal3_result.png  used on input
  line 21.
 (pdftex.def)             Requested size: 170.71652pt x 28.31227pt.
- (src/2/1174035/tugas3/soal4_1174035.py)
+ (src/2/1174035/tugas3/soal4_1174035.py
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [145 <./figures/1174035/tugas3/soal1_result.png> <./figures/1174035/tugas3/soa
-l2_result.png> <./figures/1174035/tugas3/soal3_result.png>]
-<figures/1174035/tugas3/soal4_result.png, id=4773, 241.65282pt x 49.68562pt>
+l2_result.png> <./figures/1174035/tugas3/soal3_result.png>])
+<figures/1174035/tugas3/soal4_result.png, id=4873, 241.65282pt x 49.68562pt>
 File: figures/1174035/tugas3/soal4_result.png Graphic file (type png)
 <use figures/1174035/tugas3/soal4_result.png>
 Package pdftex.def Info: figures/1174035/tugas3/soal4_result.png  used on input
@@ -3828,51 +3882,56 @@ Package pdftex.def Info: figures/1174035/tugas3/soal4_result.png  used on input
 (pdftex.def)             Requested size: 170.71652pt x 35.1019pt.
 
 (src/2/1174035/tugas3/soal5_1174035.py)
-<figures/1174035/tugas3/soal5_result.png, id=4774, 843.90282pt x 109.91063pt>
+<figures/1174035/tugas3/soal5_result.png, id=4874, 843.90282pt x 109.91063pt>
 File: figures/1174035/tugas3/soal5_result.png Graphic file (type png)
 <use figures/1174035/tugas3/soal5_result.png>
 Package pdftex.def Info: figures/1174035/tugas3/soal5_result.png  used on input
  line 35.
 (pdftex.def)             Requested size: 170.71652pt x 22.23329pt.
  (src/2/1174035/tugas3/soal6_1174035.py)
-<figures/1174035/tugas3/soal6_result.png, id=4775, 288.3272pt x 45.16875pt>
+<figures/1174035/tugas3/soal6_result.png, id=4875, 288.3272pt x 45.16875pt>
 File: figures/1174035/tugas3/soal6_result.png Graphic file (type png)
 <use figures/1174035/tugas3/soal6_result.png>
 Package pdftex.def Info: figures/1174035/tugas3/soal6_result.png  used on input
  line 42.
 (pdftex.def)             Requested size: 170.71652pt x 26.74512pt.
-(src/2/1174035/tugas3/soal7_1174035.py
+
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
- [146 <./figures/1174035/tugas3/soal4_result.png> <./figures/1174035/tugas3/soa
-l5_result.png> <./figures/1174035/tugas3/soal6_result.png>])
-<figures/1174035/tugas3/soal7_result.png, id=4801, 287.57437pt x 51.19125pt>
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[146 <./figures/1174035/tugas3/soal4_result.png> <./figures/1174035/tugas3/soal
+5_result.png> <./figures/1174035/tugas3/soal6_result.png>]
+(src/2/1174035/tugas3/soal7_1174035.py)
+<figures/1174035/tugas3/soal7_result.png, id=4901, 287.57437pt x 51.19125pt>
 File: figures/1174035/tugas3/soal7_result.png Graphic file (type png)
 <use figures/1174035/tugas3/soal7_result.png>
 Package pdftex.def Info: figures/1174035/tugas3/soal7_result.png  used on input
  line 49.
 (pdftex.def)             Requested size: 170.71652pt x 30.39003pt.
-
-(src/2/1174035/tugas3/soal8_1174035.py)
-<figures/1174035/tugas3/soal8_result.png, id=4802, 362.10281pt x 45.16875pt>
+ (src/2/1174035/tugas3/soal8_1174035.py)
+<figures/1174035/tugas3/soal8_result.png, id=4902, 362.10281pt x 45.16875pt>
 File: figures/1174035/tugas3/soal8_result.png Graphic file (type png)
 <use figures/1174035/tugas3/soal8_result.png>
 Package pdftex.def Info: figures/1174035/tugas3/soal8_result.png  used on input
  line 56.
 (pdftex.def)             Requested size: 170.71652pt x 21.29547pt.
- (src/2/1174035/tugas3/soal9_1174035.py)
-<figures/1174035/tugas3/soal9_result.png, id=4803, 435.12563pt x 45.16875pt>
+(src/2/1174035/tugas3/soal9_1174035.py)
+<figures/1174035/tugas3/soal9_result.png, id=4903, 435.12563pt x 45.16875pt>
 File: figures/1174035/tugas3/soal9_result.png Graphic file (type png)
 <use figures/1174035/tugas3/soal9_result.png>
 Package pdftex.def Info: figures/1174035/tugas3/soal9_result.png  used on input
  line 63.
 (pdftex.def)             Requested size: 170.71652pt x 17.72186pt.
-(src/2/1174035/tugas3/soal10_1174035.py
+ (src/2/1174035/tugas3/soal10_1174035.py
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [147 <./figures/1174035/tugas3/soal7_result.png> <./figures/1174035/tugas3/soa
 l8_result.png> <./figures/1174035/tugas3/soal9_result.png>])
-<figures/1174035/tugas3/soal10_result.png, id=4829, 338.01282pt x 36.88782pt>
+<figures/1174035/tugas3/soal10_result.png, id=4930, 338.01282pt x 36.88782pt>
 File: figures/1174035/tugas3/soal10_result.png Graphic file (type png)
 <use figures/1174035/tugas3/soal10_result.png>
 Package pdftex.def Info: figures/1174035/tugas3/soal10_result.png  used on inpu
@@ -3880,7 +3939,7 @@ t line 70.
 (pdftex.def)             Requested size: 170.71652pt x 18.63072pt.
 
 (src/2/1174035/tugas3/soal11_1174035.py)
-<figures/1174035/tugas3/soal11_result.png, id=4830, 171.64125pt x 61.73062pt>
+<figures/1174035/tugas3/soal11_result.png, id=4931, 171.64125pt x 61.73062pt>
 File: figures/1174035/tugas3/soal11_result.png Graphic file (type png)
 <use figures/1174035/tugas3/soal11_result.png>
 Package pdftex.def Info: figures/1174035/tugas3/soal11_result.png  used on inpu
@@ -3888,7 +3947,7 @@ t line 77.
 (pdftex.def)             Requested size: 170.71652pt x 61.39795pt.
 ) (chapters/tugas3/1174040.tex
 (src/2/1174040/1.py)
-<figures/1174040/Python2/tampilan1.PNG, id=4832, 175.25475pt x 46.9755pt>
+<figures/1174040/Python2/tampilan1.PNG, id=4933, 175.25475pt x 46.9755pt>
 File: figures/1174040/Python2/tampilan1.PNG Graphic file (type png)
 <use figures/1174040/Python2/tampilan1.PNG>
 Package pdftex.def Info: figures/1174040/Python2/tampilan1.PNG  used on input l
@@ -3909,7 +3968,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [148 <./figures/1174035/tugas3/soal10_result.png> <./figures/1174035/tugas3/soa
 l11_result.png>] (src/2/1174040/2.py)
-<figures/1174040/Python2/tampilan2.PNG, id=4855, 578.16pt x 27.7035pt>
+<figures/1174040/Python2/tampilan2.PNG, id=4956, 578.16pt x 27.7035pt>
 File: figures/1174040/Python2/tampilan2.PNG Graphic file (type png)
 <use figures/1174040/Python2/tampilan2.PNG>
 Package pdftex.def Info: figures/1174040/Python2/tampilan2.PNG  used on input l
@@ -3921,7 +3980,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 15--17
  []
 
 (src/2/1174040/3.py)
-<figures/1174040/Python2/tampilan3.PNG, id=4856, 581.17125pt x 27.7035pt>
+<figures/1174040/Python2/tampilan3.PNG, id=4957, 581.17125pt x 27.7035pt>
 File: figures/1174040/Python2/tampilan3.PNG Graphic file (type png)
 <use figures/1174040/Python2/tampilan3.PNG>
 Package pdftex.def Info: figures/1174040/Python2/tampilan3.PNG  used on input l
@@ -3933,7 +3992,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 23--25
  []
 
 (src/2/1174040/4.py)
-<figures/1174040/Python2/tampilan4.PNG, id=4857, 593.8185pt x 26.499pt>
+<figures/1174040/Python2/tampilan4.PNG, id=4958, 593.8185pt x 26.499pt>
 File: figures/1174040/Python2/tampilan4.PNG Graphic file (type png)
 <use figures/1174040/Python2/tampilan4.PNG>
 Package pdftex.def Info: figures/1174040/Python2/tampilan4.PNG  used on input l
@@ -3950,7 +4009,7 @@ Overfull \vbox (6.372pt too high) has occurred while \output is active []
  [149 <./figures/1174040/Python2/tampilan1.PNG> <./figures/1174040/Python2/tamp
 ilan2.PNG> <./figures/1174040/Python2/tampilan3.PNG> <./figures/1174040/Python2
 /tampilan4.PNG>])
-<figures/1174040/Python2/tampilan5.PNG, id=4884, 908.79526pt x 101.178pt>
+<figures/1174040/Python2/tampilan5.PNG, id=4985, 908.79526pt x 101.178pt>
 File: figures/1174040/Python2/tampilan5.PNG Graphic file (type png)
 <use figures/1174040/Python2/tampilan5.PNG>
 Package pdftex.def Info: figures/1174040/Python2/tampilan5.PNG  used on input l
@@ -3962,7 +4021,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 39--41
  []
 
 (src/2/1174040/6.py)
-<figures/1174040/Python2/tampilan6.PNG, id=4885, 573.342pt x 28.908pt>
+<figures/1174040/Python2/tampilan6.PNG, id=4986, 573.342pt x 28.908pt>
 File: figures/1174040/Python2/tampilan6.PNG Graphic file (type png)
 <use figures/1174040/Python2/tampilan6.PNG>
 Package pdftex.def Info: figures/1174040/Python2/tampilan6.PNG  used on input l
@@ -3974,7 +4033,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 47--49
  []
 
 (src/2/1174040/7.py)
-<figures/1174040/Python2/tampilan7.PNG, id=4886, 585.98924pt x 25.2945pt>
+<figures/1174040/Python2/tampilan7.PNG, id=4987, 585.98924pt x 25.2945pt>
 File: figures/1174040/Python2/tampilan7.PNG Graphic file (type png)
 <use figures/1174040/Python2/tampilan7.PNG>
 Package pdftex.def Info: figures/1174040/Python2/tampilan7.PNG  used on input l
@@ -3986,7 +4045,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 55--57
  []
 
 (src/2/1174040/8.py)
-<figures/1174040/Python2/tampilan8.PNG, id=4887, 574.5465pt x 27.7035pt>
+<figures/1174040/Python2/tampilan8.PNG, id=4988, 574.5465pt x 27.7035pt>
 File: figures/1174040/Python2/tampilan8.PNG Graphic file (type png)
 <use figures/1174040/Python2/tampilan8.PNG>
 Package pdftex.def Info: figures/1174040/Python2/tampilan8.PNG  used on input l
@@ -4003,7 +4062,7 @@ Overfull \vbox (6.372pt too high) has occurred while \output is active []
  [150 <./figures/1174040/Python2/tampilan5.PNG> <./figures/1174040/Python2/tamp
 ilan6.PNG> <./figures/1174040/Python2/tampilan7.PNG> <./figures/1174040/Python2
 /tampilan8.PNG>])
-<figures/1174040/Python2/tampilan9.PNG, id=4918, 573.342pt x 31.317pt>
+<figures/1174040/Python2/tampilan9.PNG, id=5020, 573.342pt x 31.317pt>
 File: figures/1174040/Python2/tampilan9.PNG Graphic file (type png)
 <use figures/1174040/Python2/tampilan9.PNG>
 Package pdftex.def Info: figures/1174040/Python2/tampilan9.PNG  used on input l
@@ -4015,7 +4074,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 71--73
  []
 
 (src/2/1174040/10.py)
-<figures/1174040/Python2/tampilan10.PNG, id=4919, 590.205pt x 28.30576pt>
+<figures/1174040/Python2/tampilan10.PNG, id=5021, 590.205pt x 28.30576pt>
 File: figures/1174040/Python2/tampilan10.PNG Graphic file (type png)
 <use figures/1174040/Python2/tampilan10.PNG>
 Package pdftex.def Info: figures/1174040/Python2/tampilan10.PNG  used on input 
@@ -4027,7 +4086,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 79--81
  []
 
 (src/2/1174040/11.py)
-<figures/1174040/Python2/tampilan11.PNG, id=4920, 581.17125pt x 37.94176pt>
+<figures/1174040/Python2/tampilan11.PNG, id=5022, 581.17125pt x 37.94176pt>
 File: figures/1174040/Python2/tampilan11.PNG Graphic file (type png)
 <use figures/1174040/Python2/tampilan11.PNG>
 Package pdftex.def Info: figures/1174040/Python2/tampilan11.PNG  used on input 
@@ -4043,7 +4102,7 @@ Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [151 <./figures/1174040/Python2/tampilan9.PNG> <./figures/1174040/Python2/tamp
 ilan10.PNG> <./figures/1174040/Python2/tampilan11.PNG>])
-<figures/1174057/fajar1.PNG, id=4947, 151.3153pt x 56.46094pt>
+<figures/1174057/fajar1.PNG, id=5049, 151.3153pt x 56.46094pt>
 File: figures/1174057/fajar1.PNG Graphic file (type png)
 <use figures/1174057/fajar1.PNG>
 Package pdftex.def Info: figures/1174057/fajar1.PNG  used on input line 7.
@@ -4054,7 +4113,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 7--9
  []
 
 (src/2/1174057/soal2.py)
-<figures/1174057/fajar2.PNG, id=4948, 472.76625pt x 49.68562pt>
+<figures/1174057/fajar2.PNG, id=5050, 472.76625pt x 49.68562pt>
 File: figures/1174057/fajar2.PNG Graphic file (type png)
 <use figures/1174057/fajar2.PNG>
 Package pdftex.def Info: figures/1174057/fajar2.PNG  used on input line 15.
@@ -4068,7 +4127,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 15--17
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [152 <./figures/1174057/fajar1.PNG> <./figures/1174057/fajar2.PNG>])
-<figures/1174057/fajar3.PNG, id=4983, 467.49657pt x 48.93282pt>
+<figures/1174057/fajar3.PNG, id=5084, 467.49657pt x 48.93282pt>
 File: figures/1174057/fajar3.PNG Graphic file (type png)
 <use figures/1174057/fajar3.PNG>
 Package pdftex.def Info: figures/1174057/fajar3.PNG  used on input line 23.
@@ -4079,7 +4138,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 23--25
  []
 
 (src/2/1174057/soal4.py)
-<figures/1174057/fajar4.PNG, id=4984, 465.23813pt x 47.42719pt>
+<figures/1174057/fajar4.PNG, id=5085, 465.23813pt x 47.42719pt>
 File: figures/1174057/fajar4.PNG Graphic file (type png)
 <use figures/1174057/fajar4.PNG>
 Package pdftex.def Info: figures/1174057/fajar4.PNG  used on input line 31.
@@ -4093,7 +4152,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 31--33
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [153 <./figures/1174057/fajar3.PNG> <./figures/1174057/fajar4.PNG>])
-<figures/1174057/fajar5.PNG, id=5029, 468.24937pt x 106.14656pt>
+<figures/1174057/fajar5.PNG, id=5130, 468.24937pt x 106.14656pt>
 File: figures/1174057/fajar5.PNG Graphic file (type png)
 <use figures/1174057/fajar5.PNG>
 Package pdftex.def Info: figures/1174057/fajar5.PNG  used on input line 39.
@@ -4104,7 +4163,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 39--41
  []
 
 (src/2/1174057/soal6.py)
-<figures/1174057/fajar6.PNG, id=5030, 467.49657pt x 47.42719pt>
+<figures/1174057/fajar6.PNG, id=5131, 467.49657pt x 47.42719pt>
 File: figures/1174057/fajar6.PNG Graphic file (type png)
 <use figures/1174057/fajar6.PNG>
 Package pdftex.def Info: figures/1174057/fajar6.PNG  used on input line 47.
@@ -4118,7 +4177,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 47--49
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [154 <./figures/1174057/fajar5.PNG> <./figures/1174057/fajar6.PNG>])
-<figures/1174057/fajar7.PNG, id=5069, 467.49657pt x 50.43843pt>
+<figures/1174057/fajar7.PNG, id=5170, 467.49657pt x 50.43843pt>
 File: figures/1174057/fajar7.PNG Graphic file (type png)
 <use figures/1174057/fajar7.PNG>
 Package pdftex.def Info: figures/1174057/fajar7.PNG  used on input line 55.
@@ -4129,7 +4188,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 55--57
  []
 
 (src/2/1174040/8.py)
-<figures/1174057/fajar8.PNG, id=5070, 470.50781pt x 49.68562pt>
+<figures/1174057/fajar8.PNG, id=5171, 470.50781pt x 49.68562pt>
 File: figures/1174057/fajar8.PNG Graphic file (type png)
 <use figures/1174057/fajar8.PNG>
 Package pdftex.def Info: figures/1174057/fajar8.PNG  used on input line 63.
@@ -4143,7 +4202,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 63--65
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [155 <./figures/1174057/fajar7.PNG> <./figures/1174057/fajar8.PNG>])
-<figures/1174057/fajar9.PNG, id=5112, 468.24937pt x 53.44969pt>
+<figures/1174057/fajar9.PNG, id=5213, 468.24937pt x 53.44969pt>
 File: figures/1174057/fajar9.PNG Graphic file (type png)
 <use figures/1174057/fajar9.PNG>
 Package pdftex.def Info: figures/1174057/fajar9.PNG  used on input line 71.
@@ -4154,7 +4213,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 71--73
  []
 
 (src/2/1174057/soal10.py)
-<figures/1174057/fajar10.PNG, id=5113, 465.99094pt x 51.94406pt>
+<figures/1174057/fajar10.PNG, id=5214, 465.99094pt x 51.94406pt>
 File: figures/1174057/fajar10.PNG Graphic file (type png)
 <use figures/1174057/fajar10.PNG>
 Package pdftex.def Info: figures/1174057/fajar10.PNG  used on input line 79.
@@ -4168,7 +4227,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 79--81
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [156 <./figures/1174057/fajar9.PNG> <./figures/1174057/fajar10.PNG>])
-<figures/1174057/fajar11.PNG, id=5156, 465.23813pt x 60.225pt>
+<figures/1174057/fajar11.PNG, id=5258, 465.23813pt x 60.225pt>
 File: figures/1174057/fajar11.PNG Graphic file (type png)
 <use figures/1174057/fajar11.PNG>
 Package pdftex.def Info: figures/1174057/fajar11.PNG  used on input line 87.
@@ -4179,13 +4238,13 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 87--89
  []
 
 ) (chapters/tugas3/1174050.tex (src/2/1174050/1.py)
-<figures/1174050/Tugas3/1.png, id=5158, 469.755pt x 47.57774pt>
+<figures/1174050/Tugas3/1.png, id=5260, 469.755pt x 47.57774pt>
 File: figures/1174050/Tugas3/1.png Graphic file (type png)
 <use figures/1174050/Tugas3/1.png>
 Package pdftex.def Info: figures/1174050/Tugas3/1.png  used on input line 7.
 (pdftex.def)             Requested size: 170.71652pt x 17.29057pt.
  (src/2/1174050/2.py)
-<figures/1174050/Tugas3/2.png, id=5159, 470.9595pt x 50.589pt>
+<figures/1174050/Tugas3/2.png, id=5261, 470.9595pt x 50.589pt>
 File: figures/1174050/Tugas3/2.png Graphic file (type png)
 <use figures/1174050/Tugas3/2.png>
 Package pdftex.def Info: figures/1174050/Tugas3/2.png  used on input line 14.
@@ -4200,13 +4259,13 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [157 <./figures/1174057/fajar11.PNG> <./figures/1174050/Tugas3/1.png>]
 (src/2/1174050/3.py)
-<figures/1174050/Tugas3/3.png, id=5193, 473.3685pt x 42.1575pt>
+<figures/1174050/Tugas3/3.png, id=5295, 473.3685pt x 42.1575pt>
 File: figures/1174050/Tugas3/3.png Graphic file (type png)
 <use figures/1174050/Tugas3/3.png>
 Package pdftex.def Info: figures/1174050/Tugas3/3.png  used on input line 21.
 (pdftex.def)             Requested size: 170.71652pt x 15.20369pt.
  (src/2/1174050/4.py)
-<figures/1174050/Tugas3/4.png, id=5194, 476.37975pt x 45.16875pt>
+<figures/1174050/Tugas3/4.png, id=5296, 476.37975pt x 45.16875pt>
 File: figures/1174050/Tugas3/4.png Graphic file (type png)
 <use figures/1174050/Tugas3/4.png>
 Package pdftex.def Info: figures/1174050/Tugas3/4.png  used on input line 28.
@@ -4216,13 +4275,13 @@ Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [158 <./figures/1174050/Tugas3/2.png> <./figures/1174050/Tugas3/3.png> <./figu
 res/1174050/Tugas3/4.png>])
-<figures/1174050/Tugas3/5.png, id=5236, 473.97075pt x 202.356pt>
+<figures/1174050/Tugas3/5.png, id=5337, 473.97075pt x 202.356pt>
 File: figures/1174050/Tugas3/5.png Graphic file (type png)
 <use figures/1174050/Tugas3/5.png>
 Package pdftex.def Info: figures/1174050/Tugas3/5.png  used on input line 35.
 (pdftex.def)             Requested size: 170.71652pt x 72.88515pt.
  (src/2/1174050/6.py)
-<figures/1174050/Tugas3/6.png, id=5237, 475.7775pt x 48.78226pt>
+<figures/1174050/Tugas3/6.png, id=5338, 475.7775pt x 48.78226pt>
 File: figures/1174050/Tugas3/6.png Graphic file (type png)
 <use figures/1174050/Tugas3/6.png>
 Package pdftex.def Info: figures/1174050/Tugas3/6.png  used on input line 42.
@@ -4231,20 +4290,20 @@ Package pdftex.def Info: figures/1174050/Tugas3/6.png  used on input line 42.
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [159 <./figures/1174050/Tugas3/5.png> <./figures/1174050/Tugas3/6.png>])
-<figures/1174050/Tugas3/7.png, id=5272, 477.58424pt x 42.1575pt>
+<figures/1174050/Tugas3/7.png, id=5373, 477.58424pt x 42.1575pt>
 File: figures/1174050/Tugas3/7.png Graphic file (type png)
 <use figures/1174050/Tugas3/7.png>
 Package pdftex.def Info: figures/1174050/Tugas3/7.png  used on input line 49.
 (pdftex.def)             Requested size: 170.71652pt x 15.06924pt.
 
 (src/2/1174050/8.py)
-<figures/1174050/Tugas3/8.png, id=5273, 473.97075pt x 48.18pt>
+<figures/1174050/Tugas3/8.png, id=5374, 473.97075pt x 48.18pt>
 File: figures/1174050/Tugas3/8.png Graphic file (type png)
 <use figures/1174050/Tugas3/8.png>
 Package pdftex.def Info: figures/1174050/Tugas3/8.png  used on input line 56.
 (pdftex.def)             Requested size: 170.71652pt x 17.35359pt.
  (src/2/1174050/9.py)
-<figures/1174050/Tugas3/9.png, id=5274, 477.58424pt x 43.96425pt>
+<figures/1174050/Tugas3/9.png, id=5375, 477.58424pt x 43.96425pt>
 File: figures/1174050/Tugas3/9.png Graphic file (type png)
 <use figures/1174050/Tugas3/9.png>
 Package pdftex.def Info: figures/1174050/Tugas3/9.png  used on input line 63.
@@ -4254,13 +4313,13 @@ Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
  [160 <./figures/1174050/Tugas3/7.png> <./figures/1174050/Tugas3/8.png> <./figu
 res/1174050/Tugas3/9.png>])
-<figures/1174050/Tugas3/10.png, id=5312, 478.1865pt x 43.362pt>
+<figures/1174050/Tugas3/10.png, id=5413, 478.1865pt x 43.362pt>
 File: figures/1174050/Tugas3/10.png Graphic file (type png)
 <use figures/1174050/Tugas3/10.png>
 Package pdftex.def Info: figures/1174050/Tugas3/10.png  used on input line 70.
 (pdftex.def)             Requested size: 170.71652pt x 15.4806pt.
  (src/2/1174050/11.py)
-<figures/1174050/Tugas3/11.png, id=5313, 475.7775pt x 57.21375pt>
+<figures/1174050/Tugas3/11.png, id=5414, 475.7775pt x 57.21375pt>
 File: figures/1174050/Tugas3/11.png Graphic file (type png)
 <use figures/1174050/Tugas3/11.png>
 Package pdftex.def Info: figures/1174050/Tugas3/11.png  used on input line 77.
@@ -4278,7 +4337,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [161 <./figures/1174050/Tugas3/10.png> <./figures/1174050/Tugas3/11.png>]
 (src/2/1174034/1.py)
-<figures/1174034/tugas3/1.PNG, id=5348, 158.39175pt x 53.60025pt>
+<figures/1174034/tugas3/1.PNG, id=5449, 158.39175pt x 53.60025pt>
 File: figures/1174034/tugas3/1.PNG Graphic file (type png)
 <use figures/1174034/tugas3/1.PNG>
 Package pdftex.def Info: figures/1174034/tugas3/1.PNG  used on input line 7.
@@ -4289,7 +4348,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 7--9
  []
 
 (src/2/1174034/2.py)
-<figures/1174034/tugas3/2.PNG, id=5349, 346.29375pt x 44.5665pt>
+<figures/1174034/tugas3/2.PNG, id=5450, 346.29375pt x 44.5665pt>
 File: figures/1174034/tugas3/2.PNG Graphic file (type png)
 <use figures/1174034/tugas3/2.PNG>
 Package pdftex.def Info: figures/1174034/tugas3/2.PNG  used on input line 15.
@@ -4300,7 +4359,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 15--17
  []
 
 (src/2/1174034/3.py)
-<figures/1174034/tugas3/3.PNG, id=5350, 320.99925pt x 43.96425pt>
+<figures/1174034/tugas3/3.PNG, id=5451, 320.99925pt x 43.96425pt>
 File: figures/1174034/tugas3/3.PNG Graphic file (type png)
 <use figures/1174034/tugas3/3.PNG>
 Package pdftex.def Info: figures/1174034/tugas3/3.PNG  used on input line 23.
@@ -4320,7 +4379,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [162 <./figures/1174034/tugas3/1.PNG> <./figures/1174034/tugas3/2.PNG> <./figur
 es/1174034/tugas3/3.PNG>] (src/2/1174034/4.py)
-<figures/1174034/tugas3/4.PNG, id=5369, 318.59026pt x 47.57774pt>
+<figures/1174034/tugas3/4.PNG, id=5471, 318.59026pt x 47.57774pt>
 File: figures/1174034/tugas3/4.PNG Graphic file (type png)
 <use figures/1174034/tugas3/4.PNG>
 Package pdftex.def Info: figures/1174034/tugas3/4.PNG  used on input line 31.
@@ -4331,7 +4390,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 31--33
  []
 
 (src/2/1174034/5.py)
-<figures/1174034/tugas3/5.PNG, id=5370, 529.98pt x 180.07275pt>
+<figures/1174034/tugas3/5.PNG, id=5472, 529.98pt x 180.07275pt>
 File: figures/1174034/tugas3/5.PNG Graphic file (type png)
 <use figures/1174034/tugas3/5.PNG>
 Package pdftex.def Info: figures/1174034/tugas3/5.PNG  used on input line 39.
@@ -4342,7 +4401,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 39--41
  []
 
 (src/2/1174034/6.py)
-<figures/1174034/tugas3/6.PNG, id=5371, 324.0105pt x 44.5665pt>
+<figures/1174034/tugas3/6.PNG, id=5473, 324.0105pt x 44.5665pt>
 File: figures/1174034/tugas3/6.PNG Graphic file (type png)
 <use figures/1174034/tugas3/6.PNG>
 Package pdftex.def Info: figures/1174034/tugas3/6.PNG  used on input line 47.
@@ -4362,7 +4421,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [163 <./figures/1174034/tugas3/4.PNG> <./figures/1174034/tugas3/5.PNG> <./figur
 es/1174034/tugas3/6.PNG>] (src/2/1174034/7.py)
-<figures/1174034/tugas3/7.PNG, id=5393, 334.24875pt x 42.75975pt>
+<figures/1174034/tugas3/7.PNG, id=5495, 334.24875pt x 42.75975pt>
 File: figures/1174034/tugas3/7.PNG Graphic file (type png)
 <use figures/1174034/tugas3/7.PNG>
 Package pdftex.def Info: figures/1174034/tugas3/7.PNG  used on input line 55.
@@ -4373,7 +4432,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 55--57
  []
 
 (src/2/1174034/8.py)
-<figures/1174034/tugas3/8.PNG, id=5394, 340.8735pt x 41.55525pt>
+<figures/1174034/tugas3/8.PNG, id=5496, 340.8735pt x 41.55525pt>
 File: figures/1174034/tugas3/8.PNG Graphic file (type png)
 <use figures/1174034/tugas3/8.PNG>
 Package pdftex.def Info: figures/1174034/tugas3/8.PNG  used on input line 63.
@@ -4384,7 +4443,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 63--65
  []
 
 (src/2/1174034/9.py)
-<figures/1174034/tugas3/9.PNG, id=5395, 425.1885pt x 48.78226pt>
+<figures/1174034/tugas3/9.PNG, id=5497, 425.1885pt x 48.78226pt>
 File: figures/1174034/tugas3/9.PNG Graphic file (type png)
 <use figures/1174034/tugas3/9.PNG>
 Package pdftex.def Info: figures/1174034/tugas3/9.PNG  used on input line 71.
@@ -4395,7 +4454,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 71--73
  []
 
 (src/2/1174034/10.py)
-<figures/1174034/tugas3/10.PNG, id=5396, 345.6915pt x 46.37325pt>
+<figures/1174034/tugas3/10.PNG, id=5498, 345.6915pt x 46.37325pt>
 File: figures/1174034/tugas3/10.PNG Graphic file (type png)
 <use figures/1174034/tugas3/10.PNG>
 Package pdftex.def Info: figures/1174034/tugas3/10.PNG  used on input line 79.
@@ -4415,7 +4474,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [164 <./figures/1174034/tugas3/7.PNG> <./figures/1174034/tugas3/8.PNG> <./figur
 es/1174034/tugas3/9.PNG>] (src/2/1174034/11.py)
-<figures/1174034/tugas3/11.PNG, id=5424, 340.8735pt x 54.2025pt>
+<figures/1174034/tugas3/11.PNG, id=5525, 340.8735pt x 54.2025pt>
 File: figures/1174034/tugas3/11.PNG Graphic file (type png)
 <use figures/1174034/tugas3/11.PNG>
 Package pdftex.def Info: figures/1174034/tugas3/11.PNG  used on input line 87.
@@ -4439,7 +4498,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 ]
 Bab 4.
 (chapters/tugas4/1174035.tex
-<figures/1174035/tugas4/mapserver_1.png, id=5441, 352.31625pt x 506.6428pt>
+<figures/1174035/tugas4/mapserver_1.png, id=5542, 352.31625pt x 506.6428pt>
 File: figures/1174035/tugas4/mapserver_1.png Graphic file (type png)
 <use figures/1174035/tugas4/mapserver_1.png>
 Package pdftex.def Info: figures/1174035/tugas4/mapserver_1.png  used on input 
@@ -4454,7 +4513,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--12
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [167]
-<figures/1174035/tugas4/mapserver_2.png, id=5448, 641.39626pt x 392.96812pt>
+<figures/1174035/tugas4/mapserver_2.png, id=5549, 641.39626pt x 392.96812pt>
 File: figures/1174035/tugas4/mapserver_2.png Graphic file (type png)
 <use figures/1174035/tugas4/mapserver_2.png>
 Package pdftex.def Info: figures/1174035/tugas4/mapserver_2.png  used on input 
@@ -4477,7 +4536,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [168 <./figures/1174035/tugas4/mapserver_1.png>]
-<figures/1174035/tugas4/mapserver_3.png, id=5455, 487.06969pt x 195.73125pt>
+<figures/1174035/tugas4/mapserver_3.png, id=5557, 487.06969pt x 195.73125pt>
 File: figures/1174035/tugas4/mapserver_3.png Graphic file (type png)
 <use figures/1174035/tugas4/mapserver_3.png>
 Package pdftex.def Info: figures/1174035/tugas4/mapserver_3.png  used on input 
@@ -4488,7 +4547,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 20--26
 
  []
 
-<figures/1174035/tugas4/mapserver_4.png, id=5456, 752.0597pt x 349.305pt>
+<figures/1174035/tugas4/mapserver_4.png, id=5558, 752.0597pt x 349.305pt>
 File: figures/1174035/tugas4/mapserver_4.png Graphic file (type png)
 <use figures/1174035/tugas4/mapserver_4.png>
 Package pdftex.def Info: figures/1174035/tugas4/mapserver_4.png  used on input 
@@ -4499,7 +4558,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 27--33
 
  []
 
-<figures/1174035/tugas4/mapserver_5.png, id=5457, 1204.5pt x 647.41875pt>
+<figures/1174035/tugas4/mapserver_5.png, id=5559, 1204.5pt x 647.41875pt>
 File: figures/1174035/tugas4/mapserver_5.png Graphic file (type png)
 <use figures/1174035/tugas4/mapserver_5.png>
 Package pdftex.def Info: figures/1174035/tugas4/mapserver_5.png  used on input 
@@ -4520,7 +4579,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [169 <./figures/1174035/tugas4/mapserver_2.png> <./figures/1174035/tugas4/mapse
 rver_3.png> <./figures/1174035/tugas4/mapserver_4.png>]
-<figures/1174035/tugas4/mapproxy_1.png, id=5467, 509.65407pt x 260.47313pt>
+<figures/1174035/tugas4/mapproxy_1.png, id=5569, 509.65407pt x 260.47313pt>
 File: figures/1174035/tugas4/mapproxy_1.png Graphic file (type png)
 <use figures/1174035/tugas4/mapproxy_1.png>
 Package pdftex.def Info: figures/1174035/tugas4/mapproxy_1.png  used on input l
@@ -4531,7 +4590,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 46--52
 
  []
 
-<figures/1174035/tugas4/mapproxy_2.png, id=5468, 512.66531pt x 260.47313pt>
+<figures/1174035/tugas4/mapproxy_2.png, id=5570, 512.66531pt x 260.47313pt>
 File: figures/1174035/tugas4/mapproxy_2.png Graphic file (type png)
 <use figures/1174035/tugas4/mapproxy_2.png>
 Package pdftex.def Info: figures/1174035/tugas4/mapproxy_2.png  used on input l
@@ -4555,7 +4614,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [170 <./figures/1174035/tugas4/mapserver_5.png> <./figures/1174035/tugas4/mappr
 oxy_1.png>]
-<figures/1174035/tugas4/yaml_1.png, id=5481, 988.44281pt x 444.15938pt>
+<figures/1174035/tugas4/yaml_1.png, id=5582, 988.44281pt x 444.15938pt>
 File: figures/1174035/tugas4/yaml_1.png Graphic file (type png)
 <use figures/1174035/tugas4/yaml_1.png>
 Package pdftex.def Info: figures/1174035/tugas4/yaml_1.png  used on input line 
@@ -4566,7 +4625,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 65--71
 
  []
 
-<figures/1174035/tugas4/yaml_2.png, id=5482, 486.31688pt x 358.33875pt>
+<figures/1174035/tugas4/yaml_2.png, id=5583, 486.31688pt x 358.33875pt>
 File: figures/1174035/tugas4/yaml_2.png Graphic file (type png)
 <use figures/1174035/tugas4/yaml_2.png>
 Package pdftex.def Info: figures/1174035/tugas4/yaml_2.png  used on input line 
@@ -4590,7 +4649,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [171 <./figures/1174035/tugas4/mapproxy_2.png> <./figures/1174035/tugas4/yaml_1
 .png>]
-<figures/1174035/tugas4/yaml_3.png, id=5491, 509.65407pt x 255.20343pt>
+<figures/1174035/tugas4/yaml_3.png, id=5592, 509.65407pt x 255.20343pt>
 File: figures/1174035/tugas4/yaml_3.png Graphic file (type png)
 <use figures/1174035/tugas4/yaml_3.png>
 Package pdftex.def Info: figures/1174035/tugas4/yaml_3.png  used on input line 
@@ -4601,7 +4660,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 79--85
 
  []
 
-<figures/1174035/tugas4/yaml_4.png, id=5492, 374.90062pt x 166.37157pt>
+<figures/1174035/tugas4/yaml_4.png, id=5593, 374.90062pt x 166.37157pt>
 File: figures/1174035/tugas4/yaml_4.png Graphic file (type png)
 <use figures/1174035/tugas4/yaml_4.png>
 Package pdftex.def Info: figures/1174035/tugas4/yaml_4.png  used on input line 
@@ -4625,7 +4684,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [172 <./figures/1174035/tugas4/yaml_2.png> <./figures/1174035/tugas4/yaml_3.png
 >]
-<figures/1174035/tugas4/yaml_5.png, id=5501, 410.2828pt x 296.60812pt>
+<figures/1174035/tugas4/yaml_5.png, id=5602, 410.2828pt x 296.60812pt>
 File: figures/1174035/tugas4/yaml_5.png Graphic file (type png)
 <use figures/1174035/tugas4/yaml_5.png>
 Package pdftex.def Info: figures/1174035/tugas4/yaml_5.png  used on input line 
@@ -4636,7 +4695,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 99--104
 
  []
 
-<figures/1174035/tugas4/yaml_6.png, id=5502, 510.40688pt x 261.22594pt>
+<figures/1174035/tugas4/yaml_6.png, id=5603, 510.40688pt x 261.22594pt>
 File: figures/1174035/tugas4/yaml_6.png Graphic file (type png)
 <use figures/1174035/tugas4/yaml_6.png>
 Package pdftex.def Info: figures/1174035/tugas4/yaml_6.png  used on input line 
@@ -4657,7 +4716,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [173 <./figures/1174035/tugas4/yaml_4.png> <./figures/1174035/tugas4/yaml_5.png
 >]
-<figures/1174035/tugas4/yaml_7.png, id=5513, 1204.5pt x 648.17157pt>
+<figures/1174035/tugas4/yaml_7.png, id=5614, 1204.5pt x 648.17157pt>
 File: figures/1174035/tugas4/yaml_7.png Graphic file (type png)
 <use figures/1174035/tugas4/yaml_7.png>
 Package pdftex.def Info: figures/1174035/tugas4/yaml_7.png  used on input line 
@@ -4668,7 +4727,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 113--119
 
  []
 
-<figures/1174035/tugas4/Plagiat.png, id=5515, 626.34pt x 544.28343pt>
+<figures/1174035/tugas4/Plagiat.png, id=5616, 626.34pt x 544.28343pt>
 File: figures/1174035/tugas4/Plagiat.png Graphic file (type png)
 <use figures/1174035/tugas4/Plagiat.png>
 Package pdftex.def Info: figures/1174035/tugas4/Plagiat.png  used on input line
@@ -4692,7 +4751,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [174 <./figures/1174035/tugas4/yaml_6.png> <./figures/1174035/tugas4/yaml_7.png
 >]
-<figures/1174039/tugas4/1.png, id=5525, 414.79968pt x 93.34875pt>
+<figures/1174039/tugas4/1.png, id=5627, 414.79968pt x 93.34875pt>
 File: figures/1174039/tugas4/1.png Graphic file (type png)
 <use figures/1174039/tugas4/1.png>
 Package pdftex.def Info: figures/1174039/tugas4/1.png  used on input line 7.
@@ -4702,7 +4761,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--10
 
  []
 
-<figures/1174039/tugas4/2.png, id=5526, 443.40656pt x 15.05624pt>
+<figures/1174039/tugas4/2.png, id=5628, 443.40656pt x 15.05624pt>
 File: figures/1174039/tugas4/2.png Graphic file (type png)
 <use figures/1174039/tugas4/2.png>
 Package pdftex.def Info: figures/1174039/tugas4/2.png  used on input line 13.
@@ -4712,7 +4771,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--17
 
  []
 
-<figures/1174039/tugas4/3.png, id=5528, 840.89156pt x 496.85625pt>
+<figures/1174039/tugas4/3.png, id=5630, 840.89156pt x 496.85625pt>
 File: figures/1174039/tugas4/3.png Graphic file (type png)
 <use figures/1174039/tugas4/3.png>
 Package pdftex.def Info: figures/1174039/tugas4/3.png  used on input line 26.
@@ -4732,7 +4791,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [175 <./figures/1174035/tugas4/Plagiat.png> <./figures/1174039/tugas4/1.png> <.
 /figures/1174039/tugas4/2.png>]
-<figures/1174039/tugas4/4.png, id=5538, 843.90282pt x 496.85625pt>
+<figures/1174039/tugas4/4.png, id=5640, 843.90282pt x 496.85625pt>
 File: figures/1174039/tugas4/4.png Graphic file (type png)
 <use figures/1174039/tugas4/4.png>
 Package pdftex.def Info: figures/1174039/tugas4/4.png  used on input line 32.
@@ -4742,7 +4801,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--35
 
  []
 
-<figures/1174039/tugas4/5.png, id=5539, 847.66687pt x 496.10344pt>
+<figures/1174039/tugas4/5.png, id=5641, 847.66687pt x 496.10344pt>
 File: figures/1174039/tugas4/5.png Graphic file (type png)
 <use figures/1174039/tugas4/5.png>
 Package pdftex.def Info: figures/1174039/tugas4/5.png  used on input line 39.
@@ -4752,7 +4811,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--42
 
  []
 
-<figures/1174039/tugas4/6.png, id=5540, 841.64438pt x 491.58656pt>
+<figures/1174039/tugas4/6.png, id=5642, 841.64438pt x 491.58656pt>
 File: figures/1174039/tugas4/6.png Graphic file (type png)
 <use figures/1174039/tugas4/6.png>
 Package pdftex.def Info: figures/1174039/tugas4/6.png  used on input line 46.
@@ -4762,7 +4821,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--49
 
  []
 
-<figures/1174039/tugas4/7.png, id=5541, 177.66376pt x 36.88782pt>
+<figures/1174039/tugas4/7.png, id=5643, 177.66376pt x 36.88782pt>
 File: figures/1174039/tugas4/7.png Graphic file (type png)
 <use figures/1174039/tugas4/7.png>
 Package pdftex.def Info: figures/1174039/tugas4/7.png  used on input line 53.
@@ -4782,7 +4841,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [176 <./figures/1174039/tugas4/3.png> <./figures/1174039/tugas4/4.png> <./figur
 es/1174039/tugas4/5.png> <./figures/1174039/tugas4/6.png>]
-<figures/1174039/tugas4/8.png, id=5554, 301.8778pt x 159.59625pt>
+<figures/1174039/tugas4/8.png, id=5655, 301.8778pt x 159.59625pt>
 File: figures/1174039/tugas4/8.png Graphic file (type png)
 <use figures/1174039/tugas4/8.png>
 Package pdftex.def Info: figures/1174039/tugas4/8.png  used on input line 60.
@@ -4792,7 +4851,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--63
 
  []
 
-<figures/1174039/tugas4/9.png, id=5555, 699.36281pt x 359.84438pt>
+<figures/1174039/tugas4/9.png, id=5656, 699.36281pt x 359.84438pt>
 File: figures/1174039/tugas4/9.png Graphic file (type png)
 <use figures/1174039/tugas4/9.png>
 Package pdftex.def Info: figures/1174039/tugas4/9.png  used on input line 69.
@@ -4802,7 +4861,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 66--72
 
  []
 
-<figures/1174039/tugas4/10.png, id=5556, 842.39719pt x 435.12563pt>
+<figures/1174039/tugas4/10.png, id=5657, 842.39719pt x 435.12563pt>
 File: figures/1174039/tugas4/10.png Graphic file (type png)
 <use figures/1174039/tugas4/10.png>
 Package pdftex.def Info: figures/1174039/tugas4/10.png  used on input line 79.
@@ -4822,7 +4881,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [177 <./figures/1174039/tugas4/7.png> <./figures/1174039/tugas4/8.png> <./figur
 es/1174039/tugas4/9.png>]
-<figures/1174039/tugas4/11.png, id=5570, 850.67813pt x 495.35063pt>
+<figures/1174039/tugas4/11.png, id=5671, 850.67813pt x 495.35063pt>
 File: figures/1174039/tugas4/11.png Graphic file (type png)
 <use figures/1174039/tugas4/11.png>
 Package pdftex.def Info: figures/1174039/tugas4/11.png  used on input line 86.
@@ -4832,7 +4891,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 83--89
 
  []
 
-<figures/1174039/tugas4/12.png, id=5571, 877.02657pt x 255.95625pt>
+<figures/1174039/tugas4/12.png, id=5672, 877.02657pt x 255.95625pt>
 File: figures/1174039/tugas4/12.png Graphic file (type png)
 <use figures/1174039/tugas4/12.png>
 Package pdftex.def Info: figures/1174039/tugas4/12.png  used on input line 93.
@@ -4842,7 +4901,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 90--96
 
  []
 
-<figures/1174039/tugas4/13.png, id=5572, 822.82407pt x 487.8225pt>
+<figures/1174039/tugas4/13.png, id=5673, 822.82407pt x 487.8225pt>
 File: figures/1174039/tugas4/13.png Graphic file (type png)
 <use figures/1174039/tugas4/13.png>
 Package pdftex.def Info: figures/1174039/tugas4/13.png  used on input line 100.
@@ -4853,7 +4912,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 97--103
 
  []
 
-<figures/1174039/tugas4/14.png, id=5573, 849.1725pt x 490.83376pt>
+<figures/1174039/tugas4/14.png, id=5674, 849.1725pt x 490.83376pt>
 File: figures/1174039/tugas4/14.png Graphic file (type png)
 <use figures/1174039/tugas4/14.png>
 Package pdftex.def Info: figures/1174039/tugas4/14.png  used on input line 107.
@@ -4880,7 +4939,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [178 <./figures/1174039/tugas4/10.png> <./figures/1174039/tugas4/11.png> <./fig
 ures/1174039/tugas4/12.png> <./figures/1174039/tugas4/13.png>]
-<figures/1174039/tugas4/15.png, id=5586, 846.16125pt x 319.1925pt>
+<figures/1174039/tugas4/15.png, id=5687, 846.16125pt x 319.1925pt>
 File: figures/1174039/tugas4/15.png Graphic file (type png)
 <use figures/1174039/tugas4/15.png>
 Package pdftex.def Info: figures/1174039/tugas4/15.png  used on input line 114.
@@ -4891,7 +4950,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 111--117
 
  []
 
-<figures/1174039/tugas4/16.png, id=5587, 867.24pt x 403.5075pt>
+<figures/1174039/tugas4/16.png, id=5688, 867.24pt x 403.5075pt>
 File: figures/1174039/tugas4/16.png Graphic file (type png)
 <use figures/1174039/tugas4/16.png>
 Package pdftex.def Info: figures/1174039/tugas4/16.png  used on input line 121.
@@ -4902,7 +4961,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 118--124
 
  []
 
-<figures/1174039/tugas4/17.png, id=5588, 864.22874pt x 406.51875pt>
+<figures/1174039/tugas4/17.png, id=5689, 864.22874pt x 406.51875pt>
 File: figures/1174039/tugas4/17.png Graphic file (type png)
 <use figures/1174039/tugas4/17.png>
 Package pdftex.def Info: figures/1174039/tugas4/17.png  used on input line 127.
@@ -4913,7 +4972,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 125--130
 
  []
 
-<figures/1174039/tugas4/18.png, id=5590, 1014.03844pt x 496.10344pt>
+<figures/1174039/tugas4/18.png, id=5691, 1014.03844pt x 496.10344pt>
 File: figures/1174039/tugas4/18.png Graphic file (type png)
 <use figures/1174039/tugas4/18.png>
 Package pdftex.def Info: figures/1174039/tugas4/18.png  used on input line 135.
@@ -4934,7 +4993,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [179 <./figures/1174039/tugas4/14.png> <./figures/1174039/tugas4/15.png> <./fig
 ures/1174039/tugas4/16.png> <./figures/1174039/tugas4/17.png>]
-<figures/1174039/tugas4/19.png, id=5603, 847.66687pt x 398.99063pt>
+<figures/1174039/tugas4/19.png, id=5704, 847.66687pt x 398.99063pt>
 File: figures/1174039/tugas4/19.png Graphic file (type png)
 <use figures/1174039/tugas4/19.png>
 Package pdftex.def Info: figures/1174039/tugas4/19.png  used on input line 143.
@@ -4945,7 +5004,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 140--146
 
  []
 
-<figures/1174039/tugas4/20.png, id=5604, 1028.34187pt x 526.21594pt>
+<figures/1174039/tugas4/20.png, id=5705, 1028.34187pt x 526.21594pt>
 File: figures/1174039/tugas4/20.png Graphic file (type png)
 <use figures/1174039/tugas4/20.png>
 Package pdftex.def Info: figures/1174039/tugas4/20.png  used on input line 150.
@@ -4957,7 +5016,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 147--153
  []
 
 ) (chapters/tugas4/1174040.tex
-<figures/1174040/Python3/exe.PNG, id=5606, 463.7325pt x 25.2945pt>
+<figures/1174040/Python3/exe.PNG, id=5707, 463.7325pt x 25.2945pt>
 File: figures/1174040/Python3/exe.PNG Graphic file (type png)
 <use figures/1174040/Python3/exe.PNG>
 Package pdftex.def Info: figures/1174040/Python3/exe.PNG  used on input line 7.
@@ -4983,7 +5042,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [180 <./figures/1174039/tugas4/18.png> <./figures/1174039/tugas4/19.png> <./fig
 ures/1174039/tugas4/20.png>]
-<figures/1174040/Python3/1.PNG, id=5618, 314.97675pt x 250.536pt>
+<figures/1174040/Python3/1.PNG, id=5720, 314.97675pt x 250.536pt>
 File: figures/1174040/Python3/1.PNG Graphic file (type png)
 <use figures/1174040/Python3/1.PNG>
 Package pdftex.def Info: figures/1174040/Python3/1.PNG  used on input line 14.
@@ -4998,7 +5057,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--17
 
  []
 
-<figures/1174040/Python3/2.PNG, id=5619, 318.59026pt x 252.34274pt>
+<figures/1174040/Python3/2.PNG, id=5721, 318.59026pt x 252.34274pt>
 File: figures/1174040/Python3/2.PNG Graphic file (type png)
 <use figures/1174040/Python3/2.PNG>
 Package pdftex.def Info: figures/1174040/Python3/2.PNG  used on input line 21.
@@ -5025,7 +5084,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [181 <./figures/1174040/Python3/exe.PNG> <./figures/1174040/Python3/1.PNG>]
-<figures/1174040/Python3/3.PNG, id=5628, 316.7835pt x 252.34274pt>
+<figures/1174040/Python3/3.PNG, id=5730, 316.7835pt x 252.34274pt>
 File: figures/1174040/Python3/3.PNG Graphic file (type png)
 <use figures/1174040/Python3/3.PNG>
 Package pdftex.def Info: figures/1174040/Python3/3.PNG  used on input line 28.
@@ -5052,7 +5111,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [182 <./figures/1174040/Python3/2.PNG>]
-<figures/1174040/Python3/4.PNG, id=5636, 316.18124pt x 254.1495pt>
+<figures/1174040/Python3/4.PNG, id=5737, 316.18124pt x 254.1495pt>
 File: figures/1174040/Python3/4.PNG Graphic file (type png)
 <use figures/1174040/Python3/4.PNG>
 Package pdftex.def Info: figures/1174040/Python3/4.PNG  used on input line 35.
@@ -5079,7 +5138,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [183 <./figures/1174040/Python3/3.PNG>]
-<figures/1174040/Python3/5.PNG, id=5643, 253.54726pt x 33.12375pt>
+<figures/1174040/Python3/5.PNG, id=5744, 253.54726pt x 33.12375pt>
 File: figures/1174040/Python3/5.PNG Graphic file (type png)
 <use figures/1174040/Python3/5.PNG>
 Package pdftex.def Info: figures/1174040/Python3/5.PNG  used on input line 46.
@@ -5094,7 +5153,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--49
 
  []
 
-<figures/1174040/Python3/6.PNG, id=5644, 190.91325pt x 18.0675pt>
+<figures/1174040/Python3/6.PNG, id=5745, 190.91325pt x 18.0675pt>
 File: figures/1174040/Python3/6.PNG Graphic file (type png)
 <use figures/1174040/Python3/6.PNG>
 Package pdftex.def Info: figures/1174040/Python3/6.PNG  used on input line 53.
@@ -5118,7 +5177,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [184 <./figures/1174040/Python3/4.PNG> <./figures/1174040/Python3/5.PNG>]
-<figures/1174040/Python3/7.PNG, id=5654, 1020.2115pt x 543.2295pt>
+<figures/1174040/Python3/7.PNG, id=5755, 1020.2115pt x 543.2295pt>
 File: figures/1174040/Python3/7.PNG Graphic file (type png)
 <use figures/1174040/Python3/7.PNG>
 Package pdftex.def Info: figures/1174040/Python3/7.PNG  used on input line 60.
@@ -5133,7 +5192,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--63
 
  []
 
-<figures/1174040/Python3/8.PNG, id=5655, 735.34724pt x 204.16275pt>
+<figures/1174040/Python3/8.PNG, id=5756, 735.34724pt x 204.16275pt>
 File: figures/1174040/Python3/8.PNG Graphic file (type png)
 <use figures/1174040/Python3/8.PNG>
 Package pdftex.def Info: figures/1174040/Python3/8.PNG  used on input line 67.
@@ -5148,7 +5207,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--70
 
  []
 
-<figures/1174040/Python3/9.PNG, id=5656, 404.712pt x 155.98276pt>
+<figures/1174040/Python3/9.PNG, id=5757, 404.712pt x 155.98276pt>
 File: figures/1174040/Python3/9.PNG Graphic file (type png)
 <use figures/1174040/Python3/9.PNG>
 Package pdftex.def Info: figures/1174040/Python3/9.PNG  used on input line 74.
@@ -5173,7 +5232,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [185 <./figures/1174040/Python3/6.PNG> <./figures/1174040/Python3/7.PNG> <./fig
 ures/1174040/Python3/8.PNG>]
-<figures/1174040/Python3/10.PNG, id=5667, 665.48625pt x 209.583pt>
+<figures/1174040/Python3/10.PNG, id=5768, 665.48625pt x 209.583pt>
 File: figures/1174040/Python3/10.PNG Graphic file (type png)
 <use figures/1174040/Python3/10.PNG>
 Package pdftex.def Info: figures/1174040/Python3/10.PNG  used on input line 81.
@@ -5189,7 +5248,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 78--84
 
  []
 
-<figures/1174040/Python3/browser.PNG, id=5668, 995.51926pt x 586.5915pt>
+<figures/1174040/Python3/browser.PNG, id=5769, 995.51926pt x 586.5915pt>
 File: figures/1174040/Python3/browser.PNG Graphic file (type png)
 <use figures/1174040/Python3/browser.PNG>
 Package pdftex.def Info: figures/1174040/Python3/browser.PNG  used on input lin
@@ -5223,7 +5282,7 @@ Overfull \hbox (2.59683pt too wide) in paragraph at lines 13--14
 ing, dan hasil-
  []
 
-<figures/1174059/tugas4/1.jpg, id=5680, 404.26031pt x 67.75313pt>
+<figures/1174059/tugas4/1.jpg, id=5782, 404.26031pt x 67.75313pt>
 File: figures/1174059/tugas4/1.jpg Graphic file (type jpg)
 <use figures/1174059/tugas4/1.jpg>
 Package pdftex.def Info: figures/1174059/tugas4/1.jpg  used on input line 17.
@@ -5251,7 +5310,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--22
 
  []
 
-<figures/1174059/tugas4/mapproxy.jpg, id=5695, 724.95844pt x 114.4275pt>
+<figures/1174059/tugas4/mapproxy.jpg, id=5797, 724.95844pt x 114.4275pt>
 File: figures/1174059/tugas4/mapproxy.jpg Graphic file (type jpg)
 <use figures/1174059/tugas4/mapproxy.jpg>
 Package pdftex.def Info: figures/1174059/tugas4/mapproxy.jpg  used on input lin
@@ -5273,7 +5332,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--34
  []
 
 ) (chapters/tugas4/1174042.tex
-<figures/1174042/T41.JPG, id=5698, 580.41844pt x 269.50688pt>
+<figures/1174042/T41.JPG, id=5800, 580.41844pt x 269.50688pt>
 File: figures/1174042/T41.JPG Graphic file (type jpg)
 <use figures/1174042/T41.JPG>
 Package pdftex.def Info: figures/1174042/T41.JPG  used on input line 9.
@@ -5292,7 +5351,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [188 <./figures/1174059/tugas4/1.jpg> <./figures/1174059/tugas4/mapproxy.jpg>]
-<figures/1174042/T42.JPG, id=5707, 515.67656pt x 317.68687pt>
+<figures/1174042/T42.JPG, id=5808, 515.67656pt x 317.68687pt>
 File: figures/1174042/T42.JPG Graphic file (type jpg)
 <use figures/1174042/T42.JPG>
 Package pdftex.def Info: figures/1174042/T42.JPG  used on input line 17.
@@ -5302,7 +5361,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--20
 
  []
 
-<figures/1174042/T43.JPG, id=5708, 822.82407pt x 426.84468pt>
+<figures/1174042/T43.JPG, id=5809, 822.82407pt x 426.84468pt>
 File: figures/1174042/T43.JPG Graphic file (type jpg)
 <use figures/1174042/T43.JPG>
 Package pdftex.def Info: figures/1174042/T43.JPG  used on input line 25.
@@ -5324,7 +5383,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [189 <./figures/1174042/T41.JPG> <./figures/1174042/T42.JPG>]
-<figures/1174042/T44.JPG, id=5716, 724.95844pt x 341.77687pt>
+<figures/1174042/T44.JPG, id=5817, 724.95844pt x 341.77687pt>
 File: figures/1174042/T44.JPG Graphic file (type jpg)
 <use figures/1174042/T44.JPG>
 Package pdftex.def Info: figures/1174042/T44.JPG  used on input line 33.
@@ -5334,7 +5393,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--36
 
  []
 
-<figures/1174042/T45.JPG, id=5717, 707.64375pt x 328.22626pt>
+<figures/1174042/T45.JPG, id=5818, 707.64375pt x 328.22626pt>
 File: figures/1174042/T45.JPG Graphic file (type jpg)
 <use figures/1174042/T45.JPG>
 Package pdftex.def Info: figures/1174042/T45.JPG  used on input line 41.
@@ -5354,7 +5413,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [190 <./figures/1174042/T43.JPG> <./figures/1174042/T44.JPG> <./figures/1174042
 /T45.JPG>]
-<figures/1174043/TUGAS4/1.JPG, id=5726, 776.30025pt x 439.6425pt>
+<figures/1174043/TUGAS4/1.JPG, id=5827, 776.30025pt x 439.6425pt>
 File: figures/1174043/TUGAS4/1.JPG Graphic file (type jpg)
 <use figures/1174043/TUGAS4/1.JPG>
 Package pdftex.def Info: figures/1174043/TUGAS4/1.JPG  used on input line 8.
@@ -5364,7 +5423,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 8--10
  [][] 
  []
 
-<figures/1174043/TUGAS4/2.JPG, id=5727, 202.95825pt x 22.8855pt>
+<figures/1174043/TUGAS4/2.JPG, id=5828, 202.95825pt x 22.8855pt>
 File: figures/1174043/TUGAS4/2.JPG Graphic file (type jpg)
 <use figures/1174043/TUGAS4/2.JPG>
 Package pdftex.def Info: figures/1174043/TUGAS4/2.JPG  used on input line 15.
@@ -5374,7 +5433,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 15--17
  [][] 
  []
 
-<figures/1174043/TUGAS4/3.JPG, id=5728, 172.2435pt x 19.272pt>
+<figures/1174043/TUGAS4/3.JPG, id=5829, 172.2435pt x 19.272pt>
 File: figures/1174043/TUGAS4/3.JPG Graphic file (type jpg)
 <use figures/1174043/TUGAS4/3.JPG>
 Package pdftex.def Info: figures/1174043/TUGAS4/3.JPG  used on input line 22.
@@ -5393,7 +5452,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [191 <./figures/1174043/TUGAS4/1.JPG> <./figures/1174043/TUGAS4/2.JPG>]
-<figures/1174043/TUGAS4/4.JPG, id=5737, 357.7365pt x 86.724pt>
+<figures/1174043/TUGAS4/4.JPG, id=5838, 357.7365pt x 86.724pt>
 File: figures/1174043/TUGAS4/4.JPG Graphic file (type jpg)
 <use figures/1174043/TUGAS4/4.JPG>
 Package pdftex.def Info: figures/1174043/TUGAS4/4.JPG  used on input line 29.
@@ -5403,7 +5462,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 29--31
  [][] 
  []
 
-<figures/1174043/TUGAS4/5.JPG, id=5738, 168.63pt x 20.4765pt>
+<figures/1174043/TUGAS4/5.JPG, id=5839, 168.63pt x 20.4765pt>
 File: figures/1174043/TUGAS4/5.JPG Graphic file (type jpg)
 <use figures/1174043/TUGAS4/5.JPG>
 Package pdftex.def Info: figures/1174043/TUGAS4/5.JPG  used on input line 36.
@@ -5413,7 +5472,7 @@ Overfull \hbox (5.43306pt too wide) in paragraph at lines 36--38
  [][] 
  []
 
-<figures/1174043/TUGAS4/6.JPG, id=5740, 1156.32pt x 628.14674pt>
+<figures/1174043/TUGAS4/6.JPG, id=5841, 1156.32pt x 628.14674pt>
 File: figures/1174043/TUGAS4/6.JPG Graphic file (type jpg)
 <use figures/1174043/TUGAS4/6.JPG>
 Package pdftex.def Info: figures/1174043/TUGAS4/6.JPG  used on input line 43.
@@ -5436,7 +5495,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [192 <./figures/1174043/TUGAS4/3.JPG> <./figures/1174043/TUGAS4/4.JPG> <./figur
 es/1174043/TUGAS4/5.JPG>]) (chapters/tugas4/1174050.tex
-<figures/1174050/1174050/8.PNG, id=5750, 1095.49275pt x 558.888pt>
+<figures/1174050/1174050/8.PNG, id=5852, 1095.49275pt x 558.888pt>
 File: figures/1174050/1174050/8.PNG Graphic file (type png)
 <use figures/1174050/1174050/8.PNG>
 Package pdftex.def Info: figures/1174050/1174050/8.PNG  used on input line 9.
@@ -5446,7 +5505,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--12
 
  []
 
-<figures/1174050/1174050/1.PNG, id=5751, 250.536pt x 202.356pt>
+<figures/1174050/1174050/1.PNG, id=5853, 250.536pt x 202.356pt>
 File: figures/1174050/1174050/1.PNG Graphic file (type png)
 <use figures/1174050/1174050/1.PNG>
 Package pdftex.def Info: figures/1174050/1174050/1.PNG  used on input line 17.
@@ -5465,7 +5524,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [193 <./figures/1174043/TUGAS4/6.JPG> <./figures/1174050/1174050/8.PNG>]
-<figures/1174050/1174050/2.PNG, id=5758, 252.34274pt x 199.34476pt>
+<figures/1174050/1174050/2.PNG, id=5860, 252.34274pt x 199.34476pt>
 File: figures/1174050/1174050/2.PNG Graphic file (type png)
 <use figures/1174050/1174050/2.PNG>
 Package pdftex.def Info: figures/1174050/1174050/2.PNG  used on input line 25.
@@ -5475,7 +5534,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--28
 
  []
 
-<figures/1174050/1174050/3.PNG, id=5759, 253.54726pt x 197.538pt>
+<figures/1174050/1174050/3.PNG, id=5861, 253.54726pt x 197.538pt>
 File: figures/1174050/1174050/3.PNG Graphic file (type png)
 <use figures/1174050/1174050/3.PNG>
 Package pdftex.def Info: figures/1174050/1174050/3.PNG  used on input line 33.
@@ -5494,7 +5553,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [194 <./figures/1174050/1174050/1.PNG> <./figures/1174050/1174050/2.PNG>]
-<figures/1174050/1174050/4.PNG, id=5770, 251.7405pt x 198.14024pt>
+<figures/1174050/1174050/4.PNG, id=5871, 251.7405pt x 198.14024pt>
 File: figures/1174050/1174050/4.PNG Graphic file (type png)
 <use figures/1174050/1174050/4.PNG>
 Package pdftex.def Info: figures/1174050/1174050/4.PNG  used on input line 41.
@@ -5504,7 +5563,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--44
 
  []
 
-<figures/1174050/1174050/5.PNG, id=5771, 247.52475pt x 197.538pt>
+<figures/1174050/1174050/5.PNG, id=5872, 247.52475pt x 197.538pt>
 File: figures/1174050/1174050/5.PNG Graphic file (type png)
 <use figures/1174050/1174050/5.PNG>
 Package pdftex.def Info: figures/1174050/1174050/5.PNG  used on input line 49.
@@ -5526,7 +5585,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [195 <./figures/1174050/1174050/3.PNG> <./figures/1174050/1174050/4.PNG>]
-<figures/1174050/1174050/6.PNG, id=5780, 598.6365pt x 221.628pt>
+<figures/1174050/1174050/6.PNG, id=5881, 598.6365pt x 221.628pt>
 File: figures/1174050/1174050/6.PNG Graphic file (type png)
 <use figures/1174050/1174050/6.PNG>
 Package pdftex.def Info: figures/1174050/1174050/6.PNG  used on input line 57.
@@ -5536,7 +5595,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 54--60
 
  []
 
-<figures/1174050/1174050/7.PNG, id=5781, 651.6345pt x 101.78024pt>
+<figures/1174050/1174050/7.PNG, id=5882, 651.6345pt x 101.78024pt>
 File: figures/1174050/1174050/7.PNG Graphic file (type png)
 <use figures/1174050/1174050/7.PNG>
 Package pdftex.def Info: figures/1174050/1174050/7.PNG  used on input line 65.
@@ -5546,6 +5605,367 @@ Underfull \hbox (badness 10000) in paragraph at lines 62--68
 
  []
 
+) (chapters/tugas4/1174057.tex
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[196 <./figures/1174050/1174050/5.PNG> <./figures/1174050/1174050/6.PNG> <./fig
+ures/1174050/1174050/7.PNG>]
+<figures/1174057/4Tugassatu.png, id=5894, 316.18124pt x 164.86594pt>
+File: figures/1174057/4Tugassatu.png Graphic file (type png)
+<use figures/1174057/4Tugassatu.png>
+Package pdftex.def Info: figures/1174057/4Tugassatu.png  used on input line 10.
+
+(pdftex.def)             Requested size: 227.62204pt x 118.69078pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--13
+
+ []
+
+<figures/1174057/4Tugasdua.PNG, id=5895, 443.40656pt x 437.38406pt>
+File: figures/1174057/4Tugasdua.PNG Graphic file (type png)
+<use figures/1174057/4Tugasdua.PNG>
+Package pdftex.def Info: figures/1174057/4Tugasdua.PNG  used on input line 18.
+(pdftex.def)             Requested size: 227.62204pt x 224.53784pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--21
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[197 <./figures/1174057/4Tugassatu.png>]
+<figures/1174057/4Tugastiga.PNG, id=5903, 317.68687pt x 255.20343pt>
+File: figures/1174057/4Tugastiga.PNG Graphic file (type png)
+<use figures/1174057/4Tugastiga.PNG>
+Package pdftex.def Info: figures/1174057/4Tugastiga.PNG  used on input line 28.
+
+(pdftex.def)             Requested size: 227.62204pt x 182.85847pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--31
+
+ []
+
+<figures/1174057/4Tugasempat.PNG, id=5904, 368.87813pt x 231.86626pt>
+File: figures/1174057/4Tugasempat.PNG Graphic file (type png)
+<use figures/1174057/4Tugasempat.PNG>
+Package pdftex.def Info: figures/1174057/4Tugasempat.PNG  used on input line 34
+.
+(pdftex.def)             Requested size: 227.62204pt x 143.07628pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[198 <./figures/1174057/4Tugasdua.PNG> <./figures/1174057/4Tugastiga.PNG>]
+<figures/1174057/4Tugaslima.PNG, id=5914, 87.32625pt x 71.51718pt>
+File: figures/1174057/4Tugaslima.PNG Graphic file (type png)
+<use figures/1174057/4Tugaslima.PNG>
+Package pdftex.def Info: figures/1174057/4Tugaslima.PNG  used on input line 42.
+
+(pdftex.def)             Requested size: 227.62204pt x 186.44333pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--45
+
+ []
+
+<figures/1174057/4Tugasenam.PNG, id=5915, 724.20563pt x 91.09032pt>
+File: figures/1174057/4Tugasenam.PNG Graphic file (type png)
+<use figures/1174057/4Tugasenam.PNG>
+Package pdftex.def Info: figures/1174057/4Tugasenam.PNG  used on input line 50.
+
+(pdftex.def)             Requested size: 227.62204pt x 28.62965pt.
+
+Overfull \hbox (9.06671pt too wide) in paragraph at lines 47--53
+[]\OT1/ptm/m/n/10 kemudian kita memeriksa mapserver yang telah di-in-stall den-
+gan cara mengetikkan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--53
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[199 <./figures/1174057/4Tugasempat.PNG> <./figures/1174057/4Tugaslima.PNG>]
+<figures/1174057/4Tugastujuh.PNG, id=5924, 696.35156pt x 484.81125pt>
+File: figures/1174057/4Tugastujuh.PNG Graphic file (type png)
+<use figures/1174057/4Tugastujuh.PNG>
+Package pdftex.def Info: figures/1174057/4Tugastujuh.PNG  used on input line 59
+.
+(pdftex.def)             Requested size: 227.62204pt x 158.4717pt.
+<figures/1174057/4Tugaslapan.PNG, id=5925, 727.96968pt x 177.66376pt>
+File: figures/1174057/4Tugaslapan.PNG Graphic file (type png)
+<use figures/1174057/4Tugaslapan.PNG>
+Package pdftex.def Info: figures/1174057/4Tugaslapan.PNG  used on input line 66
+.
+(pdftex.def)             Requested size: 227.62204pt x 55.5523pt.
+)
+(chapters/tugas4/1174034.tex
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[200 <./figures/1174057/4Tugasenam.PNG> <./figures/1174057/4Tugastujuh.PNG> <./
+figures/1174057/4Tugaslapan.PNG>]
+<figures/1174034/1174034/8.PNG, id=5939, 1095.49275pt x 558.888pt>
+File: figures/1174034/1174034/8.PNG Graphic file (type png)
+<use figures/1174034/1174034/8.PNG>
+Package pdftex.def Info: figures/1174034/1174034/8.PNG  used on input line 9.
+(pdftex.def)             Requested size: 227.62204pt x 116.12486pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--12
+
+ []
+
+<figures/1174034/1174034/1.PNG, id=5940, 250.536pt x 202.356pt>
+File: figures/1174034/1174034/1.PNG Graphic file (type png)
+<use figures/1174034/1174034/1.PNG>
+Package pdftex.def Info: figures/1174034/1174034/1.PNG  used on input line 17.
+(pdftex.def)             Requested size: 227.62204pt x 183.8509pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--20
+
+ []
+
+<figures/1174034/1174034/2.PNG, id=5941, 252.34274pt x 199.34476pt>
+File: figures/1174034/1174034/2.PNG Graphic file (type png)
+<use figures/1174034/1174034/2.PNG>
+Package pdftex.def Info: figures/1174034/1174034/2.PNG  used on input line 25.
+(pdftex.def)             Requested size: 227.62204pt x 179.82532pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--28
+
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[201 <./figures/1174034/1174034/8.PNG> <./figures/1174034/1174034/1.PNG>]
+<figures/1174034/1174034/3.PNG, id=5951, 253.54726pt x 197.538pt>
+File: figures/1174034/1174034/3.PNG Graphic file (type png)
+<use figures/1174034/1174034/3.PNG>
+Package pdftex.def Info: figures/1174034/1174034/3.PNG  used on input line 33.
+(pdftex.def)             Requested size: 227.62204pt x 177.3485pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--36
+
+ []
+
+<figures/1174034/1174034/4.PNG, id=5952, 251.7405pt x 198.14024pt>
+File: figures/1174034/1174034/4.PNG Graphic file (type png)
+<use figures/1174034/1174034/4.PNG>
+Package pdftex.def Info: figures/1174034/1174034/4.PNG  used on input line 41.
+(pdftex.def)             Requested size: 227.62204pt x 179.159pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--44
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[202 <./figures/1174034/1174034/2.PNG> <./figures/1174034/1174034/3.PNG>]
+<figures/1174034/1174034/5.PNG, id=5961, 247.52475pt x 197.538pt>
+File: figures/1174034/1174034/5.PNG Graphic file (type png)
+<use figures/1174034/1174034/5.PNG>
+Package pdftex.def Info: figures/1174034/1174034/5.PNG  used on input line 49.
+(pdftex.def)             Requested size: 227.62204pt x 181.65878pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--52
+
+ []
+
+<figures/1174034/1174034/6.PNG, id=5962, 352.31625pt x 175.25475pt>
+File: figures/1174034/1174034/6.PNG Graphic file (type png)
+<use figures/1174034/1174034/6.PNG>
+Package pdftex.def Info: figures/1174034/1174034/6.PNG  used on input line 57.
+(pdftex.def)             Requested size: 227.62204pt x 113.22696pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--60
+
+ []
+
+
+Underfull \vbox (badness 3240) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[203 <./figures/1174034/1174034/4.PNG> <./figures/1174034/1174034/5.PNG>]
+<figures/1174034/1174034/7.PNG, id=5971, 445.06274pt x 35.53275pt>
+File: figures/1174034/1174034/7.PNG Graphic file (type png)
+<use figures/1174034/1174034/7.PNG>
+Package pdftex.def Info: figures/1174034/1174034/7.PNG  used on input line 65.
+(pdftex.def)             Requested size: 227.62204pt x 18.17294pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--68
+
+ []
+
+) (chapters/tugas4/1174057.tex
+File: figures/1174057/4Tugassatu.png Graphic file (type png)
+<use figures/1174057/4Tugassatu.png>
+Package pdftex.def Info: figures/1174057/4Tugassatu.png  used on input line 10.
+
+(pdftex.def)             Requested size: 227.62204pt x 118.69078pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--13
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[204 <./figures/1174034/1174034/6.PNG> <./figures/1174034/1174034/7.PNG>]
+File: figures/1174057/4Tugasdua.PNG Graphic file (type png)
+<use figures/1174057/4Tugasdua.PNG>
+Package pdftex.def Info: figures/1174057/4Tugasdua.PNG  used on input line 18.
+(pdftex.def)             Requested size: 227.62204pt x 224.53784pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--21
+
+ []
+
+File: figures/1174057/4Tugastiga.PNG Graphic file (type png)
+<use figures/1174057/4Tugastiga.PNG>
+Package pdftex.def Info: figures/1174057/4Tugastiga.PNG  used on input line 28.
+
+(pdftex.def)             Requested size: 227.62204pt x 182.85847pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--31
+
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[205]
+File: figures/1174057/4Tugasempat.PNG Graphic file (type png)
+<use figures/1174057/4Tugasempat.PNG>
+Package pdftex.def Info: figures/1174057/4Tugasempat.PNG  used on input line 34
+.
+(pdftex.def)             Requested size: 227.62204pt x 143.07628pt.
+File: figures/1174057/4Tugaslima.PNG Graphic file (type png)
+<use figures/1174057/4Tugaslima.PNG>
+Package pdftex.def Info: figures/1174057/4Tugaslima.PNG  used on input line 42.
+
+(pdftex.def)             Requested size: 227.62204pt x 186.44333pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--45
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[206]
+File: figures/1174057/4Tugasenam.PNG Graphic file (type png)
+<use figures/1174057/4Tugasenam.PNG>
+Package pdftex.def Info: figures/1174057/4Tugasenam.PNG  used on input line 50.
+
+(pdftex.def)             Requested size: 227.62204pt x 28.62965pt.
+
+Overfull \hbox (9.06671pt too wide) in paragraph at lines 47--53
+[]\OT1/ptm/m/n/10 kemudian kita memeriksa mapserver yang telah di-in-stall den-
+gan cara mengetikkan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--53
+
+ []
+
+File: figures/1174057/4Tugastujuh.PNG Graphic file (type png)
+<use figures/1174057/4Tugastujuh.PNG>
+Package pdftex.def Info: figures/1174057/4Tugastujuh.PNG  used on input line 59
+.
+(pdftex.def)             Requested size: 227.62204pt x 158.4717pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[207]
+File: figures/1174057/4Tugaslapan.PNG Graphic file (type png)
+<use figures/1174057/4Tugaslapan.PNG>
+Package pdftex.def Info: figures/1174057/4Tugaslapan.PNG  used on input line 66
+.
+(pdftex.def)             Requested size: 227.62204pt x 55.5523pt.
 )
 No file main.bbl.
 
@@ -5556,48 +5976,47 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[196 <./figures/1174050/1174050/5.PNG> <./figures/1174050/1174050/6.PNG> <./fig
-ures/1174050/1174050/7.PNG>]
+[208]
 No file main.ind.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 314.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 314.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 320.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 320.
 (main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 314.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 314.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 320.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 320.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 411B90B7200E656752389FC93056D5F5;11067.
+(rerunfilecheck)             Checksum: 68ED839F18ED0B7A8681643DCA34DBB5;12036.
 
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 13597 strings out of 492452
- 236331 string characters out of 3120530
- 544587 words of memory out of 3000000
- 13744 multiletter control sequences out of 15000+200000
+ 12829 strings out of 492963
+ 209594 string characters out of 3126357
+ 541184 words of memory out of 3000000
+ 12438 multiletter control sequences out of 15000+200000
  63270 words of font info for 118 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 35i,15n,47p,1042b,1900s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}
-<C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmex10.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmmi10.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/User/AppData/Local/Prog
-rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/User/AppDat
+ 33i,15n,47p,1042b,1904s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Asus/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}
+<C:/Users/Asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmex10.pfb><C:/Users/Asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmmi10.pfb><C:/Users/Asus/AppData/Local/Programs/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Asus/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Asus/AppData/Local/Prog
+rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Asus/AppDat
 a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/
-User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/
-Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvbo8a.p
-fb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uh
-vr8a.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times
-/utmb8a.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/ti
-mes/utmbi8a.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/ur
-w/times/utmr8a.pfb><C:/Users/User/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
+Asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/
+Users/Asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvbo8a.p
+fb><C:/Users/Asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uh
+vr8a.pfb><C:/Users/Asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times
+/utmb8a.pfb><C:/Users/Asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/ti
+mes/utmbi8a.pfb><C:/Users/Asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/ur
+w/times/utmr8a.pfb><C:/Users/Asus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
 /urw/times/utmri8a.pfb>
-Output written on main.pdf (243 pages, 9505774 bytes).
+Output written on main.pdf (257 pages, 10308837 bytes).
 PDF statistics:
- 6508 PDF objects out of 7423 (max. 8388607)
- 3305 named destinations out of 3580 (max. 500000)
- 2756 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6739 PDF objects out of 7423 (max. 8388607)
+ 3380 named destinations out of 3580 (max. 500000)
+ 2908 words of extra memory for PDF output out of 10000 (max. 10000000)
 
