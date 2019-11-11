@@ -119,7 +119,7 @@
 \contentsline {subsection}{\numberline {3.2.2}Link}{141}{subsection.3.2.2}% 
 \contentsline {section}{\numberline {3.3}Irvan Rizkiansyah(1174043)}{141}{section.3.3}% 
 \contentsline {subsection}{\numberline {3.3.1}PySHP}{141}{subsection.3.3.1}% 
-\contentsline {subsection}{\numberline {3.3.2}Link video PySHP - Reader}{145}{subsection.3.3.2}% 
+\contentsline {subsection}{\numberline {3.3.2}Link video PySHP - Reader}{144}{subsection.3.3.2}% 
 \contentsline {section}{\numberline {3.4}Luthfi Muhammad Nabil (1174035)}{145}{section.3.4}% 
 \contentsline {subsection}{\numberline {3.4.1}Membaca File PYSHP}{145}{subsection.3.4.1}% 
 \contentsline {subsection}{\numberline {3.4.2}Link Youtube}{148}{subsection.3.4.2}% 
@@ -150,5 +150,7 @@
 \contentsline {section}{\numberline {4.3}Kevin Natanael Nainggolan(1174059)}{180}{section.4.3}% 
 \contentsline {subsection}{\numberline {4.3.1}Instalasi Map Server}{180}{subsection.4.3.1}% 
 \contentsline {subsection}{\numberline {4.3.2}Link Youtube}{182}{subsection.4.3.2}% 
-\contentsline {schapter}{Daftar Pustaka}{183}{chapter*.15}% 
-\contentsline {schapter}{Index}{185}{chapter*.15}% 
+\contentsline {section}{\numberline {4.4}Irvan Rizkiansyah(1174043)}{182}{section.4.4}% 
+\contentsline {subsection}{\numberline {4.4.1}Instalasi mapserver dan mapproxy}{182}{subsection.4.4.1}% 
+\contentsline {subsection}{\numberline {4.4.2}Link video Instalasi mapserver dan mapproxy}{184}{subsection.4.4.2}% 
+\contentsline {schapter}{Daftar Pustaka}{185}{chapter*.15}% 
