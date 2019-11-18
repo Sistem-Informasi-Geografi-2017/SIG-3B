@@ -153,32 +153,35 @@
 \contentsline {subsection}{\numberline {4.3.3}Link Youtube}{187}{subsection.4.3.3}% 
 \contentsline {section}{\numberline {4.4}Kevin Natanael Nainggolan(1174059)}{187}{section.4.4}% 
 \contentsline {subsection}{\numberline {4.4.1}Instalasi Map Server}{187}{subsection.4.4.1}% 
-\contentsline {subsection}{\numberline {4.4.2}Link Youtube}{188}{subsection.4.4.2}% 
-\contentsline {section}{\numberline {4.5}Faisal Najib Abdullah(1174042)}{188}{section.4.5}% 
-\contentsline {subsection}{\numberline {4.5.1}Menginstalasi File Map Server}{188}{subsection.4.5.1}% 
+\contentsline {subsection}{\numberline {4.4.2}Link Youtube}{189}{subsection.4.4.2}% 
+\contentsline {section}{\numberline {4.5}Faisal Najib Abdullah(1174042)}{189}{section.4.5}% 
+\contentsline {subsection}{\numberline {4.5.1}Menginstalasi File Map Server}{189}{subsection.4.5.1}% 
 \contentsline {subsection}{\numberline {4.5.2}Video Tutorial}{191}{subsection.4.5.2}% 
 \contentsline {section}{\numberline {4.6}Irvan Rizkiansyah(1174043)}{191}{section.4.6}% 
 \contentsline {subsection}{\numberline {4.6.1}Instalasi mapserver dan mapproxy}{191}{subsection.4.6.1}% 
-\contentsline {subsection}{\numberline {4.6.2}Link video Instalasi mapserver dan mapproxy}{193}{subsection.4.6.2}% 
-\contentsline {section}{\numberline {4.7}Dika Sukma Pradana(1174050)}{193}{section.4.7}% 
-\contentsline {subsection}{\numberline {4.7.1}Menginstalasi File Map Server dan Map Proxy}{193}{subsection.4.7.1}% 
-\contentsline {subsection}{\numberline {4.7.2}Video Tutorial}{196}{subsection.4.7.2}% 
-\contentsline {section}{\numberline {4.8}Alit Fajar Kurniawan(1174057)}{197}{section.4.8}% 
-\contentsline {subsection}{\numberline {4.8.1}cara instalasi Map Server dan Map Proxy}{197}{subsection.4.8.1}% 
-\contentsline {subsection}{\numberline {4.8.2}Video Tutorial Install Map server dan Map Proxy}{200}{subsection.4.8.2}% 
-\contentsline {section}{\numberline {4.9}Ichsan Hizman Hardy(1174034)}{201}{section.4.9}% 
-\contentsline {subsection}{\numberline {4.9.1}Menginstalasi File Map Server dan Map Proxy}{201}{subsection.4.9.1}% 
-\contentsline {subsection}{\numberline {4.9.2}Video Tutorial}{204}{subsection.4.9.2}% 
-\contentsline {chapter}{\numberline {5}Tugas Kelima}{205}{chapter.5}% 
-\contentsline {section}{\numberline {5.1}Liyana Majdah Rahma(1174039)}{205}{section.5.1}% 
-\contentsline {subsection}{\numberline {5.1.1}Intalasi Map Proxy}{205}{subsection.5.1.1}% 
-\contentsline {subsection}{\numberline {5.1.2}Konfigurasi}{205}{subsection.5.1.2}% 
-\contentsline {subsection}{\numberline {5.1.3}Pengujian}{206}{subsection.5.1.3}% 
-\contentsline {subsection}{\numberline {5.1.4}Link Youtube}{207}{subsection.5.1.4}% 
-\contentsline {section}{\numberline {5.2}Luthfi Muhammad Nabil(1174035)}{207}{section.5.2}% 
-\contentsline {subsection}{\numberline {5.2.1}Mencoba LeafletJS}{207}{subsection.5.2.1}% 
-\contentsline {subsection}{\numberline {5.2.2}Error Fixing}{212}{subsection.5.2.2}% 
-\contentsline {subsection}{\numberline {5.2.3}Cek Plagiarisme}{214}{subsection.5.2.3}% 
-\contentsline {subsection}{\numberline {5.2.4}Link Youtube}{214}{subsection.5.2.4}% 
-\contentsline {schapter}{Daftar Pustaka}{215}{chapter*.15}% 
-\contentsline {schapter}{Index}{217}{chapter*.15}% 
+\contentsline {subsection}{\numberline {4.6.2}Link video Instalasi mapserver dan mapproxy}{194}{subsection.4.6.2}% 
+\contentsline {section}{\numberline {4.7}Dika Sukma Pradana(1174050)}{194}{section.4.7}% 
+\contentsline {subsection}{\numberline {4.7.1}Menginstalasi File Map Server dan Map Proxy}{194}{subsection.4.7.1}% 
+\contentsline {subsection}{\numberline {4.7.2}Video Tutorial}{197}{subsection.4.7.2}% 
+\contentsline {section}{\numberline {4.8}Alit Fajar Kurniawan(1174057)}{198}{section.4.8}% 
+\contentsline {subsection}{\numberline {4.8.1}cara instalasi Map Server dan Map Proxy}{198}{subsection.4.8.1}% 
+\contentsline {subsection}{\numberline {4.8.2}Video Tutorial Install Map server dan Map Proxy}{201}{subsection.4.8.2}% 
+\contentsline {section}{\numberline {4.9}Ichsan Hizman Hardy(1174034)}{202}{section.4.9}% 
+\contentsline {subsection}{\numberline {4.9.1}Menginstalasi File Map Server dan Map Proxy}{202}{subsection.4.9.1}% 
+\contentsline {subsection}{\numberline {4.9.2}Video Tutorial}{205}{subsection.4.9.2}% 
+\contentsline {chapter}{\numberline {5}Tugas Kelima}{207}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Liyana Majdah Rahma(1174039)}{207}{section.5.1}% 
+\contentsline {subsection}{\numberline {5.1.1}Intalasi Map Proxy}{207}{subsection.5.1.1}% 
+\contentsline {subsection}{\numberline {5.1.2}Konfigurasi}{207}{subsection.5.1.2}% 
+\contentsline {subsection}{\numberline {5.1.3}Pengujian}{208}{subsection.5.1.3}% 
+\contentsline {subsection}{\numberline {5.1.4}Link Youtube}{209}{subsection.5.1.4}% 
+\contentsline {section}{\numberline {5.2}Luthfi Muhammad Nabil(1174035)}{209}{section.5.2}% 
+\contentsline {subsection}{\numberline {5.2.1}Mencoba LeafletJS}{209}{subsection.5.2.1}% 
+\contentsline {subsection}{\numberline {5.2.2}Error Fixing}{214}{subsection.5.2.2}% 
+\contentsline {subsection}{\numberline {5.2.3}Cek Plagiarisme}{216}{subsection.5.2.3}% 
+\contentsline {subsection}{\numberline {5.2.4}Link Youtube}{216}{subsection.5.2.4}% 
+\contentsline {section}{\numberline {5.3}Hagan Rowlenstino A. S(1174040)}{216}{section.5.3}% 
+\contentsline {subsection}{\numberline {5.3.1}Menggunakan LeafletJS dengan MapProxy}{216}{subsection.5.3.1}% 
+\contentsline {subsection}{\numberline {5.3.2}Link Youtube}{219}{subsection.5.3.2}% 
+\contentsline {schapter}{Daftar Pustaka}{221}{chapter*.15}% 
+\contentsline {schapter}{Index}{223}{chapter*.15}% 
