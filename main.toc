@@ -119,7 +119,7 @@
 \contentsline {subsection}{\numberline {3.2.2}Link}{141}{subsection.3.2.2}% 
 \contentsline {section}{\numberline {3.3}Irvan Rizkiansyah(1174043)}{141}{section.3.3}% 
 \contentsline {subsection}{\numberline {3.3.1}PySHP}{141}{subsection.3.3.1}% 
-\contentsline {subsection}{\numberline {3.3.2}Link video PySHP - Reader}{145}{subsection.3.3.2}% 
+\contentsline {subsection}{\numberline {3.3.2}Link video PySHP - Reader}{144}{subsection.3.3.2}% 
 \contentsline {section}{\numberline {3.4}Luthfi Muhammad Nabil (1174035)}{145}{section.3.4}% 
 \contentsline {subsection}{\numberline {3.4.1}Membaca File PYSHP}{145}{subsection.3.4.1}% 
 \contentsline {subsection}{\numberline {3.4.2}Link Youtube}{148}{subsection.3.4.2}% 
@@ -183,5 +183,8 @@
 \contentsline {section}{\numberline {5.3}Hagan Rowlenstino A. S(1174040)}{216}{section.5.3}% 
 \contentsline {subsection}{\numberline {5.3.1}Menggunakan LeafletJS dengan MapProxy}{216}{subsection.5.3.1}% 
 \contentsline {subsection}{\numberline {5.3.2}Link Youtube}{219}{subsection.5.3.2}% 
-\contentsline {schapter}{Daftar Pustaka}{221}{chapter*.15}% 
-\contentsline {schapter}{Index}{223}{chapter*.15}% 
+\contentsline {section}{\numberline {5.4}Dika Sukma Pradana(1174050)}{219}{section.5.4}% 
+\contentsline {subsection}{\numberline {5.4.1}LeafletJs bersama Map Proxy}{219}{subsection.5.4.1}% 
+\contentsline {subsection}{\numberline {5.4.2}Link Youtube}{223}{subsection.5.4.2}% 
+\contentsline {schapter}{Daftar Pustaka}{225}{chapter*.15}% 
+\contentsline {schapter}{Index}{227}{chapter*.15}% 
