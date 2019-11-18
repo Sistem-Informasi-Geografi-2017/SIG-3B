@@ -1,0 +1,179 @@
+\contentsline {schapter}{Daftar Gambar}{xv}{chapter*.4}% 
+\contentsline {schapter}{Daftar Tabel}{xxix}{chapter*.5}% 
+\contentsline {schapter}{Foreword}{xxxvii}{chapter*.7}% 
+\contentsline {schapter}{Kata Pengantar}{xxxix}{chapter*.8}% 
+\contentsline {schapter}{Acknowledgments}{xli}{chapter*.9}% 
+\contentsline {schapter}{Acronyms}{xliii}{chapter*.10}% 
+\contentsline {schapter}{Glossary}{xlv}{chapter*.11}% 
+\contentsline {schapter}{List of Symbols}{xlvii}{chapter*.12}% 
+\contentsline {schapter}{Introduction}{xlix}{chapter*.13}% 
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xlix}{chapter*.13}% 
+\contentsline {chapter}{\numberline {1}Tugas Pertama}{1}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}NAMA (NPM)}{1}{section.1.1}% 
+\contentsline {subsection}{\numberline {1.1.1}Pengertian}{1}{subsection.1.1.1}% 
+\contentsline {subsection}{\numberline {1.1.2}Sejarah}{1}{subsection.1.1.2}% 
+\contentsline {subsection}{\numberline {1.1.3}Koordinat}{1}{subsection.1.1.3}% 
+\contentsline {subsection}{\numberline {1.1.4}Data Geospasial}{1}{subsection.1.1.4}% 
+\contentsline {subsection}{\numberline {1.1.5}Link}{1}{subsection.1.1.5}% 
+\contentsline {subsection}{\numberline {1.1.6}Plagiarism}{1}{subsection.1.1.6}% 
+\contentsline {subsection}{\numberline {1.1.7}Cara Penggunaan}{1}{subsection.1.1.7}% 
+\contentsline {subsubsection}{\numberline {1.1.7.1}Gambar}{1}{subsubsection.1.1.7.1}% 
+\contentsline {subsubsection}{\numberline {1.1.7.2}List}{2}{subsubsection.1.1.7.2}% 
+\contentsline {section}{\numberline {1.2}Liyana Majdah Rahma(1174039)}{2}{section.1.2}% 
+\contentsline {subsection}{\numberline {1.2.1}Pengertian}{2}{subsection.1.2.1}% 
+\contentsline {subsection}{\numberline {1.2.2}Sejarah}{2}{subsection.1.2.2}% 
+\contentsline {subsection}{\numberline {1.2.3}Koordinat}{2}{subsection.1.2.3}% 
+\contentsline {subsection}{\numberline {1.2.4}Data Geospasial}{2}{subsection.1.2.4}% 
+\contentsline {subsection}{\numberline {1.2.5}Link}{3}{subsection.1.2.5}% 
+\contentsline {subsection}{\numberline {1.2.6}Plagiarism}{3}{subsection.1.2.6}% 
+\contentsline {section}{\numberline {1.3}FaisalNajibAbdullah(1174042)}{3}{section.1.3}% 
+\contentsline {subsection}{\numberline {1.3.1}Sejarah}{3}{subsection.1.3.1}% 
+\contentsline {subsection}{\numberline {1.3.2}Link}{4}{subsection.1.3.2}% 
+\contentsline {subsection}{\numberline {1.3.3}Plagiarism}{4}{subsection.1.3.3}% 
+\contentsline {section}{\numberline {1.4}Alit fajar Kurniawan (1174057)}{4}{section.1.4}% 
+\contentsline {subsection}{\numberline {1.4.1}Pengertian}{4}{subsection.1.4.1}% 
+\contentsline {subsection}{\numberline {1.4.2}Sejarah}{5}{subsection.1.4.2}% 
+\contentsline {subsection}{\numberline {1.4.3}Link}{6}{subsection.1.4.3}% 
+\contentsline {subsection}{\numberline {1.4.4}Plagiarism}{6}{subsection.1.4.4}% 
+\contentsline {section}{\numberline {1.5}Luthfi Muhammad Nabil (1174035)}{6}{section.1.5}% 
+\contentsline {subsection}{\numberline {1.5.1}Data Geospasial}{6}{subsection.1.5.1}% 
+\contentsline {subsection}{\numberline {1.5.2}Link}{7}{subsection.1.5.2}% 
+\contentsline {subsection}{\numberline {1.5.3}Plagiarism}{8}{subsection.1.5.3}% 
+\contentsline {section}{\numberline {1.6}Hagan Rowlenstino A. S (1174040)}{8}{section.1.6}% 
+\contentsline {subsection}{\numberline {1.6.1}Pengertian}{8}{subsection.1.6.1}% 
+\contentsline {subsection}{\numberline {1.6.2}Link}{9}{subsection.1.6.2}% 
+\contentsline {subsection}{\numberline {1.6.3}Plagiarism}{9}{subsection.1.6.3}% 
+\contentsline {section}{\numberline {1.7}IrvanRizkiasyah - 1174043}{9}{section.1.7}% 
+\contentsline {subsection}{\numberline {1.7.1}Data Geospasial}{9}{subsection.1.7.1}% 
+\contentsline {subsection}{\numberline {1.7.2}Link video Data Geospasial}{10}{subsection.1.7.2}% 
+\contentsline {subsection}{\numberline {1.7.3}Plagiarism}{11}{subsection.1.7.3}% 
+\contentsline {section}{\numberline {1.8}Dika Sukma Pradana(1174050)}{11}{section.1.8}% 
+\contentsline {subsection}{\numberline {1.8.1}Koordinat}{11}{subsection.1.8.1}% 
+\contentsline {subsection}{\numberline {1.8.2}Link}{11}{subsection.1.8.2}% 
+\contentsline {subsection}{\numberline {1.8.3}Plagiarism}{12}{subsection.1.8.3}% 
+\contentsline {section}{\numberline {1.9}MuhammadIqbalPanggabean(1174063)}{12}{section.1.9}% 
+\contentsline {subsection}{\numberline {1.9.1}Koordinat}{12}{subsection.1.9.1}% 
+\contentsline {subsection}{\numberline {1.9.2}Link}{13}{subsection.1.9.2}% 
+\contentsline {subsection}{\numberline {1.9.3}Plagiarism}{13}{subsection.1.9.3}% 
+\contentsline {section}{\numberline {1.10}Kevin Natanel Nainggolan(1174059)}{13}{section.1.10}% 
+\contentsline {subsection}{\numberline {1.10.1}Data Geospasial}{13}{subsection.1.10.1}% 
+\contentsline {subsubsection}{\numberline {1.10.1.1}Tipe Data Vektor}{13}{subsubsection.1.10.1.1}% 
+\contentsline {subsubsection}{\numberline {1.10.1.2}Tipe Data Line}{14}{subsubsection.1.10.1.2}% 
+\contentsline {subsubsection}{\numberline {1.10.1.3}Raster}{14}{subsubsection.1.10.1.3}% 
+\contentsline {subsection}{\numberline {1.10.2}Link}{14}{subsection.1.10.2}% 
+\contentsline {subsection}{\numberline {1.10.3}Plagiarism}{14}{subsection.1.10.3}% 
+\contentsline {section}{\numberline {1.11}Teddy Gideon Manik(1174038)}{14}{section.1.11}% 
+\contentsline {subsection}{\numberline {1.11.1}Koordinat}{14}{subsection.1.11.1}% 
+\contentsline {subsection}{\numberline {1.11.2}Link}{15}{subsection.1.11.2}% 
+\contentsline {subsection}{\numberline {1.11.3}Plagiarism}{15}{subsection.1.11.3}% 
+\contentsline {section}{\numberline {1.12}Ichsan Hizman Hardy(1174034)}{15}{section.1.12}% 
+\contentsline {subsection}{\numberline {1.12.1}Koordinat}{15}{subsection.1.12.1}% 
+\contentsline {subsection}{\numberline {1.12.2}Link}{16}{subsection.1.12.2}% 
+\contentsline {subsection}{\numberline {1.12.3}Plagiarism}{16}{subsection.1.12.3}% 
+\contentsline {chapter}{\numberline {2}Tugas Kedua}{17}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Faisal Najib Abdullah(1174042)}{17}{section.2.1}% 
+\contentsline {subsection}{\numberline {2.1.1}Point Polyline dan Polygon}{17}{subsection.2.1.1}% 
+\contentsline {subsection}{\numberline {2.1.2}Link}{27}{subsection.2.1.2}% 
+\contentsline {section}{\numberline {2.2}Hagan Rowlenstino A.S(1174040)}{27}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.2.1}Point Polyline dan Polygon}{27}{subsection.2.2.1}% 
+\contentsline {subsection}{\numberline {2.2.2}Link}{36}{subsection.2.2.2}% 
+\contentsline {section}{\numberline {2.3}Liyana Majdah Rahma(1174039)}{37}{section.2.3}% 
+\contentsline {subsection}{\numberline {2.3.1}Point Polyline dan Polygon}{37}{subsection.2.3.1}% 
+\contentsline {subsection}{\numberline {2.3.2}Link}{45}{subsection.2.3.2}% 
+\contentsline {section}{\numberline {2.4}Irvan Rizkiansyah(1174043)}{45}{section.2.4}% 
+\contentsline {subsection}{\numberline {2.4.1}PySHP}{45}{subsection.2.4.1}% 
+\contentsline {subsection}{\numberline {2.4.2}Link video PySHP - QGIS}{56}{subsection.2.4.2}% 
+\contentsline {section}{\numberline {2.5}Luthfi Muhammad Nabil (1174035)}{56}{section.2.5}% 
+\contentsline {subsection}{\numberline {2.5.1}Point Poly}{56}{subsection.2.5.1}% 
+\contentsline {subsection}{\numberline {2.5.2}Link Youtube}{63}{subsection.2.5.2}% 
+\contentsline {section}{\numberline {2.6}Dika Sukma Pradana(1174050)}{63}{section.2.6}% 
+\contentsline {subsection}{\numberline {2.6.1}Point Polyline dan Polygon}{63}{subsection.2.6.1}% 
+\contentsline {subsection}{\numberline {2.6.2}Link}{73}{subsection.2.6.2}% 
+\contentsline {section}{\numberline {2.7}Kevin Natanel Nainggolan(1174059)}{73}{section.2.7}% 
+\contentsline {subsection}{\numberline {2.7.1}Point Polyline dan Polygon}{73}{subsection.2.7.1}% 
+\contentsline {subsection}{\numberline {2.7.2}Plagiarisme}{82}{subsection.2.7.2}% 
+\contentsline {subsection}{\numberline {2.7.3}Link}{82}{subsection.2.7.3}% 
+\contentsline {section}{\numberline {2.8}Teedy Gideon Manik(1174038)}{83}{section.2.8}% 
+\contentsline {subsection}{\numberline {2.8.1}Point Polyline dan Polygon}{83}{subsection.2.8.1}% 
+\contentsline {subsection}{\numberline {2.8.2}Link}{92}{subsection.2.8.2}% 
+\contentsline {section}{\numberline {2.9}RanggaPutraRamdhani(1174056)}{92}{section.2.9}% 
+\contentsline {subsection}{\numberline {2.9.1}Point Polyline dan Polygon}{92}{subsection.2.9.1}% 
+\contentsline {subsection}{\numberline {2.9.2}Link}{101}{subsection.2.9.2}% 
+\contentsline {section}{\numberline {2.10}Alit Fajar Kurniawan (1174057)}{101}{section.2.10}% 
+\contentsline {subsection}{\numberline {2.10.1}Penjelasan Shapefile dengan PySHP}{101}{subsection.2.10.1}% 
+\contentsline {subsection}{\numberline {2.10.2}Berikut tahapan membuat shapefile dengan pyshp}{102}{subsection.2.10.2}% 
+\contentsline {subsection}{\numberline {2.10.3}Link}{111}{subsection.2.10.3}% 
+\contentsline {subsection}{\numberline {2.10.4}Plagiarism}{112}{subsection.2.10.4}% 
+\contentsline {section}{\numberline {2.11}Ichsan Hizman Hardy(1174034)}{112}{section.2.11}% 
+\contentsline {subsection}{\numberline {2.11.1}Point Polyline dan Polygon}{112}{subsection.2.11.1}% 
+\contentsline {subsection}{\numberline {2.11.2}Link}{121}{subsection.2.11.2}% 
+\contentsline {section}{\numberline {2.12}MuhammadIqbalPanggabean(1174063)}{121}{section.2.12}% 
+\contentsline {subsection}{\numberline {2.12.1}Point Polyline dan Polygon}{121}{subsection.2.12.1}% 
+\contentsline {subsection}{\numberline {2.12.2}Link}{131}{subsection.2.12.2}% 
+\contentsline {chapter}{\numberline {3}Tugas Ketiga}{133}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Faisal Najib Abdullah}{133}{section.3.1}% 
+\contentsline {subsection}{\numberline {3.1.1}Membaca File SHP}{133}{subsection.3.1.1}% 
+\contentsline {subsection}{\numberline {3.1.2}Link}{137}{subsection.3.1.2}% 
+\contentsline {section}{\numberline {3.2}Liyana Majdah Rahma(1174039)}{138}{section.3.2}% 
+\contentsline {subsection}{\numberline {3.2.1}Membaca ShapeFile Pyshp}{138}{subsection.3.2.1}% 
+\contentsline {subsection}{\numberline {3.2.2}Link}{141}{subsection.3.2.2}% 
+\contentsline {section}{\numberline {3.3}Irvan Rizkiansyah(1174043)}{141}{section.3.3}% 
+\contentsline {subsection}{\numberline {3.3.1}PySHP}{141}{subsection.3.3.1}% 
+\contentsline {subsection}{\numberline {3.3.2}Link video PySHP - Reader}{145}{subsection.3.3.2}% 
+\contentsline {section}{\numberline {3.4}Luthfi Muhammad Nabil (1174035)}{145}{section.3.4}% 
+\contentsline {subsection}{\numberline {3.4.1}Membaca File PYSHP}{145}{subsection.3.4.1}% 
+\contentsline {subsection}{\numberline {3.4.2}Link Youtube}{148}{subsection.3.4.2}% 
+\contentsline {section}{\numberline {3.5}Hagan Rowlenstino A.S(1174040)}{148}{section.3.5}% 
+\contentsline {subsection}{\numberline {3.5.1}Point Polyline dan Polygon}{148}{subsection.3.5.1}% 
+\contentsline {subsection}{\numberline {3.5.2}Link}{151}{subsection.3.5.2}% 
+\contentsline {section}{\numberline {3.6}Alit Fajar Kurniawan (1174057)}{151}{section.3.6}% 
+\contentsline {subsection}{\numberline {3.6.1}Membaca file shp dengan pyshp}{151}{subsection.3.6.1}% 
+\contentsline {subsection}{\numberline {3.6.2}Link}{157}{subsection.3.6.2}% 
+\contentsline {section}{\numberline {3.7}Dika Sukma Pradana 1174050)}{157}{section.3.7}% 
+\contentsline {subsection}{\numberline {3.7.1}Membaca File PYSHP}{157}{subsection.3.7.1}% 
+\contentsline {subsection}{\numberline {3.7.2}Link Youtube}{161}{subsection.3.7.2}% 
+\contentsline {section}{\numberline {3.8}Ichsan Hizman Hardy(1174034)}{162}{section.3.8}% 
+\contentsline {subsection}{\numberline {3.8.1}Membaca File PYSHP}{162}{subsection.3.8.1}% 
+\contentsline {subsection}{\numberline {3.8.2}Link}{165}{subsection.3.8.2}% 
+\contentsline {chapter}{\numberline {4}Tugas Keempat}{167}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Luthfi Muhammad Nabil(1174035)}{167}{section.4.1}% 
+\contentsline {subsection}{\numberline {4.1.1}Menginstalasi File Map Server}{167}{subsection.4.1.1}% 
+\contentsline {subsection}{\numberline {4.1.2}Mengkonfigurasi MapProxy}{170}{subsection.4.1.2}% 
+\contentsline {subsection}{\numberline {4.1.3}Mencoba Memakai File yaml}{171}{subsection.4.1.3}% 
+\contentsline {subsection}{\numberline {4.1.4}Video Tutorial}{174}{subsection.4.1.4}% 
+\contentsline {subsection}{\numberline {4.1.5}Plagiarism Check}{174}{subsection.4.1.5}% 
+\contentsline {section}{\numberline {4.2}Liyana Majdah Rahma(1174039)}{175}{section.4.2}% 
+\contentsline {subsection}{\numberline {4.2.1}Instalasi Map Server}{175}{subsection.4.2.1}% 
+\contentsline {subsection}{\numberline {4.2.2}Konfigurasi Map Server}{175}{subsection.4.2.2}% 
+\contentsline {subsection}{\numberline {4.2.3}Pengujian}{177}{subsection.4.2.3}% 
+\contentsline {subsection}{\numberline {4.2.4}Link Youtube}{180}{subsection.4.2.4}% 
+\contentsline {section}{\numberline {4.3}Hagan Rowlenstino A. S(1174040)}{180}{section.4.3}% 
+\contentsline {subsection}{\numberline {4.3.1}Instalasi Map Server}{180}{subsection.4.3.1}% 
+\contentsline {subsection}{\numberline {4.3.2}Instalasi Map Proxy}{184}{subsection.4.3.2}% 
+\contentsline {subsection}{\numberline {4.3.3}Link Youtube}{187}{subsection.4.3.3}% 
+\contentsline {section}{\numberline {4.4}Kevin Natanael Nainggolan(1174059)}{187}{section.4.4}% 
+\contentsline {subsection}{\numberline {4.4.1}Instalasi Map Server}{187}{subsection.4.4.1}% 
+\contentsline {subsection}{\numberline {4.4.2}Link Youtube}{188}{subsection.4.4.2}% 
+\contentsline {section}{\numberline {4.5}Faisal Najib Abdullah(1174042)}{188}{section.4.5}% 
+\contentsline {subsection}{\numberline {4.5.1}Menginstalasi File Map Server}{188}{subsection.4.5.1}% 
+\contentsline {subsection}{\numberline {4.5.2}Video Tutorial}{191}{subsection.4.5.2}% 
+\contentsline {section}{\numberline {4.6}Irvan Rizkiansyah(1174043)}{191}{section.4.6}% 
+\contentsline {subsection}{\numberline {4.6.1}Instalasi mapserver dan mapproxy}{191}{subsection.4.6.1}% 
+\contentsline {subsection}{\numberline {4.6.2}Link video Instalasi mapserver dan mapproxy}{193}{subsection.4.6.2}% 
+\contentsline {section}{\numberline {4.7}Dika Sukma Pradana(1174050)}{193}{section.4.7}% 
+\contentsline {subsection}{\numberline {4.7.1}Menginstalasi File Map Server dan Map Proxy}{193}{subsection.4.7.1}% 
+\contentsline {subsection}{\numberline {4.7.2}Video Tutorial}{196}{subsection.4.7.2}% 
+\contentsline {section}{\numberline {4.8}Alit Fajar Kurniawan(1174057)}{197}{section.4.8}% 
+\contentsline {subsection}{\numberline {4.8.1}cara instalasi Map Server dan Map Proxy}{197}{subsection.4.8.1}% 
+\contentsline {subsection}{\numberline {4.8.2}Video Tutorial Install Map server dan Map Proxy}{200}{subsection.4.8.2}% 
+\contentsline {section}{\numberline {4.9}Ichsan Hizman Hardy(1174034)}{201}{section.4.9}% 
+\contentsline {subsection}{\numberline {4.9.1}Menginstalasi File Map Server dan Map Proxy}{201}{subsection.4.9.1}% 
+\contentsline {subsection}{\numberline {4.9.2}Video Tutorial}{204}{subsection.4.9.2}% 
+\contentsline {chapter}{\numberline {5}Tugas Kelima}{205}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}Liyana Majdah Rahma(1174039)}{205}{section.5.1}% 
+\contentsline {subsection}{\numberline {5.1.1}Intalasi Map Proxy}{205}{subsection.5.1.1}% 
+\contentsline {subsection}{\numberline {5.1.2}Konfigurasi}{205}{subsection.5.1.2}% 
+\contentsline {subsection}{\numberline {5.1.3}Pengujian}{206}{subsection.5.1.3}% 
+\contentsline {subsection}{\numberline {5.1.4}Link Youtube}{207}{subsection.5.1.4}% 
+\contentsline {schapter}{Daftar Pustaka}{209}{chapter*.15}% 
+\contentsline {schapter}{Index}{211}{chapter*.15}% 
